@@ -381,6 +381,9 @@ def process_region(
     *,
     set_limit: bool,
 ) -> str | None:
+    debug_dir = Path(args.output_dir).resolve() / "_debug"
+    if args.debug_dump:
+        debug_dir.mkdir(parents=True, exist_ok=True)
     _ensure_multicast_list(page, args)
     page.wait_for_timeout(150)
     if set_limit:
@@ -447,19 +450,25 @@ def process_region(
     page.goto(detail_url, wait_until="domcontentloaded", timeout=args.timeout_ms)
     page.wait_for_timeout(800)
     html = page.content()
+    if args.debug_dump:
+        (debug_dir / f"{slug}_detail_before.html").write_text(html, encoding="utf-8", errors="ignore")
     # 若被 iptv 站点拦截，先做一次域名验证后重试详情页
     if ("验证失败" in html) or ("请求失败" in html):
         _ensure_iptv_verified(page, args)
         page.goto(detail_url, wait_until="domcontentloaded", timeout=args.timeout_ms)
         page.wait_for_timeout(900)
         html = page.content()
+        if args.debug_dump:
+            (debug_dir / f"{slug}_detail_retry.html").write_text(html, encoding="utf-8", errors="ignore")
 
     # 捕获点击后的网络响应（有些页面把频道数据放在 XHR，不直接渲染到 DOM）
     net_payloads: list[str] = []
+    net_urls: list[str] = []
 
     def _on_response(resp):
         try:
             u = resp.url.lower()
+            net_urls.append(resp.url)
             if (
                 "admin-ajax.php" in u
                 or "iptv.cqshushu.com/index.php" in u
@@ -488,6 +497,10 @@ def process_region(
             continue
     page.wait_for_timeout(500)
     page.remove_listener("response", _on_response)
+    if args.debug_dump:
+        (debug_dir / f"{slug}_channel_page.html").write_text(page.content(), encoding="utf-8", errors="ignore")
+        if net_urls:
+            (debug_dir / f"{slug}_net_urls.txt").write_text("\n".join(net_urls[:200]), encoding="utf-8")
 
     m3u_url = _find_m3u_download_url(html, page.url)
     pairs: list[tuple[str, str]] | None = None
@@ -575,6 +588,7 @@ def main() -> int:
     ap.add_argument("--regions", default="", help="Comma province codes, e.g. hb,sc (default: all)")
     ap.add_argument("--stop-on-consecutive-fail", type=int, default=4)
     ap.add_argument("--max-region-pages", type=int, default=4, help="Max pages to scan per region for 新上线 rows")
+    ap.add_argument("--debug-dump", action="store_true", help="Dump debug html/network files under _debug/")
     ap.add_argument(
         "--include-overseas",
         action="store_true",
