@@ -16,6 +16,8 @@ jobs:
   update:
     runs-on: ubuntu-latest
     timeout-minutes: 90
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
     steps:
       - name: Checkout
         uses: actions/checkout@v5
@@ -43,13 +45,14 @@ jobs:
           playwright install chromium --with-deps
 
       - name: Run scraper
+        continue-on-error: true
         env:
           GITHUB_WORKSPACE: ${{ github.workspace }}
         run: python scripts/update_multicast_m3u.py --output-dir "${{ github.workspace }}" --probe-timeout-ms 6000 --test-top-n 4 --stop-on-consecutive-fail 4 --debug-dump
 
       - name: Upload debug artifacts
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: crawler-debug
           path: _debug/**
