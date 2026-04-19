@@ -45,7 +45,7 @@ jobs:
       - name: Run scraper
         env:
           GITHUB_WORKSPACE: ${{ github.workspace }}
-        run: python scripts/update_multicast_m3u.py --output-dir "${{ github.workspace }}"
+        run: python scripts/update_multicast_m3u.py --output-dir "${{ github.workspace }}" --probe-timeout-ms 6000 --test-top-n 4 --stop-on-consecutive-fail 4
 
       - name: Commit and push if changed
         run: |

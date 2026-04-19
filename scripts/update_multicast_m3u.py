@@ -17,7 +17,7 @@ from dataclasses import dataclass
 from datetime import datetime
 from pathlib import Path
 from typing import Iterable
-from urllib.parse import urljoin, urlparse
+from urllib.parse import urljoin, urlparse, urlsplit
 
 from playwright.sync_api import sync_playwright
 
@@ -35,6 +35,26 @@ _CHROMIUM_ARGS = [
     "--no-sandbox",
     "--disable-setuid-sandbox",
 ]
+
+_ALLOWED_HOSTS = {
+    "iptv.cqshushu.com",
+    "cdnjs.cloudflare.com",
+    "static.cloudflareinsights.com",
+}
+
+
+class SiteBlockedError(RuntimeError):
+    """Raised when anti-bot blocks list interactions."""
+
+
+def _route_filter(route):
+    req = route.request
+    host = (urlsplit(req.url).hostname or "").lower()
+    if host and host not in _ALLOWED_HOSTS:
+        return route.abort()
+    if req.resource_type in {"image", "media", "font"}:
+        return route.abort()
+    return route.continue_()
 
 # 站点里明确境外地区，默认不跑（与「国内」批处理一致）
 OVERSEAS_REGION_CODES = frozenset({"vn", "ru"})
@@ -254,7 +274,7 @@ def _ensure_multicast_list(page, args) -> bool:
             f"[skip] multicast list missing #provinceSelect ({e!s}); url={page.url!r}",
             file=sys.stderr,
         )
-        return False
+        raise SiteBlockedError("multicast list blocked")
     page.wait_for_timeout(400)
     return True
 
@@ -281,9 +301,7 @@ def process_region(
     *,
     set_limit: bool,
 ) -> str | None:
-    if not _ensure_multicast_list(page, args):
-        print(f"[skip] {region_zh}: cannot open multicast list", file=sys.stderr)
-        return None
+    _ensure_multicast_list(page, args)
     page.wait_for_timeout(200)
     if set_limit:
         try:
@@ -292,10 +310,10 @@ def process_region(
         except Exception:
             pass
     try:
-        page.locator("#provinceSelect").select_option(code, timeout=45000)
+        page.locator("#provinceSelect").select_option(code, timeout=12000)
     except Exception as e:
         print(f"[skip] {region_zh}: province select failed: {e!s}", file=sys.stderr)
-        return None
+        raise SiteBlockedError(f"province select blocked: {region_zh}")
     page.wait_for_timeout(700)
     try:
         page.wait_for_selector(
@@ -390,6 +408,7 @@ def main() -> int:
     ap.add_argument("--per-page", type=int, default=10, help="Rows per page (site select limit)")
     ap.add_argument("--test-top-n", type=int, default=8, help="How many m3u8 URLs to probe")
     ap.add_argument("--regions", default="", help="Comma province codes, e.g. hb,sc (default: all)")
+    ap.add_argument("--stop-on-consecutive-fail", type=int, default=4)
     ap.add_argument(
         "--include-overseas",
         action="store_true",
@@ -429,6 +448,8 @@ def main() -> int:
         )
         context.add_init_script(_STEALTH_INIT)
         page = context.new_page()
+        context.route("**/*", _route_filter)
+        consecutive_fail = 0
         for i, (code, zh, slug) in enumerate(regions):
             path = out_dir / f"{slug}4K.m3u"
             try:
@@ -444,9 +465,22 @@ def main() -> int:
                 if text:
                     path.write_text(text, encoding="utf-8")
                     print(f"[ok] {path.name} ({zh})")
-                time.sleep(0.35)
+                    consecutive_fail = 0
+                else:
+                    consecutive_fail += 1
+                time.sleep(0.25)
+            except SiteBlockedError as e:
+                consecutive_fail += 1
+                print(f"[warn] blocked signal: {e}", file=sys.stderr)
             except Exception as e:
+                consecutive_fail += 1
                 print(f"[err] {zh}: {e}", file=sys.stderr)
+            if consecutive_fail >= args.stop_on_consecutive_fail:
+                print(
+                    f"[abort] consecutive failures reached {consecutive_fail}; stop early to avoid wasting CI time",
+                    file=sys.stderr,
+                )
+                break
         browser.close()
     return 0
 
