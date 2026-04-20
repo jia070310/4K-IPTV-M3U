@@ -6,7 +6,7 @@
 
 一款pc端直播播放器  [https://github.com/jia070310/lemonIPTV-windows](https://github.com/jia070310/lemonIPTV-windows)
 
-
+![image](https://github.com/jia070310/4K-IPTV-M3U/blob/main/tv.png)
 # RTP 自动更新工具
 
 该仓库使用 `rtp/b.py` 按省份模板自动搜集可用 `udpxy` 节点，并生成：
