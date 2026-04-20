@@ -1,0 +1,1114 @@
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
+#EXTINF:-1 tvg-id="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",北京卫视4K
+http://home.yulei.online:9999/rtp/226.0.2.155:9172
+#EXTINF:-1 tvg-id="东方卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",东方卫视4K
+http://home.yulei.online:9999/rtp/226.0.1.248:2121
+#EXTINF:-1 tvg-id="广东卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",广东卫视4K
+http://home.yulei.online:9999/rtp/226.0.1.245:2120
+#EXTINF:-1 tvg-id="深圳卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",深圳卫视4K
+http://home.yulei.online:9999/rtp/226.0.1.244:2119
+#EXTINF:-1 tvg-id="湖南卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",湖南卫视4K
+http://home.yulei.online:9999/rtp/226.0.1.246:2125
+#EXTINF:-1 tvg-id="山东卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山东卫视4K
+http://home.yulei.online:9999/rtp/226.0.1.251:2124
+#EXTINF:-1 tvg-id="四川卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",四川卫视4K
+http://home.yulei.online:9999/rtp/226.0.1.250:2126
+#EXTINF:-1 tvg-id="浙江卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",浙江卫视4K
+http://home.yulei.online:9999/rtp/226.0.1.247:2123
+#EXTINF:-1 tvg-id="江苏卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",江苏卫视4K
+http://home.yulei.online:9999/rtp/226.0.1.249:2122
+#EXTINF:-1 tvg-id="CCTV1HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV1HD
+http://home.yulei.online:9999/rtp/226.0.2.153:9136
+#EXTINF:-1 tvg-id="CCTV2HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV2HD
+http://home.yulei.online:9999/rtp/226.0.2.154:9144
+#EXTINF:-1 tvg-id="CCTV3HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV3HD
+http://home.yulei.online:9999/rtp/226.0.2.208:9576
+#EXTINF:-1 tvg-id="CCTV4HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV4HD
+http://home.yulei.online:9999/rtp/226.0.2.156:9160
+#EXTINF:-1 tvg-id="CCTV5HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV5HD
+http://home.yulei.online:9999/rtp/226.0.2.209:9584
+#EXTINF:-1 tvg-id="CCTV5+HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV5+HD
+http://home.yulei.online:9999/rtp/226.0.2.168:9256
+#EXTINF:-1 tvg-id="CCTV6HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV6HD
+http://home.yulei.online:9999/rtp/226.0.2.210:9592
+#EXTINF:-1 tvg-id="CCTV7HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV7HD
+http://home.yulei.online:9999/rtp/226.0.2.159:9184
+#EXTINF:-1 tvg-id="CCTV8HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV8HD
+http://home.yulei.online:9999/rtp/226.0.2.211:9600
+#EXTINF:-1 tvg-id="CCTV9HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV9HD
+http://home.yulei.online:9999/rtp/226.0.2.161:9200
+#EXTINF:-1 tvg-id="CCTV10HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV10HD
+http://home.yulei.online:9999/rtp/226.0.2.162:9208
+#EXTINF:-1 tvg-id="CCTV12HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV12HD
+http://home.yulei.online:9999/rtp/226.0.2.164:9224
+#EXTINF:-1 tvg-id="CCTV13HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV13HD
+http://home.yulei.online:9999/rtp/226.0.2.165:9232
+#EXTINF:-1 tvg-id="CCTV14HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV14HD
+http://home.yulei.online:9999/rtp/226.0.2.166:9240
+#EXTINF:-1 tvg-id="CCTV16HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV16HD
+http://home.yulei.online:9999/rtp/226.0.2.169:9264
+#EXTINF:-1 tvg-id="CCTV17HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV17HD
+http://home.yulei.online:9999/rtp/226.0.2.170:9272
+#EXTINF:-1 tvg-id="CETV1HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CETV1HD
+http://home.yulei.online:9999/rtp/226.0.2.181:9360
+#EXTINF:-1 tvg-id="CETV早期教育HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CETV早期教育HD
+http://home.yulei.online:9999/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="CHC影迷电影HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CHC影迷电影HD
+http://home.yulei.online:9999/rtp/226.0.2.93:8004
+#EXTINF:-1 tvg-id="CHC家庭影院HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CHC家庭影院HD
+http://home.yulei.online:9999/rtp/226.0.2.240:9820
+#EXTINF:-1 tvg-id="CHC动作电影HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CHC动作电影HD
+http://home.yulei.online:9999/rtp/226.0.2.94:8012
+#EXTINF:-1 tvg-id="山西文体生活HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山西文体生活HD
+http://home.yulei.online:9999/rtp/226.0.2.16:8040
+#EXTINF:-1 tvg-id="山西文体生活HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山西文体生活HD
+http://home.yulei.online:9999/rtp/226.0.2.237:9808
+#EXTINF:-1 tvg-id="山西社会与法治HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山西社会与法治HD
+http://home.yulei.online:9999/rtp/226.0.2.238:9816
+#EXTINF:-1 tvg-id="山西经济与科技HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山西经济与科技HD
+http://home.yulei.online:9999/rtp/226.0.2.236:9800
+#EXTINF:-1 tvg-id="山西黄河HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山西黄河HD
+http://home.yulei.online:9999/rtp/226.0.2.235:9792
+#EXTINF:-1 tvg-id="清徐HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",清徐HD
+http://home.yulei.online:9999/rtp/226.0.2.191:9440
+#EXTINF:-1 tvg-id="第一剧场HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",第一剧场HD
+http://home.yulei.online:9999/rtp/226.0.2.221:9680
+#EXTINF:-1 tvg-id="风云剧场HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",风云剧场HD
+http://home.yulei.online:9999/rtp/226.0.2.227:9728
+#EXTINF:-1 tvg-id="风云足球HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",风云足球HD
+http://home.yulei.online:9999/rtp/226.0.2.225:9712
+#EXTINF:-1 tvg-id="风云音乐HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",风云音乐HD
+http://home.yulei.online:9999/rtp/226.0.2.220:9672
+#EXTINF:-1 tvg-id="世界地理HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",世界地理HD
+http://home.yulei.online:9999/rtp/226.0.2.222:9688
+#EXTINF:-1 tvg-id="电视指南HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",电视指南HD
+http://home.yulei.online:9999/rtp/226.0.2.218:9656
+#EXTINF:-1 tvg-id="怀旧剧场HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",怀旧剧场HD
+http://home.yulei.online:9999/rtp/226.0.2.224:9704
+#EXTINF:-1 tvg-id="兵器科技HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",兵器科技HD
+http://home.yulei.online:9999/rtp/226.0.2.223:9696
+#EXTINF:-1 tvg-id="女性时尚HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",女性时尚HD
+http://home.yulei.online:9999/rtp/226.0.2.226:9720
+#EXTINF:-1 tvg-id="高尔夫网球HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",高尔夫网球HD
+http://home.yulei.online:9999/rtp/226.0.2.217:9648
+#EXTINF:-1 tvg-id="央视台球HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",央视台球HD
+http://home.yulei.online:9999/rtp/226.0.2.216:9640
+#EXTINF:-1 tvg-id="央视文化精品HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",央视文化精品HD
+http://home.yulei.online:9999/rtp/226.0.2.219:9664
+#EXTINF:-1 tvg-id="梨园频道HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",梨园频道HD
+http://home.yulei.online:9999/rtp/226.0.2.115:8832
+#EXTINF:-1 tvg-id="法治天地HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",法治天地HD
+http://home.yulei.online:9999/rtp/226.0.2.83:8576
+#EXTINF:-1 tvg-id="游戏风云HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",游戏风云HD
+http://home.yulei.online:9999/rtp/226.0.2.78:8536
+#EXTINF:-1 tvg-id="茶频道HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",茶频道HD
+http://home.yulei.online:9999/rtp/226.0.2.213:9616
+#EXTINF:-1 tvg-id="武术世界HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",武术世界HD
+http://home.yulei.online:9999/rtp/226.0.2.97:8688
+#EXTINF:-1 tvg-id="金鹰纪实HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",金鹰纪实HD
+http://home.yulei.online:9999/rtp/226.0.2.194:9464
+#EXTINF:-1 tvg-id="文物宝库HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",文物宝库HD
+http://home.yulei.online:9999/rtp/226.0.2.110:8792
+#EXTINF:-1 tvg-id="快乐垂钓HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",快乐垂钓HD
+http://home.yulei.online:9999/rtp/226.0.2.214:9624
+#EXTINF:-1 tvg-id="生活时尚HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",生活时尚HD
+http://home.yulei.online:9999/rtp/226.0.2.84:8584
+#EXTINF:-1 tvg-id="中国天气HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",中国天气HD
+http://home.yulei.online:9999/rtp/226.0.2.103:8736
+#EXTINF:-1 tvg-id="乐游HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",乐游HD
+http://home.yulei.online:9999/rtp/226.0.2.77:8528
+#EXTINF:-1 tvg-id="动漫秀场HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",动漫秀场HD
+http://home.yulei.online:9999/rtp/226.0.2.183:9376
+#EXTINF:-1 tvg-id="重庆卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",重庆卫视HD
+http://home.yulei.online:9999/rtp/226.0.2.174:9304
+#EXTINF:-1 tvg-id="江苏卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",江苏卫视HD
+http://home.yulei.online:9999/rtp/226.0.2.176:9320
+#EXTINF:-1 tvg-id="浙江卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",浙江卫视HD
+http://home.yulei.online:9999/rtp/226.0.2.144:9064
+#EXTINF:-1 tvg-id="东方卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",东方卫视HD
+http://home.yulei.online:9999/rtp/226.0.2.175:9312
+#EXTINF:-1 tvg-id="深圳卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",深圳卫视HD
+http://home.yulei.online:9999/rtp/226.0.2.147:9088
+#EXTINF:-1 tvg-id="北京卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",北京卫视HD
+http://home.yulei.online:9999/rtp/226.0.2.177:9328
+#EXTINF:-1 tvg-id="山东卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山东卫视HD
+http://home.yulei.online:9999/rtp/226.0.2.149:9104
+#EXTINF:-1 tvg-id="天津卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",天津卫视HD
+http://home.yulei.online:9999/rtp/226.0.2.148:9096
+#EXTINF:-1 tvg-id="贵州卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",贵州卫视HD
+http://home.yulei.online:9999/rtp/226.0.2.180:9352
+#EXTINF:-1 tvg-id="四川卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",四川卫视HD
+http://home.yulei.online:9999/rtp/226.0.2.179:9344
+#EXTINF:-1 tvg-id="广西卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",广西卫视HD
+http://home.yulei.online:9999/rtp/226.0.2.231:9760
+#EXTINF:-1 tvg-id="黑龙江卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",黑龙江卫视HD
+http://home.yulei.online:9999/rtp/226.0.2.151:9120
+#EXTINF:-1 tvg-id="安徽卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",安徽卫视HD
+http://home.yulei.online:9999/rtp/226.0.2.145:9072
+#EXTINF:-1 tvg-id="山西卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山西卫视HD
+http://home.yulei.online:9999/rtp/226.0.2.152:9128
+#EXTINF:-1 tvg-id="江西卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",江西卫视HD
+http://home.yulei.online:9999/rtp/226.0.2.54:8344
+#EXTINF:-1 tvg-id="湖北卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",湖北卫视HD
+http://home.yulei.online:9999/rtp/226.0.2.150:9112
+#EXTINF:-1 tvg-id="旅游卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",旅游卫视HD
+http://home.yulei.online:9999/rtp/226.0.2.212:9608
+#EXTINF:-1 tvg-id="东南卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",东南卫视HD
+http://home.yulei.online:9999/rtp/226.0.2.188:9416
+#EXTINF:-1 tvg-id="吉林卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",吉林卫视HD
+http://home.yulei.online:9999/rtp/226.0.2.58:8376
+#EXTINF:-1 tvg-id="辽宁卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",辽宁卫视HD
+http://home.yulei.online:9999/rtp/226.0.2.173:9296
+#EXTINF:-1 tvg-id="湖南卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",湖南卫视HD
+http://home.yulei.online:9999/rtp/226.0.2.143:9056
+#EXTINF:-1 tvg-id="广东卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",广东卫视HD
+http://home.yulei.online:9999/rtp/226.0.2.146:9080
+#EXTINF:-1 tvg-id="河南卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",河南卫视HD
+http://home.yulei.online:9999/rtp/226.0.2.52:8328
+#EXTINF:-1 tvg-id="河北卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",河北卫视HD
+http://home.yulei.online:9999/rtp/226.0.2.178:9336
+#EXTINF:-1 tvg-id="宁夏卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",宁夏卫视HD
+http://home.yulei.online:9999/rtp/226.0.2.64:8424
+#EXTINF:-1 tvg-id="甘肃卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",甘肃卫视HD
+http://home.yulei.online:9999/rtp/226.0.2.55:8352
+#EXTINF:-1 tvg-id="新疆卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",新疆卫视HD
+http://home.yulei.online:9999/rtp/226.0.2.67:8448
+#EXTINF:-1 tvg-id="西藏卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",西藏卫视HD
+http://home.yulei.online:9999/rtp/226.0.2.66:8440
+#EXTINF:-1 tvg-id="兵团卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",兵团卫视HD
+http://home.yulei.online:9999/rtp/226.0.2.62:8408
+#EXTINF:-1 tvg-id="金鹰卡通HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",金鹰卡通HD
+http://home.yulei.online:9999/rtp/226.0.2.172:9288
+#EXTINF:-1 tvg-id="哈哈炫动HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",哈哈炫动HD
+http://home.yulei.online:9999/rtp/226.0.2.44:8264
+#EXTINF:-1 tvg-id="卡酷少儿HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",卡酷少儿HD
+http://home.yulei.online:9999/rtp/226.0.2.57:8368
+#EXTINF:-1 tvg-id="山东教育卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山东教育卫视HD
+http://home.yulei.online:9999/rtp/226.0.2.130:8952
+#EXTINF:-1 tvg-id="北京纪实科教HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",北京纪实科教HD
+http://home.yulei.online:9999/rtp/226.0.2.141:9040
+#EXTINF:-1 tvg-id="东方财经HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",东方财经HD
+http://home.yulei.online:9999/rtp/226.0.2.76:8520
+#EXTINF:-1 tvg-id="都市剧场HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",都市剧场HD
+http://home.yulei.online:9999/rtp/226.0.2.81:8560
+#EXTINF:-1 tvg-id="九屏测试HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",九屏测试HD
+http://home.yulei.online:9999/rtp/226.0.2.197:9488
+#EXTINF:-1 tvg-id="四海钓鱼HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",四海钓鱼HD
+http://home.yulei.online:9999/rtp/226.0.2.123:8896
+#EXTINF:-1 tvg-id="大同教育HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",大同教育HD
+http://home.yulei.online:9999/rtp/226.0.2.232:9772
+#EXTINF:-1 tvg-id="金色学堂HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",金色学堂HD
+http://home.yulei.online:9999/rtp/226.0.2.182:9368
+#EXTINF:-1 tvg-id="CCTV1SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV1SD
+http://home.yulei.online:9999/rtp/226.0.2.18:8056
+#EXTINF:-1 tvg-id="CCTV2SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV2SD
+http://home.yulei.online:9999/rtp/226.0.2.19:8064
+#EXTINF:-1 tvg-id="CCTV3SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV3SD
+http://home.yulei.online:9999/rtp/226.0.2.20:8072
+#EXTINF:-1 tvg-id="CCTV4SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV4SD
+http://home.yulei.online:9999/rtp/226.0.2.21:8080
+#EXTINF:-1 tvg-id="CCTV5SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV5SD
+http://home.yulei.online:9999/rtp/226.0.2.22:8088
+#EXTINF:-1 tvg-id="CCTV6SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV6SD
+http://home.yulei.online:9999/rtp/226.0.2.23:8096
+#EXTINF:-1 tvg-id="CCTV7SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV7SD
+http://home.yulei.online:9999/rtp/226.0.2.24:8104
+#EXTINF:-1 tvg-id="CCTV8SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV8SD
+http://home.yulei.online:9999/rtp/226.0.2.25:8112
+#EXTINF:-1 tvg-id="CCTV9SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV9SD
+http://home.yulei.online:9999/rtp/226.0.2.26:8120
+#EXTINF:-1 tvg-id="CCTV10SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV10SD
+http://home.yulei.online:9999/rtp/226.0.2.27:8128
+#EXTINF:-1 tvg-id="CCTV11SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV11SD
+http://home.yulei.online:9999/rtp/226.0.2.28:8136
+#EXTINF:-1 tvg-id="CCTV12SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV12SD
+http://home.yulei.online:9999/rtp/226.0.2.29:8144
+#EXTINF:-1 tvg-id="CCTV13SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV13SD
+http://home.yulei.online:9999/rtp/226.0.2.30:8152
+#EXTINF:-1 tvg-id="CCTV14SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV14SD
+http://home.yulei.online:9999/rtp/226.0.2.31:8160
+#EXTINF:-1 tvg-id="CCTV15SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV15SD
+http://home.yulei.online:9999/rtp/226.0.2.32:8168
+#EXTINF:-1 tvg-id="CCTV17SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV17SD
+http://home.yulei.online:9999/rtp/226.0.2.207:9568
+#EXTINF:-1 tvg-id="CETV2SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CETV2SD
+http://home.yulei.online:9999/rtp/226.0.2.69:8464
+#EXTINF:-1 tvg-id="CETV4SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CETV4SD
+http://home.yulei.online:9999/rtp/226.0.2.70:8472
+#EXTINF:-1 tvg-id="山西影视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山西影视SD
+http://home.yulei.online:9999/rtp/226.0.2.14:8024
+#EXTINF:-1 tvg-id="山西文体生活SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山西文体生活SD
+http://home.yulei.online:9999/rtp/226.0.2.190:9432
+#EXTINF:-1 tvg-id="山西社会与法治SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山西社会与法治SD
+http://home.yulei.online:9999/rtp/226.0.2.15:8032
+#EXTINF:-1 tvg-id="山西黄河SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山西黄河SD
+http://home.yulei.online:9999/rtp/226.0.2.12:8008
+#EXTINF:-1 tvg-id="太原1SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",太原1SD
+http://home.yulei.online:9999/rtp/226.0.2.201:9520
+#EXTINF:-1 tvg-id="太原2SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",太原2SD
+http://home.yulei.online:9999/rtp/226.0.2.202:9528
+#EXTINF:-1 tvg-id="太原3SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",太原3SD
+http://home.yulei.online:9999/rtp/226.0.2.203:9536
+#EXTINF:-1 tvg-id="太原4SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",太原4SD
+http://home.yulei.online:9999/rtp/226.0.2.204:9544
+#EXTINF:-1 tvg-id="太原5SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",太原5SD
+http://home.yulei.online:9999/rtp/226.0.2.205:9552
+#EXTINF:-1 tvg-id="太原佰乐购SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",太原佰乐购SD
+http://home.yulei.online:9999/rtp/226.0.2.215:9632
+#EXTINF:-1 tvg-id="太原教育SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",太原教育SD
+http://home.yulei.online:9999/rtp/226.0.2.206:9560
+#EXTINF:-1 tvg-id="古交电视台SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",古交电视台SD
+http://home.yulei.online:9999/rtp/226.0.2.192:9448
+#EXTINF:-1 tvg-id="晋能控股SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",晋能控股SD
+http://home.yulei.online:9999/rtp/226.0.2.229:9744
+#EXTINF:-1 tvg-id="朔州-1SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",朔州-1SD
+http://home.yulei.online:9999/rtp/226.0.2.185:9392
+#EXTINF:-1 tvg-id="朔州-2SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",朔州-2SD
+http://home.yulei.online:9999/rtp/226.0.2.186:9400
+#EXTINF:-1 tvg-id="经济与科技SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",经济与科技SD
+http://home.yulei.online:9999/rtp/226.0.2.13:8016
+#EXTINF:-1 tvg-id="阳曲SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",阳曲SD
+http://home.yulei.online:9999/rtp/226.0.2.196:9480
+#EXTINF:-1 tvg-id="阳泉科教SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",阳泉科教SD
+http://home.yulei.online:9999/rtp/226.0.2.234:9784
+#EXTINF:-1 tvg-id="阳泉综合SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",阳泉综合SD
+http://home.yulei.online:9999/rtp/226.0.2.233:9776
+#EXTINF:-1 tvg-id="中视购物SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",中视购物SD
+http://home.yulei.online:9999/rtp/226.0.2.72:8488
+#EXTINF:-1 tvg-id="书法频道SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",书法频道SD
+http://home.yulei.online:9999/rtp/226.0.2.102:8728
+#EXTINF:-1 tvg-id="环球奇观SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",环球奇观SD
+http://home.yulei.online:9999/rtp/226.0.2.111:8800
+#EXTINF:-1 tvg-id="国学频道SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",国学频道SD
+http://home.yulei.online:9999/rtp/226.0.2.116:8840
+#EXTINF:-1 tvg-id="环球旅游SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",环球旅游SD
+http://home.yulei.online:9999/rtp/226.0.2.127:8928
+#EXTINF:-1 tvg-id="生态环境SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",生态环境SD
+http://home.yulei.online:9999/rtp/226.0.2.120:8872
+#EXTINF:-1 tvg-id="新动漫SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",新动漫SD
+http://home.yulei.online:9999/rtp/226.0.2.73:8496
+#EXTINF:-1 tvg-id="优优宝贝SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",优优宝贝SD
+http://home.yulei.online:9999/rtp/226.0.2.119:8864
+#EXTINF:-1 tvg-id="先锋乒羽SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",先锋乒羽SD
+http://home.yulei.online:9999/rtp/226.0.2.121:8880
+#EXTINF:-1 tvg-id="重庆卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",重庆卫视SD
+http://home.yulei.online:9999/rtp/226.0.2.50:8312
+#EXTINF:-1 tvg-id="江苏卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",江苏卫视SD
+http://home.yulei.online:9999/rtp/226.0.2.38:8216
+#EXTINF:-1 tvg-id="浙江卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",浙江卫视SD
+http://home.yulei.online:9999/rtp/226.0.2.36:8200
+#EXTINF:-1 tvg-id="东方卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",东方卫视SD
+http://home.yulei.online:9999/rtp/226.0.2.34:8184
+#EXTINF:-1 tvg-id="深圳卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",深圳卫视SD
+http://home.yulei.online:9999/rtp/226.0.2.47:8288
+#EXTINF:-1 tvg-id="北京卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",北京卫视SD
+http://home.yulei.online:9999/rtp/226.0.2.39:8224
+#EXTINF:-1 tvg-id="山东卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山东卫视SD
+http://home.yulei.online:9999/rtp/226.0.2.51:8320
+#EXTINF:-1 tvg-id="天津卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",天津卫视SD
+http://home.yulei.online:9999/rtp/226.0.2.56:8360
+#EXTINF:-1 tvg-id="贵州卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",贵州卫视SD
+http://home.yulei.online:9999/rtp/226.0.2.43:8256
+#EXTINF:-1 tvg-id="四川卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",四川卫视SD
+http://home.yulei.online:9999/rtp/226.0.2.42:8248
+#EXTINF:-1 tvg-id="云南卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",云南卫视SD
+http://home.yulei.online:9999/rtp/226.0.2.60:8392
+#EXTINF:-1 tvg-id="广西卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",广西卫视SD
+http://home.yulei.online:9999/rtp/226.0.2.46:8280
+#EXTINF:-1 tvg-id="黑龙江卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",黑龙江卫视SD
+http://home.yulei.online:9999/rtp/226.0.2.48:8296
+#EXTINF:-1 tvg-id="安徽卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",安徽卫视SD
+http://home.yulei.online:9999/rtp/226.0.2.37:8208
+#EXTINF:-1 tvg-id="山西卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山西卫视SD
+http://home.yulei.online:9999/rtp/226.0.2.11:8000
+#EXTINF:-1 tvg-id="山西卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山西卫视SD
+http://home.yulei.online:9999/rtp/226.0.2.189:9424
+#EXTINF:-1 tvg-id="江西卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",江西卫视SD
+http://home.yulei.online:9999/rtp/226.0.2.198:9496
+#EXTINF:-1 tvg-id="湖北卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",湖北卫视SD
+http://home.yulei.online:9999/rtp/226.0.2.49:8304
+#EXTINF:-1 tvg-id="旅游卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",旅游卫视SD
+http://home.yulei.online:9999/rtp/226.0.2.61:8400
+#EXTINF:-1 tvg-id="陕西卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",陕西卫视SD
+http://home.yulei.online:9999/rtp/226.0.2.53:8336
+#EXTINF:-1 tvg-id="东南卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",东南卫视SD
+http://home.yulei.online:9999/rtp/226.0.2.40:8232
+#EXTINF:-1 tvg-id="吉林卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",吉林卫视SD
+http://home.yulei.online:9999/rtp/226.0.2.199:9504
+#EXTINF:-1 tvg-id="辽宁卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",辽宁卫视SD
+http://home.yulei.online:9999/rtp/226.0.2.35:8192
+#EXTINF:-1 tvg-id="内蒙古卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",内蒙古卫视SD
+http://home.yulei.online:9999/rtp/226.0.2.63:8416
+#EXTINF:-1 tvg-id="湖南卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",湖南卫视SD
+http://home.yulei.online:9999/rtp/226.0.2.33:8176
+#EXTINF:-1 tvg-id="广东卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",广东卫视SD
+http://home.yulei.online:9999/rtp/226.0.2.45:8272
+#EXTINF:-1 tvg-id="河南卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",河南卫视SD
+http://home.yulei.online:9999/rtp/226.0.2.195:9472
+#EXTINF:-1 tvg-id="河北卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",河北卫视SD
+http://home.yulei.online:9999/rtp/226.0.2.65:8432
+#EXTINF:-1 tvg-id="青海卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",青海卫视SD
+http://home.yulei.online:9999/rtp/226.0.2.59:8384
+#EXTINF:-1 tvg-id="金鹰卡通SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",金鹰卡通SD
+http://home.yulei.online:9999/rtp/226.0.2.41:8240
+#EXTINF:-1 tvg-id="重庆汽摩SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",重庆汽摩SD
+http://home.yulei.online:9999/rtp/226.0.2.95:8672
+#EXTINF:-1 tvg-id="央广购物SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",央广购物SD
+http://home.yulei.online:9999/rtp/226.0.2.230:9752
+#EXTINF:-1 tvg-id="优购物SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",优购物SD
+http://home.yulei.online:9999/rtp/226.0.2.131:8960
+#EXTINF:-1 tvg-id="优购物SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",优购物SD
+http://home.yulei.online:9999/rtp/226.0.2.131:8960
+#EXTINF:-1 tvg-id="聚鲨环球精选SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",聚鲨环球精选SD
+http://home.yulei.online:9999/rtp/226.0.2.122:8888
+#EXTINF:-1 tvg-id="CEV1SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CEV1SD
+http://home.yulei.online:9999/rtp/226.0.2.68:8456
+#EXTINF:-1 tvg-id="中华特产SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",中华特产SD
+http://home.yulei.online:9999/rtp/226.0.2.128:8936
+#EXTINF:-1 tvg-id="收藏天下SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",收藏天下SD
+http://home.yulei.online:9999/rtp/226.0.2.132:8968
+#EXTINF:-1 tvg-id="老故事SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",老故事SD
+http://home.yulei.online:9999/rtp/226.0.2.112:8808
+
+#EXTINF:-1 tvg-id="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",北京卫视4K
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.155:9172
+#EXTINF:-1 tvg-id="东方卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",东方卫视4K
+http://v4.baode168.dpdns.org:90/rtp/226.0.1.248:2121
+#EXTINF:-1 tvg-id="广东卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",广东卫视4K
+http://v4.baode168.dpdns.org:90/rtp/226.0.1.245:2120
+#EXTINF:-1 tvg-id="深圳卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",深圳卫视4K
+http://v4.baode168.dpdns.org:90/rtp/226.0.1.244:2119
+#EXTINF:-1 tvg-id="湖南卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",湖南卫视4K
+http://v4.baode168.dpdns.org:90/rtp/226.0.1.246:2125
+#EXTINF:-1 tvg-id="山东卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山东卫视4K
+http://v4.baode168.dpdns.org:90/rtp/226.0.1.251:2124
+#EXTINF:-1 tvg-id="四川卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",四川卫视4K
+http://v4.baode168.dpdns.org:90/rtp/226.0.1.250:2126
+#EXTINF:-1 tvg-id="浙江卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",浙江卫视4K
+http://v4.baode168.dpdns.org:90/rtp/226.0.1.247:2123
+#EXTINF:-1 tvg-id="江苏卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",江苏卫视4K
+http://v4.baode168.dpdns.org:90/rtp/226.0.1.249:2122
+#EXTINF:-1 tvg-id="CCTV1HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV1HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.153:9136
+#EXTINF:-1 tvg-id="CCTV2HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV2HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.154:9144
+#EXTINF:-1 tvg-id="CCTV3HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV3HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.208:9576
+#EXTINF:-1 tvg-id="CCTV4HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV4HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.156:9160
+#EXTINF:-1 tvg-id="CCTV5HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV5HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.209:9584
+#EXTINF:-1 tvg-id="CCTV5+HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV5+HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.168:9256
+#EXTINF:-1 tvg-id="CCTV6HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV6HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.210:9592
+#EXTINF:-1 tvg-id="CCTV7HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV7HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.159:9184
+#EXTINF:-1 tvg-id="CCTV8HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV8HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.211:9600
+#EXTINF:-1 tvg-id="CCTV9HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV9HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.161:9200
+#EXTINF:-1 tvg-id="CCTV10HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV10HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.162:9208
+#EXTINF:-1 tvg-id="CCTV12HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV12HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.164:9224
+#EXTINF:-1 tvg-id="CCTV13HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV13HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.165:9232
+#EXTINF:-1 tvg-id="CCTV14HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV14HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.166:9240
+#EXTINF:-1 tvg-id="CCTV16HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV16HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.169:9264
+#EXTINF:-1 tvg-id="CCTV17HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV17HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.170:9272
+#EXTINF:-1 tvg-id="CETV1HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CETV1HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.181:9360
+#EXTINF:-1 tvg-id="CETV早期教育HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CETV早期教育HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="CHC影迷电影HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CHC影迷电影HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.93:8004
+#EXTINF:-1 tvg-id="CHC家庭影院HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CHC家庭影院HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.240:9820
+#EXTINF:-1 tvg-id="CHC动作电影HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CHC动作电影HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.94:8012
+#EXTINF:-1 tvg-id="山西文体生活HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山西文体生活HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.16:8040
+#EXTINF:-1 tvg-id="山西文体生活HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山西文体生活HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.237:9808
+#EXTINF:-1 tvg-id="山西社会与法治HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山西社会与法治HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.238:9816
+#EXTINF:-1 tvg-id="山西经济与科技HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山西经济与科技HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.236:9800
+#EXTINF:-1 tvg-id="山西黄河HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山西黄河HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.235:9792
+#EXTINF:-1 tvg-id="清徐HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",清徐HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.191:9440
+#EXTINF:-1 tvg-id="第一剧场HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",第一剧场HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.221:9680
+#EXTINF:-1 tvg-id="风云剧场HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",风云剧场HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.227:9728
+#EXTINF:-1 tvg-id="风云足球HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",风云足球HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.225:9712
+#EXTINF:-1 tvg-id="风云音乐HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",风云音乐HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.220:9672
+#EXTINF:-1 tvg-id="世界地理HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",世界地理HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.222:9688
+#EXTINF:-1 tvg-id="电视指南HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",电视指南HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.218:9656
+#EXTINF:-1 tvg-id="怀旧剧场HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",怀旧剧场HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.224:9704
+#EXTINF:-1 tvg-id="兵器科技HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",兵器科技HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.223:9696
+#EXTINF:-1 tvg-id="女性时尚HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",女性时尚HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.226:9720
+#EXTINF:-1 tvg-id="高尔夫网球HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",高尔夫网球HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.217:9648
+#EXTINF:-1 tvg-id="央视台球HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",央视台球HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.216:9640
+#EXTINF:-1 tvg-id="央视文化精品HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",央视文化精品HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.219:9664
+#EXTINF:-1 tvg-id="梨园频道HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",梨园频道HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.115:8832
+#EXTINF:-1 tvg-id="法治天地HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",法治天地HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.83:8576
+#EXTINF:-1 tvg-id="游戏风云HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",游戏风云HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.78:8536
+#EXTINF:-1 tvg-id="茶频道HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",茶频道HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.213:9616
+#EXTINF:-1 tvg-id="武术世界HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",武术世界HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.97:8688
+#EXTINF:-1 tvg-id="金鹰纪实HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",金鹰纪实HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.194:9464
+#EXTINF:-1 tvg-id="文物宝库HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",文物宝库HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.110:8792
+#EXTINF:-1 tvg-id="快乐垂钓HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",快乐垂钓HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.214:9624
+#EXTINF:-1 tvg-id="生活时尚HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",生活时尚HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.84:8584
+#EXTINF:-1 tvg-id="中国天气HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",中国天气HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.103:8736
+#EXTINF:-1 tvg-id="乐游HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",乐游HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.77:8528
+#EXTINF:-1 tvg-id="动漫秀场HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",动漫秀场HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.183:9376
+#EXTINF:-1 tvg-id="重庆卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",重庆卫视HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.174:9304
+#EXTINF:-1 tvg-id="江苏卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",江苏卫视HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.176:9320
+#EXTINF:-1 tvg-id="浙江卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",浙江卫视HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.144:9064
+#EXTINF:-1 tvg-id="东方卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",东方卫视HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.175:9312
+#EXTINF:-1 tvg-id="深圳卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",深圳卫视HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.147:9088
+#EXTINF:-1 tvg-id="北京卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",北京卫视HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.177:9328
+#EXTINF:-1 tvg-id="山东卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山东卫视HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.149:9104
+#EXTINF:-1 tvg-id="天津卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",天津卫视HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.148:9096
+#EXTINF:-1 tvg-id="贵州卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",贵州卫视HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.180:9352
+#EXTINF:-1 tvg-id="四川卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",四川卫视HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.179:9344
+#EXTINF:-1 tvg-id="广西卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",广西卫视HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.231:9760
+#EXTINF:-1 tvg-id="黑龙江卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",黑龙江卫视HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.151:9120
+#EXTINF:-1 tvg-id="安徽卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",安徽卫视HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.145:9072
+#EXTINF:-1 tvg-id="山西卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山西卫视HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.152:9128
+#EXTINF:-1 tvg-id="江西卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",江西卫视HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.54:8344
+#EXTINF:-1 tvg-id="湖北卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",湖北卫视HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.150:9112
+#EXTINF:-1 tvg-id="旅游卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",旅游卫视HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.212:9608
+#EXTINF:-1 tvg-id="东南卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",东南卫视HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.188:9416
+#EXTINF:-1 tvg-id="吉林卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",吉林卫视HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.58:8376
+#EXTINF:-1 tvg-id="辽宁卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",辽宁卫视HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.173:9296
+#EXTINF:-1 tvg-id="湖南卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",湖南卫视HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.143:9056
+#EXTINF:-1 tvg-id="广东卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",广东卫视HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.146:9080
+#EXTINF:-1 tvg-id="河南卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",河南卫视HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.52:8328
+#EXTINF:-1 tvg-id="河北卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",河北卫视HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.178:9336
+#EXTINF:-1 tvg-id="宁夏卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",宁夏卫视HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.64:8424
+#EXTINF:-1 tvg-id="甘肃卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",甘肃卫视HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.55:8352
+#EXTINF:-1 tvg-id="新疆卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",新疆卫视HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.67:8448
+#EXTINF:-1 tvg-id="西藏卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",西藏卫视HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.66:8440
+#EXTINF:-1 tvg-id="兵团卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",兵团卫视HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.62:8408
+#EXTINF:-1 tvg-id="金鹰卡通HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",金鹰卡通HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.172:9288
+#EXTINF:-1 tvg-id="哈哈炫动HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",哈哈炫动HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.44:8264
+#EXTINF:-1 tvg-id="卡酷少儿HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",卡酷少儿HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.57:8368
+#EXTINF:-1 tvg-id="山东教育卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山东教育卫视HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.130:8952
+#EXTINF:-1 tvg-id="北京纪实科教HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",北京纪实科教HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.141:9040
+#EXTINF:-1 tvg-id="东方财经HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",东方财经HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.76:8520
+#EXTINF:-1 tvg-id="都市剧场HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",都市剧场HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.81:8560
+#EXTINF:-1 tvg-id="九屏测试HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",九屏测试HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.197:9488
+#EXTINF:-1 tvg-id="四海钓鱼HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",四海钓鱼HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.123:8896
+#EXTINF:-1 tvg-id="大同教育HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",大同教育HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.232:9772
+#EXTINF:-1 tvg-id="金色学堂HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",金色学堂HD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.182:9368
+#EXTINF:-1 tvg-id="CCTV1SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV1SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.18:8056
+#EXTINF:-1 tvg-id="CCTV2SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV2SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.19:8064
+#EXTINF:-1 tvg-id="CCTV3SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV3SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.20:8072
+#EXTINF:-1 tvg-id="CCTV4SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV4SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.21:8080
+#EXTINF:-1 tvg-id="CCTV5SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV5SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.22:8088
+#EXTINF:-1 tvg-id="CCTV6SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV6SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.23:8096
+#EXTINF:-1 tvg-id="CCTV7SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV7SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.24:8104
+#EXTINF:-1 tvg-id="CCTV8SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV8SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.25:8112
+#EXTINF:-1 tvg-id="CCTV9SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV9SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.26:8120
+#EXTINF:-1 tvg-id="CCTV10SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV10SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.27:8128
+#EXTINF:-1 tvg-id="CCTV11SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV11SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.28:8136
+#EXTINF:-1 tvg-id="CCTV12SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV12SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.29:8144
+#EXTINF:-1 tvg-id="CCTV13SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV13SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.30:8152
+#EXTINF:-1 tvg-id="CCTV14SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV14SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.31:8160
+#EXTINF:-1 tvg-id="CCTV15SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV15SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.32:8168
+#EXTINF:-1 tvg-id="CCTV17SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV17SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.207:9568
+#EXTINF:-1 tvg-id="CETV2SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CETV2SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.69:8464
+#EXTINF:-1 tvg-id="CETV4SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CETV4SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.70:8472
+#EXTINF:-1 tvg-id="山西影视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山西影视SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.14:8024
+#EXTINF:-1 tvg-id="山西文体生活SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山西文体生活SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.190:9432
+#EXTINF:-1 tvg-id="山西社会与法治SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山西社会与法治SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.15:8032
+#EXTINF:-1 tvg-id="山西黄河SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山西黄河SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.12:8008
+#EXTINF:-1 tvg-id="太原1SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",太原1SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.201:9520
+#EXTINF:-1 tvg-id="太原2SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",太原2SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.202:9528
+#EXTINF:-1 tvg-id="太原3SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",太原3SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.203:9536
+#EXTINF:-1 tvg-id="太原4SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",太原4SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.204:9544
+#EXTINF:-1 tvg-id="太原5SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",太原5SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.205:9552
+#EXTINF:-1 tvg-id="太原佰乐购SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",太原佰乐购SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.215:9632
+#EXTINF:-1 tvg-id="太原教育SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",太原教育SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.206:9560
+#EXTINF:-1 tvg-id="古交电视台SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",古交电视台SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.192:9448
+#EXTINF:-1 tvg-id="晋能控股SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",晋能控股SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.229:9744
+#EXTINF:-1 tvg-id="朔州-1SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",朔州-1SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.185:9392
+#EXTINF:-1 tvg-id="朔州-2SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",朔州-2SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.186:9400
+#EXTINF:-1 tvg-id="经济与科技SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",经济与科技SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.13:8016
+#EXTINF:-1 tvg-id="阳曲SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",阳曲SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.196:9480
+#EXTINF:-1 tvg-id="阳泉科教SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",阳泉科教SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.234:9784
+#EXTINF:-1 tvg-id="阳泉综合SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",阳泉综合SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.233:9776
+#EXTINF:-1 tvg-id="中视购物SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",中视购物SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.72:8488
+#EXTINF:-1 tvg-id="书法频道SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",书法频道SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.102:8728
+#EXTINF:-1 tvg-id="环球奇观SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",环球奇观SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.111:8800
+#EXTINF:-1 tvg-id="国学频道SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",国学频道SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.116:8840
+#EXTINF:-1 tvg-id="环球旅游SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",环球旅游SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.127:8928
+#EXTINF:-1 tvg-id="生态环境SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",生态环境SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.120:8872
+#EXTINF:-1 tvg-id="新动漫SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",新动漫SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.73:8496
+#EXTINF:-1 tvg-id="优优宝贝SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",优优宝贝SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.119:8864
+#EXTINF:-1 tvg-id="先锋乒羽SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",先锋乒羽SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.121:8880
+#EXTINF:-1 tvg-id="重庆卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",重庆卫视SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.50:8312
+#EXTINF:-1 tvg-id="江苏卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",江苏卫视SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.38:8216
+#EXTINF:-1 tvg-id="浙江卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",浙江卫视SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.36:8200
+#EXTINF:-1 tvg-id="东方卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",东方卫视SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.34:8184
+#EXTINF:-1 tvg-id="深圳卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",深圳卫视SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.47:8288
+#EXTINF:-1 tvg-id="北京卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",北京卫视SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.39:8224
+#EXTINF:-1 tvg-id="山东卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山东卫视SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.51:8320
+#EXTINF:-1 tvg-id="天津卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",天津卫视SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.56:8360
+#EXTINF:-1 tvg-id="贵州卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",贵州卫视SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.43:8256
+#EXTINF:-1 tvg-id="四川卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",四川卫视SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.42:8248
+#EXTINF:-1 tvg-id="云南卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",云南卫视SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.60:8392
+#EXTINF:-1 tvg-id="广西卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",广西卫视SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.46:8280
+#EXTINF:-1 tvg-id="黑龙江卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",黑龙江卫视SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.48:8296
+#EXTINF:-1 tvg-id="安徽卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",安徽卫视SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.37:8208
+#EXTINF:-1 tvg-id="山西卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山西卫视SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.11:8000
+#EXTINF:-1 tvg-id="山西卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山西卫视SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.189:9424
+#EXTINF:-1 tvg-id="江西卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",江西卫视SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.198:9496
+#EXTINF:-1 tvg-id="湖北卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",湖北卫视SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.49:8304
+#EXTINF:-1 tvg-id="旅游卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",旅游卫视SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.61:8400
+#EXTINF:-1 tvg-id="陕西卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",陕西卫视SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.53:8336
+#EXTINF:-1 tvg-id="东南卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",东南卫视SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.40:8232
+#EXTINF:-1 tvg-id="吉林卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",吉林卫视SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.199:9504
+#EXTINF:-1 tvg-id="辽宁卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",辽宁卫视SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.35:8192
+#EXTINF:-1 tvg-id="内蒙古卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",内蒙古卫视SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.63:8416
+#EXTINF:-1 tvg-id="湖南卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",湖南卫视SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.33:8176
+#EXTINF:-1 tvg-id="广东卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",广东卫视SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.45:8272
+#EXTINF:-1 tvg-id="河南卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",河南卫视SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.195:9472
+#EXTINF:-1 tvg-id="河北卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",河北卫视SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.65:8432
+#EXTINF:-1 tvg-id="青海卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",青海卫视SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.59:8384
+#EXTINF:-1 tvg-id="金鹰卡通SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",金鹰卡通SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.41:8240
+#EXTINF:-1 tvg-id="重庆汽摩SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",重庆汽摩SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.95:8672
+#EXTINF:-1 tvg-id="央广购物SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",央广购物SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.230:9752
+#EXTINF:-1 tvg-id="优购物SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",优购物SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.131:8960
+#EXTINF:-1 tvg-id="优购物SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",优购物SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.131:8960
+#EXTINF:-1 tvg-id="聚鲨环球精选SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",聚鲨环球精选SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.122:8888
+#EXTINF:-1 tvg-id="CEV1SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CEV1SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.68:8456
+#EXTINF:-1 tvg-id="中华特产SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",中华特产SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.128:8936
+#EXTINF:-1 tvg-id="收藏天下SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",收藏天下SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.132:8968
+#EXTINF:-1 tvg-id="老故事SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",老故事SD
+http://v4.baode168.dpdns.org:90/rtp/226.0.2.112:8808
+
+#EXTINF:-1 tvg-id="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",北京卫视4K
+http://nas.linktou.top:6001/rtp/226.0.2.155:9172
+#EXTINF:-1 tvg-id="东方卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",东方卫视4K
+http://nas.linktou.top:6001/rtp/226.0.1.248:2121
+#EXTINF:-1 tvg-id="广东卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",广东卫视4K
+http://nas.linktou.top:6001/rtp/226.0.1.245:2120
+#EXTINF:-1 tvg-id="深圳卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",深圳卫视4K
+http://nas.linktou.top:6001/rtp/226.0.1.244:2119
+#EXTINF:-1 tvg-id="湖南卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",湖南卫视4K
+http://nas.linktou.top:6001/rtp/226.0.1.246:2125
+#EXTINF:-1 tvg-id="山东卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山东卫视4K
+http://nas.linktou.top:6001/rtp/226.0.1.251:2124
+#EXTINF:-1 tvg-id="四川卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",四川卫视4K
+http://nas.linktou.top:6001/rtp/226.0.1.250:2126
+#EXTINF:-1 tvg-id="浙江卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",浙江卫视4K
+http://nas.linktou.top:6001/rtp/226.0.1.247:2123
+#EXTINF:-1 tvg-id="江苏卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",江苏卫视4K
+http://nas.linktou.top:6001/rtp/226.0.1.249:2122
+#EXTINF:-1 tvg-id="CCTV1HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV1HD
+http://nas.linktou.top:6001/rtp/226.0.2.153:9136
+#EXTINF:-1 tvg-id="CCTV2HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV2HD
+http://nas.linktou.top:6001/rtp/226.0.2.154:9144
+#EXTINF:-1 tvg-id="CCTV3HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV3HD
+http://nas.linktou.top:6001/rtp/226.0.2.208:9576
+#EXTINF:-1 tvg-id="CCTV4HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV4HD
+http://nas.linktou.top:6001/rtp/226.0.2.156:9160
+#EXTINF:-1 tvg-id="CCTV5HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV5HD
+http://nas.linktou.top:6001/rtp/226.0.2.209:9584
+#EXTINF:-1 tvg-id="CCTV5+HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV5+HD
+http://nas.linktou.top:6001/rtp/226.0.2.168:9256
+#EXTINF:-1 tvg-id="CCTV6HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV6HD
+http://nas.linktou.top:6001/rtp/226.0.2.210:9592
+#EXTINF:-1 tvg-id="CCTV7HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV7HD
+http://nas.linktou.top:6001/rtp/226.0.2.159:9184
+#EXTINF:-1 tvg-id="CCTV8HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV8HD
+http://nas.linktou.top:6001/rtp/226.0.2.211:9600
+#EXTINF:-1 tvg-id="CCTV9HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV9HD
+http://nas.linktou.top:6001/rtp/226.0.2.161:9200
+#EXTINF:-1 tvg-id="CCTV10HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV10HD
+http://nas.linktou.top:6001/rtp/226.0.2.162:9208
+#EXTINF:-1 tvg-id="CCTV12HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV12HD
+http://nas.linktou.top:6001/rtp/226.0.2.164:9224
+#EXTINF:-1 tvg-id="CCTV13HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV13HD
+http://nas.linktou.top:6001/rtp/226.0.2.165:9232
+#EXTINF:-1 tvg-id="CCTV14HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV14HD
+http://nas.linktou.top:6001/rtp/226.0.2.166:9240
+#EXTINF:-1 tvg-id="CCTV16HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV16HD
+http://nas.linktou.top:6001/rtp/226.0.2.169:9264
+#EXTINF:-1 tvg-id="CCTV17HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV17HD
+http://nas.linktou.top:6001/rtp/226.0.2.170:9272
+#EXTINF:-1 tvg-id="CETV1HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CETV1HD
+http://nas.linktou.top:6001/rtp/226.0.2.181:9360
+#EXTINF:-1 tvg-id="CETV早期教育HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CETV早期教育HD
+http://nas.linktou.top:6001/rtp/226.0.2.99:8704
+#EXTINF:-1 tvg-id="CHC影迷电影HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CHC影迷电影HD
+http://nas.linktou.top:6001/rtp/226.0.2.93:8004
+#EXTINF:-1 tvg-id="CHC家庭影院HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CHC家庭影院HD
+http://nas.linktou.top:6001/rtp/226.0.2.240:9820
+#EXTINF:-1 tvg-id="CHC动作电影HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CHC动作电影HD
+http://nas.linktou.top:6001/rtp/226.0.2.94:8012
+#EXTINF:-1 tvg-id="山西文体生活HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山西文体生活HD
+http://nas.linktou.top:6001/rtp/226.0.2.16:8040
+#EXTINF:-1 tvg-id="山西文体生活HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山西文体生活HD
+http://nas.linktou.top:6001/rtp/226.0.2.237:9808
+#EXTINF:-1 tvg-id="山西社会与法治HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山西社会与法治HD
+http://nas.linktou.top:6001/rtp/226.0.2.238:9816
+#EXTINF:-1 tvg-id="山西经济与科技HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山西经济与科技HD
+http://nas.linktou.top:6001/rtp/226.0.2.236:9800
+#EXTINF:-1 tvg-id="山西黄河HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山西黄河HD
+http://nas.linktou.top:6001/rtp/226.0.2.235:9792
+#EXTINF:-1 tvg-id="清徐HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",清徐HD
+http://nas.linktou.top:6001/rtp/226.0.2.191:9440
+#EXTINF:-1 tvg-id="第一剧场HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",第一剧场HD
+http://nas.linktou.top:6001/rtp/226.0.2.221:9680
+#EXTINF:-1 tvg-id="风云剧场HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",风云剧场HD
+http://nas.linktou.top:6001/rtp/226.0.2.227:9728
+#EXTINF:-1 tvg-id="风云足球HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",风云足球HD
+http://nas.linktou.top:6001/rtp/226.0.2.225:9712
+#EXTINF:-1 tvg-id="风云音乐HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",风云音乐HD
+http://nas.linktou.top:6001/rtp/226.0.2.220:9672
+#EXTINF:-1 tvg-id="世界地理HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",世界地理HD
+http://nas.linktou.top:6001/rtp/226.0.2.222:9688
+#EXTINF:-1 tvg-id="电视指南HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",电视指南HD
+http://nas.linktou.top:6001/rtp/226.0.2.218:9656
+#EXTINF:-1 tvg-id="怀旧剧场HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",怀旧剧场HD
+http://nas.linktou.top:6001/rtp/226.0.2.224:9704
+#EXTINF:-1 tvg-id="兵器科技HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",兵器科技HD
+http://nas.linktou.top:6001/rtp/226.0.2.223:9696
+#EXTINF:-1 tvg-id="女性时尚HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",女性时尚HD
+http://nas.linktou.top:6001/rtp/226.0.2.226:9720
+#EXTINF:-1 tvg-id="高尔夫网球HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",高尔夫网球HD
+http://nas.linktou.top:6001/rtp/226.0.2.217:9648
+#EXTINF:-1 tvg-id="央视台球HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",央视台球HD
+http://nas.linktou.top:6001/rtp/226.0.2.216:9640
+#EXTINF:-1 tvg-id="央视文化精品HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",央视文化精品HD
+http://nas.linktou.top:6001/rtp/226.0.2.219:9664
+#EXTINF:-1 tvg-id="梨园频道HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",梨园频道HD
+http://nas.linktou.top:6001/rtp/226.0.2.115:8832
+#EXTINF:-1 tvg-id="法治天地HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",法治天地HD
+http://nas.linktou.top:6001/rtp/226.0.2.83:8576
+#EXTINF:-1 tvg-id="游戏风云HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",游戏风云HD
+http://nas.linktou.top:6001/rtp/226.0.2.78:8536
+#EXTINF:-1 tvg-id="茶频道HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",茶频道HD
+http://nas.linktou.top:6001/rtp/226.0.2.213:9616
+#EXTINF:-1 tvg-id="武术世界HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",武术世界HD
+http://nas.linktou.top:6001/rtp/226.0.2.97:8688
+#EXTINF:-1 tvg-id="金鹰纪实HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",金鹰纪实HD
+http://nas.linktou.top:6001/rtp/226.0.2.194:9464
+#EXTINF:-1 tvg-id="文物宝库HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",文物宝库HD
+http://nas.linktou.top:6001/rtp/226.0.2.110:8792
+#EXTINF:-1 tvg-id="快乐垂钓HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",快乐垂钓HD
+http://nas.linktou.top:6001/rtp/226.0.2.214:9624
+#EXTINF:-1 tvg-id="生活时尚HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",生活时尚HD
+http://nas.linktou.top:6001/rtp/226.0.2.84:8584
+#EXTINF:-1 tvg-id="中国天气HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",中国天气HD
+http://nas.linktou.top:6001/rtp/226.0.2.103:8736
+#EXTINF:-1 tvg-id="乐游HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",乐游HD
+http://nas.linktou.top:6001/rtp/226.0.2.77:8528
+#EXTINF:-1 tvg-id="动漫秀场HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",动漫秀场HD
+http://nas.linktou.top:6001/rtp/226.0.2.183:9376
+#EXTINF:-1 tvg-id="重庆卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",重庆卫视HD
+http://nas.linktou.top:6001/rtp/226.0.2.174:9304
+#EXTINF:-1 tvg-id="江苏卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",江苏卫视HD
+http://nas.linktou.top:6001/rtp/226.0.2.176:9320
+#EXTINF:-1 tvg-id="浙江卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",浙江卫视HD
+http://nas.linktou.top:6001/rtp/226.0.2.144:9064
+#EXTINF:-1 tvg-id="东方卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",东方卫视HD
+http://nas.linktou.top:6001/rtp/226.0.2.175:9312
+#EXTINF:-1 tvg-id="深圳卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",深圳卫视HD
+http://nas.linktou.top:6001/rtp/226.0.2.147:9088
+#EXTINF:-1 tvg-id="北京卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",北京卫视HD
+http://nas.linktou.top:6001/rtp/226.0.2.177:9328
+#EXTINF:-1 tvg-id="山东卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山东卫视HD
+http://nas.linktou.top:6001/rtp/226.0.2.149:9104
+#EXTINF:-1 tvg-id="天津卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",天津卫视HD
+http://nas.linktou.top:6001/rtp/226.0.2.148:9096
+#EXTINF:-1 tvg-id="贵州卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",贵州卫视HD
+http://nas.linktou.top:6001/rtp/226.0.2.180:9352
+#EXTINF:-1 tvg-id="四川卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",四川卫视HD
+http://nas.linktou.top:6001/rtp/226.0.2.179:9344
+#EXTINF:-1 tvg-id="广西卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",广西卫视HD
+http://nas.linktou.top:6001/rtp/226.0.2.231:9760
+#EXTINF:-1 tvg-id="黑龙江卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",黑龙江卫视HD
+http://nas.linktou.top:6001/rtp/226.0.2.151:9120
+#EXTINF:-1 tvg-id="安徽卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",安徽卫视HD
+http://nas.linktou.top:6001/rtp/226.0.2.145:9072
+#EXTINF:-1 tvg-id="山西卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山西卫视HD
+http://nas.linktou.top:6001/rtp/226.0.2.152:9128
+#EXTINF:-1 tvg-id="江西卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",江西卫视HD
+http://nas.linktou.top:6001/rtp/226.0.2.54:8344
+#EXTINF:-1 tvg-id="湖北卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",湖北卫视HD
+http://nas.linktou.top:6001/rtp/226.0.2.150:9112
+#EXTINF:-1 tvg-id="旅游卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",旅游卫视HD
+http://nas.linktou.top:6001/rtp/226.0.2.212:9608
+#EXTINF:-1 tvg-id="东南卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",东南卫视HD
+http://nas.linktou.top:6001/rtp/226.0.2.188:9416
+#EXTINF:-1 tvg-id="吉林卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",吉林卫视HD
+http://nas.linktou.top:6001/rtp/226.0.2.58:8376
+#EXTINF:-1 tvg-id="辽宁卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",辽宁卫视HD
+http://nas.linktou.top:6001/rtp/226.0.2.173:9296
+#EXTINF:-1 tvg-id="湖南卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",湖南卫视HD
+http://nas.linktou.top:6001/rtp/226.0.2.143:9056
+#EXTINF:-1 tvg-id="广东卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",广东卫视HD
+http://nas.linktou.top:6001/rtp/226.0.2.146:9080
+#EXTINF:-1 tvg-id="河南卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",河南卫视HD
+http://nas.linktou.top:6001/rtp/226.0.2.52:8328
+#EXTINF:-1 tvg-id="河北卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",河北卫视HD
+http://nas.linktou.top:6001/rtp/226.0.2.178:9336
+#EXTINF:-1 tvg-id="宁夏卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",宁夏卫视HD
+http://nas.linktou.top:6001/rtp/226.0.2.64:8424
+#EXTINF:-1 tvg-id="甘肃卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",甘肃卫视HD
+http://nas.linktou.top:6001/rtp/226.0.2.55:8352
+#EXTINF:-1 tvg-id="新疆卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",新疆卫视HD
+http://nas.linktou.top:6001/rtp/226.0.2.67:8448
+#EXTINF:-1 tvg-id="西藏卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",西藏卫视HD
+http://nas.linktou.top:6001/rtp/226.0.2.66:8440
+#EXTINF:-1 tvg-id="兵团卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",兵团卫视HD
+http://nas.linktou.top:6001/rtp/226.0.2.62:8408
+#EXTINF:-1 tvg-id="金鹰卡通HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",金鹰卡通HD
+http://nas.linktou.top:6001/rtp/226.0.2.172:9288
+#EXTINF:-1 tvg-id="哈哈炫动HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",哈哈炫动HD
+http://nas.linktou.top:6001/rtp/226.0.2.44:8264
+#EXTINF:-1 tvg-id="卡酷少儿HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",卡酷少儿HD
+http://nas.linktou.top:6001/rtp/226.0.2.57:8368
+#EXTINF:-1 tvg-id="山东教育卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山东教育卫视HD
+http://nas.linktou.top:6001/rtp/226.0.2.130:8952
+#EXTINF:-1 tvg-id="北京纪实科教HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",北京纪实科教HD
+http://nas.linktou.top:6001/rtp/226.0.2.141:9040
+#EXTINF:-1 tvg-id="东方财经HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",东方财经HD
+http://nas.linktou.top:6001/rtp/226.0.2.76:8520
+#EXTINF:-1 tvg-id="都市剧场HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",都市剧场HD
+http://nas.linktou.top:6001/rtp/226.0.2.81:8560
+#EXTINF:-1 tvg-id="九屏测试HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",九屏测试HD
+http://nas.linktou.top:6001/rtp/226.0.2.197:9488
+#EXTINF:-1 tvg-id="四海钓鱼HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",四海钓鱼HD
+http://nas.linktou.top:6001/rtp/226.0.2.123:8896
+#EXTINF:-1 tvg-id="大同教育HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",大同教育HD
+http://nas.linktou.top:6001/rtp/226.0.2.232:9772
+#EXTINF:-1 tvg-id="金色学堂HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",金色学堂HD
+http://nas.linktou.top:6001/rtp/226.0.2.182:9368
+#EXTINF:-1 tvg-id="CCTV1SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV1SD
+http://nas.linktou.top:6001/rtp/226.0.2.18:8056
+#EXTINF:-1 tvg-id="CCTV2SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV2SD
+http://nas.linktou.top:6001/rtp/226.0.2.19:8064
+#EXTINF:-1 tvg-id="CCTV3SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV3SD
+http://nas.linktou.top:6001/rtp/226.0.2.20:8072
+#EXTINF:-1 tvg-id="CCTV4SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV4SD
+http://nas.linktou.top:6001/rtp/226.0.2.21:8080
+#EXTINF:-1 tvg-id="CCTV5SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV5SD
+http://nas.linktou.top:6001/rtp/226.0.2.22:8088
+#EXTINF:-1 tvg-id="CCTV6SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV6SD
+http://nas.linktou.top:6001/rtp/226.0.2.23:8096
+#EXTINF:-1 tvg-id="CCTV7SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV7SD
+http://nas.linktou.top:6001/rtp/226.0.2.24:8104
+#EXTINF:-1 tvg-id="CCTV8SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV8SD
+http://nas.linktou.top:6001/rtp/226.0.2.25:8112
+#EXTINF:-1 tvg-id="CCTV9SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV9SD
+http://nas.linktou.top:6001/rtp/226.0.2.26:8120
+#EXTINF:-1 tvg-id="CCTV10SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV10SD
+http://nas.linktou.top:6001/rtp/226.0.2.27:8128
+#EXTINF:-1 tvg-id="CCTV11SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV11SD
+http://nas.linktou.top:6001/rtp/226.0.2.28:8136
+#EXTINF:-1 tvg-id="CCTV12SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV12SD
+http://nas.linktou.top:6001/rtp/226.0.2.29:8144
+#EXTINF:-1 tvg-id="CCTV13SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV13SD
+http://nas.linktou.top:6001/rtp/226.0.2.30:8152
+#EXTINF:-1 tvg-id="CCTV14SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV14SD
+http://nas.linktou.top:6001/rtp/226.0.2.31:8160
+#EXTINF:-1 tvg-id="CCTV15SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV15SD
+http://nas.linktou.top:6001/rtp/226.0.2.32:8168
+#EXTINF:-1 tvg-id="CCTV17SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CCTV17SD
+http://nas.linktou.top:6001/rtp/226.0.2.207:9568
+#EXTINF:-1 tvg-id="CETV2SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CETV2SD
+http://nas.linktou.top:6001/rtp/226.0.2.69:8464
+#EXTINF:-1 tvg-id="CETV4SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CETV4SD
+http://nas.linktou.top:6001/rtp/226.0.2.70:8472
+#EXTINF:-1 tvg-id="山西影视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山西影视SD
+http://nas.linktou.top:6001/rtp/226.0.2.14:8024
+#EXTINF:-1 tvg-id="山西文体生活SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山西文体生活SD
+http://nas.linktou.top:6001/rtp/226.0.2.190:9432
+#EXTINF:-1 tvg-id="山西社会与法治SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山西社会与法治SD
+http://nas.linktou.top:6001/rtp/226.0.2.15:8032
+#EXTINF:-1 tvg-id="山西黄河SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山西黄河SD
+http://nas.linktou.top:6001/rtp/226.0.2.12:8008
+#EXTINF:-1 tvg-id="太原1SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",太原1SD
+http://nas.linktou.top:6001/rtp/226.0.2.201:9520
+#EXTINF:-1 tvg-id="太原2SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",太原2SD
+http://nas.linktou.top:6001/rtp/226.0.2.202:9528
+#EXTINF:-1 tvg-id="太原3SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",太原3SD
+http://nas.linktou.top:6001/rtp/226.0.2.203:9536
+#EXTINF:-1 tvg-id="太原4SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",太原4SD
+http://nas.linktou.top:6001/rtp/226.0.2.204:9544
+#EXTINF:-1 tvg-id="太原5SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",太原5SD
+http://nas.linktou.top:6001/rtp/226.0.2.205:9552
+#EXTINF:-1 tvg-id="太原佰乐购SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",太原佰乐购SD
+http://nas.linktou.top:6001/rtp/226.0.2.215:9632
+#EXTINF:-1 tvg-id="太原教育SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",太原教育SD
+http://nas.linktou.top:6001/rtp/226.0.2.206:9560
+#EXTINF:-1 tvg-id="古交电视台SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",古交电视台SD
+http://nas.linktou.top:6001/rtp/226.0.2.192:9448
+#EXTINF:-1 tvg-id="晋能控股SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",晋能控股SD
+http://nas.linktou.top:6001/rtp/226.0.2.229:9744
+#EXTINF:-1 tvg-id="朔州-1SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",朔州-1SD
+http://nas.linktou.top:6001/rtp/226.0.2.185:9392
+#EXTINF:-1 tvg-id="朔州-2SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",朔州-2SD
+http://nas.linktou.top:6001/rtp/226.0.2.186:9400
+#EXTINF:-1 tvg-id="经济与科技SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",经济与科技SD
+http://nas.linktou.top:6001/rtp/226.0.2.13:8016
+#EXTINF:-1 tvg-id="阳曲SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",阳曲SD
+http://nas.linktou.top:6001/rtp/226.0.2.196:9480
+#EXTINF:-1 tvg-id="阳泉科教SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",阳泉科教SD
+http://nas.linktou.top:6001/rtp/226.0.2.234:9784
+#EXTINF:-1 tvg-id="阳泉综合SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",阳泉综合SD
+http://nas.linktou.top:6001/rtp/226.0.2.233:9776
+#EXTINF:-1 tvg-id="中视购物SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",中视购物SD
+http://nas.linktou.top:6001/rtp/226.0.2.72:8488
+#EXTINF:-1 tvg-id="书法频道SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",书法频道SD
+http://nas.linktou.top:6001/rtp/226.0.2.102:8728
+#EXTINF:-1 tvg-id="环球奇观SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",环球奇观SD
+http://nas.linktou.top:6001/rtp/226.0.2.111:8800
+#EXTINF:-1 tvg-id="国学频道SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",国学频道SD
+http://nas.linktou.top:6001/rtp/226.0.2.116:8840
+#EXTINF:-1 tvg-id="环球旅游SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",环球旅游SD
+http://nas.linktou.top:6001/rtp/226.0.2.127:8928
+#EXTINF:-1 tvg-id="生态环境SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",生态环境SD
+http://nas.linktou.top:6001/rtp/226.0.2.120:8872
+#EXTINF:-1 tvg-id="新动漫SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",新动漫SD
+http://nas.linktou.top:6001/rtp/226.0.2.73:8496
+#EXTINF:-1 tvg-id="优优宝贝SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",优优宝贝SD
+http://nas.linktou.top:6001/rtp/226.0.2.119:8864
+#EXTINF:-1 tvg-id="先锋乒羽SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",先锋乒羽SD
+http://nas.linktou.top:6001/rtp/226.0.2.121:8880
+#EXTINF:-1 tvg-id="重庆卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",重庆卫视SD
+http://nas.linktou.top:6001/rtp/226.0.2.50:8312
+#EXTINF:-1 tvg-id="江苏卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",江苏卫视SD
+http://nas.linktou.top:6001/rtp/226.0.2.38:8216
+#EXTINF:-1 tvg-id="浙江卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",浙江卫视SD
+http://nas.linktou.top:6001/rtp/226.0.2.36:8200
+#EXTINF:-1 tvg-id="东方卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",东方卫视SD
+http://nas.linktou.top:6001/rtp/226.0.2.34:8184
+#EXTINF:-1 tvg-id="深圳卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",深圳卫视SD
+http://nas.linktou.top:6001/rtp/226.0.2.47:8288
+#EXTINF:-1 tvg-id="北京卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",北京卫视SD
+http://nas.linktou.top:6001/rtp/226.0.2.39:8224
+#EXTINF:-1 tvg-id="山东卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山东卫视SD
+http://nas.linktou.top:6001/rtp/226.0.2.51:8320
+#EXTINF:-1 tvg-id="天津卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",天津卫视SD
+http://nas.linktou.top:6001/rtp/226.0.2.56:8360
+#EXTINF:-1 tvg-id="贵州卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",贵州卫视SD
+http://nas.linktou.top:6001/rtp/226.0.2.43:8256
+#EXTINF:-1 tvg-id="四川卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",四川卫视SD
+http://nas.linktou.top:6001/rtp/226.0.2.42:8248
+#EXTINF:-1 tvg-id="云南卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",云南卫视SD
+http://nas.linktou.top:6001/rtp/226.0.2.60:8392
+#EXTINF:-1 tvg-id="广西卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",广西卫视SD
+http://nas.linktou.top:6001/rtp/226.0.2.46:8280
+#EXTINF:-1 tvg-id="黑龙江卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",黑龙江卫视SD
+http://nas.linktou.top:6001/rtp/226.0.2.48:8296
+#EXTINF:-1 tvg-id="安徽卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",安徽卫视SD
+http://nas.linktou.top:6001/rtp/226.0.2.37:8208
+#EXTINF:-1 tvg-id="山西卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山西卫视SD
+http://nas.linktou.top:6001/rtp/226.0.2.11:8000
+#EXTINF:-1 tvg-id="山西卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",山西卫视SD
+http://nas.linktou.top:6001/rtp/226.0.2.189:9424
+#EXTINF:-1 tvg-id="江西卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",江西卫视SD
+http://nas.linktou.top:6001/rtp/226.0.2.198:9496
+#EXTINF:-1 tvg-id="湖北卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",湖北卫视SD
+http://nas.linktou.top:6001/rtp/226.0.2.49:8304
+#EXTINF:-1 tvg-id="旅游卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",旅游卫视SD
+http://nas.linktou.top:6001/rtp/226.0.2.61:8400
+#EXTINF:-1 tvg-id="陕西卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",陕西卫视SD
+http://nas.linktou.top:6001/rtp/226.0.2.53:8336
+#EXTINF:-1 tvg-id="东南卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",东南卫视SD
+http://nas.linktou.top:6001/rtp/226.0.2.40:8232
+#EXTINF:-1 tvg-id="吉林卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",吉林卫视SD
+http://nas.linktou.top:6001/rtp/226.0.2.199:9504
+#EXTINF:-1 tvg-id="辽宁卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",辽宁卫视SD
+http://nas.linktou.top:6001/rtp/226.0.2.35:8192
+#EXTINF:-1 tvg-id="内蒙古卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",内蒙古卫视SD
+http://nas.linktou.top:6001/rtp/226.0.2.63:8416
+#EXTINF:-1 tvg-id="湖南卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",湖南卫视SD
+http://nas.linktou.top:6001/rtp/226.0.2.33:8176
+#EXTINF:-1 tvg-id="广东卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",广东卫视SD
+http://nas.linktou.top:6001/rtp/226.0.2.45:8272
+#EXTINF:-1 tvg-id="河南卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",河南卫视SD
+http://nas.linktou.top:6001/rtp/226.0.2.195:9472
+#EXTINF:-1 tvg-id="河北卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",河北卫视SD
+http://nas.linktou.top:6001/rtp/226.0.2.65:8432
+#EXTINF:-1 tvg-id="青海卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",青海卫视SD
+http://nas.linktou.top:6001/rtp/226.0.2.59:8384
+#EXTINF:-1 tvg-id="金鹰卡通SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",金鹰卡通SD
+http://nas.linktou.top:6001/rtp/226.0.2.41:8240
+#EXTINF:-1 tvg-id="重庆汽摩SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",重庆汽摩SD
+http://nas.linktou.top:6001/rtp/226.0.2.95:8672
+#EXTINF:-1 tvg-id="央广购物SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",央广购物SD
+http://nas.linktou.top:6001/rtp/226.0.2.230:9752
+#EXTINF:-1 tvg-id="优购物SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",优购物SD
+http://nas.linktou.top:6001/rtp/226.0.2.131:8960
+#EXTINF:-1 tvg-id="优购物SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",优购物SD
+http://nas.linktou.top:6001/rtp/226.0.2.131:8960
+#EXTINF:-1 tvg-id="聚鲨环球精选SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",聚鲨环球精选SD
+http://nas.linktou.top:6001/rtp/226.0.2.122:8888
+#EXTINF:-1 tvg-id="CEV1SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",CEV1SD
+http://nas.linktou.top:6001/rtp/226.0.2.68:8456
+#EXTINF:-1 tvg-id="中华特产SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",中华特产SD
+http://nas.linktou.top:6001/rtp/226.0.2.128:8936
+#EXTINF:-1 tvg-id="收藏天下SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",收藏天下SD
+http://nas.linktou.top:6001/rtp/226.0.2.132:8968
+#EXTINF:-1 tvg-id="老故事SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="山西联通",老故事SD
+http://nas.linktou.top:6001/rtp/226.0.2.112:8808
+
