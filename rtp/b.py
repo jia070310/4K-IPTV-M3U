@@ -7,6 +7,7 @@ import argparse
 import json
 import base64
 from html import unescape
+from urllib.parse import quote
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import pad
 
@@ -20,7 +21,7 @@ MULTICAST_SOURCE_URL = "https://blog.cqshushu.com/multicast-iptv"
 GITHUB_COMMIT_PREFIX = "Auto update"
 # ============================================
 EPG_URL = "http://epg.51zmt.top:8000/e.xml.gz"
-TVG_LOGO_URL = "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png"
+TVG_LOGO_BASE_URL = "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/"
 
 # 中国省份全称及简称对照表，用于智能嗅探
 PROVINCES = ["北京", "天津", "河北", "山西", "内蒙古", "辽宁", "吉林", "黑龙江", "上海",
@@ -200,6 +201,10 @@ def extract_test_targets(template_content, max_targets=5):
             break
     return targets
 
+def build_tvg_logo_url(channel_name: str) -> str:
+    safe_name = quote(channel_name.strip(), safe="")
+    return f"{TVG_LOGO_BASE_URL}{safe_name}.png"
+
 def txt_to_m3u_format(txt_content, group_title):
     """智能转换 M3U 分组格式"""
     m3u_lines = []
@@ -211,7 +216,7 @@ def txt_to_m3u_format(txt_content, group_title):
         elif ',' in line:
             name, url = [p.strip() for p in line.split(',', 1)]
             m3u_lines.append(
-                f'#EXTINF:-1 tvg-id="{name}" tvg-logo="{TVG_LOGO_URL}" group-title="{group_title}",{name}\n{url}'
+                f'#EXTINF:-1 tvg-id="{name}" tvg-logo="{build_tvg_logo_url(name)}" group-title="{group_title}",{name}\n{url}'
             )
     return "\n".join(m3u_lines)
 
