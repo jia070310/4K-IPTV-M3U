@@ -1,0 +1,1677 @@
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
+#EXTINF:-1 tvg-id="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%864K.png" group-title="重庆",北京卫视4K
+http://14.109.226.8:4022/rtp/235.254.197.50:7980
+#EXTINF:-1 tvg-id="东方卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K.png" group-title="重庆",东方卫视4K
+http://14.109.226.8:4022/rtp/235.254.197.190:7980
+#EXTINF:-1 tvg-id="广东卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%864K.png" group-title="重庆",广东卫视4K
+http://14.109.226.8:4022/rtp/235.254.197.55:7980
+#EXTINF:-1 tvg-id="深圳卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%864K.png" group-title="重庆",深圳卫视4K
+http://14.109.226.8:4022/rtp/235.254.197.56:7980
+#EXTINF:-1 tvg-id="湖南卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K.png" group-title="重庆",湖南卫视4K
+http://14.109.226.8:4022/rtp/235.254.197.196:7980
+#EXTINF:-1 tvg-id="湖南卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K.png" group-title="重庆",湖南卫视4K
+http://14.109.226.8:4022/rtp/235.254.197.52:7980
+#EXTINF:-1 tvg-id="山东卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%864K.png" group-title="重庆",山东卫视4K
+http://14.109.226.8:4022/rtp/235.254.197.195:7980
+#EXTINF:-1 tvg-id="四川卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%864K.png" group-title="重庆",四川卫视4K
+http://14.109.226.8:4022/rtp/235.254.197.197:7980
+#EXTINF:-1 tvg-id="浙江卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K.png" group-title="重庆",浙江卫视4K
+http://14.109.226.8:4022/rtp/235.254.197.194:7980
+#EXTINF:-1 tvg-id="江苏卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%864K.png" group-title="重庆",江苏卫视4K
+http://14.109.226.8:4022/rtp/235.254.197.191:7980
+#EXTINF:-1 tvg-id="华数电影4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8D%8E%E6%95%B0%E7%94%B5%E5%BD%B14K.png" group-title="重庆",华数电影4K
+http://14.109.226.8:4022/rtp/235.254.198.102:7980
+#EXTINF:-1 tvg-id="华数电影4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8D%8E%E6%95%B0%E7%94%B5%E5%BD%B14K.png" group-title="重庆",华数电影4K
+http://14.109.226.8:4022/rtp/235.254.199.102:7980
+#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="重庆",CCTV1
+http://14.109.226.8:4022/rtp/235.254.199.51:7980
+#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="重庆",CCTV1
+http://14.109.226.8:4022/rtp/235.254.197.250:7980
+#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="重庆",CCTV1
+http://14.109.226.8:4022/rtp/235.254.199.147:7980
+#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="重庆",CCTV1
+http://14.109.226.8:4022/rtp/235.254.199.92:7980
+#EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="重庆",CCTV2
+http://14.109.226.8:4022/rtp/235.254.199.52:7980
+#EXTINF:-1 tvg-id="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png" group-title="重庆",CCTV3
+http://14.109.226.8:4022/rtp/235.254.199.53:7980
+#EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="重庆",CCTV4
+http://14.109.226.8:4022/rtp/235.254.198.183:7980
+#EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="重庆",CCTV4
+http://14.109.226.8:4022/rtp/235.254.199.183:7980
+#EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="重庆",CCTV5
+http://14.109.226.8:4022/rtp/235.254.199.54:7980
+#EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="重庆",CCTV5
+http://14.109.226.8:4022/rtp/235.254.199.146:7980
+#EXTINF:-1 tvg-id="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5%2B.png" group-title="重庆",CCTV5+
+http://14.109.226.8:4022/rtp/235.254.199.121:7980
+#EXTINF:-1 tvg-id="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="重庆",CCTV6
+http://14.109.226.8:4022/rtp/235.254.199.55:7980
+#EXTINF:-1 tvg-id="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="重庆",CCTV7
+http://14.109.226.8:4022/rtp/235.254.199.56:7980
+#EXTINF:-1 tvg-id="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="重庆",CCTV8
+http://14.109.226.8:4022/rtp/235.254.199.57:7980
+#EXTINF:-1 tvg-id="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="重庆",CCTV9
+http://14.109.226.8:4022/rtp/235.254.199.58:7980
+#EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="重庆",CCTV10
+http://14.109.226.8:4022/rtp/235.254.199.59:7980
+#EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="重庆",CCTV11
+http://14.109.226.8:4022/rtp/235.254.197.161:7980
+#EXTINF:-1 tvg-id="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="重庆",CCTV12
+http://14.109.226.8:4022/rtp/235.254.199.60:7980
+#EXTINF:-1 tvg-id="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="重庆",CCTV13
+http://14.109.226.8:4022/rtp/235.254.197.162:7980
+#EXTINF:-1 tvg-id="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png" group-title="重庆",CCTV14
+http://14.109.226.8:4022/rtp/235.254.199.61:7980
+#EXTINF:-1 tvg-id="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="重庆",CCTV15
+http://14.109.226.8:4022/rtp/235.254.197.163:7980
+#EXTINF:-1 tvg-id="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="重庆",CCTV17
+http://14.109.226.8:4022/rtp/235.254.198.130:7980
+#EXTINF:-1 tvg-id="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="重庆",CCTV17
+http://14.109.226.8:4022/rtp/235.254.199.130:7980
+#EXTINF:-1 tvg-id="CETV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV1.png" group-title="重庆",CETV1
+http://14.109.226.8:4022/rtp/235.254.198.196:7980
+#EXTINF:-1 tvg-id="CETV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV1.png" group-title="重庆",CETV1
+http://14.109.226.8:4022/rtp/235.254.199.196:7980
+#EXTINF:-1 tvg-id="CETV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV4.png" group-title="重庆",CETV4
+http://14.109.226.8:4022/rtp/235.254.197.53:7980
+#EXTINF:-1 tvg-id="CETV早期教育SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV%E6%97%A9%E6%9C%9F%E6%95%99%E8%82%B2SD.png" group-title="重庆",CETV早期教育SD
+http://14.109.226.8:4022/rtp/235.254.199.201:7980
+#EXTINF:-1 tvg-id="CGTNSD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTNSD.png" group-title="重庆",CGTNSD
+http://14.109.226.8:4022/rtp/235.254.197.5:7980
+#EXTINF:-1 tvg-id="CGTNSD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTNSD.png" group-title="重庆",CGTNSD
+http://14.109.226.8:4022/rtp/235.254.199.12:7980
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png" group-title="重庆",CHC影迷电影
+http://14.109.226.8:4022/rtp/235.254.198.248:7980
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png" group-title="重庆",CHC影迷电影
+http://14.109.226.8:4022/rtp/235.254.199.248:7980
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2.png" group-title="重庆",CHC家庭影院
+http://14.109.226.8:4022/rtp/235.254.198.246:7980
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2.png" group-title="重庆",CHC家庭影院
+http://14.109.226.8:4022/rtp/235.254.199.246:7980
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png" group-title="重庆",CHC动作电影
+http://14.109.226.8:4022/rtp/235.254.198.247:7980
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png" group-title="重庆",CHC动作电影
+http://14.109.226.8:4022/rtp/235.254.199.247:7980
+#EXTINF:-1 tvg-id="第一剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%AC%AC%E4%B8%80%E5%89%A7%E5%9C%BA.png" group-title="重庆",第一剧场
+http://14.109.226.8:4022/rtp/235.254.199.211:7980
+#EXTINF:-1 tvg-id="风云剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA.png" group-title="重庆",风云剧场
+http://14.109.226.8:4022/rtp/235.254.199.207:7980
+#EXTINF:-1 tvg-id="风云足球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83.png" group-title="重庆",风云足球
+http://14.109.226.8:4022/rtp/235.254.199.204:7980
+#EXTINF:-1 tvg-id="风云音乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%A3%8E%E4%BA%91%E9%9F%B3%E4%B9%90.png" group-title="重庆",风云音乐
+http://14.109.226.8:4022/rtp/235.254.199.118:7980
+#EXTINF:-1 tvg-id="风云音乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%A3%8E%E4%BA%91%E9%9F%B3%E4%B9%90.png" group-title="重庆",风云音乐
+http://14.109.226.8:4022/rtp/235.254.199.208:7980
+#EXTINF:-1 tvg-id="世界地理" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86.png" group-title="重庆",世界地理
+http://14.109.226.8:4022/rtp/235.254.199.194:7980
+#EXTINF:-1 tvg-id="电视指南" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%B5%E8%A7%86%E6%8C%87%E5%8D%97.png" group-title="重庆",电视指南
+http://14.109.226.8:4022/rtp/235.254.199.189:7980
+#EXTINF:-1 tvg-id="怀旧剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA.png" group-title="重庆",怀旧剧场
+http://14.109.226.8:4022/rtp/235.254.199.205:7980
+#EXTINF:-1 tvg-id="兵器科技" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%85%B5%E5%99%A8%E7%A7%91%E6%8A%80.png" group-title="重庆",兵器科技
+http://14.109.226.8:4022/rtp/235.254.199.202:7980
+#EXTINF:-1 tvg-id="女性时尚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A5%B3%E6%80%A7%E6%97%B6%E5%B0%9A.png" group-title="重庆",女性时尚
+http://14.109.226.8:4022/rtp/235.254.199.195:7980
+#EXTINF:-1 tvg-id="高尔夫网球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%AB%98%E5%B0%94%E5%A4%AB%E7%BD%91%E7%90%83.png" group-title="重庆",高尔夫网球
+http://14.109.226.8:4022/rtp/235.254.199.192:7980
+#EXTINF:-1 tvg-id="央视台球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83.png" group-title="重庆",央视台球
+http://14.109.226.8:4022/rtp/235.254.199.193:7980
+#EXTINF:-1 tvg-id="央视文化精品" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%AE%E8%A7%86%E6%96%87%E5%8C%96%E7%B2%BE%E5%93%81.png" group-title="重庆",央视文化精品
+http://14.109.226.8:4022/rtp/235.254.199.210:7980
+#EXTINF:-1 tvg-id="梨园频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%A2%A8%E5%9B%AD%E9%A2%91%E9%81%93.png" group-title="重庆",梨园频道
+http://14.109.226.8:4022/rtp/235.254.198.163:7980
+#EXTINF:-1 tvg-id="梨园频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%A2%A8%E5%9B%AD%E9%A2%91%E9%81%93.png" group-title="重庆",梨园频道
+http://14.109.226.8:4022/rtp/235.254.199.163:7980
+#EXTINF:-1 tvg-id="中学生" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%AD%E5%AD%A6%E7%94%9F.png" group-title="重庆",中学生
+http://14.109.226.8:4022/rtp/235.254.197.226:7980
+#EXTINF:-1 tvg-id="卫生健康" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8D%AB%E7%94%9F%E5%81%A5%E5%BA%B7.png" group-title="重庆",卫生健康
+http://14.109.226.8:4022/rtp/235.254.197.146:7980
+#EXTINF:-1 tvg-id="法治天地" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B3%95%E6%B2%BB%E5%A4%A9%E5%9C%B0.png" group-title="重庆",法治天地
+http://14.109.226.8:4022/rtp/235.254.197.154:7980
+#EXTINF:-1 tvg-id="游戏风云" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B8%B8%E6%88%8F%E9%A3%8E%E4%BA%91.png" group-title="重庆",游戏风云
+http://14.109.226.8:4022/rtp/235.254.197.159:7980
+#EXTINF:-1 tvg-id="茶频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%8C%B6%E9%A2%91%E9%81%93.png" group-title="重庆",茶频道
+http://14.109.226.8:4022/rtp/235.254.198.198:7980
+#EXTINF:-1 tvg-id="茶频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%8C%B6%E9%A2%91%E9%81%93.png" group-title="重庆",茶频道
+http://14.109.226.8:4022/rtp/235.254.199.198:7980
+#EXTINF:-1 tvg-id="金色学堂" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%91%E8%89%B2%E5%AD%A6%E5%A0%82.png" group-title="重庆",金色学堂
+http://14.109.226.8:4022/rtp/235.254.197.157:7980
+#EXTINF:-1 tvg-id="武术世界" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%AD%A6%E6%9C%AF%E4%B8%96%E7%95%8C.png" group-title="重庆",武术世界
+http://14.109.226.8:4022/rtp/235.254.198.107:7980
+#EXTINF:-1 tvg-id="武术世界" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%AD%A6%E6%9C%AF%E4%B8%96%E7%95%8C.png" group-title="重庆",武术世界
+http://14.109.226.8:4022/rtp/235.254.199.107:7980
+#EXTINF:-1 tvg-id="书法频道SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B9%A6%E6%B3%95%E9%A2%91%E9%81%93SD.png" group-title="重庆",书法频道SD
+http://14.109.226.8:4022/rtp/235.254.198.199:7980
+#EXTINF:-1 tvg-id="书法频道SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B9%A6%E6%B3%95%E9%A2%91%E9%81%93SD.png" group-title="重庆",书法频道SD
+http://14.109.226.8:4022/rtp/235.254.199.199:7980
+#EXTINF:-1 tvg-id="文物宝库" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%96%87%E7%89%A9%E5%AE%9D%E5%BA%93.png" group-title="重庆",文物宝库
+http://14.109.226.8:4022/rtp/235.254.198.132:7980
+#EXTINF:-1 tvg-id="文物宝库" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%96%87%E7%89%A9%E5%AE%9D%E5%BA%93.png" group-title="重庆",文物宝库
+http://14.109.226.8:4022/rtp/235.254.199.132:7980
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93.png" group-title="重庆",快乐垂钓
+http://14.109.226.8:4022/rtp/235.254.198.191:7980
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93.png" group-title="重庆",快乐垂钓
+http://14.109.226.8:4022/rtp/235.254.199.191:7980
+#EXTINF:-1 tvg-id="生活时尚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9A.png" group-title="重庆",生活时尚
+http://14.109.226.8:4022/rtp/235.254.197.160:7980
+#EXTINF:-1 tvg-id="中国交通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%AD%E5%9B%BD%E4%BA%A4%E9%80%9A.png" group-title="重庆",中国交通
+http://14.109.226.8:4022/rtp/235.254.197.145:7980
+#EXTINF:-1 tvg-id="优优宝贝" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BC%98%E4%BC%98%E5%AE%9D%E8%B4%9D.png" group-title="重庆",优优宝贝
+http://14.109.226.8:4022/rtp/235.254.197.137:7980
+#EXTINF:-1 tvg-id="乐游" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B9%90%E6%B8%B8.png" group-title="重庆",乐游
+http://14.109.226.8:4022/rtp/235.254.197.153:7980
+#EXTINF:-1 tvg-id="动漫秀场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BA.png" group-title="重庆",动漫秀场
+http://14.109.226.8:4022/rtp/235.254.197.152:7980
+#EXTINF:-1 tvg-id="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86.png" group-title="重庆",重庆卫视
+http://14.109.226.8:4022/rtp/235.254.197.237:7980
+#EXTINF:-1 tvg-id="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="重庆",江苏卫视
+http://14.109.226.8:4022/rtp/235.254.199.64:7980
+#EXTINF:-1 tvg-id="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="重庆",浙江卫视
+http://14.109.226.8:4022/rtp/235.254.199.63:7980
+#EXTINF:-1 tvg-id="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="重庆",东方卫视
+http://14.109.226.8:4022/rtp/235.254.199.73:7980
+#EXTINF:-1 tvg-id="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png" group-title="重庆",深圳卫视
+http://14.109.226.8:4022/rtp/235.254.199.71:7980
+#EXTINF:-1 tvg-id="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png" group-title="重庆",北京卫视
+http://14.109.226.8:4022/rtp/235.254.199.66:7980
+#EXTINF:-1 tvg-id="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="重庆",山东卫视
+http://14.109.226.8:4022/rtp/235.254.199.69:7980
+#EXTINF:-1 tvg-id="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png" group-title="重庆",天津卫视
+http://14.109.226.8:4022/rtp/235.254.199.67:7980
+#EXTINF:-1 tvg-id="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png" group-title="重庆",贵州卫视
+http://14.109.226.8:4022/rtp/235.254.198.185:7980
+#EXTINF:-1 tvg-id="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png" group-title="重庆",贵州卫视
+http://14.109.226.8:4022/rtp/235.254.199.185:7980
+#EXTINF:-1 tvg-id="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png" group-title="重庆",四川卫视
+http://14.109.226.8:4022/rtp/235.254.198.175:7980
+#EXTINF:-1 tvg-id="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png" group-title="重庆",四川卫视
+http://14.109.226.8:4022/rtp/235.254.199.175:7980
+#EXTINF:-1 tvg-id="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="重庆",云南卫视
+http://14.109.226.8:4022/rtp/235.254.197.177:7980
+#EXTINF:-1 tvg-id="广西卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",广西卫视SD
+http://14.109.226.8:4022/rtp/235.254.197.22:7980
+#EXTINF:-1 tvg-id="广西卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",广西卫视SD
+http://14.109.226.8:4022/rtp/235.254.199.38:7980
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="重庆",黑龙江卫视
+http://14.109.226.8:4022/rtp/235.254.197.243:7980
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="重庆",黑龙江卫视
+http://14.109.226.8:4022/rtp/235.254.199.70:7980
+#EXTINF:-1 tvg-id="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="重庆",安徽卫视
+http://14.109.226.8:4022/rtp/235.254.199.65:7980
+#EXTINF:-1 tvg-id="山西卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",山西卫视SD
+http://14.109.226.8:4022/rtp/235.254.197.31:7980
+#EXTINF:-1 tvg-id="山西卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",山西卫视SD
+http://14.109.226.8:4022/rtp/235.254.199.41:7980
+#EXTINF:-1 tvg-id="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="重庆",江西卫视
+http://14.109.226.8:4022/rtp/235.254.198.190:7980
+#EXTINF:-1 tvg-id="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="重庆",江西卫视
+http://14.109.226.8:4022/rtp/235.254.199.190:7980
+#EXTINF:-1 tvg-id="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="重庆",湖北卫视
+http://14.109.226.8:4022/rtp/235.254.199.72:7980
+#EXTINF:-1 tvg-id="旅游卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%97%85%E6%B8%B8%E5%8D%AB%E8%A7%86.png" group-title="重庆",旅游卫视
+http://14.109.226.8:4022/rtp/235.254.198.176:7980
+#EXTINF:-1 tvg-id="旅游卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%97%85%E6%B8%B8%E5%8D%AB%E8%A7%86.png" group-title="重庆",旅游卫视
+http://14.109.226.8:4022/rtp/235.254.199.176:7980
+#EXTINF:-1 tvg-id="陕西卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",陕西卫视SD
+http://14.109.226.8:4022/rtp/235.254.199.40:7980
+#EXTINF:-1 tvg-id="陕西卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",陕西卫视SD
+http://14.109.226.8:4022/rtp/235.254.197.36:7980
+#EXTINF:-1 tvg-id="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="重庆",东南卫视
+http://14.109.226.8:4022/rtp/235.254.198.129:7980
+#EXTINF:-1 tvg-id="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="重庆",东南卫视
+http://14.109.226.8:4022/rtp/235.254.199.129:7980
+#EXTINF:-1 tvg-id="吉林卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",吉林卫视SD
+http://14.109.226.8:4022/rtp/235.254.197.29:7980
+#EXTINF:-1 tvg-id="吉林卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",吉林卫视SD
+http://14.109.226.8:4022/rtp/235.254.199.39:7980
+#EXTINF:-1 tvg-id="吉林卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",吉林卫视SD
+http://14.109.226.8:4022/rtp/235.254.199.138:7980
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png" group-title="重庆",辽宁卫视
+http://14.109.226.8:4022/rtp/235.254.199.68:7980
+#EXTINF:-1 tvg-id="内蒙古卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",内蒙古卫视SD
+http://14.109.226.8:4022/rtp/235.254.197.169:7980
+#EXTINF:-1 tvg-id="内蒙古卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",内蒙古卫视SD
+http://14.109.226.8:4022/rtp/235.254.199.42:7980
+#EXTINF:-1 tvg-id="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="重庆",湖南卫视
+http://14.109.226.8:4022/rtp/235.254.199.62:7980
+#EXTINF:-1 tvg-id="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="重庆",广东卫视
+http://14.109.226.8:4022/rtp/235.254.197.186:7980
+#EXTINF:-1 tvg-id="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="重庆",河南卫视
+http://14.109.226.8:4022/rtp/235.254.198.135:7980
+#EXTINF:-1 tvg-id="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="重庆",河南卫视
+http://14.109.226.8:4022/rtp/235.254.199.135:7980
+#EXTINF:-1 tvg-id="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="重庆",河北卫视
+http://14.109.226.8:4022/rtp/235.254.198.184:7980
+#EXTINF:-1 tvg-id="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="重庆",河北卫视
+http://14.109.226.8:4022/rtp/235.254.199.184:7980
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png" group-title="重庆",宁夏卫视
+http://14.109.226.8:4022/rtp/235.254.197.138:7980
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png" group-title="重庆",甘肃卫视
+http://14.109.226.8:4022/rtp/235.254.197.176:7980
+#EXTINF:-1 tvg-id="青海卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",青海卫视SD
+http://14.109.226.8:4022/rtp/235.254.197.129:7980
+#EXTINF:-1 tvg-id="青海卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",青海卫视SD
+http://14.109.226.8:4022/rtp/235.254.199.43:7980
+#EXTINF:-1 tvg-id="新疆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png" group-title="重庆",新疆卫视
+http://14.109.226.8:4022/rtp/235.254.197.178:7980
+#EXTINF:-1 tvg-id="西藏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png" group-title="重庆",西藏卫视
+http://14.109.226.8:4022/rtp/235.254.197.184:7980
+#EXTINF:-1 tvg-id="兵团卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86.png" group-title="重庆",兵团卫视
+http://14.109.226.8:4022/rtp/235.254.197.183:7980
+#EXTINF:-1 tvg-id="金鹰卡通SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9ASD.png" group-title="重庆",金鹰卡通SD
+http://14.109.226.8:4022/rtp/235.254.199.50:7980
+#EXTINF:-1 tvg-id="金鹰卡通SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9ASD.png" group-title="重庆",金鹰卡通SD
+http://14.109.226.8:4022/rtp/235.254.197.165:7980
+#EXTINF:-1 tvg-id="嘉佳卡通SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9ASD.png" group-title="重庆",嘉佳卡通SD
+http://14.109.226.8:4022/rtp/235.254.197.182:7980
+#EXTINF:-1 tvg-id="嘉佳卡通SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9ASD.png" group-title="重庆",嘉佳卡通SD
+http://14.109.226.8:4022/rtp/235.254.199.110:7980
+#EXTINF:-1 tvg-id="卡酷少儿SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BFSD.png" group-title="重庆",卡酷少儿SD
+http://14.109.226.8:4022/rtp/235.254.197.166:7980
+#EXTINF:-1 tvg-id="卡酷少儿SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BFSD.png" group-title="重庆",卡酷少儿SD
+http://14.109.226.8:4022/rtp/235.254.199.49:7980
+#EXTINF:-1 tvg-id="山东教育卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86.png" group-title="重庆",山东教育卫视
+http://14.109.226.8:4022/rtp/235.254.197.54:7980
+#EXTINF:-1 tvg-id="东方财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E6%96%B9%E8%B4%A2%E7%BB%8F.png" group-title="重庆",东方财经
+http://14.109.226.8:4022/rtp/235.254.198.103:7980
+#EXTINF:-1 tvg-id="东方财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E6%96%B9%E8%B4%A2%E7%BB%8F.png" group-title="重庆",东方财经
+http://14.109.226.8:4022/rtp/235.254.199.103:7980
+#EXTINF:-1 tvg-id="都市剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%83%BD%E5%B8%82%E5%89%A7%E5%9C%BA.png" group-title="重庆",都市剧场
+http://14.109.226.8:4022/rtp/235.254.197.151:7980
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA.png" group-title="重庆",欢笑剧场
+http://14.109.226.8:4022/rtp/235.254.197.150:7980
+#EXTINF:-1 tvg-id="重庆新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E6%96%B0%E9%97%BB.png" group-title="重庆",重庆新闻
+http://14.109.226.8:4022/rtp/235.254.197.199:7980
+#EXTINF:-1 tvg-id="重庆影视剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E5%BD%B1%E8%A7%86%E5%89%A7.png" group-title="重庆",重庆影视剧
+http://14.109.226.8:4022/rtp/235.254.198.180:7980
+#EXTINF:-1 tvg-id="重庆影视剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E5%BD%B1%E8%A7%86%E5%89%A7.png" group-title="重庆",重庆影视剧
+http://14.109.226.8:4022/rtp/235.254.199.180:7980
+#EXTINF:-1 tvg-id="重庆文体娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E6%96%87%E4%BD%93%E5%A8%B1%E4%B9%90.png" group-title="重庆",重庆文体娱乐
+http://14.109.226.8:4022/rtp/235.254.198.187:7980
+#EXTINF:-1 tvg-id="重庆文体娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E6%96%87%E4%BD%93%E5%A8%B1%E4%B9%90.png" group-title="重庆",重庆文体娱乐
+http://14.109.226.8:4022/rtp/235.254.199.187:7980
+#EXTINF:-1 tvg-id="重庆新农村" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E6%96%B0%E5%86%9C%E6%9D%91.png" group-title="重庆",重庆新农村
+http://14.109.226.8:4022/rtp/235.254.198.186:7980
+#EXTINF:-1 tvg-id="重庆新农村" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E6%96%B0%E5%86%9C%E6%9D%91.png" group-title="重庆",重庆新农村
+http://14.109.226.8:4022/rtp/235.254.199.186:7980
+#EXTINF:-1 tvg-id="重庆少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E5%B0%91%E5%84%BF.png" group-title="重庆",重庆少儿
+http://14.109.226.8:4022/rtp/235.254.198.166:7980
+#EXTINF:-1 tvg-id="重庆少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E5%B0%91%E5%84%BF.png" group-title="重庆",重庆少儿
+http://14.109.226.8:4022/rtp/235.254.199.166:7980
+#EXTINF:-1 tvg-id="重庆社会与法" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95.png" group-title="重庆",重庆社会与法
+http://14.109.226.8:4022/rtp/235.254.198.181:7980
+#EXTINF:-1 tvg-id="重庆社会与法" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95.png" group-title="重庆",重庆社会与法
+http://14.109.226.8:4022/rtp/235.254.199.181:7980
+#EXTINF:-1 tvg-id="重庆红叶" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E7%BA%A2%E5%8F%B6.png" group-title="重庆",重庆红叶
+http://14.109.226.8:4022/rtp/235.254.198.188:7980
+#EXTINF:-1 tvg-id="重庆红叶" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E7%BA%A2%E5%8F%B6.png" group-title="重庆",重庆红叶
+http://14.109.226.8:4022/rtp/235.254.199.188:7980
+#EXTINF:-1 tvg-id="重庆红岩文化" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E7%BA%A2%E5%B2%A9%E6%96%87%E5%8C%96.png" group-title="重庆",重庆红岩文化
+http://14.109.226.8:4022/rtp/235.254.198.182:7980
+#EXTINF:-1 tvg-id="重庆红岩文化" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E7%BA%A2%E5%B2%A9%E6%96%87%E5%8C%96.png" group-title="重庆",重庆红岩文化
+http://14.109.226.8:4022/rtp/235.254.199.182:7980
+#EXTINF:-1 tvg-id="重庆汽摩" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E6%B1%BD%E6%91%A9.png" group-title="重庆",重庆汽摩
+http://14.109.226.8:4022/rtp/235.254.198.169:7980
+#EXTINF:-1 tvg-id="重庆汽摩" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E6%B1%BD%E6%91%A9.png" group-title="重庆",重庆汽摩
+http://14.109.226.8:4022/rtp/235.254.199.169:7980
+#EXTINF:-1 tvg-id="重庆移动" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E7%A7%BB%E5%8A%A8.png" group-title="重庆",重庆移动
+http://14.109.226.8:4022/rtp/235.254.198.170:7980
+#EXTINF:-1 tvg-id="重庆移动" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E7%A7%BB%E5%8A%A8.png" group-title="重庆",重庆移动
+http://14.109.226.8:4022/rtp/235.254.199.170:7980
+#EXTINF:-1 tvg-id="重广融媒" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%B9%BF%E8%9E%8D%E5%AA%92.png" group-title="重庆",重广融媒
+http://14.109.226.8:4022/rtp/235.254.197.114:7980
+#EXTINF:-1 tvg-id="万州文旅SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%87%E5%B7%9E%E6%96%87%E6%97%85SD.png" group-title="重庆",万州文旅SD
+http://14.109.226.8:4022/rtp/235.254.198.200:7980
+#EXTINF:-1 tvg-id="万州文旅SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%87%E5%B7%9E%E6%96%87%E6%97%85SD.png" group-title="重庆",万州文旅SD
+http://14.109.226.8:4022/rtp/235.254.199.200:7980
+#EXTINF:-1 tvg-id="开州综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%BC%80%E5%B7%9E%E7%BB%BC%E5%90%88.png" group-title="重庆",开州综合
+http://14.109.226.8:4022/rtp/235.254.198.203:7980
+#EXTINF:-1 tvg-id="开州综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%BC%80%E5%B7%9E%E7%BB%BC%E5%90%88.png" group-title="重庆",开州综合
+http://14.109.226.8:4022/rtp/235.254.199.203:7980
+#EXTINF:-1 tvg-id="开州综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%BC%80%E5%B7%9E%E7%BB%BC%E5%90%88.png" group-title="重庆",开州综合
+http://14.109.226.8:4022/rtp/235.254.199.145:7980
+#EXTINF:-1 tvg-id="城口综合SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9F%8E%E5%8F%A3%E7%BB%BC%E5%90%88SD.png" group-title="重庆",城口综合SD
+http://14.109.226.8:4022/rtp/235.254.198.218:7980
+#EXTINF:-1 tvg-id="城口综合SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9F%8E%E5%8F%A3%E7%BB%BC%E5%90%88SD.png" group-title="重庆",城口综合SD
+http://14.109.226.8:4022/rtp/235.254.199.218:7980
+#EXTINF:-1 tvg-id="巫溪综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B7%AB%E6%BA%AA%E7%BB%BC%E5%90%88.png" group-title="重庆",巫溪综合
+http://14.109.226.8:4022/rtp/235.254.198.215:7980
+#EXTINF:-1 tvg-id="巫溪综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B7%AB%E6%BA%AA%E7%BB%BC%E5%90%88.png" group-title="重庆",巫溪综合
+http://14.109.226.8:4022/rtp/235.254.199.215:7980
+#EXTINF:-1 tvg-id="巫山综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B7%AB%E5%B1%B1%E7%BB%BC%E5%90%88.png" group-title="重庆",巫山综合
+http://14.109.226.8:4022/rtp/235.254.198.212:7980
+#EXTINF:-1 tvg-id="巫山综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B7%AB%E5%B1%B1%E7%BB%BC%E5%90%88.png" group-title="重庆",巫山综合
+http://14.109.226.8:4022/rtp/235.254.199.212:7980
+#EXTINF:-1 tvg-id="丰都综合SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%B0%E9%83%BD%E7%BB%BC%E5%90%88SD.png" group-title="重庆",丰都综合SD
+http://14.109.226.8:4022/rtp/235.254.198.221:7980
+#EXTINF:-1 tvg-id="丰都综合SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%B0%E9%83%BD%E7%BB%BC%E5%90%88SD.png" group-title="重庆",丰都综合SD
+http://14.109.226.8:4022/rtp/235.254.199.221:7980
+#EXTINF:-1 tvg-id="酉阳综合SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%85%89%E9%98%B3%E7%BB%BC%E5%90%88SD.png" group-title="重庆",酉阳综合SD
+http://14.109.226.8:4022/rtp/235.254.198.236:7980
+#EXTINF:-1 tvg-id="酉阳综合SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%85%89%E9%98%B3%E7%BB%BC%E5%90%88SD.png" group-title="重庆",酉阳综合SD
+http://14.109.226.8:4022/rtp/235.254.199.236:7980
+#EXTINF:-1 tvg-id="石柱综合SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%9F%B3%E6%9F%B1%E7%BB%BC%E5%90%88SD.png" group-title="重庆",石柱综合SD
+http://14.109.226.8:4022/rtp/235.254.198.224:7980
+#EXTINF:-1 tvg-id="石柱综合SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%9F%B3%E6%9F%B1%E7%BB%BC%E5%90%88SD.png" group-title="重庆",石柱综合SD
+http://14.109.226.8:4022/rtp/235.254.199.224:7980
+#EXTINF:-1 tvg-id="武隆综合SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%AD%A6%E9%9A%86%E7%BB%BC%E5%90%88SD.png" group-title="重庆",武隆综合SD
+http://14.109.226.8:4022/rtp/235.254.198.227:7980
+#EXTINF:-1 tvg-id="武隆综合SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%AD%A6%E9%9A%86%E7%BB%BC%E5%90%88SD.png" group-title="重庆",武隆综合SD
+http://14.109.226.8:4022/rtp/235.254.199.227:7980
+#EXTINF:-1 tvg-id="IPTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV3.png" group-title="重庆",IPTV3
+http://14.109.226.8:4022/rtp/235.254.199.13:7980
+#EXTINF:-1 tvg-id="IPTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV5.png" group-title="重庆",IPTV5
+http://14.109.226.8:4022/rtp/235.254.199.14:7980
+#EXTINF:-1 tvg-id="央视网CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%AE%E8%A7%86%E7%BD%91CCTV3.png" group-title="重庆",央视网CCTV3
+http://14.109.226.8:4022/rtp/235.254.199.88:7980
+#EXTINF:-1 tvg-id="央视网CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%AE%E8%A7%86%E7%BD%91CCTV5.png" group-title="重庆",央视网CCTV5
+http://14.109.226.8:4022/rtp/235.254.199.96:7980
+#EXTINF:-1 tvg-id="央视网CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%AE%E8%A7%86%E7%BD%91CCTV10.png" group-title="重庆",央视网CCTV10
+http://14.109.226.8:4022/rtp/235.254.199.82:7980
+#EXTINF:-1 tvg-id="求索记录" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%82%E7%B4%A2%E8%AE%B0%E5%BD%95.png" group-title="重庆",求索记录
+http://14.109.226.8:4022/rtp/235.254.198.251:7980
+#EXTINF:-1 tvg-id="求索记录" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%82%E7%B4%A2%E8%AE%B0%E5%BD%95.png" group-title="重庆",求索记录
+http://14.109.226.8:4022/rtp/235.254.199.251:7980
+#EXTINF:-1 tvg-id="精彩导视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%B2%BE%E5%BD%A9%E5%AF%BC%E8%A7%86.png" group-title="重庆",精彩导视
+http://14.109.226.8:4022/rtp/235.254.197.127:7980
+#EXTINF:-1 tvg-id="精彩导视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%B2%BE%E5%BD%A9%E5%AF%BC%E8%A7%86.png" group-title="重庆",精彩导视
+http://14.109.226.8:4022/rtp/235.254.199.250:7980
+#EXTINF:-1 tvg-id="IPTV1+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV1%2B.png" group-title="重庆",IPTV1+
+http://14.109.226.8:4022/rtp/235.254.199.80:7980
+#EXTINF:-1 tvg-id="IPTV7+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV7%2B.png" group-title="重庆",IPTV7+
+http://14.109.226.8:4022/rtp/235.254.199.83:7980
+#EXTINF:-1 tvg-id="IPTV9+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV9%2B.png" group-title="重庆",IPTV9+
+http://14.109.226.8:4022/rtp/235.254.199.94:7980
+#EXTINF:-1 tvg-id="IPTV10+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV10%2B.png" group-title="重庆",IPTV10+
+http://14.109.226.8:4022/rtp/235.254.199.119:7980
+#EXTINF:-1 tvg-id="IPTV15+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV15%2B.png" group-title="重庆",IPTV15+
+http://14.109.226.8:4022/rtp/235.254.199.77:7980
+#EXTINF:-1 tvg-id="IPTV少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E5%B0%91%E5%84%BF.png" group-title="重庆",IPTV少儿
+http://14.109.226.8:4022/rtp/235.254.199.15:7980
+#EXTINF:-1 tvg-id="IPTV电视剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%94%B5%E8%A7%86%E5%89%A7.png" group-title="重庆",IPTV电视剧
+http://14.109.226.8:4022/rtp/235.254.199.74:7980
+#EXTINF:-1 tvg-id="华数卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8D%8E%E6%95%B0%E5%8D%A1%E9%80%9A.png" group-title="重庆",华数卡通
+http://14.109.226.8:4022/rtp/235.254.199.87:7980
+#EXTINF:-1 tvg-id="华数电影1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8D%8E%E6%95%B0%E7%94%B5%E5%BD%B11.png" group-title="重庆",华数电影1
+http://14.109.226.8:4022/rtp/235.254.199.116:7980
+#EXTINF:-1 tvg-id="华数电影2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8D%8E%E6%95%B0%E7%94%B5%E5%BD%B12.png" group-title="重庆",华数电影2
+http://14.109.226.8:4022/rtp/235.254.199.114:7980
+#EXTINF:-1 tvg-id="华数电影3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8D%8E%E6%95%B0%E7%94%B5%E5%BD%B13.png" group-title="重庆",华数电影3
+http://14.109.226.8:4022/rtp/235.254.199.81:7980
+#EXTINF:-1 tvg-id="华数电影4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8D%8E%E6%95%B0%E7%94%B5%E5%BD%B14.png" group-title="重庆",华数电影4
+http://14.109.226.8:4022/rtp/235.254.199.98:7980
+#EXTINF:-1 tvg-id="华数电影5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8D%8E%E6%95%B0%E7%94%B5%E5%BD%B15.png" group-title="重庆",华数电影5
+http://14.109.226.8:4022/rtp/235.254.199.99:7980
+#EXTINF:-1 tvg-id="华数电影6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8D%8E%E6%95%B0%E7%94%B5%E5%BD%B16.png" group-title="重庆",华数电影6
+http://14.109.226.8:4022/rtp/235.254.199.100:7980
+#EXTINF:-1 tvg-id="华数电影7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8D%8E%E6%95%B0%E7%94%B5%E5%BD%B17.png" group-title="重庆",华数电影7
+http://14.109.226.8:4022/rtp/235.254.199.101:7980
+#EXTINF:-1 tvg-id="华数电视剧1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8D%8E%E6%95%B0%E7%94%B5%E8%A7%86%E5%89%A71.png" group-title="重庆",华数电视剧1
+http://14.109.226.8:4022/rtp/235.254.199.115:7980
+#EXTINF:-1 tvg-id="华数电视剧2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8D%8E%E6%95%B0%E7%94%B5%E8%A7%86%E5%89%A72.png" group-title="重庆",华数电视剧2
+http://14.109.226.8:4022/rtp/235.254.199.16:7980
+#EXTINF:-1 tvg-id="华数电视剧3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8D%8E%E6%95%B0%E7%94%B5%E8%A7%86%E5%89%A73.png" group-title="重庆",华数电视剧3
+http://14.109.226.8:4022/rtp/235.254.199.117:7980
+#EXTINF:-1 tvg-id="华数电视剧4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8D%8E%E6%95%B0%E7%94%B5%E8%A7%86%E5%89%A74.png" group-title="重庆",华数电视剧4
+http://14.109.226.8:4022/rtp/235.254.199.113:7980
+#EXTINF:-1 tvg-id="华数电视剧5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8D%8E%E6%95%B0%E7%94%B5%E8%A7%86%E5%89%A75.png" group-title="重庆",华数电视剧5
+http://14.109.226.8:4022/rtp/235.254.199.75:7980
+#EXTINF:-1 tvg-id="华数电视剧6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8D%8E%E6%95%B0%E7%94%B5%E8%A7%86%E5%89%A76.png" group-title="重庆",华数电视剧6
+http://14.109.226.8:4022/rtp/235.254.199.76:7980
+#EXTINF:-1 tvg-id="华数电视剧7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8D%8E%E6%95%B0%E7%94%B5%E8%A7%86%E5%89%A77.png" group-title="重庆",华数电视剧7
+http://14.109.226.8:4022/rtp/235.254.199.91:7980
+#EXTINF:-1 tvg-id="华数电视剧8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8D%8E%E6%95%B0%E7%94%B5%E8%A7%86%E5%89%A78.png" group-title="重庆",华数电视剧8
+http://14.109.226.8:4022/rtp/235.254.199.97:7980
+#EXTINF:-1 tvg-id="央视网CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%AE%E8%A7%86%E7%BD%91CCTV1.png" group-title="重庆",央视网CCTV1
+http://14.109.226.8:4022/rtp/235.254.199.79:7980
+#EXTINF:-1 tvg-id="央视网CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%AE%E8%A7%86%E7%BD%91CCTV4.png" group-title="重庆",央视网CCTV4
+http://14.109.226.8:4022/rtp/235.254.199.78:7980
+#EXTINF:-1 tvg-id="未识别SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%9C%AA%E8%AF%86%E5%88%ABSD.png" group-title="重庆",未识别SD
+http://14.109.226.8:4022/rtp/235.254.198.233:7980
+#EXTINF:-1 tvg-id="游戏直播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B8%B8%E6%88%8F%E7%9B%B4%E6%92%AD.png" group-title="重庆",游戏直播
+http://14.109.226.8:4022/rtp/235.254.198.134:7980
+#EXTINF:-1 tvg-id="游戏直播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B8%B8%E6%88%8F%E7%9B%B4%E6%92%AD.png" group-title="重庆",游戏直播
+http://14.109.226.8:4022/rtp/235.254.198.161:7980
+#EXTINF:-1 tvg-id="游戏直播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B8%B8%E6%88%8F%E7%9B%B4%E6%92%AD.png" group-title="重庆",游戏直播
+http://14.109.226.8:4022/rtp/235.254.199.161:7980
+#EXTINF:-1 tvg-id="游戏直播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B8%B8%E6%88%8F%E7%9B%B4%E6%92%AD.png" group-title="重庆",游戏直播
+http://14.109.226.8:4022/rtp/235.254.199.134:7980
+#EXTINF:-1 tvg-id="电影4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%B5%E5%BD%B14.png" group-title="重庆",电影4
+http://14.109.226.8:4022/rtp/235.254.199.95:7980
+#EXTINF:-1 tvg-id="百事通宣传2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%99%BE%E4%BA%8B%E9%80%9A%E5%AE%A3%E4%BC%A02.png" group-title="重庆",百事通宣传2
+http://14.109.226.8:4022/rtp/235.254.197.235:7980
+#EXTINF:-1 tvg-id="百事通宣传" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%99%BE%E4%BA%8B%E9%80%9A%E5%AE%A3%E4%BC%A0.png" group-title="重庆",百事通宣传
+http://14.109.226.8:4022/rtp/235.254.197.130:7980
+#EXTINF:-1 tvg-id="百事通宣传" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%99%BE%E4%BA%8B%E9%80%9A%E5%AE%A3%E4%BC%A0.png" group-title="重庆",百事通宣传
+http://14.109.226.8:4022/rtp/235.254.197.131:7980
+#EXTINF:-1 tvg-id="百事通宣传" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%99%BE%E4%BA%8B%E9%80%9A%E5%AE%A3%E4%BC%A0.png" group-title="重庆",百事通宣传
+http://14.109.226.8:4022/rtp/235.254.197.132:7980
+#EXTINF:-1 tvg-id="百事通宣传" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%99%BE%E4%BA%8B%E9%80%9A%E5%AE%A3%E4%BC%A0.png" group-title="重庆",百事通宣传
+http://14.109.226.8:4022/rtp/235.254.197.133:7980
+#EXTINF:-1 tvg-id="百事通宣传" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%99%BE%E4%BA%8B%E9%80%9A%E5%AE%A3%E4%BC%A0.png" group-title="重庆",百事通宣传
+http://14.109.226.8:4022/rtp/235.254.197.134:7980
+#EXTINF:-1 tvg-id="百事通宣传" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%99%BE%E4%BA%8B%E9%80%9A%E5%AE%A3%E4%BC%A0.png" group-title="重庆",百事通宣传
+http://14.109.226.8:4022/rtp/235.254.197.135:7980
+#EXTINF:-1 tvg-id="百事通宣传" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%99%BE%E4%BA%8B%E9%80%9A%E5%AE%A3%E4%BC%A0.png" group-title="重庆",百事通宣传
+http://14.109.226.8:4022/rtp/235.254.197.136:7980
+#EXTINF:-1 tvg-id="百事通宣传" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%99%BE%E4%BA%8B%E9%80%9A%E5%AE%A3%E4%BC%A0.png" group-title="重庆",百事通宣传
+http://14.109.226.8:4022/rtp/235.254.197.233:7980
+#EXTINF:-1 tvg-id="百事通宣传" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%99%BE%E4%BA%8B%E9%80%9A%E5%AE%A3%E4%BC%A0.png" group-title="重庆",百事通宣传
+http://14.109.226.8:4022/rtp/235.254.197.236:7980
+#EXTINF:-1 tvg-id="精采导视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%B2%BE%E9%87%87%E5%AF%BC%E8%A7%86.png" group-title="重庆",精采导视
+http://14.109.226.8:4022/rtp/235.254.198.250:7980
+#EXTINF:-1 tvg-id="节目预估SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%8A%82%E7%9B%AE%E9%A2%84%E4%BC%B0SD.png" group-title="重庆",节目预估SD
+http://14.109.226.8:4022/rtp/235.254.197.51:7980
+#EXTINF:-1 tvg-id="重庆电信宣传SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E7%94%B5%E4%BF%A1%E5%AE%A3%E4%BC%A0SD.png" group-title="重庆",重庆电信宣传SD
+http://14.109.226.8:4022/rtp/235.254.198.209:7980
+#EXTINF:-1 tvg-id="CCTV1SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1SD.png" group-title="重庆",CCTV1SD
+http://14.109.226.8:4022/rtp/235.254.197.1:7980
+#EXTINF:-1 tvg-id="CCTV1SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1SD.png" group-title="重庆",CCTV1SD
+http://14.109.226.8:4022/rtp/235.254.199.1:7980
+#EXTINF:-1 tvg-id="CCTV2SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2SD.png" group-title="重庆",CCTV2SD
+http://14.109.226.8:4022/rtp/235.254.197.2:7980
+#EXTINF:-1 tvg-id="CCTV2SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2SD.png" group-title="重庆",CCTV2SD
+http://14.109.226.8:4022/rtp/235.254.199.2:7980
+#EXTINF:-1 tvg-id="CCTV3SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3SD.png" group-title="重庆",CCTV3SD
+http://14.109.226.8:4022/rtp/235.254.199.141:7980
+#EXTINF:-1 tvg-id="CCTV4SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4SD.png" group-title="重庆",CCTV4SD
+http://14.109.226.8:4022/rtp/235.254.197.3:7980
+#EXTINF:-1 tvg-id="CCTV4SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4SD.png" group-title="重庆",CCTV4SD
+http://14.109.226.8:4022/rtp/235.254.199.3:7980
+#EXTINF:-1 tvg-id="CCTV5SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5SD.png" group-title="重庆",CCTV5SD
+http://14.109.226.8:4022/rtp/235.254.199.142:7980
+#EXTINF:-1 tvg-id="CCTV6SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6SD.png" group-title="重庆",CCTV6SD
+http://14.109.226.8:4022/rtp/235.254.199.143:7980
+#EXTINF:-1 tvg-id="CCTV7SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7SD.png" group-title="重庆",CCTV7SD
+http://14.109.226.8:4022/rtp/235.254.199.4:7980
+#EXTINF:-1 tvg-id="CCTV7SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7SD.png" group-title="重庆",CCTV7SD
+http://14.109.226.8:4022/rtp/235.254.197.4:7980
+#EXTINF:-1 tvg-id="CCTV8SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8SD.png" group-title="重庆",CCTV8SD
+http://14.109.226.8:4022/rtp/235.254.199.144:7980
+#EXTINF:-1 tvg-id="CCTV9SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9SD.png" group-title="重庆",CCTV9SD
+http://14.109.226.8:4022/rtp/235.254.199.5:7980
+#EXTINF:-1 tvg-id="CCTV10SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10SD.png" group-title="重庆",CCTV10SD
+http://14.109.226.8:4022/rtp/235.254.197.6:7980
+#EXTINF:-1 tvg-id="CCTV10SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10SD.png" group-title="重庆",CCTV10SD
+http://14.109.226.8:4022/rtp/235.254.199.6:7980
+#EXTINF:-1 tvg-id="CCTV11SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11SD.png" group-title="重庆",CCTV11SD
+http://14.109.226.8:4022/rtp/235.254.197.7:7980
+#EXTINF:-1 tvg-id="CCTV11SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11SD.png" group-title="重庆",CCTV11SD
+http://14.109.226.8:4022/rtp/235.254.199.7:7980
+#EXTINF:-1 tvg-id="CCTV12SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12SD.png" group-title="重庆",CCTV12SD
+http://14.109.226.8:4022/rtp/235.254.199.8:7980
+#EXTINF:-1 tvg-id="CCTV12SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12SD.png" group-title="重庆",CCTV12SD
+http://14.109.226.8:4022/rtp/235.254.197.8:7980
+#EXTINF:-1 tvg-id="CCTV13SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13SD.png" group-title="重庆",CCTV13SD
+http://14.109.226.8:4022/rtp/235.254.197.9:7980
+#EXTINF:-1 tvg-id="CCTV13SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13SD.png" group-title="重庆",CCTV13SD
+http://14.109.226.8:4022/rtp/235.254.199.9:7980
+#EXTINF:-1 tvg-id="CCTV14SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14SD.png" group-title="重庆",CCTV14SD
+http://14.109.226.8:4022/rtp/235.254.197.10:7980
+#EXTINF:-1 tvg-id="CCTV14SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14SD.png" group-title="重庆",CCTV14SD
+http://14.109.226.8:4022/rtp/235.254.199.10:7980
+#EXTINF:-1 tvg-id="CCTV15SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15SD.png" group-title="重庆",CCTV15SD
+http://14.109.226.8:4022/rtp/235.254.197.11:7980
+#EXTINF:-1 tvg-id="CCTV15SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15SD.png" group-title="重庆",CCTV15SD
+http://14.109.226.8:4022/rtp/235.254.199.11:7980
+#EXTINF:-1 tvg-id="CCTV17SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17SD.png" group-title="重庆",CCTV17SD
+http://14.109.226.8:4022/rtp/235.254.198.131:7980
+#EXTINF:-1 tvg-id="CCTV17SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17SD.png" group-title="重庆",CCTV17SD
+http://14.109.226.8:4022/rtp/235.254.199.131:7980
+#EXTINF:-1 tvg-id="CETV1SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV1SD.png" group-title="重庆",CETV1SD
+http://14.109.226.8:4022/rtp/235.254.197.172:7980
+#EXTINF:-1 tvg-id="CETV4SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV4SD.png" group-title="重庆",CETV4SD
+http://14.109.226.8:4022/rtp/235.254.198.197:7980
+#EXTINF:-1 tvg-id="CETV4SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV4SD.png" group-title="重庆",CETV4SD
+http://14.109.226.8:4022/rtp/235.254.199.197:7980
+#EXTINF:-1 tvg-id="法治天地SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B3%95%E6%B2%BB%E5%A4%A9%E5%9C%B0SD.png" group-title="重庆",法治天地SD
+http://14.109.226.8:4022/rtp/235.254.197.43:7980
+#EXTINF:-1 tvg-id="游戏风云SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B8%B8%E6%88%8F%E9%A3%8E%E4%BA%91SD.png" group-title="重庆",游戏风云SD
+http://14.109.226.8:4022/rtp/235.254.197.46:7980
+#EXTINF:-1 tvg-id="金色学堂SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%91%E8%89%B2%E5%AD%A6%E5%A0%82SD.png" group-title="重庆",金色学堂SD
+http://14.109.226.8:4022/rtp/235.254.197.40:7980
+#EXTINF:-1 tvg-id="生活时尚SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9ASD.png" group-title="重庆",生活时尚SD
+http://14.109.226.8:4022/rtp/235.254.197.44:7980
+#EXTINF:-1 tvg-id="乐游SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B9%90%E6%B8%B8SD.png" group-title="重庆",乐游SD
+http://14.109.226.8:4022/rtp/235.254.197.39:7980
+#EXTINF:-1 tvg-id="动漫秀场SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BASD.png" group-title="重庆",动漫秀场SD
+http://14.109.226.8:4022/rtp/235.254.197.47:7980
+#EXTINF:-1 tvg-id="重庆卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",重庆卫视SD
+http://14.109.226.8:4022/rtp/235.254.197.103:7980
+#EXTINF:-1 tvg-id="重庆卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",重庆卫视SD
+http://14.109.226.8:4022/rtp/235.254.199.34:7980
+#EXTINF:-1 tvg-id="江苏卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",江苏卫视SD
+http://14.109.226.8:4022/rtp/235.254.197.15:7980
+#EXTINF:-1 tvg-id="江苏卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",江苏卫视SD
+http://14.109.226.8:4022/rtp/235.254.199.19:7980
+#EXTINF:-1 tvg-id="浙江卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",浙江卫视SD
+http://14.109.226.8:4022/rtp/235.254.197.16:7980
+#EXTINF:-1 tvg-id="浙江卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",浙江卫视SD
+http://14.109.226.8:4022/rtp/235.254.199.18:7980
+#EXTINF:-1 tvg-id="东方卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",东方卫视SD
+http://14.109.226.8:4022/rtp/235.254.197.13:7980
+#EXTINF:-1 tvg-id="东方卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",东方卫视SD
+http://14.109.226.8:4022/rtp/235.254.199.33:7980
+#EXTINF:-1 tvg-id="深圳卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",深圳卫视SD
+http://14.109.226.8:4022/rtp/235.254.197.167:7980
+#EXTINF:-1 tvg-id="深圳卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",深圳卫视SD
+http://14.109.226.8:4022/rtp/235.254.199.31:7980
+#EXTINF:-1 tvg-id="北京卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",北京卫视SD
+http://14.109.226.8:4022/rtp/235.254.197.14:7980
+#EXTINF:-1 tvg-id="北京卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",北京卫视SD
+http://14.109.226.8:4022/rtp/235.254.199.21:7980
+#EXTINF:-1 tvg-id="山东卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",山东卫视SD
+http://14.109.226.8:4022/rtp/235.254.197.19:7980
+#EXTINF:-1 tvg-id="山东卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",山东卫视SD
+http://14.109.226.8:4022/rtp/235.254.199.24:7980
+#EXTINF:-1 tvg-id="天津卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",天津卫视SD
+http://14.109.226.8:4022/rtp/235.254.197.28:7980
+#EXTINF:-1 tvg-id="天津卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",天津卫视SD
+http://14.109.226.8:4022/rtp/235.254.199.22:7980
+#EXTINF:-1 tvg-id="贵州卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",贵州卫视SD
+http://14.109.226.8:4022/rtp/235.254.197.32:7980
+#EXTINF:-1 tvg-id="贵州卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",贵州卫视SD
+http://14.109.226.8:4022/rtp/235.254.199.30:7980
+#EXTINF:-1 tvg-id="四川卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",四川卫视SD
+http://14.109.226.8:4022/rtp/235.254.197.33:7980
+#EXTINF:-1 tvg-id="四川卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",四川卫视SD
+http://14.109.226.8:4022/rtp/235.254.198.245:7980
+#EXTINF:-1 tvg-id="四川卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",四川卫视SD
+http://14.109.226.8:4022/rtp/235.254.199.28:7980
+#EXTINF:-1 tvg-id="云南卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",云南卫视SD
+http://14.109.226.8:4022/rtp/235.254.197.181:7980
+#EXTINF:-1 tvg-id="云南卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",云南卫视SD
+http://14.109.226.8:4022/rtp/235.254.199.25:7980
+#EXTINF:-1 tvg-id="黑龙江卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",黑龙江卫视SD
+http://14.109.226.8:4022/rtp/235.254.197.30:7980
+#EXTINF:-1 tvg-id="黑龙江卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",黑龙江卫视SD
+http://14.109.226.8:4022/rtp/235.254.199.27:7980
+#EXTINF:-1 tvg-id="安徽卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",安徽卫视SD
+http://14.109.226.8:4022/rtp/235.254.197.18:7980
+#EXTINF:-1 tvg-id="安徽卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",安徽卫视SD
+http://14.109.226.8:4022/rtp/235.254.199.20:7980
+#EXTINF:-1 tvg-id="江西卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",江西卫视SD
+http://14.109.226.8:4022/rtp/235.254.197.26:7980
+#EXTINF:-1 tvg-id="江西卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",江西卫视SD
+http://14.109.226.8:4022/rtp/235.254.199.29:7980
+#EXTINF:-1 tvg-id="湖北卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",湖北卫视SD
+http://14.109.226.8:4022/rtp/235.254.197.25:7980
+#EXTINF:-1 tvg-id="湖北卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",湖北卫视SD
+http://14.109.226.8:4022/rtp/235.254.199.32:7980
+#EXTINF:-1 tvg-id="旅游卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%97%85%E6%B8%B8%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",旅游卫视SD
+http://14.109.226.8:4022/rtp/235.254.199.44:7980
+#EXTINF:-1 tvg-id="旅游卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%97%85%E6%B8%B8%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",旅游卫视SD
+http://14.109.226.8:4022/rtp/235.254.197.23:7980
+#EXTINF:-1 tvg-id="东南卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",东南卫视SD
+http://14.109.226.8:4022/rtp/235.254.197.24:7980
+#EXTINF:-1 tvg-id="东南卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",东南卫视SD
+http://14.109.226.8:4022/rtp/235.254.199.35:7980
+#EXTINF:-1 tvg-id="辽宁卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",辽宁卫视SD
+http://14.109.226.8:4022/rtp/235.254.197.17:7980
+#EXTINF:-1 tvg-id="辽宁卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",辽宁卫视SD
+http://14.109.226.8:4022/rtp/235.254.199.23:7980
+#EXTINF:-1 tvg-id="湖南卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",湖南卫视SD
+http://14.109.226.8:4022/rtp/235.254.197.20:7980
+#EXTINF:-1 tvg-id="湖南卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",湖南卫视SD
+http://14.109.226.8:4022/rtp/235.254.199.17:7980
+#EXTINF:-1 tvg-id="湖南卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",湖南卫视SD
+http://14.109.226.8:4022/rtp/235.254.199.139:7980
+#EXTINF:-1 tvg-id="广东卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",广东卫视SD
+http://14.109.226.8:4022/rtp/235.254.199.37:7980
+#EXTINF:-1 tvg-id="广东卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",广东卫视SD
+http://14.109.226.8:4022/rtp/235.254.197.21:7980
+#EXTINF:-1 tvg-id="河南卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",河南卫视SD
+http://14.109.226.8:4022/rtp/235.254.197.27:7980
+#EXTINF:-1 tvg-id="河南卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",河南卫视SD
+http://14.109.226.8:4022/rtp/235.254.199.26:7980
+#EXTINF:-1 tvg-id="河北卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",河北卫视SD
+http://14.109.226.8:4022/rtp/235.254.197.37:7980
+#EXTINF:-1 tvg-id="河北卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",河北卫视SD
+http://14.109.226.8:4022/rtp/235.254.199.36:7980
+#EXTINF:-1 tvg-id="宁夏卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",宁夏卫视SD
+http://14.109.226.8:4022/rtp/235.254.197.149:7980
+#EXTINF:-1 tvg-id="宁夏卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",宁夏卫视SD
+http://14.109.226.8:4022/rtp/235.254.197.155:7980
+#EXTINF:-1 tvg-id="宁夏卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",宁夏卫视SD
+http://14.109.226.8:4022/rtp/235.254.199.45:7980
+#EXTINF:-1 tvg-id="甘肃卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",甘肃卫视SD
+http://14.109.226.8:4022/rtp/235.254.197.175:7980
+#EXTINF:-1 tvg-id="甘肃卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",甘肃卫视SD
+http://14.109.226.8:4022/rtp/235.254.199.48:7980
+#EXTINF:-1 tvg-id="新疆卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",新疆卫视SD
+http://14.109.226.8:4022/rtp/235.254.197.170:7980
+#EXTINF:-1 tvg-id="新疆卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",新疆卫视SD
+http://14.109.226.8:4022/rtp/235.254.199.47:7980
+#EXTINF:-1 tvg-id="西藏卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",西藏卫视SD
+http://14.109.226.8:4022/rtp/235.254.197.168:7980
+#EXTINF:-1 tvg-id="西藏卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",西藏卫视SD
+http://14.109.226.8:4022/rtp/235.254.199.46:7980
+#EXTINF:-1 tvg-id="兵团卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",兵团卫视SD
+http://14.109.226.8:4022/rtp/235.254.197.171:7980
+#EXTINF:-1 tvg-id="山东教育卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",山东教育卫视SD
+http://14.109.226.8:4022/rtp/235.254.198.153:7980
+#EXTINF:-1 tvg-id="山东教育卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",山东教育卫视SD
+http://14.109.226.8:4022/rtp/235.254.199.153:7980
+#EXTINF:-1 tvg-id="都市剧场SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%83%BD%E5%B8%82%E5%89%A7%E5%9C%BASD.png" group-title="重庆",都市剧场SD
+http://14.109.226.8:4022/rtp/235.254.197.41:7980
+#EXTINF:-1 tvg-id="重庆新闻SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E6%96%B0%E9%97%BBSD.png" group-title="重庆",重庆新闻SD
+http://14.109.226.8:4022/rtp/235.254.197.104:7980
+#EXTINF:-1 tvg-id="重庆影视剧SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E5%BD%B1%E8%A7%86%E5%89%A7SD.png" group-title="重庆",重庆影视剧SD
+http://14.109.226.8:4022/rtp/235.254.197.105:7980
+#EXTINF:-1 tvg-id="重庆文体娱乐SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E6%96%87%E4%BD%93%E5%A8%B1%E4%B9%90SD.png" group-title="重庆",重庆文体娱乐SD
+http://14.109.226.8:4022/rtp/235.254.197.108:7980
+#EXTINF:-1 tvg-id="重庆新农村SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E6%96%B0%E5%86%9C%E6%9D%91SD.png" group-title="重庆",重庆新农村SD
+http://14.109.226.8:4022/rtp/235.254.197.109:7980
+#EXTINF:-1 tvg-id="重庆新农村SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E6%96%B0%E5%86%9C%E6%9D%91SD.png" group-title="重庆",重庆新农村SD
+http://14.109.226.8:4022/rtp/235.254.198.174:7980
+#EXTINF:-1 tvg-id="重庆新农村SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E6%96%B0%E5%86%9C%E6%9D%91SD.png" group-title="重庆",重庆新农村SD
+http://14.109.226.8:4022/rtp/235.254.199.174:7980
+#EXTINF:-1 tvg-id="重庆少儿SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E5%B0%91%E5%84%BFSD.png" group-title="重庆",重庆少儿SD
+http://14.109.226.8:4022/rtp/235.254.197.110:7980
+#EXTINF:-1 tvg-id="重庆社会与法SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95SD.png" group-title="重庆",重庆社会与法SD
+http://14.109.226.8:4022/rtp/235.254.197.106:7980
+#EXTINF:-1 tvg-id="重庆红叶SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E7%BA%A2%E5%8F%B6SD.png" group-title="重庆",重庆红叶SD
+http://14.109.226.8:4022/rtp/235.254.197.111:7980
+#EXTINF:-1 tvg-id="重庆红岩文化SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E7%BA%A2%E5%B2%A9%E6%96%87%E5%8C%96SD.png" group-title="重庆",重庆红岩文化SD
+http://14.109.226.8:4022/rtp/235.254.197.107:7980
+#EXTINF:-1 tvg-id="重庆汽摩SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E6%B1%BD%E6%91%A9SD.png" group-title="重庆",重庆汽摩SD
+http://14.109.226.8:4022/rtp/235.254.197.117:7980
+#EXTINF:-1 tvg-id="重庆移动SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E7%A7%BB%E5%8A%A8SD.png" group-title="重庆",重庆移动SD
+http://14.109.226.8:4022/rtp/235.254.197.113:7980
+#EXTINF:-1 tvg-id="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%864K.png" group-title="重庆",北京卫视4K
+http://27.8.236.26:8009/rtp/225.0.4.122:7980
+#EXTINF:-1 tvg-id="东方卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K.png" group-title="重庆",东方卫视4K
+http://27.8.236.26:8009/rtp/225.0.4.103:7980
+#EXTINF:-1 tvg-id="广东卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%864K.png" group-title="重庆",广东卫视4K
+http://27.8.236.26:8009/rtp/225.0.4.102:7980
+#EXTINF:-1 tvg-id="深圳卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%864K.png" group-title="重庆",深圳卫视4K
+http://27.8.236.26:8009/rtp/225.0.4.101:7980
+#EXTINF:-1 tvg-id="湖南卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K.png" group-title="重庆",湖南卫视4K
+http://27.8.236.26:8009/rtp/225.0.4.107:7980
+#EXTINF:-1 tvg-id="山东卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%864K.png" group-title="重庆",山东卫视4K
+http://27.8.236.26:8009/rtp/225.0.4.106:7980
+#EXTINF:-1 tvg-id="四川卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%864K.png" group-title="重庆",四川卫视4K
+http://27.8.236.26:8009/rtp/225.0.4.108:7980
+#EXTINF:-1 tvg-id="浙江卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K.png" group-title="重庆",浙江卫视4K
+http://27.8.236.26:8009/rtp/225.0.4.105:7980
+#EXTINF:-1 tvg-id="江苏卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%864K.png" group-title="重庆",江苏卫视4K
+http://27.8.236.26:8009/rtp/225.0.4.104:7980
+#EXTINF:-1 tvg-id="爱上4K(轮播频道)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%88%B1%E4%B8%8A4K%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29.png" group-title="重庆",爱上4K(轮播频道)
+http://27.8.236.26:8009/rtp/225.0.4.226:7980
+#EXTINF:-1 tvg-id="CCTV1HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1HD.png" group-title="重庆",CCTV1HD
+http://27.8.236.26:8009/rtp/225.0.4.74:7980
+#EXTINF:-1 tvg-id="CCTV2HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2HD.png" group-title="重庆",CCTV2HD
+http://27.8.236.26:8009/rtp/225.0.4.132:7980
+#EXTINF:-1 tvg-id="CCTV3HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3HD.png" group-title="重庆",CCTV3HD
+http://27.8.236.26:8009/rtp/225.0.4.142:7980
+#EXTINF:-1 tvg-id="CCTV4HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4HD.png" group-title="重庆",CCTV4HD
+http://27.8.236.26:8009/rtp/225.0.4.176:7980
+#EXTINF:-1 tvg-id="CCTV5HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5HD.png" group-title="重庆",CCTV5HD
+http://27.8.236.26:8009/rtp/225.0.4.143:7980
+#EXTINF:-1 tvg-id="CCTV5+HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5%2BHD.png" group-title="重庆",CCTV5+HD
+http://27.8.236.26:8009/rtp/225.0.4.73:7980
+#EXTINF:-1 tvg-id="CCTV6HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6HD.png" group-title="重庆",CCTV6HD
+http://27.8.236.26:8009/rtp/225.0.4.144:7980
+#EXTINF:-1 tvg-id="CCTV7HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7HD.png" group-title="重庆",CCTV7HD
+http://27.8.236.26:8009/rtp/225.0.4.127:7980
+#EXTINF:-1 tvg-id="CCTV8HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8HD.png" group-title="重庆",CCTV8HD
+http://27.8.236.26:8009/rtp/225.0.4.137:7980
+#EXTINF:-1 tvg-id="CCTV9HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9HD.png" group-title="重庆",CCTV9HD
+http://27.8.236.26:8009/rtp/225.0.4.131:7980
+#EXTINF:-1 tvg-id="CCTV10HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10HD.png" group-title="重庆",CCTV10HD
+http://27.8.236.26:8009/rtp/225.0.4.130:7980
+#EXTINF:-1 tvg-id="CCTV11HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11HD.png" group-title="重庆",CCTV11HD
+http://27.8.236.26:8009/rtp/225.0.4.218:7980
+#EXTINF:-1 tvg-id="CCTV12HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12HD.png" group-title="重庆",CCTV12HD
+http://27.8.236.26:8009/rtp/225.0.4.129:7980
+#EXTINF:-1 tvg-id="CCTV13HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13HD.png" group-title="重庆",CCTV13HD
+http://27.8.236.26:8009/rtp/225.0.4.219:7980
+#EXTINF:-1 tvg-id="CCTV14HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14HD.png" group-title="重庆",CCTV14HD
+http://27.8.236.26:8009/rtp/225.0.4.128:7980
+#EXTINF:-1 tvg-id="CCTV15HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15HD.png" group-title="重庆",CCTV15HD
+http://27.8.236.26:8009/rtp/225.0.4.220:7980
+#EXTINF:-1 tvg-id="CCTV17HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17HD.png" group-title="重庆",CCTV17HD
+http://27.8.236.26:8009/rtp/225.0.4.179:7980
+#EXTINF:-1 tvg-id="CETV1HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV1HD.png" group-title="重庆",CETV1HD
+http://27.8.236.26:8009/rtp/225.0.4.186:7980
+#EXTINF:-1 tvg-id="CETV4HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV4HD.png" group-title="重庆",CETV4HD
+http://27.8.236.26:8009/rtp/225.0.4.182:7980
+#EXTINF:-1 tvg-id="CHC影迷电影HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1HD.png" group-title="重庆",CHC影迷电影HD
+http://27.8.236.26:8009/rtp/225.0.4.230:7980
+#EXTINF:-1 tvg-id="CHC家庭影院HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2HD.png" group-title="重庆",CHC家庭影院HD
+http://27.8.236.26:8009/rtp/225.0.4.228:7980
+#EXTINF:-1 tvg-id="CHC动作电影HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1HD.png" group-title="重庆",CHC动作电影HD
+http://27.8.236.26:8009/rtp/225.0.4.229:7980
+#EXTINF:-1 tvg-id="中学生HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%AD%E5%AD%A6%E7%94%9FHD.png" group-title="重庆",中学生HD
+http://27.8.236.26:8009/rtp/225.0.4.184:7980
+#EXTINF:-1 tvg-id="法治天地HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B3%95%E6%B2%BB%E5%A4%A9%E5%9C%B0HD.png" group-title="重庆",法治天地HD
+http://27.8.236.26:8009/rtp/225.0.4.240:7980
+#EXTINF:-1 tvg-id="游戏风云HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B8%B8%E6%88%8F%E9%A3%8E%E4%BA%91HD.png" group-title="重庆",游戏风云HD
+http://27.8.236.26:8009/rtp/225.0.4.237:7980
+#EXTINF:-1 tvg-id="快乐垂钓HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93HD.png" group-title="重庆",快乐垂钓HD
+http://27.8.236.26:8009/rtp/225.0.4.213:7980
+#EXTINF:-1 tvg-id="生活时尚HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9AHD.png" group-title="重庆",生活时尚HD
+http://27.8.236.26:8009/rtp/225.0.4.241:7980
+#EXTINF:-1 tvg-id="中国交通HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%AD%E5%9B%BD%E4%BA%A4%E9%80%9AHD.png" group-title="重庆",中国交通HD
+http://27.8.236.26:8009/rtp/225.0.4.125:7980
+#EXTINF:-1 tvg-id="优优宝贝HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BC%98%E4%BC%98%E5%AE%9D%E8%B4%9DHD.png" group-title="重庆",优优宝贝HD
+http://27.8.236.26:8009/rtp/225.0.4.126:7980
+#EXTINF:-1 tvg-id="动漫秀场HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BAHD.png" group-title="重庆",动漫秀场HD
+http://27.8.236.26:8009/rtp/225.0.4.236:7980
+#EXTINF:-1 tvg-id="重庆卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",重庆卫视HD
+http://27.8.236.26:8009/rtp/225.0.4.187:7980
+#EXTINF:-1 tvg-id="江苏卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",江苏卫视HD
+http://27.8.236.26:8009/rtp/225.0.4.79:7980
+#EXTINF:-1 tvg-id="浙江卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",浙江卫视HD
+http://27.8.236.26:8009/rtp/225.0.4.81:7980
+#EXTINF:-1 tvg-id="东方卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",东方卫视HD
+http://27.8.236.26:8009/rtp/225.0.4.80:7980
+#EXTINF:-1 tvg-id="深圳卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",深圳卫视HD
+http://27.8.236.26:8009/rtp/225.0.4.202:7980
+#EXTINF:-1 tvg-id="北京卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",北京卫视HD
+http://27.8.236.26:8009/rtp/225.0.4.78:7980
+#EXTINF:-1 tvg-id="山东卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",山东卫视HD
+http://27.8.236.26:8009/rtp/225.0.4.199:7980
+#EXTINF:-1 tvg-id="天津卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",天津卫视HD
+http://27.8.236.26:8009/rtp/225.0.4.82:7980
+#EXTINF:-1 tvg-id="贵州卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",贵州卫视HD
+http://27.8.236.26:8009/rtp/225.0.4.175:7980
+#EXTINF:-1 tvg-id="四川卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",四川卫视HD
+http://27.8.236.26:8009/rtp/225.0.4.204:7980
+#EXTINF:-1 tvg-id="黑龙江卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",黑龙江卫视HD
+http://27.8.236.26:8009/rtp/225.0.4.201:7980
+#EXTINF:-1 tvg-id="安徽卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",安徽卫视HD
+http://27.8.236.26:8009/rtp/225.0.4.133:7980
+#EXTINF:-1 tvg-id="江西卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",江西卫视HD
+http://27.8.236.26:8009/rtp/225.0.4.203:7980
+#EXTINF:-1 tvg-id="湖北卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",湖北卫视HD
+http://27.8.236.26:8009/rtp/225.0.4.217:7980
+#EXTINF:-1 tvg-id="东南卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",东南卫视HD
+http://27.8.236.26:8009/rtp/225.0.4.200:7980
+#EXTINF:-1 tvg-id="辽宁卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",辽宁卫视HD
+http://27.8.236.26:8009/rtp/225.0.4.98:7980
+#EXTINF:-1 tvg-id="湖南卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",湖南卫视HD
+http://27.8.236.26:8009/rtp/225.0.4.75:7980
+#EXTINF:-1 tvg-id="广东卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",广东卫视HD
+http://27.8.236.26:8009/rtp/225.0.4.84:7980
+#EXTINF:-1 tvg-id="河北卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",河北卫视HD
+http://27.8.236.26:8009/rtp/225.0.4.174:7980
+#EXTINF:-1 tvg-id="甘肃卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",甘肃卫视HD
+http://27.8.236.26:8009/rtp/225.0.4.181:7980
+#EXTINF:-1 tvg-id="新疆卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",新疆卫视HD
+http://27.8.236.26:8009/rtp/225.0.4.60:7980
+#EXTINF:-1 tvg-id="西藏卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",西藏卫视HD
+http://27.8.236.26:8009/rtp/225.0.4.67:7980
+#EXTINF:-1 tvg-id="兵团卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",兵团卫视HD
+http://27.8.236.26:8009/rtp/225.0.4.72:7980
+#EXTINF:-1 tvg-id="山东教育卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",山东教育卫视HD
+http://27.8.236.26:8009/rtp/225.0.4.183:7980
+#EXTINF:-1 tvg-id="都市剧场HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%83%BD%E5%B8%82%E5%89%A7%E5%9C%BAHD.png" group-title="重庆",都市剧场HD
+http://27.8.236.26:8009/rtp/225.0.4.235:7980
+#EXTINF:-1 tvg-id="欢笑剧场HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BAHD.png" group-title="重庆",欢笑剧场HD
+http://27.8.236.26:8009/rtp/225.0.4.234:7980
+#EXTINF:-1 tvg-id="重庆新闻HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E6%96%B0%E9%97%BBHD.png" group-title="重庆",重庆新闻HD
+http://27.8.236.26:8009/rtp/225.0.4.188:7980
+#EXTINF:-1 tvg-id="重庆影视剧HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E5%BD%B1%E8%A7%86%E5%89%A7HD.png" group-title="重庆",重庆影视剧HD
+http://27.8.236.26:8009/rtp/225.0.4.192:7980
+#EXTINF:-1 tvg-id="重庆新农村HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E6%96%B0%E5%86%9C%E6%9D%91HD.png" group-title="重庆",重庆新农村HD
+http://27.8.236.26:8009/rtp/225.0.4.189:7980
+#EXTINF:-1 tvg-id="重庆少儿HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E5%B0%91%E5%84%BFHD.png" group-title="重庆",重庆少儿HD
+http://27.8.236.26:8009/rtp/225.0.4.191:7980
+#EXTINF:-1 tvg-id="重庆社会与法HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95HD.png" group-title="重庆",重庆社会与法HD
+http://27.8.236.26:8009/rtp/225.0.4.190:7980
+#EXTINF:-1 tvg-id="重庆红叶HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E7%BA%A2%E5%8F%B6HD.png" group-title="重庆",重庆红叶HD
+http://27.8.236.26:8009/rtp/225.0.4.193:7980
+#EXTINF:-1 tvg-id="重庆红岩文化HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E7%BA%A2%E5%B2%A9%E6%96%87%E5%8C%96HD.png" group-title="重庆",重庆红岩文化HD
+http://27.8.236.26:8009/rtp/225.0.4.196:7980
+#EXTINF:-1 tvg-id="重庆汽摩HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E6%B1%BD%E6%91%A9HD.png" group-title="重庆",重庆汽摩HD
+http://27.8.236.26:8009/rtp/225.0.4.195:7980
+#EXTINF:-1 tvg-id="重庆移动HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E7%A7%BB%E5%8A%A8HD.png" group-title="重庆",重庆移动HD
+http://27.8.236.26:8009/rtp/225.0.4.215:7980
+#EXTINF:-1 tvg-id="求索记录HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%82%E7%B4%A2%E8%AE%B0%E5%BD%95HD.png" group-title="重庆",求索记录HD
+http://27.8.236.26:8009/rtp/225.0.4.232:7980
+#EXTINF:-1 tvg-id="精彩影视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%B2%BE%E5%BD%A9%E5%BD%B1%E8%A7%86HD.png" group-title="重庆",精彩影视HD
+http://27.8.236.26:8009/rtp/225.0.4.231:7980
+#EXTINF:-1 tvg-id="IPTV8+(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV8%2B%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",IPTV8+(轮播频道)HD
+http://27.8.236.26:8009/rtp/225.0.4.54:7980
+#EXTINF:-1 tvg-id="IPTV相声小品(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%9B%B8%E5%A3%B0%E5%B0%8F%E5%93%81%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",IPTV相声小品(轮播频道)HD
+http://27.8.236.26:8009/rtp/225.0.4.56:7980
+#EXTINF:-1 tvg-id="IPTV野外(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E9%87%8E%E5%A4%96%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",IPTV野外(轮播频道)HD
+http://27.8.236.26:8009/rtp/225.0.4.57:7980
+#EXTINF:-1 tvg-id="光影(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%85%89%E5%BD%B1%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",光影(轮播频道)HD
+http://27.8.236.26:8009/rtp/225.0.4.162:7980
+#EXTINF:-1 tvg-id="军事(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%9B%E4%BA%8B%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",军事(轮播频道)HD
+http://27.8.236.26:8009/rtp/225.0.4.154:7980
+#EXTINF:-1 tvg-id="军旅剧场(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%9B%E6%97%85%E5%89%A7%E5%9C%BA%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",军旅剧场(轮播频道)HD
+http://27.8.236.26:8009/rtp/225.0.4.146:7980
+#EXTINF:-1 tvg-id="动作影院(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8A%A8%E4%BD%9C%E5%BD%B1%E9%99%A2%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",动作影院(轮播频道)HD
+http://27.8.236.26:8009/rtp/225.0.4.170:7980
+#EXTINF:-1 tvg-id="动画(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8A%A8%E7%94%BB%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",动画(轮播频道)HD
+http://27.8.236.26:8009/rtp/225.0.4.158:7980
+#EXTINF:-1 tvg-id="古装剧场(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8F%A4%E8%A3%85%E5%89%A7%E5%9C%BA%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",古装剧场(轮播频道)HD
+http://27.8.236.26:8009/rtp/225.0.4.147:7980
+#EXTINF:-1 tvg-id="台球(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8F%B0%E7%90%83%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",台球(轮播频道)HD
+http://27.8.236.26:8009/rtp/225.0.4.163:7980
+#EXTINF:-1 tvg-id="喜剧影院(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%96%9C%E5%89%A7%E5%BD%B1%E9%99%A2%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",喜剧影院(轮播频道)HD
+http://27.8.236.26:8009/rtp/225.0.4.169:7980
+#EXTINF:-1 tvg-id="地理(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9C%B0%E7%90%86%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",地理(轮播频道)HD
+http://27.8.236.26:8009/rtp/225.0.4.149:7980
+#EXTINF:-1 tvg-id="城市剧场(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9F%8E%E5%B8%82%E5%89%A7%E5%9C%BA%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",城市剧场(轮播频道)HD
+http://27.8.236.26:8009/rtp/225.0.4.145:7980
+#EXTINF:-1 tvg-id="好学生(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A5%BD%E5%AD%A6%E7%94%9F%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",好学生(轮播频道)HD
+http://27.8.236.26:8009/rtp/225.0.4.159:7980
+#EXTINF:-1 tvg-id="家庭影院(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",家庭影院(轮播频道)HD
+http://27.8.236.26:8009/rtp/225.0.4.171:7980
+#EXTINF:-1 tvg-id="星影(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%98%9F%E5%BD%B1%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",星影(轮播频道)HD
+http://27.8.236.26:8009/rtp/225.0.4.172:7980
+#EXTINF:-1 tvg-id="武侠剧场(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%AD%A6%E4%BE%A0%E5%89%A7%E5%9C%BA%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",武侠剧场(轮播频道)HD
+http://27.8.236.26:8009/rtp/225.0.4.168:7980
+#EXTINF:-1 tvg-id="武术(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%AD%A6%E6%9C%AF%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",武术(轮播频道)HD
+http://27.8.236.26:8009/rtp/225.0.4.165:7980
+#EXTINF:-1 tvg-id="热播剧场(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%83%AD%E6%92%AD%E5%89%A7%E5%9C%BA%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",热播剧场(轮播频道)HD
+http://27.8.236.26:8009/rtp/225.0.4.47:7980
+#EXTINF:-1 tvg-id="爱体育(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%88%B1%E4%BD%93%E8%82%B2%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",爱体育(轮播频道)HD
+http://27.8.236.26:8009/rtp/225.0.4.53:7980
+#EXTINF:-1 tvg-id="爱电影(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%88%B1%E7%94%B5%E5%BD%B1%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",爱电影(轮播频道)HD
+http://27.8.236.26:8009/rtp/225.0.4.50:7980
+#EXTINF:-1 tvg-id="爱综艺(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%88%B1%E7%BB%BC%E8%89%BA%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",爱综艺(轮播频道)HD
+http://27.8.236.26:8009/rtp/225.0.4.51:7980
+#EXTINF:-1 tvg-id="精选(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%B2%BE%E9%80%89%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",精选(轮播频道)HD
+http://27.8.236.26:8009/rtp/225.0.4.152:7980
+#EXTINF:-1 tvg-id="经典电影(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",经典电影(轮播频道)HD
+http://27.8.236.26:8009/rtp/225.0.4.48:7980
+#EXTINF:-1 tvg-id="美人(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%BE%8E%E4%BA%BA%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",美人(轮播频道)HD
+http://27.8.236.26:8009/rtp/225.0.4.151:7980
+#EXTINF:-1 tvg-id="美妆(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%BE%8E%E5%A6%86%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",美妆(轮播频道)HD
+http://27.8.236.26:8009/rtp/225.0.4.150:7980
+#EXTINF:-1 tvg-id="茶频道HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%8C%B6%E9%A2%91%E9%81%93HD.png" group-title="重庆",茶频道HD
+http://27.8.236.26:8009/rtp/225.0.4.233:7980
+#EXTINF:-1 tvg-id="解密(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%A7%A3%E5%AF%86%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",解密(轮播频道)HD
+http://27.8.236.26:8009/rtp/225.0.4.153:7980
+#EXTINF:-1 tvg-id="足球(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B6%B3%E7%90%83%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",足球(轮播频道)HD
+http://27.8.236.26:8009/rtp/225.0.4.167:7980
+#EXTINF:-1 tvg-id="重庆娱乐HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E5%A8%B1%E4%B9%90HD.png" group-title="重庆",重庆娱乐HD
+http://27.8.236.26:8009/rtp/225.0.4.194:7980
+#EXTINF:-1 tvg-id="金色频道HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%91%E8%89%B2%E9%A2%91%E9%81%93HD.png" group-title="重庆",金色频道HD
+http://27.8.236.26:8009/rtp/225.0.4.239:7980
+#EXTINF:-1 tvg-id="音乐现场(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",音乐现场(轮播频道)HD
+http://27.8.236.26:8009/rtp/225.0.4.148:7980
+#EXTINF:-1 tvg-id="高网(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%AB%98%E7%BD%91%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",高网(轮播频道)HD
+http://27.8.236.26:8009/rtp/225.0.4.166:7980
+#EXTINF:-1 tvg-id="魅力时尚(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%AD%85%E5%8A%9B%E6%97%B6%E5%B0%9A%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",魅力时尚(轮播频道)HD
+http://27.8.236.26:8009/rtp/225.0.4.49:7980
+#EXTINF:-1 tvg-id="CCTV1SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1SD.png" group-title="重庆",CCTV1SD
+http://27.8.236.26:8009/rtp/225.0.4.1:7980
+#EXTINF:-1 tvg-id="CCTV2SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2SD.png" group-title="重庆",CCTV2SD
+http://27.8.236.26:8009/rtp/225.0.4.2:7980
+#EXTINF:-1 tvg-id="CCTV3SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3SD.png" group-title="重庆",CCTV3SD
+http://27.8.236.26:8009/rtp/225.0.4.138:7980
+#EXTINF:-1 tvg-id="CCTV4SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4SD.png" group-title="重庆",CCTV4SD
+http://27.8.236.26:8009/rtp/225.0.4.3:7980
+#EXTINF:-1 tvg-id="CCTV5SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5SD.png" group-title="重庆",CCTV5SD
+http://27.8.236.26:8009/rtp/225.0.4.139:7980
+#EXTINF:-1 tvg-id="CCTV6SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6SD.png" group-title="重庆",CCTV6SD
+http://27.8.236.26:8009/rtp/225.0.4.140:7980
+#EXTINF:-1 tvg-id="CCTV7SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7SD.png" group-title="重庆",CCTV7SD
+http://27.8.236.26:8009/rtp/225.0.4.4:7980
+#EXTINF:-1 tvg-id="CCTV8SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8SD.png" group-title="重庆",CCTV8SD
+http://27.8.236.26:8009/rtp/225.0.4.141:7980
+#EXTINF:-1 tvg-id="CCTV9SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9SD.png" group-title="重庆",CCTV9SD
+http://27.8.236.26:8009/rtp/225.0.4.5:7980
+#EXTINF:-1 tvg-id="CCTV10SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10SD.png" group-title="重庆",CCTV10SD
+http://27.8.236.26:8009/rtp/225.0.4.6:7980
+#EXTINF:-1 tvg-id="CCTV11SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11SD.png" group-title="重庆",CCTV11SD
+http://27.8.236.26:8009/rtp/225.0.4.7:7980
+#EXTINF:-1 tvg-id="CCTV12SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12SD.png" group-title="重庆",CCTV12SD
+http://27.8.236.26:8009/rtp/225.0.4.8:7980
+#EXTINF:-1 tvg-id="CCTV13SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13SD.png" group-title="重庆",CCTV13SD
+http://27.8.236.26:8009/rtp/225.0.4.9:7980
+#EXTINF:-1 tvg-id="CCTV14SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14SD.png" group-title="重庆",CCTV14SD
+http://27.8.236.26:8009/rtp/225.0.4.10:7980
+#EXTINF:-1 tvg-id="CCTV15SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15SD.png" group-title="重庆",CCTV15SD
+http://27.8.236.26:8009/rtp/225.0.4.11:7980
+#EXTINF:-1 tvg-id="CCTV17SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17SD.png" group-title="重庆",CCTV17SD
+http://27.8.236.26:8009/rtp/225.0.4.180:7980
+#EXTINF:-1 tvg-id="CGTNSD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTNSD.png" group-title="重庆",CGTNSD
+http://27.8.236.26:8009/rtp/225.0.4.12:7980
+#EXTINF:-1 tvg-id="江苏卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",江苏卫视SD
+http://27.8.236.26:8009/rtp/225.0.4.15:7980
+#EXTINF:-1 tvg-id="浙江卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",浙江卫视SD
+http://27.8.236.26:8009/rtp/225.0.4.14:7980
+#EXTINF:-1 tvg-id="东方卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",东方卫视SD
+http://27.8.236.26:8009/rtp/225.0.4.29:7980
+#EXTINF:-1 tvg-id="深圳卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",深圳卫视SD
+http://27.8.236.26:8009/rtp/225.0.4.27:7980
+#EXTINF:-1 tvg-id="北京卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",北京卫视SD
+http://27.8.236.26:8009/rtp/225.0.4.17:7980
+#EXTINF:-1 tvg-id="山东卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",山东卫视SD
+http://27.8.236.26:8009/rtp/225.0.4.20:7980
+#EXTINF:-1 tvg-id="天津卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",天津卫视SD
+http://27.8.236.26:8009/rtp/225.0.4.18:7980
+#EXTINF:-1 tvg-id="贵州卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",贵州卫视SD
+http://27.8.236.26:8009/rtp/225.0.4.26:7980
+#EXTINF:-1 tvg-id="四川卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",四川卫视SD
+http://27.8.236.26:8009/rtp/225.0.4.24:7980
+#EXTINF:-1 tvg-id="云南卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",云南卫视SD
+http://27.8.236.26:8009/rtp/225.0.4.21:7980
+#EXTINF:-1 tvg-id="广西卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",广西卫视SD
+http://27.8.236.26:8009/rtp/225.0.4.34:7980
+#EXTINF:-1 tvg-id="黑龙江卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",黑龙江卫视SD
+http://27.8.236.26:8009/rtp/225.0.4.23:7980
+#EXTINF:-1 tvg-id="安徽卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",安徽卫视SD
+http://27.8.236.26:8009/rtp/225.0.4.16:7980
+#EXTINF:-1 tvg-id="山西卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",山西卫视SD
+http://27.8.236.26:8009/rtp/225.0.4.37:7980
+#EXTINF:-1 tvg-id="江西卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",江西卫视SD
+http://27.8.236.26:8009/rtp/225.0.4.25:7980
+#EXTINF:-1 tvg-id="湖北卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",湖北卫视SD
+http://27.8.236.26:8009/rtp/225.0.4.28:7980
+#EXTINF:-1 tvg-id="旅游卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%97%85%E6%B8%B8%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",旅游卫视SD
+http://27.8.236.26:8009/rtp/225.0.4.40:7980
+#EXTINF:-1 tvg-id="旅游卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%97%85%E6%B8%B8%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",旅游卫视SD
+http://27.8.236.26:8009/rtp/225.0.4.216:7980
+#EXTINF:-1 tvg-id="陕西卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",陕西卫视SD
+http://27.8.236.26:8009/rtp/225.0.4.36:7980
+#EXTINF:-1 tvg-id="东南卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",东南卫视SD
+http://27.8.236.26:8009/rtp/225.0.4.31:7980
+#EXTINF:-1 tvg-id="吉林卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",吉林卫视SD
+http://27.8.236.26:8009/rtp/225.0.4.35:7980
+#EXTINF:-1 tvg-id="吉林卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",吉林卫视SD
+http://27.8.236.26:8009/rtp/225.0.4.225:7980
+#EXTINF:-1 tvg-id="辽宁卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",辽宁卫视SD
+http://27.8.236.26:8009/rtp/225.0.4.19:7980
+#EXTINF:-1 tvg-id="内蒙古卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",内蒙古卫视SD
+http://27.8.236.26:8009/rtp/225.0.4.38:7980
+#EXTINF:-1 tvg-id="湖南卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",湖南卫视SD
+http://27.8.236.26:8009/rtp/225.0.4.13:7980
+#EXTINF:-1 tvg-id="广东卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",广东卫视SD
+http://27.8.236.26:8009/rtp/225.0.4.33:7980
+#EXTINF:-1 tvg-id="河南卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",河南卫视SD
+http://27.8.236.26:8009/rtp/225.0.4.124:7980
+#EXTINF:-1 tvg-id="河南卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",河南卫视SD
+http://27.8.236.26:8009/rtp/225.0.4.22:7980
+#EXTINF:-1 tvg-id="河北卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",河北卫视SD
+http://27.8.236.26:8009/rtp/225.0.4.32:7980
+#EXTINF:-1 tvg-id="宁夏卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",宁夏卫视SD
+http://27.8.236.26:8009/rtp/225.0.4.41:7980
+#EXTINF:-1 tvg-id="青海卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",青海卫视SD
+http://27.8.236.26:8009/rtp/225.0.4.39:7980
+#EXTINF:-1 tvg-id="新疆卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",新疆卫视SD
+http://27.8.236.26:8009/rtp/225.0.4.43:7980
+#EXTINF:-1 tvg-id="西藏卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",西藏卫视SD
+http://27.8.236.26:8009/rtp/225.0.4.42:7980
+#EXTINF:-1 tvg-id="金鹰卡通SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9ASD.png" group-title="重庆",金鹰卡通SD
+http://27.8.236.26:8009/rtp/225.0.4.46:7980
+#EXTINF:-1 tvg-id="嘉佳卡通SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9ASD.png" group-title="重庆",嘉佳卡通SD
+http://27.8.236.26:8009/rtp/225.0.4.221:7980
+#EXTINF:-1 tvg-id="卡酷少儿SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BFSD.png" group-title="重庆",卡酷少儿SD
+http://27.8.236.26:8009/rtp/225.0.4.45:7980
+#EXTINF:-1 tvg-id="重庆新闻SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E6%96%B0%E9%97%BBSD.png" group-title="重庆",重庆新闻SD
+http://27.8.236.26:8009/rtp/225.0.4.59:7980
+#EXTINF:-1 tvg-id="财富天下SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8BSD.png" group-title="重庆",财富天下SD
+http://27.8.236.26:8009/rtp/225.0.4.112:7980
+#EXTINF:-1 tvg-id="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%864K.png" group-title="重庆",北京卫视4K
+http://27.8.236.135:8009/rtp/225.0.4.122:7980
+#EXTINF:-1 tvg-id="东方卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K.png" group-title="重庆",东方卫视4K
+http://27.8.236.135:8009/rtp/225.0.4.103:7980
+#EXTINF:-1 tvg-id="广东卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%864K.png" group-title="重庆",广东卫视4K
+http://27.8.236.135:8009/rtp/225.0.4.102:7980
+#EXTINF:-1 tvg-id="深圳卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%864K.png" group-title="重庆",深圳卫视4K
+http://27.8.236.135:8009/rtp/225.0.4.101:7980
+#EXTINF:-1 tvg-id="湖南卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K.png" group-title="重庆",湖南卫视4K
+http://27.8.236.135:8009/rtp/225.0.4.107:7980
+#EXTINF:-1 tvg-id="山东卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%864K.png" group-title="重庆",山东卫视4K
+http://27.8.236.135:8009/rtp/225.0.4.106:7980
+#EXTINF:-1 tvg-id="四川卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%864K.png" group-title="重庆",四川卫视4K
+http://27.8.236.135:8009/rtp/225.0.4.108:7980
+#EXTINF:-1 tvg-id="浙江卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K.png" group-title="重庆",浙江卫视4K
+http://27.8.236.135:8009/rtp/225.0.4.105:7980
+#EXTINF:-1 tvg-id="江苏卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%864K.png" group-title="重庆",江苏卫视4K
+http://27.8.236.135:8009/rtp/225.0.4.104:7980
+#EXTINF:-1 tvg-id="爱上4K(轮播频道)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%88%B1%E4%B8%8A4K%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29.png" group-title="重庆",爱上4K(轮播频道)
+http://27.8.236.135:8009/rtp/225.0.4.226:7980
+#EXTINF:-1 tvg-id="CCTV1HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1HD.png" group-title="重庆",CCTV1HD
+http://27.8.236.135:8009/rtp/225.0.4.74:7980
+#EXTINF:-1 tvg-id="CCTV2HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2HD.png" group-title="重庆",CCTV2HD
+http://27.8.236.135:8009/rtp/225.0.4.132:7980
+#EXTINF:-1 tvg-id="CCTV3HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3HD.png" group-title="重庆",CCTV3HD
+http://27.8.236.135:8009/rtp/225.0.4.142:7980
+#EXTINF:-1 tvg-id="CCTV4HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4HD.png" group-title="重庆",CCTV4HD
+http://27.8.236.135:8009/rtp/225.0.4.176:7980
+#EXTINF:-1 tvg-id="CCTV5HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5HD.png" group-title="重庆",CCTV5HD
+http://27.8.236.135:8009/rtp/225.0.4.143:7980
+#EXTINF:-1 tvg-id="CCTV5+HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5%2BHD.png" group-title="重庆",CCTV5+HD
+http://27.8.236.135:8009/rtp/225.0.4.73:7980
+#EXTINF:-1 tvg-id="CCTV6HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6HD.png" group-title="重庆",CCTV6HD
+http://27.8.236.135:8009/rtp/225.0.4.144:7980
+#EXTINF:-1 tvg-id="CCTV7HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7HD.png" group-title="重庆",CCTV7HD
+http://27.8.236.135:8009/rtp/225.0.4.127:7980
+#EXTINF:-1 tvg-id="CCTV8HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8HD.png" group-title="重庆",CCTV8HD
+http://27.8.236.135:8009/rtp/225.0.4.137:7980
+#EXTINF:-1 tvg-id="CCTV9HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9HD.png" group-title="重庆",CCTV9HD
+http://27.8.236.135:8009/rtp/225.0.4.131:7980
+#EXTINF:-1 tvg-id="CCTV10HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10HD.png" group-title="重庆",CCTV10HD
+http://27.8.236.135:8009/rtp/225.0.4.130:7980
+#EXTINF:-1 tvg-id="CCTV11HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11HD.png" group-title="重庆",CCTV11HD
+http://27.8.236.135:8009/rtp/225.0.4.218:7980
+#EXTINF:-1 tvg-id="CCTV12HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12HD.png" group-title="重庆",CCTV12HD
+http://27.8.236.135:8009/rtp/225.0.4.129:7980
+#EXTINF:-1 tvg-id="CCTV13HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13HD.png" group-title="重庆",CCTV13HD
+http://27.8.236.135:8009/rtp/225.0.4.219:7980
+#EXTINF:-1 tvg-id="CCTV14HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14HD.png" group-title="重庆",CCTV14HD
+http://27.8.236.135:8009/rtp/225.0.4.128:7980
+#EXTINF:-1 tvg-id="CCTV15HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15HD.png" group-title="重庆",CCTV15HD
+http://27.8.236.135:8009/rtp/225.0.4.220:7980
+#EXTINF:-1 tvg-id="CCTV17HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17HD.png" group-title="重庆",CCTV17HD
+http://27.8.236.135:8009/rtp/225.0.4.179:7980
+#EXTINF:-1 tvg-id="CETV1HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV1HD.png" group-title="重庆",CETV1HD
+http://27.8.236.135:8009/rtp/225.0.4.186:7980
+#EXTINF:-1 tvg-id="CETV4HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV4HD.png" group-title="重庆",CETV4HD
+http://27.8.236.135:8009/rtp/225.0.4.182:7980
+#EXTINF:-1 tvg-id="CHC影迷电影HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1HD.png" group-title="重庆",CHC影迷电影HD
+http://27.8.236.135:8009/rtp/225.0.4.230:7980
+#EXTINF:-1 tvg-id="CHC家庭影院HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2HD.png" group-title="重庆",CHC家庭影院HD
+http://27.8.236.135:8009/rtp/225.0.4.228:7980
+#EXTINF:-1 tvg-id="CHC动作电影HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1HD.png" group-title="重庆",CHC动作电影HD
+http://27.8.236.135:8009/rtp/225.0.4.229:7980
+#EXTINF:-1 tvg-id="中学生HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%AD%E5%AD%A6%E7%94%9FHD.png" group-title="重庆",中学生HD
+http://27.8.236.135:8009/rtp/225.0.4.184:7980
+#EXTINF:-1 tvg-id="法治天地HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B3%95%E6%B2%BB%E5%A4%A9%E5%9C%B0HD.png" group-title="重庆",法治天地HD
+http://27.8.236.135:8009/rtp/225.0.4.240:7980
+#EXTINF:-1 tvg-id="游戏风云HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B8%B8%E6%88%8F%E9%A3%8E%E4%BA%91HD.png" group-title="重庆",游戏风云HD
+http://27.8.236.135:8009/rtp/225.0.4.237:7980
+#EXTINF:-1 tvg-id="快乐垂钓HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93HD.png" group-title="重庆",快乐垂钓HD
+http://27.8.236.135:8009/rtp/225.0.4.213:7980
+#EXTINF:-1 tvg-id="生活时尚HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9AHD.png" group-title="重庆",生活时尚HD
+http://27.8.236.135:8009/rtp/225.0.4.241:7980
+#EXTINF:-1 tvg-id="中国交通HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%AD%E5%9B%BD%E4%BA%A4%E9%80%9AHD.png" group-title="重庆",中国交通HD
+http://27.8.236.135:8009/rtp/225.0.4.125:7980
+#EXTINF:-1 tvg-id="优优宝贝HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BC%98%E4%BC%98%E5%AE%9D%E8%B4%9DHD.png" group-title="重庆",优优宝贝HD
+http://27.8.236.135:8009/rtp/225.0.4.126:7980
+#EXTINF:-1 tvg-id="动漫秀场HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BAHD.png" group-title="重庆",动漫秀场HD
+http://27.8.236.135:8009/rtp/225.0.4.236:7980
+#EXTINF:-1 tvg-id="重庆卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",重庆卫视HD
+http://27.8.236.135:8009/rtp/225.0.4.187:7980
+#EXTINF:-1 tvg-id="江苏卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",江苏卫视HD
+http://27.8.236.135:8009/rtp/225.0.4.79:7980
+#EXTINF:-1 tvg-id="浙江卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",浙江卫视HD
+http://27.8.236.135:8009/rtp/225.0.4.81:7980
+#EXTINF:-1 tvg-id="东方卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",东方卫视HD
+http://27.8.236.135:8009/rtp/225.0.4.80:7980
+#EXTINF:-1 tvg-id="深圳卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",深圳卫视HD
+http://27.8.236.135:8009/rtp/225.0.4.202:7980
+#EXTINF:-1 tvg-id="北京卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",北京卫视HD
+http://27.8.236.135:8009/rtp/225.0.4.78:7980
+#EXTINF:-1 tvg-id="山东卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",山东卫视HD
+http://27.8.236.135:8009/rtp/225.0.4.199:7980
+#EXTINF:-1 tvg-id="天津卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",天津卫视HD
+http://27.8.236.135:8009/rtp/225.0.4.82:7980
+#EXTINF:-1 tvg-id="贵州卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",贵州卫视HD
+http://27.8.236.135:8009/rtp/225.0.4.175:7980
+#EXTINF:-1 tvg-id="四川卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",四川卫视HD
+http://27.8.236.135:8009/rtp/225.0.4.204:7980
+#EXTINF:-1 tvg-id="黑龙江卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",黑龙江卫视HD
+http://27.8.236.135:8009/rtp/225.0.4.201:7980
+#EXTINF:-1 tvg-id="安徽卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",安徽卫视HD
+http://27.8.236.135:8009/rtp/225.0.4.133:7980
+#EXTINF:-1 tvg-id="江西卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",江西卫视HD
+http://27.8.236.135:8009/rtp/225.0.4.203:7980
+#EXTINF:-1 tvg-id="湖北卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",湖北卫视HD
+http://27.8.236.135:8009/rtp/225.0.4.217:7980
+#EXTINF:-1 tvg-id="东南卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",东南卫视HD
+http://27.8.236.135:8009/rtp/225.0.4.200:7980
+#EXTINF:-1 tvg-id="辽宁卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",辽宁卫视HD
+http://27.8.236.135:8009/rtp/225.0.4.98:7980
+#EXTINF:-1 tvg-id="湖南卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",湖南卫视HD
+http://27.8.236.135:8009/rtp/225.0.4.75:7980
+#EXTINF:-1 tvg-id="广东卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",广东卫视HD
+http://27.8.236.135:8009/rtp/225.0.4.84:7980
+#EXTINF:-1 tvg-id="河北卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",河北卫视HD
+http://27.8.236.135:8009/rtp/225.0.4.174:7980
+#EXTINF:-1 tvg-id="甘肃卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",甘肃卫视HD
+http://27.8.236.135:8009/rtp/225.0.4.181:7980
+#EXTINF:-1 tvg-id="新疆卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",新疆卫视HD
+http://27.8.236.135:8009/rtp/225.0.4.60:7980
+#EXTINF:-1 tvg-id="西藏卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",西藏卫视HD
+http://27.8.236.135:8009/rtp/225.0.4.67:7980
+#EXTINF:-1 tvg-id="兵团卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",兵团卫视HD
+http://27.8.236.135:8009/rtp/225.0.4.72:7980
+#EXTINF:-1 tvg-id="山东教育卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",山东教育卫视HD
+http://27.8.236.135:8009/rtp/225.0.4.183:7980
+#EXTINF:-1 tvg-id="都市剧场HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%83%BD%E5%B8%82%E5%89%A7%E5%9C%BAHD.png" group-title="重庆",都市剧场HD
+http://27.8.236.135:8009/rtp/225.0.4.235:7980
+#EXTINF:-1 tvg-id="欢笑剧场HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BAHD.png" group-title="重庆",欢笑剧场HD
+http://27.8.236.135:8009/rtp/225.0.4.234:7980
+#EXTINF:-1 tvg-id="重庆新闻HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E6%96%B0%E9%97%BBHD.png" group-title="重庆",重庆新闻HD
+http://27.8.236.135:8009/rtp/225.0.4.188:7980
+#EXTINF:-1 tvg-id="重庆影视剧HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E5%BD%B1%E8%A7%86%E5%89%A7HD.png" group-title="重庆",重庆影视剧HD
+http://27.8.236.135:8009/rtp/225.0.4.192:7980
+#EXTINF:-1 tvg-id="重庆新农村HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E6%96%B0%E5%86%9C%E6%9D%91HD.png" group-title="重庆",重庆新农村HD
+http://27.8.236.135:8009/rtp/225.0.4.189:7980
+#EXTINF:-1 tvg-id="重庆少儿HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E5%B0%91%E5%84%BFHD.png" group-title="重庆",重庆少儿HD
+http://27.8.236.135:8009/rtp/225.0.4.191:7980
+#EXTINF:-1 tvg-id="重庆社会与法HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95HD.png" group-title="重庆",重庆社会与法HD
+http://27.8.236.135:8009/rtp/225.0.4.190:7980
+#EXTINF:-1 tvg-id="重庆红叶HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E7%BA%A2%E5%8F%B6HD.png" group-title="重庆",重庆红叶HD
+http://27.8.236.135:8009/rtp/225.0.4.193:7980
+#EXTINF:-1 tvg-id="重庆红岩文化HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E7%BA%A2%E5%B2%A9%E6%96%87%E5%8C%96HD.png" group-title="重庆",重庆红岩文化HD
+http://27.8.236.135:8009/rtp/225.0.4.196:7980
+#EXTINF:-1 tvg-id="重庆汽摩HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E6%B1%BD%E6%91%A9HD.png" group-title="重庆",重庆汽摩HD
+http://27.8.236.135:8009/rtp/225.0.4.195:7980
+#EXTINF:-1 tvg-id="重庆移动HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E7%A7%BB%E5%8A%A8HD.png" group-title="重庆",重庆移动HD
+http://27.8.236.135:8009/rtp/225.0.4.215:7980
+#EXTINF:-1 tvg-id="求索记录HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%82%E7%B4%A2%E8%AE%B0%E5%BD%95HD.png" group-title="重庆",求索记录HD
+http://27.8.236.135:8009/rtp/225.0.4.232:7980
+#EXTINF:-1 tvg-id="精彩影视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%B2%BE%E5%BD%A9%E5%BD%B1%E8%A7%86HD.png" group-title="重庆",精彩影视HD
+http://27.8.236.135:8009/rtp/225.0.4.231:7980
+#EXTINF:-1 tvg-id="IPTV8+(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV8%2B%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",IPTV8+(轮播频道)HD
+http://27.8.236.135:8009/rtp/225.0.4.54:7980
+#EXTINF:-1 tvg-id="IPTV相声小品(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%9B%B8%E5%A3%B0%E5%B0%8F%E5%93%81%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",IPTV相声小品(轮播频道)HD
+http://27.8.236.135:8009/rtp/225.0.4.56:7980
+#EXTINF:-1 tvg-id="IPTV野外(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E9%87%8E%E5%A4%96%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",IPTV野外(轮播频道)HD
+http://27.8.236.135:8009/rtp/225.0.4.57:7980
+#EXTINF:-1 tvg-id="光影(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%85%89%E5%BD%B1%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",光影(轮播频道)HD
+http://27.8.236.135:8009/rtp/225.0.4.162:7980
+#EXTINF:-1 tvg-id="军事(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%9B%E4%BA%8B%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",军事(轮播频道)HD
+http://27.8.236.135:8009/rtp/225.0.4.154:7980
+#EXTINF:-1 tvg-id="军旅剧场(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%9B%E6%97%85%E5%89%A7%E5%9C%BA%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",军旅剧场(轮播频道)HD
+http://27.8.236.135:8009/rtp/225.0.4.146:7980
+#EXTINF:-1 tvg-id="动作影院(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8A%A8%E4%BD%9C%E5%BD%B1%E9%99%A2%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",动作影院(轮播频道)HD
+http://27.8.236.135:8009/rtp/225.0.4.170:7980
+#EXTINF:-1 tvg-id="动画(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8A%A8%E7%94%BB%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",动画(轮播频道)HD
+http://27.8.236.135:8009/rtp/225.0.4.158:7980
+#EXTINF:-1 tvg-id="古装剧场(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8F%A4%E8%A3%85%E5%89%A7%E5%9C%BA%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",古装剧场(轮播频道)HD
+http://27.8.236.135:8009/rtp/225.0.4.147:7980
+#EXTINF:-1 tvg-id="台球(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8F%B0%E7%90%83%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",台球(轮播频道)HD
+http://27.8.236.135:8009/rtp/225.0.4.163:7980
+#EXTINF:-1 tvg-id="喜剧影院(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%96%9C%E5%89%A7%E5%BD%B1%E9%99%A2%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",喜剧影院(轮播频道)HD
+http://27.8.236.135:8009/rtp/225.0.4.169:7980
+#EXTINF:-1 tvg-id="地理(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9C%B0%E7%90%86%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",地理(轮播频道)HD
+http://27.8.236.135:8009/rtp/225.0.4.149:7980
+#EXTINF:-1 tvg-id="城市剧场(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9F%8E%E5%B8%82%E5%89%A7%E5%9C%BA%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",城市剧场(轮播频道)HD
+http://27.8.236.135:8009/rtp/225.0.4.145:7980
+#EXTINF:-1 tvg-id="好学生(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A5%BD%E5%AD%A6%E7%94%9F%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",好学生(轮播频道)HD
+http://27.8.236.135:8009/rtp/225.0.4.159:7980
+#EXTINF:-1 tvg-id="家庭影院(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",家庭影院(轮播频道)HD
+http://27.8.236.135:8009/rtp/225.0.4.171:7980
+#EXTINF:-1 tvg-id="星影(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%98%9F%E5%BD%B1%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",星影(轮播频道)HD
+http://27.8.236.135:8009/rtp/225.0.4.172:7980
+#EXTINF:-1 tvg-id="武侠剧场(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%AD%A6%E4%BE%A0%E5%89%A7%E5%9C%BA%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",武侠剧场(轮播频道)HD
+http://27.8.236.135:8009/rtp/225.0.4.168:7980
+#EXTINF:-1 tvg-id="武术(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%AD%A6%E6%9C%AF%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",武术(轮播频道)HD
+http://27.8.236.135:8009/rtp/225.0.4.165:7980
+#EXTINF:-1 tvg-id="热播剧场(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%83%AD%E6%92%AD%E5%89%A7%E5%9C%BA%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",热播剧场(轮播频道)HD
+http://27.8.236.135:8009/rtp/225.0.4.47:7980
+#EXTINF:-1 tvg-id="爱体育(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%88%B1%E4%BD%93%E8%82%B2%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",爱体育(轮播频道)HD
+http://27.8.236.135:8009/rtp/225.0.4.53:7980
+#EXTINF:-1 tvg-id="爱电影(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%88%B1%E7%94%B5%E5%BD%B1%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",爱电影(轮播频道)HD
+http://27.8.236.135:8009/rtp/225.0.4.50:7980
+#EXTINF:-1 tvg-id="爱综艺(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%88%B1%E7%BB%BC%E8%89%BA%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",爱综艺(轮播频道)HD
+http://27.8.236.135:8009/rtp/225.0.4.51:7980
+#EXTINF:-1 tvg-id="精选(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%B2%BE%E9%80%89%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",精选(轮播频道)HD
+http://27.8.236.135:8009/rtp/225.0.4.152:7980
+#EXTINF:-1 tvg-id="经典电影(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",经典电影(轮播频道)HD
+http://27.8.236.135:8009/rtp/225.0.4.48:7980
+#EXTINF:-1 tvg-id="美人(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%BE%8E%E4%BA%BA%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",美人(轮播频道)HD
+http://27.8.236.135:8009/rtp/225.0.4.151:7980
+#EXTINF:-1 tvg-id="美妆(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%BE%8E%E5%A6%86%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",美妆(轮播频道)HD
+http://27.8.236.135:8009/rtp/225.0.4.150:7980
+#EXTINF:-1 tvg-id="茶频道HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%8C%B6%E9%A2%91%E9%81%93HD.png" group-title="重庆",茶频道HD
+http://27.8.236.135:8009/rtp/225.0.4.233:7980
+#EXTINF:-1 tvg-id="解密(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%A7%A3%E5%AF%86%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",解密(轮播频道)HD
+http://27.8.236.135:8009/rtp/225.0.4.153:7980
+#EXTINF:-1 tvg-id="足球(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B6%B3%E7%90%83%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",足球(轮播频道)HD
+http://27.8.236.135:8009/rtp/225.0.4.167:7980
+#EXTINF:-1 tvg-id="重庆娱乐HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E5%A8%B1%E4%B9%90HD.png" group-title="重庆",重庆娱乐HD
+http://27.8.236.135:8009/rtp/225.0.4.194:7980
+#EXTINF:-1 tvg-id="金色频道HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%91%E8%89%B2%E9%A2%91%E9%81%93HD.png" group-title="重庆",金色频道HD
+http://27.8.236.135:8009/rtp/225.0.4.239:7980
+#EXTINF:-1 tvg-id="音乐现场(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",音乐现场(轮播频道)HD
+http://27.8.236.135:8009/rtp/225.0.4.148:7980
+#EXTINF:-1 tvg-id="高网(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%AB%98%E7%BD%91%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",高网(轮播频道)HD
+http://27.8.236.135:8009/rtp/225.0.4.166:7980
+#EXTINF:-1 tvg-id="魅力时尚(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%AD%85%E5%8A%9B%E6%97%B6%E5%B0%9A%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",魅力时尚(轮播频道)HD
+http://27.8.236.135:8009/rtp/225.0.4.49:7980
+#EXTINF:-1 tvg-id="CCTV1SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1SD.png" group-title="重庆",CCTV1SD
+http://27.8.236.135:8009/rtp/225.0.4.1:7980
+#EXTINF:-1 tvg-id="CCTV2SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2SD.png" group-title="重庆",CCTV2SD
+http://27.8.236.135:8009/rtp/225.0.4.2:7980
+#EXTINF:-1 tvg-id="CCTV3SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3SD.png" group-title="重庆",CCTV3SD
+http://27.8.236.135:8009/rtp/225.0.4.138:7980
+#EXTINF:-1 tvg-id="CCTV4SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4SD.png" group-title="重庆",CCTV4SD
+http://27.8.236.135:8009/rtp/225.0.4.3:7980
+#EXTINF:-1 tvg-id="CCTV5SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5SD.png" group-title="重庆",CCTV5SD
+http://27.8.236.135:8009/rtp/225.0.4.139:7980
+#EXTINF:-1 tvg-id="CCTV6SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6SD.png" group-title="重庆",CCTV6SD
+http://27.8.236.135:8009/rtp/225.0.4.140:7980
+#EXTINF:-1 tvg-id="CCTV7SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7SD.png" group-title="重庆",CCTV7SD
+http://27.8.236.135:8009/rtp/225.0.4.4:7980
+#EXTINF:-1 tvg-id="CCTV8SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8SD.png" group-title="重庆",CCTV8SD
+http://27.8.236.135:8009/rtp/225.0.4.141:7980
+#EXTINF:-1 tvg-id="CCTV9SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9SD.png" group-title="重庆",CCTV9SD
+http://27.8.236.135:8009/rtp/225.0.4.5:7980
+#EXTINF:-1 tvg-id="CCTV10SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10SD.png" group-title="重庆",CCTV10SD
+http://27.8.236.135:8009/rtp/225.0.4.6:7980
+#EXTINF:-1 tvg-id="CCTV11SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11SD.png" group-title="重庆",CCTV11SD
+http://27.8.236.135:8009/rtp/225.0.4.7:7980
+#EXTINF:-1 tvg-id="CCTV12SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12SD.png" group-title="重庆",CCTV12SD
+http://27.8.236.135:8009/rtp/225.0.4.8:7980
+#EXTINF:-1 tvg-id="CCTV13SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13SD.png" group-title="重庆",CCTV13SD
+http://27.8.236.135:8009/rtp/225.0.4.9:7980
+#EXTINF:-1 tvg-id="CCTV14SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14SD.png" group-title="重庆",CCTV14SD
+http://27.8.236.135:8009/rtp/225.0.4.10:7980
+#EXTINF:-1 tvg-id="CCTV15SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15SD.png" group-title="重庆",CCTV15SD
+http://27.8.236.135:8009/rtp/225.0.4.11:7980
+#EXTINF:-1 tvg-id="CCTV17SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17SD.png" group-title="重庆",CCTV17SD
+http://27.8.236.135:8009/rtp/225.0.4.180:7980
+#EXTINF:-1 tvg-id="CGTNSD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTNSD.png" group-title="重庆",CGTNSD
+http://27.8.236.135:8009/rtp/225.0.4.12:7980
+#EXTINF:-1 tvg-id="江苏卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",江苏卫视SD
+http://27.8.236.135:8009/rtp/225.0.4.15:7980
+#EXTINF:-1 tvg-id="浙江卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",浙江卫视SD
+http://27.8.236.135:8009/rtp/225.0.4.14:7980
+#EXTINF:-1 tvg-id="东方卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",东方卫视SD
+http://27.8.236.135:8009/rtp/225.0.4.29:7980
+#EXTINF:-1 tvg-id="深圳卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",深圳卫视SD
+http://27.8.236.135:8009/rtp/225.0.4.27:7980
+#EXTINF:-1 tvg-id="北京卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",北京卫视SD
+http://27.8.236.135:8009/rtp/225.0.4.17:7980
+#EXTINF:-1 tvg-id="山东卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",山东卫视SD
+http://27.8.236.135:8009/rtp/225.0.4.20:7980
+#EXTINF:-1 tvg-id="天津卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",天津卫视SD
+http://27.8.236.135:8009/rtp/225.0.4.18:7980
+#EXTINF:-1 tvg-id="贵州卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",贵州卫视SD
+http://27.8.236.135:8009/rtp/225.0.4.26:7980
+#EXTINF:-1 tvg-id="四川卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",四川卫视SD
+http://27.8.236.135:8009/rtp/225.0.4.24:7980
+#EXTINF:-1 tvg-id="云南卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",云南卫视SD
+http://27.8.236.135:8009/rtp/225.0.4.21:7980
+#EXTINF:-1 tvg-id="广西卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",广西卫视SD
+http://27.8.236.135:8009/rtp/225.0.4.34:7980
+#EXTINF:-1 tvg-id="黑龙江卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",黑龙江卫视SD
+http://27.8.236.135:8009/rtp/225.0.4.23:7980
+#EXTINF:-1 tvg-id="安徽卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",安徽卫视SD
+http://27.8.236.135:8009/rtp/225.0.4.16:7980
+#EXTINF:-1 tvg-id="山西卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",山西卫视SD
+http://27.8.236.135:8009/rtp/225.0.4.37:7980
+#EXTINF:-1 tvg-id="江西卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",江西卫视SD
+http://27.8.236.135:8009/rtp/225.0.4.25:7980
+#EXTINF:-1 tvg-id="湖北卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",湖北卫视SD
+http://27.8.236.135:8009/rtp/225.0.4.28:7980
+#EXTINF:-1 tvg-id="旅游卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%97%85%E6%B8%B8%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",旅游卫视SD
+http://27.8.236.135:8009/rtp/225.0.4.40:7980
+#EXTINF:-1 tvg-id="旅游卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%97%85%E6%B8%B8%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",旅游卫视SD
+http://27.8.236.135:8009/rtp/225.0.4.216:7980
+#EXTINF:-1 tvg-id="陕西卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",陕西卫视SD
+http://27.8.236.135:8009/rtp/225.0.4.36:7980
+#EXTINF:-1 tvg-id="东南卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",东南卫视SD
+http://27.8.236.135:8009/rtp/225.0.4.31:7980
+#EXTINF:-1 tvg-id="吉林卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",吉林卫视SD
+http://27.8.236.135:8009/rtp/225.0.4.35:7980
+#EXTINF:-1 tvg-id="吉林卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",吉林卫视SD
+http://27.8.236.135:8009/rtp/225.0.4.225:7980
+#EXTINF:-1 tvg-id="辽宁卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",辽宁卫视SD
+http://27.8.236.135:8009/rtp/225.0.4.19:7980
+#EXTINF:-1 tvg-id="内蒙古卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",内蒙古卫视SD
+http://27.8.236.135:8009/rtp/225.0.4.38:7980
+#EXTINF:-1 tvg-id="湖南卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",湖南卫视SD
+http://27.8.236.135:8009/rtp/225.0.4.13:7980
+#EXTINF:-1 tvg-id="广东卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",广东卫视SD
+http://27.8.236.135:8009/rtp/225.0.4.33:7980
+#EXTINF:-1 tvg-id="河南卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",河南卫视SD
+http://27.8.236.135:8009/rtp/225.0.4.124:7980
+#EXTINF:-1 tvg-id="河南卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",河南卫视SD
+http://27.8.236.135:8009/rtp/225.0.4.22:7980
+#EXTINF:-1 tvg-id="河北卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",河北卫视SD
+http://27.8.236.135:8009/rtp/225.0.4.32:7980
+#EXTINF:-1 tvg-id="宁夏卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",宁夏卫视SD
+http://27.8.236.135:8009/rtp/225.0.4.41:7980
+#EXTINF:-1 tvg-id="青海卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",青海卫视SD
+http://27.8.236.135:8009/rtp/225.0.4.39:7980
+#EXTINF:-1 tvg-id="新疆卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",新疆卫视SD
+http://27.8.236.135:8009/rtp/225.0.4.43:7980
+#EXTINF:-1 tvg-id="西藏卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",西藏卫视SD
+http://27.8.236.135:8009/rtp/225.0.4.42:7980
+#EXTINF:-1 tvg-id="金鹰卡通SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9ASD.png" group-title="重庆",金鹰卡通SD
+http://27.8.236.135:8009/rtp/225.0.4.46:7980
+#EXTINF:-1 tvg-id="嘉佳卡通SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9ASD.png" group-title="重庆",嘉佳卡通SD
+http://27.8.236.135:8009/rtp/225.0.4.221:7980
+#EXTINF:-1 tvg-id="卡酷少儿SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BFSD.png" group-title="重庆",卡酷少儿SD
+http://27.8.236.135:8009/rtp/225.0.4.45:7980
+#EXTINF:-1 tvg-id="重庆新闻SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E6%96%B0%E9%97%BBSD.png" group-title="重庆",重庆新闻SD
+http://27.8.236.135:8009/rtp/225.0.4.59:7980
+#EXTINF:-1 tvg-id="财富天下SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8BSD.png" group-title="重庆",财富天下SD
+http://27.8.236.135:8009/rtp/225.0.4.112:7980
+#EXTINF:-1 tvg-id="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%864K.png" group-title="重庆",北京卫视4K
+http://27.8.236.26:8008/rtp/225.0.4.122:7980
+#EXTINF:-1 tvg-id="东方卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K.png" group-title="重庆",东方卫视4K
+http://27.8.236.26:8008/rtp/225.0.4.103:7980
+#EXTINF:-1 tvg-id="广东卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%864K.png" group-title="重庆",广东卫视4K
+http://27.8.236.26:8008/rtp/225.0.4.102:7980
+#EXTINF:-1 tvg-id="深圳卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%864K.png" group-title="重庆",深圳卫视4K
+http://27.8.236.26:8008/rtp/225.0.4.101:7980
+#EXTINF:-1 tvg-id="湖南卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K.png" group-title="重庆",湖南卫视4K
+http://27.8.236.26:8008/rtp/225.0.4.107:7980
+#EXTINF:-1 tvg-id="山东卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%864K.png" group-title="重庆",山东卫视4K
+http://27.8.236.26:8008/rtp/225.0.4.106:7980
+#EXTINF:-1 tvg-id="四川卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%864K.png" group-title="重庆",四川卫视4K
+http://27.8.236.26:8008/rtp/225.0.4.108:7980
+#EXTINF:-1 tvg-id="浙江卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K.png" group-title="重庆",浙江卫视4K
+http://27.8.236.26:8008/rtp/225.0.4.105:7980
+#EXTINF:-1 tvg-id="江苏卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%864K.png" group-title="重庆",江苏卫视4K
+http://27.8.236.26:8008/rtp/225.0.4.104:7980
+#EXTINF:-1 tvg-id="爱上4K(轮播频道)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%88%B1%E4%B8%8A4K%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29.png" group-title="重庆",爱上4K(轮播频道)
+http://27.8.236.26:8008/rtp/225.0.4.226:7980
+#EXTINF:-1 tvg-id="CCTV1HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1HD.png" group-title="重庆",CCTV1HD
+http://27.8.236.26:8008/rtp/225.0.4.74:7980
+#EXTINF:-1 tvg-id="CCTV2HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2HD.png" group-title="重庆",CCTV2HD
+http://27.8.236.26:8008/rtp/225.0.4.132:7980
+#EXTINF:-1 tvg-id="CCTV3HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3HD.png" group-title="重庆",CCTV3HD
+http://27.8.236.26:8008/rtp/225.0.4.142:7980
+#EXTINF:-1 tvg-id="CCTV4HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4HD.png" group-title="重庆",CCTV4HD
+http://27.8.236.26:8008/rtp/225.0.4.176:7980
+#EXTINF:-1 tvg-id="CCTV5HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5HD.png" group-title="重庆",CCTV5HD
+http://27.8.236.26:8008/rtp/225.0.4.143:7980
+#EXTINF:-1 tvg-id="CCTV5+HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5%2BHD.png" group-title="重庆",CCTV5+HD
+http://27.8.236.26:8008/rtp/225.0.4.73:7980
+#EXTINF:-1 tvg-id="CCTV6HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6HD.png" group-title="重庆",CCTV6HD
+http://27.8.236.26:8008/rtp/225.0.4.144:7980
+#EXTINF:-1 tvg-id="CCTV7HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7HD.png" group-title="重庆",CCTV7HD
+http://27.8.236.26:8008/rtp/225.0.4.127:7980
+#EXTINF:-1 tvg-id="CCTV8HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8HD.png" group-title="重庆",CCTV8HD
+http://27.8.236.26:8008/rtp/225.0.4.137:7980
+#EXTINF:-1 tvg-id="CCTV9HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9HD.png" group-title="重庆",CCTV9HD
+http://27.8.236.26:8008/rtp/225.0.4.131:7980
+#EXTINF:-1 tvg-id="CCTV10HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10HD.png" group-title="重庆",CCTV10HD
+http://27.8.236.26:8008/rtp/225.0.4.130:7980
+#EXTINF:-1 tvg-id="CCTV11HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11HD.png" group-title="重庆",CCTV11HD
+http://27.8.236.26:8008/rtp/225.0.4.218:7980
+#EXTINF:-1 tvg-id="CCTV12HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12HD.png" group-title="重庆",CCTV12HD
+http://27.8.236.26:8008/rtp/225.0.4.129:7980
+#EXTINF:-1 tvg-id="CCTV13HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13HD.png" group-title="重庆",CCTV13HD
+http://27.8.236.26:8008/rtp/225.0.4.219:7980
+#EXTINF:-1 tvg-id="CCTV14HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14HD.png" group-title="重庆",CCTV14HD
+http://27.8.236.26:8008/rtp/225.0.4.128:7980
+#EXTINF:-1 tvg-id="CCTV15HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15HD.png" group-title="重庆",CCTV15HD
+http://27.8.236.26:8008/rtp/225.0.4.220:7980
+#EXTINF:-1 tvg-id="CCTV17HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17HD.png" group-title="重庆",CCTV17HD
+http://27.8.236.26:8008/rtp/225.0.4.179:7980
+#EXTINF:-1 tvg-id="CETV1HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV1HD.png" group-title="重庆",CETV1HD
+http://27.8.236.26:8008/rtp/225.0.4.186:7980
+#EXTINF:-1 tvg-id="CETV4HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV4HD.png" group-title="重庆",CETV4HD
+http://27.8.236.26:8008/rtp/225.0.4.182:7980
+#EXTINF:-1 tvg-id="CHC影迷电影HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1HD.png" group-title="重庆",CHC影迷电影HD
+http://27.8.236.26:8008/rtp/225.0.4.230:7980
+#EXTINF:-1 tvg-id="CHC家庭影院HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2HD.png" group-title="重庆",CHC家庭影院HD
+http://27.8.236.26:8008/rtp/225.0.4.228:7980
+#EXTINF:-1 tvg-id="CHC动作电影HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1HD.png" group-title="重庆",CHC动作电影HD
+http://27.8.236.26:8008/rtp/225.0.4.229:7980
+#EXTINF:-1 tvg-id="中学生HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%AD%E5%AD%A6%E7%94%9FHD.png" group-title="重庆",中学生HD
+http://27.8.236.26:8008/rtp/225.0.4.184:7980
+#EXTINF:-1 tvg-id="法治天地HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B3%95%E6%B2%BB%E5%A4%A9%E5%9C%B0HD.png" group-title="重庆",法治天地HD
+http://27.8.236.26:8008/rtp/225.0.4.240:7980
+#EXTINF:-1 tvg-id="游戏风云HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B8%B8%E6%88%8F%E9%A3%8E%E4%BA%91HD.png" group-title="重庆",游戏风云HD
+http://27.8.236.26:8008/rtp/225.0.4.237:7980
+#EXTINF:-1 tvg-id="快乐垂钓HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93HD.png" group-title="重庆",快乐垂钓HD
+http://27.8.236.26:8008/rtp/225.0.4.213:7980
+#EXTINF:-1 tvg-id="生活时尚HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9AHD.png" group-title="重庆",生活时尚HD
+http://27.8.236.26:8008/rtp/225.0.4.241:7980
+#EXTINF:-1 tvg-id="中国交通HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%AD%E5%9B%BD%E4%BA%A4%E9%80%9AHD.png" group-title="重庆",中国交通HD
+http://27.8.236.26:8008/rtp/225.0.4.125:7980
+#EXTINF:-1 tvg-id="优优宝贝HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BC%98%E4%BC%98%E5%AE%9D%E8%B4%9DHD.png" group-title="重庆",优优宝贝HD
+http://27.8.236.26:8008/rtp/225.0.4.126:7980
+#EXTINF:-1 tvg-id="动漫秀场HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BAHD.png" group-title="重庆",动漫秀场HD
+http://27.8.236.26:8008/rtp/225.0.4.236:7980
+#EXTINF:-1 tvg-id="重庆卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",重庆卫视HD
+http://27.8.236.26:8008/rtp/225.0.4.187:7980
+#EXTINF:-1 tvg-id="江苏卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",江苏卫视HD
+http://27.8.236.26:8008/rtp/225.0.4.79:7980
+#EXTINF:-1 tvg-id="浙江卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",浙江卫视HD
+http://27.8.236.26:8008/rtp/225.0.4.81:7980
+#EXTINF:-1 tvg-id="东方卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",东方卫视HD
+http://27.8.236.26:8008/rtp/225.0.4.80:7980
+#EXTINF:-1 tvg-id="深圳卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",深圳卫视HD
+http://27.8.236.26:8008/rtp/225.0.4.202:7980
+#EXTINF:-1 tvg-id="北京卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",北京卫视HD
+http://27.8.236.26:8008/rtp/225.0.4.78:7980
+#EXTINF:-1 tvg-id="山东卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",山东卫视HD
+http://27.8.236.26:8008/rtp/225.0.4.199:7980
+#EXTINF:-1 tvg-id="天津卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",天津卫视HD
+http://27.8.236.26:8008/rtp/225.0.4.82:7980
+#EXTINF:-1 tvg-id="贵州卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",贵州卫视HD
+http://27.8.236.26:8008/rtp/225.0.4.175:7980
+#EXTINF:-1 tvg-id="四川卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",四川卫视HD
+http://27.8.236.26:8008/rtp/225.0.4.204:7980
+#EXTINF:-1 tvg-id="黑龙江卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",黑龙江卫视HD
+http://27.8.236.26:8008/rtp/225.0.4.201:7980
+#EXTINF:-1 tvg-id="安徽卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",安徽卫视HD
+http://27.8.236.26:8008/rtp/225.0.4.133:7980
+#EXTINF:-1 tvg-id="江西卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",江西卫视HD
+http://27.8.236.26:8008/rtp/225.0.4.203:7980
+#EXTINF:-1 tvg-id="湖北卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",湖北卫视HD
+http://27.8.236.26:8008/rtp/225.0.4.217:7980
+#EXTINF:-1 tvg-id="东南卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",东南卫视HD
+http://27.8.236.26:8008/rtp/225.0.4.200:7980
+#EXTINF:-1 tvg-id="辽宁卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",辽宁卫视HD
+http://27.8.236.26:8008/rtp/225.0.4.98:7980
+#EXTINF:-1 tvg-id="湖南卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",湖南卫视HD
+http://27.8.236.26:8008/rtp/225.0.4.75:7980
+#EXTINF:-1 tvg-id="广东卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",广东卫视HD
+http://27.8.236.26:8008/rtp/225.0.4.84:7980
+#EXTINF:-1 tvg-id="河北卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",河北卫视HD
+http://27.8.236.26:8008/rtp/225.0.4.174:7980
+#EXTINF:-1 tvg-id="甘肃卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",甘肃卫视HD
+http://27.8.236.26:8008/rtp/225.0.4.181:7980
+#EXTINF:-1 tvg-id="新疆卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",新疆卫视HD
+http://27.8.236.26:8008/rtp/225.0.4.60:7980
+#EXTINF:-1 tvg-id="西藏卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",西藏卫视HD
+http://27.8.236.26:8008/rtp/225.0.4.67:7980
+#EXTINF:-1 tvg-id="兵团卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",兵团卫视HD
+http://27.8.236.26:8008/rtp/225.0.4.72:7980
+#EXTINF:-1 tvg-id="山东教育卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86HD.png" group-title="重庆",山东教育卫视HD
+http://27.8.236.26:8008/rtp/225.0.4.183:7980
+#EXTINF:-1 tvg-id="都市剧场HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%83%BD%E5%B8%82%E5%89%A7%E5%9C%BAHD.png" group-title="重庆",都市剧场HD
+http://27.8.236.26:8008/rtp/225.0.4.235:7980
+#EXTINF:-1 tvg-id="欢笑剧场HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BAHD.png" group-title="重庆",欢笑剧场HD
+http://27.8.236.26:8008/rtp/225.0.4.234:7980
+#EXTINF:-1 tvg-id="重庆新闻HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E6%96%B0%E9%97%BBHD.png" group-title="重庆",重庆新闻HD
+http://27.8.236.26:8008/rtp/225.0.4.188:7980
+#EXTINF:-1 tvg-id="重庆影视剧HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E5%BD%B1%E8%A7%86%E5%89%A7HD.png" group-title="重庆",重庆影视剧HD
+http://27.8.236.26:8008/rtp/225.0.4.192:7980
+#EXTINF:-1 tvg-id="重庆新农村HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E6%96%B0%E5%86%9C%E6%9D%91HD.png" group-title="重庆",重庆新农村HD
+http://27.8.236.26:8008/rtp/225.0.4.189:7980
+#EXTINF:-1 tvg-id="重庆少儿HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E5%B0%91%E5%84%BFHD.png" group-title="重庆",重庆少儿HD
+http://27.8.236.26:8008/rtp/225.0.4.191:7980
+#EXTINF:-1 tvg-id="重庆社会与法HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95HD.png" group-title="重庆",重庆社会与法HD
+http://27.8.236.26:8008/rtp/225.0.4.190:7980
+#EXTINF:-1 tvg-id="重庆红叶HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E7%BA%A2%E5%8F%B6HD.png" group-title="重庆",重庆红叶HD
+http://27.8.236.26:8008/rtp/225.0.4.193:7980
+#EXTINF:-1 tvg-id="重庆红岩文化HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E7%BA%A2%E5%B2%A9%E6%96%87%E5%8C%96HD.png" group-title="重庆",重庆红岩文化HD
+http://27.8.236.26:8008/rtp/225.0.4.196:7980
+#EXTINF:-1 tvg-id="重庆汽摩HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E6%B1%BD%E6%91%A9HD.png" group-title="重庆",重庆汽摩HD
+http://27.8.236.26:8008/rtp/225.0.4.195:7980
+#EXTINF:-1 tvg-id="重庆移动HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E7%A7%BB%E5%8A%A8HD.png" group-title="重庆",重庆移动HD
+http://27.8.236.26:8008/rtp/225.0.4.215:7980
+#EXTINF:-1 tvg-id="求索记录HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%82%E7%B4%A2%E8%AE%B0%E5%BD%95HD.png" group-title="重庆",求索记录HD
+http://27.8.236.26:8008/rtp/225.0.4.232:7980
+#EXTINF:-1 tvg-id="精彩影视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%B2%BE%E5%BD%A9%E5%BD%B1%E8%A7%86HD.png" group-title="重庆",精彩影视HD
+http://27.8.236.26:8008/rtp/225.0.4.231:7980
+#EXTINF:-1 tvg-id="IPTV8+(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV8%2B%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",IPTV8+(轮播频道)HD
+http://27.8.236.26:8008/rtp/225.0.4.54:7980
+#EXTINF:-1 tvg-id="IPTV相声小品(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%9B%B8%E5%A3%B0%E5%B0%8F%E5%93%81%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",IPTV相声小品(轮播频道)HD
+http://27.8.236.26:8008/rtp/225.0.4.56:7980
+#EXTINF:-1 tvg-id="IPTV野外(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E9%87%8E%E5%A4%96%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",IPTV野外(轮播频道)HD
+http://27.8.236.26:8008/rtp/225.0.4.57:7980
+#EXTINF:-1 tvg-id="光影(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%85%89%E5%BD%B1%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",光影(轮播频道)HD
+http://27.8.236.26:8008/rtp/225.0.4.162:7980
+#EXTINF:-1 tvg-id="军事(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%9B%E4%BA%8B%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",军事(轮播频道)HD
+http://27.8.236.26:8008/rtp/225.0.4.154:7980
+#EXTINF:-1 tvg-id="军旅剧场(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%9B%E6%97%85%E5%89%A7%E5%9C%BA%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",军旅剧场(轮播频道)HD
+http://27.8.236.26:8008/rtp/225.0.4.146:7980
+#EXTINF:-1 tvg-id="动作影院(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8A%A8%E4%BD%9C%E5%BD%B1%E9%99%A2%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",动作影院(轮播频道)HD
+http://27.8.236.26:8008/rtp/225.0.4.170:7980
+#EXTINF:-1 tvg-id="动画(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8A%A8%E7%94%BB%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",动画(轮播频道)HD
+http://27.8.236.26:8008/rtp/225.0.4.158:7980
+#EXTINF:-1 tvg-id="古装剧场(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8F%A4%E8%A3%85%E5%89%A7%E5%9C%BA%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",古装剧场(轮播频道)HD
+http://27.8.236.26:8008/rtp/225.0.4.147:7980
+#EXTINF:-1 tvg-id="台球(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8F%B0%E7%90%83%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",台球(轮播频道)HD
+http://27.8.236.26:8008/rtp/225.0.4.163:7980
+#EXTINF:-1 tvg-id="喜剧影院(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%96%9C%E5%89%A7%E5%BD%B1%E9%99%A2%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",喜剧影院(轮播频道)HD
+http://27.8.236.26:8008/rtp/225.0.4.169:7980
+#EXTINF:-1 tvg-id="地理(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9C%B0%E7%90%86%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",地理(轮播频道)HD
+http://27.8.236.26:8008/rtp/225.0.4.149:7980
+#EXTINF:-1 tvg-id="城市剧场(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9F%8E%E5%B8%82%E5%89%A7%E5%9C%BA%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",城市剧场(轮播频道)HD
+http://27.8.236.26:8008/rtp/225.0.4.145:7980
+#EXTINF:-1 tvg-id="好学生(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A5%BD%E5%AD%A6%E7%94%9F%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",好学生(轮播频道)HD
+http://27.8.236.26:8008/rtp/225.0.4.159:7980
+#EXTINF:-1 tvg-id="家庭影院(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",家庭影院(轮播频道)HD
+http://27.8.236.26:8008/rtp/225.0.4.171:7980
+#EXTINF:-1 tvg-id="星影(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%98%9F%E5%BD%B1%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",星影(轮播频道)HD
+http://27.8.236.26:8008/rtp/225.0.4.172:7980
+#EXTINF:-1 tvg-id="武侠剧场(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%AD%A6%E4%BE%A0%E5%89%A7%E5%9C%BA%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",武侠剧场(轮播频道)HD
+http://27.8.236.26:8008/rtp/225.0.4.168:7980
+#EXTINF:-1 tvg-id="武术(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%AD%A6%E6%9C%AF%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",武术(轮播频道)HD
+http://27.8.236.26:8008/rtp/225.0.4.165:7980
+#EXTINF:-1 tvg-id="热播剧场(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%83%AD%E6%92%AD%E5%89%A7%E5%9C%BA%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",热播剧场(轮播频道)HD
+http://27.8.236.26:8008/rtp/225.0.4.47:7980
+#EXTINF:-1 tvg-id="爱体育(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%88%B1%E4%BD%93%E8%82%B2%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",爱体育(轮播频道)HD
+http://27.8.236.26:8008/rtp/225.0.4.53:7980
+#EXTINF:-1 tvg-id="爱电影(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%88%B1%E7%94%B5%E5%BD%B1%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",爱电影(轮播频道)HD
+http://27.8.236.26:8008/rtp/225.0.4.50:7980
+#EXTINF:-1 tvg-id="爱综艺(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%88%B1%E7%BB%BC%E8%89%BA%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",爱综艺(轮播频道)HD
+http://27.8.236.26:8008/rtp/225.0.4.51:7980
+#EXTINF:-1 tvg-id="精选(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%B2%BE%E9%80%89%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",精选(轮播频道)HD
+http://27.8.236.26:8008/rtp/225.0.4.152:7980
+#EXTINF:-1 tvg-id="经典电影(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",经典电影(轮播频道)HD
+http://27.8.236.26:8008/rtp/225.0.4.48:7980
+#EXTINF:-1 tvg-id="美人(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%BE%8E%E4%BA%BA%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",美人(轮播频道)HD
+http://27.8.236.26:8008/rtp/225.0.4.151:7980
+#EXTINF:-1 tvg-id="美妆(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%BE%8E%E5%A6%86%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",美妆(轮播频道)HD
+http://27.8.236.26:8008/rtp/225.0.4.150:7980
+#EXTINF:-1 tvg-id="茶频道HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%8C%B6%E9%A2%91%E9%81%93HD.png" group-title="重庆",茶频道HD
+http://27.8.236.26:8008/rtp/225.0.4.233:7980
+#EXTINF:-1 tvg-id="解密(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%A7%A3%E5%AF%86%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",解密(轮播频道)HD
+http://27.8.236.26:8008/rtp/225.0.4.153:7980
+#EXTINF:-1 tvg-id="足球(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B6%B3%E7%90%83%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",足球(轮播频道)HD
+http://27.8.236.26:8008/rtp/225.0.4.167:7980
+#EXTINF:-1 tvg-id="重庆娱乐HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E5%A8%B1%E4%B9%90HD.png" group-title="重庆",重庆娱乐HD
+http://27.8.236.26:8008/rtp/225.0.4.194:7980
+#EXTINF:-1 tvg-id="金色频道HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%91%E8%89%B2%E9%A2%91%E9%81%93HD.png" group-title="重庆",金色频道HD
+http://27.8.236.26:8008/rtp/225.0.4.239:7980
+#EXTINF:-1 tvg-id="音乐现场(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",音乐现场(轮播频道)HD
+http://27.8.236.26:8008/rtp/225.0.4.148:7980
+#EXTINF:-1 tvg-id="高网(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%AB%98%E7%BD%91%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",高网(轮播频道)HD
+http://27.8.236.26:8008/rtp/225.0.4.166:7980
+#EXTINF:-1 tvg-id="魅力时尚(轮播频道)HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%AD%85%E5%8A%9B%E6%97%B6%E5%B0%9A%28%E8%BD%AE%E6%92%AD%E9%A2%91%E9%81%93%29HD.png" group-title="重庆",魅力时尚(轮播频道)HD
+http://27.8.236.26:8008/rtp/225.0.4.49:7980
+#EXTINF:-1 tvg-id="CCTV1SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1SD.png" group-title="重庆",CCTV1SD
+http://27.8.236.26:8008/rtp/225.0.4.1:7980
+#EXTINF:-1 tvg-id="CCTV2SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2SD.png" group-title="重庆",CCTV2SD
+http://27.8.236.26:8008/rtp/225.0.4.2:7980
+#EXTINF:-1 tvg-id="CCTV3SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3SD.png" group-title="重庆",CCTV3SD
+http://27.8.236.26:8008/rtp/225.0.4.138:7980
+#EXTINF:-1 tvg-id="CCTV4SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4SD.png" group-title="重庆",CCTV4SD
+http://27.8.236.26:8008/rtp/225.0.4.3:7980
+#EXTINF:-1 tvg-id="CCTV5SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5SD.png" group-title="重庆",CCTV5SD
+http://27.8.236.26:8008/rtp/225.0.4.139:7980
+#EXTINF:-1 tvg-id="CCTV6SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6SD.png" group-title="重庆",CCTV6SD
+http://27.8.236.26:8008/rtp/225.0.4.140:7980
+#EXTINF:-1 tvg-id="CCTV7SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7SD.png" group-title="重庆",CCTV7SD
+http://27.8.236.26:8008/rtp/225.0.4.4:7980
+#EXTINF:-1 tvg-id="CCTV8SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8SD.png" group-title="重庆",CCTV8SD
+http://27.8.236.26:8008/rtp/225.0.4.141:7980
+#EXTINF:-1 tvg-id="CCTV9SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9SD.png" group-title="重庆",CCTV9SD
+http://27.8.236.26:8008/rtp/225.0.4.5:7980
+#EXTINF:-1 tvg-id="CCTV10SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10SD.png" group-title="重庆",CCTV10SD
+http://27.8.236.26:8008/rtp/225.0.4.6:7980
+#EXTINF:-1 tvg-id="CCTV11SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11SD.png" group-title="重庆",CCTV11SD
+http://27.8.236.26:8008/rtp/225.0.4.7:7980
+#EXTINF:-1 tvg-id="CCTV12SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12SD.png" group-title="重庆",CCTV12SD
+http://27.8.236.26:8008/rtp/225.0.4.8:7980
+#EXTINF:-1 tvg-id="CCTV13SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13SD.png" group-title="重庆",CCTV13SD
+http://27.8.236.26:8008/rtp/225.0.4.9:7980
+#EXTINF:-1 tvg-id="CCTV14SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14SD.png" group-title="重庆",CCTV14SD
+http://27.8.236.26:8008/rtp/225.0.4.10:7980
+#EXTINF:-1 tvg-id="CCTV15SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15SD.png" group-title="重庆",CCTV15SD
+http://27.8.236.26:8008/rtp/225.0.4.11:7980
+#EXTINF:-1 tvg-id="CCTV17SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17SD.png" group-title="重庆",CCTV17SD
+http://27.8.236.26:8008/rtp/225.0.4.180:7980
+#EXTINF:-1 tvg-id="CGTNSD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTNSD.png" group-title="重庆",CGTNSD
+http://27.8.236.26:8008/rtp/225.0.4.12:7980
+#EXTINF:-1 tvg-id="江苏卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",江苏卫视SD
+http://27.8.236.26:8008/rtp/225.0.4.15:7980
+#EXTINF:-1 tvg-id="浙江卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",浙江卫视SD
+http://27.8.236.26:8008/rtp/225.0.4.14:7980
+#EXTINF:-1 tvg-id="东方卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",东方卫视SD
+http://27.8.236.26:8008/rtp/225.0.4.29:7980
+#EXTINF:-1 tvg-id="深圳卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",深圳卫视SD
+http://27.8.236.26:8008/rtp/225.0.4.27:7980
+#EXTINF:-1 tvg-id="北京卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",北京卫视SD
+http://27.8.236.26:8008/rtp/225.0.4.17:7980
+#EXTINF:-1 tvg-id="山东卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",山东卫视SD
+http://27.8.236.26:8008/rtp/225.0.4.20:7980
+#EXTINF:-1 tvg-id="天津卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",天津卫视SD
+http://27.8.236.26:8008/rtp/225.0.4.18:7980
+#EXTINF:-1 tvg-id="贵州卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",贵州卫视SD
+http://27.8.236.26:8008/rtp/225.0.4.26:7980
+#EXTINF:-1 tvg-id="四川卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",四川卫视SD
+http://27.8.236.26:8008/rtp/225.0.4.24:7980
+#EXTINF:-1 tvg-id="云南卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",云南卫视SD
+http://27.8.236.26:8008/rtp/225.0.4.21:7980
+#EXTINF:-1 tvg-id="广西卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",广西卫视SD
+http://27.8.236.26:8008/rtp/225.0.4.34:7980
+#EXTINF:-1 tvg-id="黑龙江卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",黑龙江卫视SD
+http://27.8.236.26:8008/rtp/225.0.4.23:7980
+#EXTINF:-1 tvg-id="安徽卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",安徽卫视SD
+http://27.8.236.26:8008/rtp/225.0.4.16:7980
+#EXTINF:-1 tvg-id="山西卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",山西卫视SD
+http://27.8.236.26:8008/rtp/225.0.4.37:7980
+#EXTINF:-1 tvg-id="江西卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",江西卫视SD
+http://27.8.236.26:8008/rtp/225.0.4.25:7980
+#EXTINF:-1 tvg-id="湖北卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",湖北卫视SD
+http://27.8.236.26:8008/rtp/225.0.4.28:7980
+#EXTINF:-1 tvg-id="旅游卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%97%85%E6%B8%B8%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",旅游卫视SD
+http://27.8.236.26:8008/rtp/225.0.4.40:7980
+#EXTINF:-1 tvg-id="旅游卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%97%85%E6%B8%B8%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",旅游卫视SD
+http://27.8.236.26:8008/rtp/225.0.4.216:7980
+#EXTINF:-1 tvg-id="陕西卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",陕西卫视SD
+http://27.8.236.26:8008/rtp/225.0.4.36:7980
+#EXTINF:-1 tvg-id="东南卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",东南卫视SD
+http://27.8.236.26:8008/rtp/225.0.4.31:7980
+#EXTINF:-1 tvg-id="吉林卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",吉林卫视SD
+http://27.8.236.26:8008/rtp/225.0.4.35:7980
+#EXTINF:-1 tvg-id="吉林卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",吉林卫视SD
+http://27.8.236.26:8008/rtp/225.0.4.225:7980
+#EXTINF:-1 tvg-id="辽宁卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",辽宁卫视SD
+http://27.8.236.26:8008/rtp/225.0.4.19:7980
+#EXTINF:-1 tvg-id="内蒙古卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",内蒙古卫视SD
+http://27.8.236.26:8008/rtp/225.0.4.38:7980
+#EXTINF:-1 tvg-id="湖南卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",湖南卫视SD
+http://27.8.236.26:8008/rtp/225.0.4.13:7980
+#EXTINF:-1 tvg-id="广东卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",广东卫视SD
+http://27.8.236.26:8008/rtp/225.0.4.33:7980
+#EXTINF:-1 tvg-id="河南卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",河南卫视SD
+http://27.8.236.26:8008/rtp/225.0.4.124:7980
+#EXTINF:-1 tvg-id="河南卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",河南卫视SD
+http://27.8.236.26:8008/rtp/225.0.4.22:7980
+#EXTINF:-1 tvg-id="河北卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",河北卫视SD
+http://27.8.236.26:8008/rtp/225.0.4.32:7980
+#EXTINF:-1 tvg-id="宁夏卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",宁夏卫视SD
+http://27.8.236.26:8008/rtp/225.0.4.41:7980
+#EXTINF:-1 tvg-id="青海卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",青海卫视SD
+http://27.8.236.26:8008/rtp/225.0.4.39:7980
+#EXTINF:-1 tvg-id="新疆卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",新疆卫视SD
+http://27.8.236.26:8008/rtp/225.0.4.43:7980
+#EXTINF:-1 tvg-id="西藏卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86SD.png" group-title="重庆",西藏卫视SD
+http://27.8.236.26:8008/rtp/225.0.4.42:7980
+#EXTINF:-1 tvg-id="金鹰卡通SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9ASD.png" group-title="重庆",金鹰卡通SD
+http://27.8.236.26:8008/rtp/225.0.4.46:7980
+#EXTINF:-1 tvg-id="嘉佳卡通SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9ASD.png" group-title="重庆",嘉佳卡通SD
+http://27.8.236.26:8008/rtp/225.0.4.221:7980
+#EXTINF:-1 tvg-id="卡酷少儿SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BFSD.png" group-title="重庆",卡酷少儿SD
+http://27.8.236.26:8008/rtp/225.0.4.45:7980
+#EXTINF:-1 tvg-id="重庆新闻SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E6%96%B0%E9%97%BBSD.png" group-title="重庆",重庆新闻SD
+http://27.8.236.26:8008/rtp/225.0.4.59:7980
+#EXTINF:-1 tvg-id="财富天下SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8BSD.png" group-title="重庆",财富天下SD
+http://27.8.236.26:8008/rtp/225.0.4.112:7980
