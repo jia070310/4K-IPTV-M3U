@@ -291,7 +291,7 @@ def parse_operator_name(detail_html: str, province: str) -> str:
             return f"{province}{carrier}"
     return province
 
-def fetch_channel_lines_by_province(province: str, max_per_carrier: int = 3, max_pages: int = 30):
+def fetch_channel_lines_by_province(province: str, max_per_carrier: int = 5, max_pages: int = 30):
     rows = fetch_region_rows_by_ajax(province, limit=20, max_pages=max_pages)
     if not rows:
         return [], "list_empty", province
@@ -546,7 +546,7 @@ def update_readme_file_list(repo_root: str) -> None:
         f.write(content)
     print("[+] README.md 文件列表已自动更新。")
 
-def process_province(province, txt_output_dir, m3u_output_dir, max_pages=30):
+def process_province(province, txt_output_dir, m3u_output_dir, max_pages=30, max_per_carrier=5):
     """单一省份核心流水线"""
     group_title = province
     out_txt = os.path.join(txt_output_dir, f"{group_title}.txt")
@@ -556,7 +556,11 @@ def process_province(province, txt_output_dir, m3u_output_dir, max_pages=30):
     if check_and_clear_existing(out_txt, out_m3u): return
 
     # 2. 直接从频道列表提取 频道名+播放地址
-    grouped_lines, status, _ = fetch_channel_lines_by_province(province, max_pages=max_pages)
+    grouped_lines, status, _ = fetch_channel_lines_by_province(
+        province,
+        max_pages=max_pages,
+        max_per_carrier=max_per_carrier,
+    )
     if not grouped_lines:
         print(f"[-] [{province}] 频道提取失败: {status}")
         return
@@ -660,6 +664,12 @@ def parse_args():
         default=30,
         help="每个省份最多抓取分页数量（默认30）。",
     )
+    ap.add_argument(
+        "--max-per-carrier",
+        type=int,
+        default=5,
+        help="每个运营商最多选取“新上线/存活”源数量（默认5）。",
+    )
     return ap.parse_args()
 
 
@@ -674,6 +684,7 @@ def main():
         grouped_lines, status, group_title = fetch_channel_lines_by_province(
             args.test_region,
             max_pages=args.max_pages,
+            max_per_carrier=args.max_per_carrier,
         )
         total = sum(len(v) for v in grouped_lines.values()) if grouped_lines else 0
         print(f"\n[*] 测试结果: 地区={args.test_region}，分组={group_title}，状态={status}，频道数={total}")
@@ -692,7 +703,13 @@ def main():
         print(f"\n" + "="*50)
         print(f" 正在处理地区任务: {province}")
         print("="*50)
-        process_province(province, txt_output_dir, m3u_output_dir, max_pages=args.max_pages)
+        process_province(
+            province,
+            txt_output_dir,
+            m3u_output_dir,
+            max_pages=args.max_pages,
+            max_per_carrier=args.max_per_carrier,
+        )
 
     generated_files = []
     generated_files.extend(
