@@ -1,0 +1,321 @@
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
+#EXTINF:-1 tvg-id="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png" group-title="天津联通",天津卫视
+http://125.38.166.133:5002/rtp/225.1.1.111:5002
+#EXTINF:-1 tvg-id="天津新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E6%B4%A5%E6%96%B0%E9%97%BB.png" group-title="天津联通",天津新闻
+http://125.38.166.133:5002/rtp/225.1.1.130:5002
+#EXTINF:-1 tvg-id="天津文艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E6%B4%A5%E6%96%87%E8%89%BA.png" group-title="天津联通",天津文艺
+http://125.38.166.133:5002/rtp/225.1.1.131:5002
+#EXTINF:-1 tvg-id="天津影视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E6%B4%A5%E5%BD%B1%E8%A7%86.png" group-title="天津联通",天津影视
+http://125.38.166.133:5002/rtp/225.1.1.149:5002
+#EXTINF:-1 tvg-id="天津都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E6%B4%A5%E9%83%BD%E5%B8%82.png" group-title="天津联通",天津都市
+http://125.38.166.133:5002/rtp/225.1.1.128:5002
+#EXTINF:-1 tvg-id="天津体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E6%B4%A5%E4%BD%93%E8%82%B2.png" group-title="天津联通",天津体育
+http://125.38.166.133:5002/rtp/225.1.1.122:5002
+#EXTINF:-1 tvg-id="天津科教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E6%B4%A5%E7%A7%91%E6%95%99.png" group-title="天津联通",天津科教
+http://125.38.166.133:5002/rtp/225.1.1.129:5002
+#EXTINF:-1 tvg-id="天津少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E6%B4%A5%E5%B0%91%E5%84%BF.png" group-title="天津联通",天津少儿
+http://125.38.166.133:5002/rtp/225.1.1.125:5002
+#EXTINF:-1 tvg-id="天津购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E6%B4%A5%E8%B4%AD%E7%89%A9.png" group-title="天津联通",天津购物
+http://125.38.166.133:5002/rtp/225.1.1.151:5002
+#EXTINF:-1 tvg-id="天津IPTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E6%B4%A5IPTV.png" group-title="天津联通",天津IPTV
+http://125.38.166.133:5002/rtp/225.1.2.123:5002
+#EXTINF:-1 tvg-id="CCTV-1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-1.png" group-title="天津联通",CCTV-1
+http://125.38.166.133:5002/rtp/225.1.1.120:5002
+#EXTINF:-1 tvg-id="CCTV-2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-2.png" group-title="天津联通",CCTV-2
+http://125.38.166.133:5002/rtp/225.1.1.133:5002
+#EXTINF:-1 tvg-id="CCTV-3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-3.png" group-title="天津联通",CCTV-3
+http://125.38.166.133:5002/rtp/225.1.1.158:5002
+#EXTINF:-1 tvg-id="CCTV-4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-4.png" group-title="天津联通",CCTV-4
+http://125.38.166.133:5002/rtp/225.1.1.150:5002
+#EXTINF:-1 tvg-id="CCTV-5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-5.png" group-title="天津联通",CCTV-5
+http://125.38.166.133:5002/rtp/225.1.1.160:5002
+#EXTINF:-1 tvg-id="CCTV-5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-5%2B.png" group-title="天津联通",CCTV-5+
+http://125.38.166.133:5002/rtp/225.1.1.121:5002
+#EXTINF:-1 tvg-id="CCTV-6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-6.png" group-title="天津联通",CCTV-6
+http://125.38.166.133:5002/rtp/225.1.1.195:5002
+#EXTINF:-1 tvg-id="CCTV-7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-7.png" group-title="天津联通",CCTV-7
+http://125.38.166.133:5002/rtp/225.1.1.138:5002
+#EXTINF:-1 tvg-id="CCTV-8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-8.png" group-title="天津联通",CCTV-8
+http://125.38.166.133:5002/rtp/225.1.1.196:5002
+#EXTINF:-1 tvg-id="CCTV-9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-9.png" group-title="天津联通",CCTV-9
+http://125.38.166.133:5002/rtp/225.1.1.119:5002
+#EXTINF:-1 tvg-id="CCTV-10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-10.png" group-title="天津联通",CCTV-10
+http://125.38.166.133:5002/rtp/225.1.1.140:5002
+#EXTINF:-1 tvg-id="CCTV-11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-11.png" group-title="天津联通",CCTV-11
+http://125.38.166.133:5002/rtp/225.1.2.192:5002
+#EXTINF:-1 tvg-id="CCTV-12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-12.png" group-title="天津联通",CCTV-12
+http://125.38.166.133:5002/rtp/225.1.1.142:5002
+#EXTINF:-1 tvg-id="CCTV-13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-13.png" group-title="天津联通",CCTV-13
+http://125.38.166.133:5002/rtp/225.1.2.193:5002
+#EXTINF:-1 tvg-id="CCTV-14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-14.png" group-title="天津联通",CCTV-14
+http://125.38.166.133:5002/rtp/225.1.1.144:5002
+#EXTINF:-1 tvg-id="CCTV-15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-15.png" group-title="天津联通",CCTV-15
+http://125.38.166.133:5002/rtp/225.1.2.194:5002
+#EXTINF:-1 tvg-id="CCTV-16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-16.png" group-title="天津联通",CCTV-16
+http://125.38.166.133:5002/rtp/225.1.2.237:5002
+#EXTINF:-1 tvg-id="CCTV-17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-17.png" group-title="天津联通",CCTV-17
+http://125.38.166.133:5002/rtp/225.1.2.52:5002
+#EXTINF:-1 tvg-id="CCTV-兵器科技" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-%E5%85%B5%E5%99%A8%E7%A7%91%E6%8A%80.png" group-title="天津联通",CCTV-兵器科技
+http://125.38.166.133:5002/rtp/225.1.2.166:5002
+#EXTINF:-1 tvg-id="CCTV-第一剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-%E7%AC%AC%E4%B8%80%E5%89%A7%E5%9C%BA.png" group-title="天津联通",CCTV-第一剧场
+http://125.38.166.133:5002/rtp/225.1.2.175:5002
+#EXTINF:-1 tvg-id="CCTV-电视指南" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-%E7%94%B5%E8%A7%86%E6%8C%87%E5%8D%97.png" group-title="天津联通",CCTV-电视指南
+http://125.38.166.133:5002/rtp/225.1.2.167:5002
+#EXTINF:-1 tvg-id="CCTV-风云剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA.png" group-title="天津联通",CCTV-风云剧场
+http://125.38.166.133:5002/rtp/225.1.2.174:5002
+#EXTINF:-1 tvg-id="CCTV-风云音乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-%E9%A3%8E%E4%BA%91%E9%9F%B3%E4%B9%90.png" group-title="天津联通",CCTV-风云音乐
+http://125.38.166.133:5002/rtp/225.1.2.176:5002
+#EXTINF:-1 tvg-id="CCTV-风云足球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83.png" group-title="天津联通",CCTV-风云足球
+http://125.38.166.133:5002/rtp/225.1.2.168:5002
+#EXTINF:-1 tvg-id="CCTV-高尔夫网球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-%E9%AB%98%E5%B0%94%E5%A4%AB%E7%BD%91%E7%90%83.png" group-title="天津联通",CCTV-高尔夫网球
+http://125.38.166.133:5002/rtp/225.1.2.169:5002
+#EXTINF:-1 tvg-id="CCTV-怀旧剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA.png" group-title="天津联通",CCTV-怀旧剧场
+http://125.38.166.133:5002/rtp/225.1.2.173:5002
+#EXTINF:-1 tvg-id="CCTV-女性时尚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-%E5%A5%B3%E6%80%A7%E6%97%B6%E5%B0%9A.png" group-title="天津联通",CCTV-女性时尚
+http://125.38.166.133:5002/rtp/225.1.2.172:5002
+#EXTINF:-1 tvg-id="CCTV-世界地理" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86.png" group-title="天津联通",CCTV-世界地理
+http://125.38.166.133:5002/rtp/225.1.2.171:5002
+#EXTINF:-1 tvg-id="CCTV-央视文化精品" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-%E5%A4%AE%E8%A7%86%E6%96%87%E5%8C%96%E7%B2%BE%E5%93%81.png" group-title="天津联通",CCTV-央视文化精品
+http://125.38.166.133:5002/rtp/225.1.2.177:5002
+#EXTINF:-1 tvg-id="CCTV-央视台球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83.png" group-title="天津联通",CCTV-央视台球
+http://125.38.166.133:5002/rtp/225.1.2.170:5002
+#EXTINF:-1 tvg-id="天津购物自营" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E6%B4%A5%E8%B4%AD%E7%89%A9%E8%87%AA%E8%90%A5.png" group-title="天津联通",天津购物自营
+http://125.38.166.133:5002/rtp/225.1.1.108:5002
+#EXTINF:-1 tvg-id="天津文艺广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E6%B4%A5%E6%96%87%E8%89%BA%E5%B9%BF%E6%92%AD.png" group-title="天津联通",天津文艺广播
+http://125.38.166.133:5002/rtp/225.1.1.171:5002
+#EXTINF:-1 tvg-id="天津经济广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E6%B4%A5%E7%BB%8F%E6%B5%8E%E5%B9%BF%E6%92%AD.png" group-title="天津联通",天津经济广播
+http://125.38.166.133:5002/rtp/225.1.1.172:5002
+#EXTINF:-1 tvg-id="天津新闻广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E6%B4%A5%E6%96%B0%E9%97%BB%E5%B9%BF%E6%92%AD.png" group-title="天津联通",天津新闻广播
+http://125.38.166.133:5002/rtp/225.1.1.173:5002
+#EXTINF:-1 tvg-id="天津生活广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E6%B4%A5%E7%94%9F%E6%B4%BB%E5%B9%BF%E6%92%AD.png" group-title="天津联通",天津生活广播
+http://125.38.166.133:5002/rtp/225.1.1.174:5002
+#EXTINF:-1 tvg-id="天津交通广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E6%B4%A5%E4%BA%A4%E9%80%9A%E5%B9%BF%E6%92%AD.png" group-title="天津联通",天津交通广播
+http://125.38.166.133:5002/rtp/225.1.1.175:5002
+#EXTINF:-1 tvg-id="天津相声广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E6%B4%A5%E7%9B%B8%E5%A3%B0%E5%B9%BF%E6%92%AD.png" group-title="天津联通",天津相声广播
+http://125.38.166.133:5002/rtp/225.1.1.176:5002
+#EXTINF:-1 tvg-id="天津小说广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E6%B4%A5%E5%B0%8F%E8%AF%B4%E5%B9%BF%E6%92%AD.png" group-title="天津联通",天津小说广播
+http://125.38.166.133:5002/rtp/225.1.1.177:5002
+#EXTINF:-1 tvg-id="天津滨海广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E6%B4%A5%E6%BB%A8%E6%B5%B7%E5%B9%BF%E6%92%AD.png" group-title="天津联通",天津滨海广播
+http://125.38.166.133:5002/rtp/225.1.1.178:5002
+#EXTINF:-1 tvg-id="天津音乐广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E6%B4%A5%E9%9F%B3%E4%B9%90%E5%B9%BF%E6%92%AD.png" group-title="天津联通",天津音乐广播
+http://125.38.166.133:5002/rtp/225.1.1.179:5002
+#EXTINF:-1 tvg-id="天津农村广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E6%B4%A5%E5%86%9C%E6%9D%91%E5%B9%BF%E6%92%AD.png" group-title="天津联通",天津农村广播
+http://125.38.166.133:5002/rtp/225.1.1.180:5002
+#EXTINF:-1 tvg-id="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="天津联通",安徽卫视
+http://125.38.166.133:5002/rtp/225.1.1.127:5002
+#EXTINF:-1 tvg-id="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png" group-title="天津联通",北京卫视
+http://125.38.166.133:5002/rtp/225.1.1.113:5002
+#EXTINF:-1 tvg-id="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="天津联通",东方卫视
+http://125.38.166.133:5002/rtp/225.1.2.31:5002
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png" group-title="天津联通",甘肃卫视
+http://125.38.166.133:5002/rtp/225.1.1.30:5002
+#EXTINF:-1 tvg-id="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="天津联通",广东卫视
+http://125.38.166.133:5002/rtp/225.1.1.116:5002
+#EXTINF:-1 tvg-id="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png" group-title="天津联通",深圳卫视
+http://125.38.166.133:5002/rtp/225.1.1.117:5002
+#EXTINF:-1 tvg-id="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png" group-title="天津联通",贵州卫视
+http://125.38.166.133:5002/rtp/225.1.2.28:5002
+#EXTINF:-1 tvg-id="海南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="天津联通",海南卫视
+http://125.38.166.133:5002/rtp/225.1.2.82:5002
+#EXTINF:-1 tvg-id="三沙卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86.png" group-title="天津联通",三沙卫视
+http://125.38.166.133:5002/rtp/225.1.2.181:5002
+#EXTINF:-1 tvg-id="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="天津联通",河南卫视
+http://125.38.166.133:5002/rtp/225.1.2.61:5002
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="天津联通",黑龙江卫视
+http://125.38.166.133:5002/rtp/225.1.1.115:5002
+#EXTINF:-1 tvg-id="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="天津联通",湖北卫视
+http://125.38.166.133:5002/rtp/225.1.1.147:5002
+#EXTINF:-1 tvg-id="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="天津联通",湖南卫视
+http://125.38.166.133:5002/rtp/225.1.1.114:5002
+#EXTINF:-1 tvg-id="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86.png" group-title="天津联通",吉林卫视
+http://125.38.166.133:5002/rtp/225.1.2.26:5002
+#EXTINF:-1 tvg-id="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="天津联通",江苏卫视
+http://125.38.166.133:5002/rtp/225.1.1.126:5002
+#EXTINF:-1 tvg-id="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="天津联通",江西卫视
+http://125.38.166.133:5002/rtp/225.1.2.29:5002
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png" group-title="天津联通",辽宁卫视
+http://125.38.166.133:5002/rtp/225.1.1.154:5002
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86.png" group-title="天津联通",内蒙古卫视
+http://125.38.166.133:5002/rtp/225.1.1.32:5002
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png" group-title="天津联通",宁夏卫视
+http://125.38.166.133:5002/rtp/225.1.1.56:5002
+#EXTINF:-1 tvg-id="青海卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png" group-title="天津联通",青海卫视
+http://125.38.166.133:5002/rtp/225.1.1.54:5002
+#EXTINF:-1 tvg-id="山西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="天津联通",山西卫视
+http://125.38.166.133:5002/rtp/225.1.1.50:5002
+#EXTINF:-1 tvg-id="陕西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="天津联通",陕西卫视
+http://125.38.166.133:5002/rtp/225.1.1.41:5002
+#EXTINF:-1 tvg-id="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png" group-title="天津联通",四川卫视
+http://125.38.166.133:5002/rtp/225.1.1.123:5002
+#EXTINF:-1 tvg-id="西藏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png" group-title="天津联通",西藏卫视
+http://125.38.166.133:5002/rtp/225.1.1.51:5002
+#EXTINF:-1 tvg-id="新疆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png" group-title="天津联通",新疆卫视
+http://125.38.166.133:5002/rtp/225.1.1.35:5002
+#EXTINF:-1 tvg-id="兵团卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86.png" group-title="天津联通",兵团卫视
+http://125.38.166.133:5002/rtp/225.1.1.57:5002
+#EXTINF:-1 tvg-id="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="天津联通",广西卫视
+http://125.38.166.133:5002/rtp/225.1.2.81:5002
+#EXTINF:-1 tvg-id="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="天津联通",云南卫视
+http://125.38.166.133:5002/rtp/225.1.1.61:5002
+#EXTINF:-1 tvg-id="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="天津联通",浙江卫视
+http://125.38.166.133:5002/rtp/225.1.1.112:5002
+#EXTINF:-1 tvg-id="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86.png" group-title="天津联通",重庆卫视
+http://125.38.166.133:5002/rtp/225.1.1.155:5002
+#EXTINF:-1 tvg-id="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="天津联通",河北卫视
+http://125.38.166.133:5002/rtp/225.1.2.27:5002
+#EXTINF:-1 tvg-id="保定卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%9D%E5%AE%9A%E5%8D%AB%E8%A7%86.png" group-title="天津联通",保定卫视
+http://125.38.166.133:5002/rtp/225.1.1.83:5002
+#EXTINF:-1 tvg-id="山东教育卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86.png" group-title="天津联通",山东教育卫视
+http://125.38.166.133:5002/rtp/225.1.2.118:5002
+#EXTINF:-1 tvg-id="河东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="天津联通",河东卫视
+http://125.38.166.133:5002/rtp/225.1.2.2:5002
+#EXTINF:-1 tvg-id="河西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="天津联通",河西卫视
+http://125.38.166.133:5002/rtp/225.1.2.4:5002
+#EXTINF:-1 tvg-id="蓟州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%93%9F%E5%B7%9E%E5%8D%AB%E8%A7%86.png" group-title="天津联通",蓟州卫视
+http://125.38.166.133:5002/rtp/225.1.1.82:5002
+#EXTINF:-1 tvg-id="静海卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%9D%99%E6%B5%B7%E5%8D%AB%E8%A7%86.png" group-title="天津联通",静海卫视
+http://125.38.166.133:5002/rtp/225.1.1.110:5002
+#EXTINF:-1 tvg-id="滨海1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%BB%A8%E6%B5%B71.png" group-title="天津联通",滨海1
+http://125.38.166.133:5002/rtp/225.1.2.7:5002
+#EXTINF:-1 tvg-id="滨海2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%BB%A8%E6%B5%B72.png" group-title="天津联通",滨海2
+http://125.38.166.133:5002/rtp/225.1.2.8:5002
+#EXTINF:-1 tvg-id="大港油田企业" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A7%E6%B8%AF%E6%B2%B9%E7%94%B0%E4%BC%81%E4%B8%9A.png" group-title="天津联通",大港油田企业
+http://125.38.166.133:5002/rtp/225.1.2.14:5002
+#EXTINF:-1 tvg-id="4K私享家" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/4K%E7%A7%81%E4%BA%AB%E5%AE%B6.png" group-title="天津联通",4K私享家
+http://125.38.166.133:5002/rtp/225.1.1.156:5002
+#EXTINF:-1 tvg-id="4K影视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/4K%E5%BD%B1%E8%A7%86.png" group-title="天津联通",4K影视
+http://125.38.166.133:5002/rtp/225.1.2.190:5002
+#EXTINF:-1 tvg-id="CETV早期教育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV%E6%97%A9%E6%9C%9F%E6%95%99%E8%82%B2.png" group-title="天津联通",CETV早期教育
+http://125.38.166.133:5002/rtp/225.1.2.207:5002
+#EXTINF:-1 tvg-id="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="天津联通",CGTN
+http://125.38.166.133:5002/rtp/225.1.1.27:5002
+#EXTINF:-1 tvg-id="CGTN纪录" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN%E7%BA%AA%E5%BD%95.png" group-title="天津联通",CGTN纪录
+http://125.38.166.133:5002/rtp/225.1.1.55:5002
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png" group-title="天津联通",CHC动作电影
+http://125.38.166.133:5002/rtp/225.1.1.215:5002
+#EXTINF:-1 tvg-id="CHC高清电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC%E9%AB%98%E6%B8%85%E7%94%B5%E5%BD%B1.png" group-title="天津联通",CHC高清电影
+http://125.38.166.133:5002/rtp/225.1.1.214:5002
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2.png" group-title="天津联通",CHC家庭影院
+http://125.38.166.133:5002/rtp/225.1.1.213:5002
+#EXTINF:-1 tvg-id="FTV足球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FTV%E8%B6%B3%E7%90%83.png" group-title="天津联通",FTV足球
+http://125.38.166.133:5002/rtp/225.1.2.83:5002
+#EXTINF:-1 tvg-id="GTV网络棋牌" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/GTV%E7%BD%91%E7%BB%9C%E6%A3%8B%E7%89%8C.png" group-title="天津联通",GTV网络棋牌
+http://125.38.166.133:5002/rtp/225.1.1.217:5002
+#EXTINF:-1 tvg-id="GTV游戏竞技" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/GTV%E6%B8%B8%E6%88%8F%E7%AB%9E%E6%8A%80.png" group-title="天津联通",GTV游戏竞技
+http://125.38.166.133:5002/rtp/225.1.1.222:5002
+#EXTINF:-1 tvg-id="财富天下" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B.png" group-title="天津联通",财富天下
+http://125.38.166.133:5002/rtp/225.1.2.198:5002
+#EXTINF:-1 tvg-id="茶频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%8C%B6%E9%A2%91%E9%81%93.png" group-title="天津联通",茶频道
+http://125.38.166.133:5002/rtp/225.1.2.19:5002
+#EXTINF:-1 tvg-id="车迷频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BD%A6%E8%BF%B7%E9%A2%91%E9%81%93.png" group-title="天津联通",车迷频道
+http://125.38.166.133:5002/rtp/225.1.2.199:5002
+#EXTINF:-1 tvg-id="东方财*" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E6%96%B9%E8%B4%A2%2A.png" group-title="天津联通",东方财*
+http://125.38.166.133:5002/rtp/225.1.1.247:5002
+#EXTINF:-1 tvg-id="东方购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E6%96%B9%E8%B4%AD%E7%89%A9.png" group-title="天津联通",东方购物
+http://125.38.166.133:5002/rtp/225.1.1.223:5002
+#EXTINF:-1 tvg-id="动漫秀场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BA.png" group-title="天津联通",动漫秀场
+http://125.38.166.133:5002/rtp/225.1.1.134:5002
+#EXTINF:-1 tvg-id="都市剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%83%BD%E5%B8%82%E5%89%A7%E5%9C%BA.png" group-title="天津联通",都市剧场
+http://125.38.166.133:5002/rtp/225.1.1.146:5002
+#EXTINF:-1 tvg-id="法制天地" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B3%95%E5%88%B6%E5%A4%A9%E5%9C%B0.png" group-title="天津联通",法制天地
+http://125.38.166.133:5002/rtp/225.1.1.237:5002
+#EXTINF:-1 tvg-id="风尚购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%A3%8E%E5%B0%9A%E8%B4%AD%E7%89%A9.png" group-title="天津联通",风尚购物
+http://125.38.166.133:5002/rtp/225.1.2.204:5002
+#EXTINF:-1 tvg-id="风尚生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%A3%8E%E5%B0%9A%E7%94%9F%E6%B4%BB.png" group-title="天津联通",风尚生活
+http://125.38.166.133:5002/rtp/225.1.2.58:5002
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%93%88%E5%93%88%E7%82%AB%E5%8A%A8.png" group-title="天津联通",哈哈炫动
+http://125.38.166.133:5002/rtp/225.1.1.62:5002
+#EXTINF:-1 tvg-id="好享购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A5%BD%E4%BA%AB%E8%B4%AD%E7%89%A9.png" group-title="天津联通",好享购物
+http://125.38.166.133:5002/rtp/225.1.1.224:5002
+#EXTINF:-1 tvg-id="欢乐动漫" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%AC%A2%E4%B9%90%E5%8A%A8%E6%BC%AB.png" group-title="天津联通",欢乐动漫
+http://125.38.166.133:5002/rtp/225.1.1.132:5002
+#EXTINF:-1 tvg-id="欢笑剧场4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA4K.png" group-title="天津联通",欢笑剧场4K
+http://125.38.166.133:5002/rtp/225.1.1.139:5002
+#EXTINF:-1 tvg-id="环球旅游" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%8E%AF%E7%90%83%E6%97%85%E6%B8%B8.png" group-title="天津联通",环球旅游
+http://125.38.166.133:5002/rtp/225.1.2.200:5002
+#EXTINF:-1 tvg-id="环球奇观" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%8E%AF%E7%90%83%E5%A5%87%E8%A7%82.png" group-title="天津联通",环球奇观
+http://125.38.166.133:5002/rtp/225.1.1.197:5002
+#EXTINF:-1 tvg-id="极速汽车" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%9E%81%E9%80%9F%E6%B1%BD%E8%BD%A6.png" group-title="天津联通",极速汽车
+http://125.38.166.133:5002/rtp/225.1.1.141:5002
+#EXTINF:-1 tvg-id="纪实人文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%BA%AA%E5%AE%9E%E4%BA%BA%E6%96%87.png" group-title="天津联通",纪实人文
+http://125.38.166.133:5002/rtp/225.1.2.25:5002
+#EXTINF:-1 tvg-id="家家购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%B6%E5%AE%B6%E8%B4%AD%E7%89%A9.png" group-title="天津联通",家家购物
+http://125.38.166.133:5002/rtp/225.1.1.227:5002
+#EXTINF:-1 tvg-id="家庭理*" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%B6%E5%BA%AD%E7%90%86%2A.png" group-title="天津联通",家庭理*
+http://125.38.166.133:5002/rtp/225.1.2.23:5002
+#EXTINF:-1 tvg-id="家有购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%B6%E6%9C%89%E8%B4%AD%E7%89%A9.png" group-title="天津联通",家有购物
+http://125.38.166.133:5002/rtp/225.1.1.226:5002
+#EXTINF:-1 tvg-id="金色学堂" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%91%E8%89%B2%E5%AD%A6%E5%A0%82.png" group-title="天津联通",金色学堂
+http://125.38.166.133:5002/rtp/225.1.1.236:5002
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%91%E9%B9%B0%E7%BA%AA%E5%AE%9E.png" group-title="天津联通",金鹰纪实
+http://125.38.166.133:5002/rtp/225.1.1.124:5002
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A.png" group-title="天津联通",金鹰卡通
+http://125.38.166.133:5002/rtp/225.1.2.236:5002
+#EXTINF:-1 tvg-id="靓妆" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%9D%93%E5%A6%86.png" group-title="天津联通",靓妆
+http://125.38.166.133:5002/rtp/225.1.1.200:5002
+#EXTINF:-1 tvg-id="聚鲨环球精选" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%81%9A%E9%B2%A8%E7%8E%AF%E7%90%83%E7%B2%BE%E9%80%89.png" group-title="天津联通",聚鲨环球精选
+http://125.38.166.133:5002/rtp/225.1.1.102:5002
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png" group-title="天津联通",卡酷少儿
+http://125.38.166.133:5002/rtp/225.1.1.58:5002
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93.png" group-title="天津联通",快乐垂钓
+http://125.38.166.133:5002/rtp/225.1.1.92:5002
+#EXTINF:-1 tvg-id="快乐生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%BF%AB%E4%B9%90%E7%94%9F%E6%B4%BB.png" group-title="天津联通",快乐生活
+http://125.38.166.133:5002/rtp/225.1.2.24:5002
+#EXTINF:-1 tvg-id="乐游" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B9%90%E6%B8%B8.png" group-title="天津联通",乐游
+http://125.38.166.133:5002/rtp/225.1.1.145:5002
+#EXTINF:-1 tvg-id="梨园频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%A2%A8%E5%9B%AD%E9%A2%91%E9%81%93.png" group-title="天津联通",梨园频道
+http://125.38.166.133:5002/rtp/225.1.2.104:5002
+#EXTINF:-1 tvg-id="每日影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%AF%8F%E6%97%A5%E5%BD%B1%E9%99%A2.png" group-title="天津联通",每日影院
+http://125.38.166.133:5002/rtp/225.1.2.57:5002
+#EXTINF:-1 tvg-id="魅力足球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%AD%85%E5%8A%9B%E8%B6%B3%E7%90%83.png" group-title="天津联通",魅力足球
+http://125.38.166.133:5002/rtp/225.1.1.137:5002
+#EXTINF:-1 tvg-id="汽摩" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%BD%E6%91%A9.png" group-title="天津联通",汽摩
+http://125.38.166.133:5002/rtp/225.1.1.205:5002
+#EXTINF:-1 tvg-id="三角英语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%89%E8%A7%92%E8%8B%B1%E8%AF%AD.png" group-title="天津联通",三角英语
+http://125.38.166.133:5002/rtp/225.1.2.182:5002
+#EXTINF:-1 tvg-id="生活时尚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9A.png" group-title="天津联通",生活时尚
+http://125.38.166.133:5002/rtp/225.1.1.143:5002
+#EXTINF:-1 tvg-id="生态环境" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%9F%E6%80%81%E7%8E%AF%E5%A2%83.png" group-title="天津联通",生态环境
+http://125.38.166.133:5002/rtp/225.1.2.201:5002
+#EXTINF:-1 tvg-id="书法" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B9%A6%E6%B3%95.png" group-title="天津联通",书法
+http://125.38.166.133:5002/rtp/225.1.2.22:5002
+#EXTINF:-1 tvg-id="四海钓鱼" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC.png" group-title="天津联通",四海钓鱼
+http://125.38.166.133:5002/rtp/225.1.2.202:5002
+#EXTINF:-1 tvg-id="陶瓷" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%99%B6%E7%93%B7.png" group-title="天津联通",陶瓷
+http://125.38.166.133:5002/rtp/225.1.1.153:5002
+#EXTINF:-1 tvg-id="文物宝库" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%96%87%E7%89%A9%E5%AE%9D%E5%BA%93.png" group-title="天津联通",文物宝库
+http://125.38.166.133:5002/rtp/225.1.2.105:5002
+#EXTINF:-1 tvg-id="武术世界" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%AD%A6%E6%9C%AF%E4%B8%96%E7%95%8C.png" group-title="天津联通",武术世界
+http://125.38.166.133:5002/rtp/225.1.2.129:5002
+#EXTINF:-1 tvg-id="先锋乒羽" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%85%88%E9%94%8B%E4%B9%92%E7%BE%BD.png" group-title="天津联通",先锋乒羽
+http://125.38.166.133:5002/rtp/225.1.1.219:5002
+#EXTINF:-1 tvg-id="新动漫" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%96%B0%E5%8A%A8%E6%BC%AB.png" group-title="天津联通",新动漫
+http://125.38.166.133:5002/rtp/225.1.1.216:5002
+#EXTINF:-1 tvg-id="新影老故事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%96%B0%E5%BD%B1%E8%80%81%E6%95%85%E4%BA%8B.png" group-title="天津联通",新影老故事
+http://125.38.166.133:5002/rtp/225.1.1.188:5002
+#EXTINF:-1 tvg-id="新影中学生" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%96%B0%E5%BD%B1%E4%B8%AD%E5%AD%A6%E7%94%9F.png" group-title="天津联通",新影中学生
+http://125.38.166.133:5002/rtp/225.1.1.193:5002
+#EXTINF:-1 tvg-id="幸福彩" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%B8%E7%A6%8F%E5%BD%A9.png" group-title="天津联通",幸福彩
+http://125.38.166.133:5002/rtp/225.1.1.152:5002
+#EXTINF:-1 tvg-id="幸福剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%B8%E7%A6%8F%E5%89%A7%E5%9C%BA.png" group-title="天津联通",幸福剧场
+http://125.38.166.133:5002/rtp/225.1.2.59:5002
+#EXTINF:-1 tvg-id="幸福娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%B8%E7%A6%8F%E5%A8%B1%E4%B9%90.png" group-title="天津联通",幸福娱乐
+http://125.38.166.133:5002/rtp/225.1.2.60:5002
+#EXTINF:-1 tvg-id="央广购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%AE%E5%B9%BF%E8%B4%AD%E7%89%A9.png" group-title="天津联通",央广购物
+http://125.38.166.133:5002/rtp/225.1.1.65:5002
+#EXTINF:-1 tvg-id="湖北购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8C%97%E8%B4%AD%E7%89%A9.png" group-title="天津联通",湖北购物
+http://125.38.166.133:5002/rtp/225.1.2.183:5002
+#EXTINF:-1 tvg-id="优购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BC%98%E8%B4%AD%E7%89%A9.png" group-title="天津联通",优购物
+http://125.38.166.133:5002/rtp/225.1.1.225:5002
+#EXTINF:-1 tvg-id="优优宝贝" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BC%98%E4%BC%98%E5%AE%9D%E8%B4%9D.png" group-title="天津联通",优优宝贝
+http://125.38.166.133:5002/rtp/225.1.2.203:5002
+#EXTINF:-1 tvg-id="游戏风云" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B8%B8%E6%88%8F%E9%A3%8E%E4%BA%91.png" group-title="天津联通",游戏风云
+http://125.38.166.133:5002/rtp/225.1.1.135:5002
+#EXTINF:-1 tvg-id="悦美生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%82%A6%E7%BE%8E%E7%94%9F%E6%B4%BB.png" group-title="天津联通",悦美生活
+http://125.38.166.133:5002/rtp/225.1.2.55:5002
+#EXTINF:-1 tvg-id="中国天气" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%AD%E5%9B%BD%E5%A4%A9%E6%B0%94.png" group-title="天津联通",中国天气
+http://125.38.166.133:5002/rtp/225.1.2.119:5002
+#EXTINF:-1 tvg-id="中华特产" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%AD%E5%8D%8E%E7%89%B9%E4%BA%A7.png" group-title="天津联通",中华特产
+http://125.38.166.133:5002/rtp/225.1.2.197:5002
+#EXTINF:-1 tvg-id="中视购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%AD%E8%A7%86%E8%B4%AD%E7%89%A9.png" group-title="天津联通",中视购物
+http://125.38.166.133:5002/rtp/225.1.2.85:5002
