@@ -1,753 +1,753 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
 #EXTINF:-1 tvg-id="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="四川电信",CCTV4K
-http://171.213.199.44:8818/rtp/239.94.0.20:5140
+http://118.112.61.53:6066/rtp/239.94.0.20:5140
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%864K.png" group-title="四川电信",北京卫视4K
-http://171.213.199.44:8818/rtp/239.94.0.111:5140
+http://118.112.61.53:6066/rtp/239.94.0.111:5140
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%864K.png" group-title="四川电信",北京卫视4K
-http://171.213.199.44:8818/rtp/239.94.0.112:5140
+http://118.112.61.53:6066/rtp/239.94.0.112:5140
 #EXTINF:-1 tvg-id="东方卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K.png" group-title="四川电信",东方卫视4K
-http://171.213.199.44:8818/rtp/239.94.0.119:5140
+http://118.112.61.53:6066/rtp/239.94.0.119:5140
 #EXTINF:-1 tvg-id="广东卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%864K.png" group-title="四川电信",广东卫视4K
-http://171.213.199.44:8818/rtp/239.94.0.114:5140
+http://118.112.61.53:6066/rtp/239.94.0.114:5140
 #EXTINF:-1 tvg-id="深圳卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%864K.png" group-title="四川电信",深圳卫视4K
-http://171.213.199.44:8818/rtp/239.94.0.113:5140
+http://118.112.61.53:6066/rtp/239.94.0.113:5140
 #EXTINF:-1 tvg-id="湖南卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K.png" group-title="四川电信",湖南卫视4K
-http://171.213.199.44:8818/rtp/239.94.0.116:5140
+http://118.112.61.53:6066/rtp/239.94.0.116:5140
 #EXTINF:-1 tvg-id="山东卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%864K.png" group-title="四川电信",山东卫视4K
-http://171.213.199.44:8818/rtp/239.94.0.120:5140
+http://118.112.61.53:6066/rtp/239.94.0.120:5140
 #EXTINF:-1 tvg-id="四川卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%864K.png" group-title="四川电信",四川卫视4K
-http://171.213.199.44:8818/rtp/239.94.0.115:5140
+http://118.112.61.53:6066/rtp/239.94.0.115:5140
 #EXTINF:-1 tvg-id="浙江卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K.png" group-title="四川电信",浙江卫视4K
-http://171.213.199.44:8818/rtp/239.94.0.118:5140
+http://118.112.61.53:6066/rtp/239.94.0.118:5140
 #EXTINF:-1 tvg-id="江苏卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%864K.png" group-title="四川电信",江苏卫视4K
-http://171.213.199.44:8818/rtp/239.94.0.117:5140
+http://118.112.61.53:6066/rtp/239.94.0.117:5140
 #EXTINF:-1 tvg-id="欢笑剧场4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA4K.png" group-title="四川电信",欢笑剧场4K
-http://171.213.199.44:8818/rtp/239.94.1.176:5140
+http://118.112.61.53:6066/rtp/239.94.1.176:5140
 #EXTINF:-1 tvg-id="爱上4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%88%B1%E4%B8%8A4K.png" group-title="四川电信",爱上4K
-http://171.213.199.44:8818/rtp/239.94.0.21:5140
+http://118.112.61.53:6066/rtp/239.94.0.21:5140
 #EXTINF:-1 tvg-id="4K乐享超清" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/4K%E4%B9%90%E4%BA%AB%E8%B6%85%E6%B8%85.png" group-title="四川电信",4K乐享超清
-http://171.213.199.44:8818/rtp/239.94.1.162:5140
+http://118.112.61.53:6066/rtp/239.94.1.162:5140
 #EXTINF:-1 tvg-id="4K少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/4K%E5%B0%91%E5%84%BF.png" group-title="四川电信",4K少儿
-http://171.213.199.44:8818/rtp/239.94.1.70:5140
+http://118.112.61.53:6066/rtp/239.94.1.70:5140
 #EXTINF:-1 tvg-id="4K纪实" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/4K%E7%BA%AA%E5%AE%9E.png" group-title="四川电信",4K纪实
-http://171.213.199.44:8818/rtp/239.94.1.69:5140
+http://118.112.61.53:6066/rtp/239.94.1.69:5140
 #EXTINF:-1 tvg-id="4K视界" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/4K%E8%A7%86%E7%95%8C.png" group-title="四川电信",4K视界
-http://171.213.199.44:8818/rtp/239.94.1.60:5140
+http://118.112.61.53:6066/rtp/239.94.1.60:5140
 #EXTINF:-1 tvg-id="亲子趣学4k" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BA%B2%E5%AD%90%E8%B6%A3%E5%AD%A64k.png" group-title="四川电信",亲子趣学4k
-http://171.213.199.44:8818/rtp/239.94.1.156:5140
+http://118.112.61.53:6066/rtp/239.94.1.156:5140
 #EXTINF:-1 tvg-id="天翼高清4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E7%BF%BC%E9%AB%98%E6%B8%854K.png" group-title="四川电信",天翼高清4K
-http://171.213.199.44:8818/rtp/239.94.2.40:5140
+http://118.112.61.53:6066/rtp/239.94.2.40:5140
 #EXTINF:-1 tvg-id="天翼高清4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E7%BF%BC%E9%AB%98%E6%B8%854K.png" group-title="四川电信",天翼高清4K
-http://171.213.199.44:8818/rtp/239.94.2.41:5140
+http://118.112.61.53:6066/rtp/239.94.2.41:5140
 #EXTINF:-1 tvg-id="绚影4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%BB%9A%E5%BD%B14K.png" group-title="四川电信",绚影4K
-http://171.213.199.44:8818/rtp/239.94.1.150:5140
+http://118.112.61.53:6066/rtp/239.94.1.150:5140
 #EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="四川电信",CCTV1
-http://171.213.199.44:8818/rtp/239.94.0.1:5140
+http://118.112.61.53:6066/rtp/239.94.0.1:5140
 #EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="四川电信",CCTV1
-http://171.213.199.44:8818/rtp/239.94.2.34:5140
+http://118.112.61.53:6066/rtp/239.94.2.34:5140
 #EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="四川电信",CCTV1
-http://171.213.199.44:8818/rtp/239.94.1.18:5140
+http://118.112.61.53:6066/rtp/239.94.1.18:5140
 #EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="四川电信",CCTV1
-http://171.213.199.44:8818/rtp/239.94.1.151:5140
+http://118.112.61.53:6066/rtp/239.94.1.151:5140
 #EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="四川电信",CCTV1
-http://171.213.199.44:8818/rtp/239.94.0.31:5140
+http://118.112.61.53:6066/rtp/239.94.0.31:5140
 #EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="四川电信",CCTV1
-http://171.213.199.44:8818/rtp/239.94.2.69:5140
+http://118.112.61.53:6066/rtp/239.94.2.69:5140
 #EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="四川电信",CCTV2
-http://171.213.199.44:8818/rtp/239.94.2.70:5140
+http://118.112.61.53:6066/rtp/239.94.2.70:5140
 #EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="四川电信",CCTV2
-http://171.213.199.44:8818/rtp/239.94.0.2:5140
+http://118.112.61.53:6066/rtp/239.94.0.2:5140
 #EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="四川电信",CCTV2
-http://171.213.199.44:8818/rtp/239.94.2.35:5140
+http://118.112.61.53:6066/rtp/239.94.2.35:5140
 #EXTINF:-1 tvg-id="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png" group-title="四川电信",CCTV3
-http://171.213.199.44:8818/rtp/239.94.0.32:5140
+http://118.112.61.53:6066/rtp/239.94.0.32:5140
 #EXTINF:-1 tvg-id="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png" group-title="四川电信",CCTV3
-http://171.213.199.44:8818/rtp/239.94.0.3:5140
+http://118.112.61.53:6066/rtp/239.94.0.3:5140
 #EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="四川电信",CCTV4
-http://171.213.199.44:8818/rtp/239.94.0.4:5140
+http://118.112.61.53:6066/rtp/239.94.0.4:5140
 #EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="四川电信",CCTV5
-http://171.213.199.44:8818/rtp/239.94.0.33:5140
+http://118.112.61.53:6066/rtp/239.94.0.33:5140
 #EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="四川电信",CCTV5
-http://171.213.199.44:8818/rtp/239.94.2.30:5140
+http://118.112.61.53:6066/rtp/239.94.2.30:5140
 #EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="四川电信",CCTV5
-http://171.213.199.44:8818/rtp/239.94.0.5:5140
+http://118.112.61.53:6066/rtp/239.94.0.5:5140
 #EXTINF:-1 tvg-id="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5%2B.png" group-title="四川电信",CCTV5+
-http://171.213.199.44:8818/rtp/239.94.0.19:5140
+http://118.112.61.53:6066/rtp/239.94.0.19:5140
 #EXTINF:-1 tvg-id="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5%2B.png" group-title="四川电信",CCTV5+
-http://171.213.199.44:8818/rtp/239.94.0.23:5140
+http://118.112.61.53:6066/rtp/239.94.0.23:5140
 #EXTINF:-1 tvg-id="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="四川电信",CCTV6
-http://171.213.199.44:8818/rtp/239.94.0.6:5140
+http://118.112.61.53:6066/rtp/239.94.0.6:5140
 #EXTINF:-1 tvg-id="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="四川电信",CCTV6
-http://171.213.199.44:8818/rtp/239.94.2.33:5140
+http://118.112.61.53:6066/rtp/239.94.2.33:5140
 #EXTINF:-1 tvg-id="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="四川电信",CCTV6
-http://171.213.199.44:8818/rtp/239.94.0.34:5140
+http://118.112.61.53:6066/rtp/239.94.0.34:5140
 #EXTINF:-1 tvg-id="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="四川电信",CCTV7
-http://171.213.199.44:8818/rtp/239.94.0.7:5140
+http://118.112.61.53:6066/rtp/239.94.0.7:5140
 #EXTINF:-1 tvg-id="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="四川电信",CCTV8
-http://171.213.199.44:8818/rtp/239.94.0.8:5140
+http://118.112.61.53:6066/rtp/239.94.0.8:5140
 #EXTINF:-1 tvg-id="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="四川电信",CCTV8
-http://171.213.199.44:8818/rtp/239.94.0.35:5140
+http://118.112.61.53:6066/rtp/239.94.0.35:5140
 #EXTINF:-1 tvg-id="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="四川电信",CCTV8
-http://171.213.199.44:8818/rtp/239.94.2.29:5140
+http://118.112.61.53:6066/rtp/239.94.2.29:5140
 #EXTINF:-1 tvg-id="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="四川电信",CCTV9
-http://171.213.199.44:8818/rtp/239.94.2.32:5140
+http://118.112.61.53:6066/rtp/239.94.2.32:5140
 #EXTINF:-1 tvg-id="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="四川电信",CCTV9
-http://171.213.199.44:8818/rtp/239.94.0.9:5140
+http://118.112.61.53:6066/rtp/239.94.0.9:5140
 #EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="四川电信",CCTV10
-http://171.213.199.44:8818/rtp/239.94.0.10:5140
+http://118.112.61.53:6066/rtp/239.94.0.10:5140
 #EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="四川电信",CCTV10
-http://171.213.199.44:8818/rtp/239.94.2.31:5140
+http://118.112.61.53:6066/rtp/239.94.2.31:5140
 #EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="四川电信",CCTV11
-http://171.213.199.44:8818/rtp/239.94.0.11:5140
+http://118.112.61.53:6066/rtp/239.94.0.11:5140
 #EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="四川电信",CCTV11
-http://171.213.199.44:8818/rtp/239.94.0.36:5140
+http://118.112.61.53:6066/rtp/239.94.0.36:5140
 #EXTINF:-1 tvg-id="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="四川电信",CCTV12
-http://171.213.199.44:8818/rtp/239.94.0.12:5140
+http://118.112.61.53:6066/rtp/239.94.0.12:5140
 #EXTINF:-1 tvg-id="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="四川电信",CCTV13
-http://171.213.199.44:8818/rtp/239.94.0.13:5140
+http://118.112.61.53:6066/rtp/239.94.0.13:5140
 #EXTINF:-1 tvg-id="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="四川电信",CCTV13
-http://171.213.199.44:8818/rtp/239.94.0.37:5140
+http://118.112.61.53:6066/rtp/239.94.0.37:5140
 #EXTINF:-1 tvg-id="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png" group-title="四川电信",CCTV14
-http://171.213.199.44:8818/rtp/239.94.0.14:5140
+http://118.112.61.53:6066/rtp/239.94.0.14:5140
 #EXTINF:-1 tvg-id="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="四川电信",CCTV15
-http://171.213.199.44:8818/rtp/239.94.0.15:5140
+http://118.112.61.53:6066/rtp/239.94.0.15:5140
 #EXTINF:-1 tvg-id="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="四川电信",CCTV15
-http://171.213.199.44:8818/rtp/239.94.0.38:5140
+http://118.112.61.53:6066/rtp/239.94.0.38:5140
 #EXTINF:-1 tvg-id="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="四川电信",CCTV17
-http://171.213.199.44:8818/rtp/239.94.0.39:5140
+http://118.112.61.53:6066/rtp/239.94.0.39:5140
 #EXTINF:-1 tvg-id="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="四川电信",CCTV17
-http://171.213.199.44:8818/rtp/239.94.0.17:5140
+http://118.112.61.53:6066/rtp/239.94.0.17:5140
 #EXTINF:-1 tvg-id="CETV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV1.png" group-title="四川电信",CETV1
-http://171.213.199.44:8818/rtp/239.94.1.2:5140
+http://118.112.61.53:6066/rtp/239.94.1.2:5140
 #EXTINF:-1 tvg-id="CETV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV4.png" group-title="四川电信",CETV4
-http://171.213.199.44:8818/rtp/239.94.1.20:5140
+http://118.112.61.53:6066/rtp/239.94.1.20:5140
 #EXTINF:-1 tvg-id="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="四川电信",CGTN
-http://171.213.199.44:8818/rtp/239.94.0.22:5140
+http://118.112.61.53:6066/rtp/239.94.0.22:5140
 #EXTINF:-1 tvg-id="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="四川电信",CGTN
-http://171.213.199.44:8818/rtp/239.94.0.40:5140
+http://118.112.61.53:6066/rtp/239.94.0.40:5140
 #EXTINF:-1 tvg-id="CGTN西语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN%E8%A5%BF%E8%AF%AD.png" group-title="四川电信",CGTN西语
-http://171.213.199.44:8818/rtp/239.94.1.61:5140
+http://118.112.61.53:6066/rtp/239.94.1.61:5140
 #EXTINF:-1 tvg-id="CGTN西语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN%E8%A5%BF%E8%AF%AD.png" group-title="四川电信",CGTN西语
-http://171.213.199.44:8818/rtp/239.94.1.65:5140
+http://118.112.61.53:6066/rtp/239.94.1.65:5140
 #EXTINF:-1 tvg-id="CGTN法语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN%E6%B3%95%E8%AF%AD.png" group-title="四川电信",CGTN法语
-http://171.213.199.44:8818/rtp/239.94.1.62:5140
+http://118.112.61.53:6066/rtp/239.94.1.62:5140
 #EXTINF:-1 tvg-id="CGTN法语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN%E6%B3%95%E8%AF%AD.png" group-title="四川电信",CGTN法语
-http://171.213.199.44:8818/rtp/239.94.1.66:5140
+http://118.112.61.53:6066/rtp/239.94.1.66:5140
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png" group-title="四川电信",CHC影迷电影
-http://171.213.199.44:8818/rtp/239.94.1.174:5140
+http://118.112.61.53:6066/rtp/239.94.1.174:5140
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2.png" group-title="四川电信",CHC家庭影院
-http://171.213.199.44:8818/rtp/239.94.1.173:5140
+http://118.112.61.53:6066/rtp/239.94.1.173:5140
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png" group-title="四川电信",CHC动作电影
-http://171.213.199.44:8818/rtp/239.94.1.175:5140
+http://118.112.61.53:6066/rtp/239.94.1.175:5140
 #EXTINF:-1 tvg-id="梨园频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%A2%A8%E5%9B%AD%E9%A2%91%E9%81%93.png" group-title="四川电信",梨园频道
-http://171.213.199.44:8818/rtp/239.94.1.16:5140
+http://118.112.61.53:6066/rtp/239.94.1.16:5140
 #EXTINF:-1 tvg-id="天元围棋" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E5%85%83%E5%9B%B4%E6%A3%8B.png" group-title="四川电信",天元围棋
-http://171.213.199.44:8818/rtp/239.94.1.152:5140
+http://118.112.61.53:6066/rtp/239.94.1.152:5140
 #EXTINF:-1 tvg-id="法治天地" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B3%95%E6%B2%BB%E5%A4%A9%E5%9C%B0.png" group-title="四川电信",法治天地
-http://171.213.199.44:8818/rtp/239.94.1.166:5140
+http://118.112.61.53:6066/rtp/239.94.1.166:5140
 #EXTINF:-1 tvg-id="游戏风云" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B8%B8%E6%88%8F%E9%A3%8E%E4%BA%91.png" group-title="四川电信",游戏风云
-http://171.213.199.44:8818/rtp/239.94.1.46:5140
+http://118.112.61.53:6066/rtp/239.94.1.46:5140
 #EXTINF:-1 tvg-id="茶频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%8C%B6%E9%A2%91%E9%81%93.png" group-title="四川电信",茶频道
-http://171.213.199.44:8818/rtp/239.94.1.154:5140
+http://118.112.61.53:6066/rtp/239.94.1.154:5140
 #EXTINF:-1 tvg-id="金色学堂" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%91%E8%89%B2%E5%AD%A6%E5%A0%82.png" group-title="四川电信",金色学堂
-http://171.213.199.44:8818/rtp/239.94.1.165:5140
+http://118.112.61.53:6066/rtp/239.94.1.165:5140
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%91%E9%B9%B0%E7%BA%AA%E5%AE%9E.png" group-title="四川电信",金鹰纪实
-http://171.213.199.44:8818/rtp/239.94.1.1:5140
+http://118.112.61.53:6066/rtp/239.94.1.1:5140
 #EXTINF:-1 tvg-id="环球旅游" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%8E%AF%E7%90%83%E6%97%85%E6%B8%B8.png" group-title="四川电信",环球旅游
-http://171.213.199.44:8818/rtp/239.94.1.147:5140
+http://118.112.61.53:6066/rtp/239.94.1.147:5140
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93.png" group-title="四川电信",快乐垂钓
-http://171.213.199.44:8818/rtp/239.94.1.153:5140
+http://118.112.61.53:6066/rtp/239.94.1.153:5140
 #EXTINF:-1 tvg-id="生活时尚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9A.png" group-title="四川电信",生活时尚
-http://171.213.199.44:8818/rtp/239.94.1.146:5140
+http://118.112.61.53:6066/rtp/239.94.1.146:5140
 #EXTINF:-1 tvg-id="中国交通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%AD%E5%9B%BD%E4%BA%A4%E9%80%9A.png" group-title="四川电信",中国交通
-http://171.213.199.44:8818/rtp/239.94.0.87:5140
+http://118.112.61.53:6066/rtp/239.94.0.87:5140
 #EXTINF:-1 tvg-id="中国天气" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%AD%E5%9B%BD%E5%A4%A9%E6%B0%94.png" group-title="四川电信",中国天气
-http://171.213.199.44:8818/rtp/239.94.1.167:5140
+http://118.112.61.53:6066/rtp/239.94.1.167:5140
 #EXTINF:-1 tvg-id="乐游" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B9%90%E6%B8%B8.png" group-title="四川电信",乐游
-http://171.213.199.44:8818/rtp/239.94.1.164:5140
+http://118.112.61.53:6066/rtp/239.94.1.164:5140
 #EXTINF:-1 tvg-id="动漫秀场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BA.png" group-title="四川电信",动漫秀场
-http://171.213.199.44:8818/rtp/239.94.1.171:5140
+http://118.112.61.53:6066/rtp/239.94.1.171:5140
 #EXTINF:-1 tvg-id="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86.png" group-title="四川电信",重庆卫视
-http://171.213.199.44:8818/rtp/239.94.0.82:5140
+http://118.112.61.53:6066/rtp/239.94.0.82:5140
 #EXTINF:-1 tvg-id="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="四川电信",江苏卫视
-http://171.213.199.44:8818/rtp/239.94.0.62:5140
+http://118.112.61.53:6066/rtp/239.94.0.62:5140
 #EXTINF:-1 tvg-id="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="四川电信",浙江卫视
-http://171.213.199.44:8818/rtp/239.94.0.63:5140
+http://118.112.61.53:6066/rtp/239.94.0.63:5140
 #EXTINF:-1 tvg-id="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="四川电信",东方卫视
-http://171.213.199.44:8818/rtp/239.94.0.64:5140
+http://118.112.61.53:6066/rtp/239.94.0.64:5140
 #EXTINF:-1 tvg-id="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png" group-title="四川电信",深圳卫视
-http://171.213.199.44:8818/rtp/239.94.0.66:5140
+http://118.112.61.53:6066/rtp/239.94.0.66:5140
 #EXTINF:-1 tvg-id="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png" group-title="四川电信",北京卫视
-http://171.213.199.44:8818/rtp/239.94.0.65:5140
+http://118.112.61.53:6066/rtp/239.94.0.65:5140
 #EXTINF:-1 tvg-id="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="四川电信",山东卫视
-http://171.213.199.44:8818/rtp/239.94.0.69:5140
+http://118.112.61.53:6066/rtp/239.94.0.69:5140
 #EXTINF:-1 tvg-id="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png" group-title="四川电信",天津卫视
-http://171.213.199.44:8818/rtp/239.94.0.68:5140
+http://118.112.61.53:6066/rtp/239.94.0.68:5140
 #EXTINF:-1 tvg-id="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png" group-title="四川电信",贵州卫视
-http://171.213.199.44:8818/rtp/239.94.0.83:5140
+http://118.112.61.53:6066/rtp/239.94.0.83:5140
 #EXTINF:-1 tvg-id="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png" group-title="四川电信",四川卫视
-http://171.213.199.44:8818/rtp/239.94.0.60:5140
+http://118.112.61.53:6066/rtp/239.94.0.60:5140
 #EXTINF:-1 tvg-id="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png" group-title="四川电信",四川卫视
-http://171.213.199.44:8818/rtp/239.94.0.59:5140
+http://118.112.61.53:6066/rtp/239.94.0.59:5140
 #EXTINF:-1 tvg-id="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="四川电信",云南卫视
-http://171.213.199.44:8818/rtp/239.94.0.90:5140
+http://118.112.61.53:6066/rtp/239.94.0.90:5140
 #EXTINF:-1 tvg-id="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="四川电信",广西卫视
-http://171.213.199.44:8818/rtp/239.94.0.89:5140
+http://118.112.61.53:6066/rtp/239.94.0.89:5140
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="四川电信",黑龙江卫视
-http://171.213.199.44:8818/rtp/239.94.0.81:5140
+http://118.112.61.53:6066/rtp/239.94.0.81:5140
 #EXTINF:-1 tvg-id="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="四川电信",安徽卫视
-http://171.213.199.44:8818/rtp/239.94.0.85:5140
+http://118.112.61.53:6066/rtp/239.94.0.85:5140
 #EXTINF:-1 tvg-id="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="四川电信",江西卫视
-http://171.213.199.44:8818/rtp/239.94.0.79:5140
+http://118.112.61.53:6066/rtp/239.94.0.79:5140
 #EXTINF:-1 tvg-id="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="四川电信",湖北卫视
-http://171.213.199.44:8818/rtp/239.94.0.84:5140
+http://118.112.61.53:6066/rtp/239.94.0.84:5140
 #EXTINF:-1 tvg-id="陕西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="四川电信",陕西卫视
-http://171.213.199.44:8818/rtp/239.94.0.92:5140
+http://118.112.61.53:6066/rtp/239.94.0.92:5140
 #EXTINF:-1 tvg-id="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="四川电信",东南卫视
-http://171.213.199.44:8818/rtp/239.94.0.80:5140
+http://118.112.61.53:6066/rtp/239.94.0.80:5140
 #EXTINF:-1 tvg-id="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86.png" group-title="四川电信",吉林卫视
-http://171.213.199.44:8818/rtp/239.94.0.91:5140
+http://118.112.61.53:6066/rtp/239.94.0.91:5140
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png" group-title="四川电信",辽宁卫视
-http://171.213.199.44:8818/rtp/239.94.0.101:5140
+http://118.112.61.53:6066/rtp/239.94.0.101:5140
 #EXTINF:-1 tvg-id="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="四川电信",湖南卫视
-http://171.213.199.44:8818/rtp/239.94.0.61:5140
+http://118.112.61.53:6066/rtp/239.94.0.61:5140
 #EXTINF:-1 tvg-id="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="四川电信",广东卫视
-http://171.213.199.44:8818/rtp/239.94.0.67:5140
+http://118.112.61.53:6066/rtp/239.94.0.67:5140
 #EXTINF:-1 tvg-id="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="四川电信",河南卫视
-http://171.213.199.44:8818/rtp/239.94.0.88:5140
+http://118.112.61.53:6066/rtp/239.94.0.88:5140
 #EXTINF:-1 tvg-id="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="四川电信",河北卫视
-http://171.213.199.44:8818/rtp/239.94.0.86:5140
+http://118.112.61.53:6066/rtp/239.94.0.86:5140
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png" group-title="四川电信",宁夏卫视
-http://171.213.199.44:8818/rtp/239.94.0.96:5140
+http://118.112.61.53:6066/rtp/239.94.0.96:5140
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png" group-title="四川电信",甘肃卫视
-http://171.213.199.44:8818/rtp/239.94.0.99:5140
+http://118.112.61.53:6066/rtp/239.94.0.99:5140
 #EXTINF:-1 tvg-id="新疆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png" group-title="四川电信",新疆卫视
-http://171.213.199.44:8818/rtp/239.94.0.98:5140
+http://118.112.61.53:6066/rtp/239.94.0.98:5140
 #EXTINF:-1 tvg-id="西藏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png" group-title="四川电信",西藏卫视
-http://171.213.199.44:8818/rtp/239.94.0.97:5140
+http://118.112.61.53:6066/rtp/239.94.0.97:5140
 #EXTINF:-1 tvg-id="兵团卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86.png" group-title="四川电信",兵团卫视
-http://171.213.199.44:8818/rtp/239.94.0.102:5140
+http://118.112.61.53:6066/rtp/239.94.0.102:5140
 #EXTINF:-1 tvg-id="康巴卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%BA%B7%E5%B7%B4%E5%8D%AB%E8%A7%86.png" group-title="四川电信",康巴卫视
-http://171.213.199.44:8818/rtp/239.94.0.78:5140
+http://118.112.61.53:6066/rtp/239.94.0.78:5140
 #EXTINF:-1 tvg-id="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png" group-title="四川电信",凤凰中文
-http://171.213.199.44:8818/rtp/239.94.2.51:5140
+http://118.112.61.53:6066/rtp/239.94.2.51:5140
 #EXTINF:-1 tvg-id="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png" group-title="四川电信",凤凰中文
-http://171.213.199.44:8818/rtp/239.94.2.52:5140
+http://118.112.61.53:6066/rtp/239.94.2.52:5140
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png" group-title="四川电信",凤凰资讯
-http://171.213.199.44:8818/rtp/239.94.2.49:5140
+http://118.112.61.53:6066/rtp/239.94.2.49:5140
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png" group-title="四川电信",凤凰资讯
-http://171.213.199.44:8818/rtp/239.94.2.50:5140
+http://118.112.61.53:6066/rtp/239.94.2.50:5140
 #EXTINF:-1 tvg-id="北京纪实科教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99.png" group-title="四川电信",北京纪实科教
-http://171.213.199.44:8818/rtp/239.94.0.109:5140
+http://118.112.61.53:6066/rtp/239.94.0.109:5140
 #EXTINF:-1 tvg-id="东方财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E6%96%B9%E8%B4%A2%E7%BB%8F.png" group-title="四川电信",东方财经
-http://171.213.199.44:8818/rtp/239.94.1.59:5140
+http://118.112.61.53:6066/rtp/239.94.1.59:5140
 #EXTINF:-1 tvg-id="都市剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%83%BD%E5%B8%82%E5%89%A7%E5%9C%BA.png" group-title="四川电信",都市剧场
-http://171.213.199.44:8818/rtp/239.94.1.133:5140
+http://118.112.61.53:6066/rtp/239.94.1.133:5140
 #EXTINF:-1 tvg-id="四川文化旅游" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E6%96%87%E5%8C%96%E6%97%85%E6%B8%B8.png" group-title="四川电信",四川文化旅游
-http://171.213.199.44:8818/rtp/239.94.0.71:5140
+http://118.112.61.53:6066/rtp/239.94.0.71:5140
 #EXTINF:-1 tvg-id="四川文化旅游" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E6%96%87%E5%8C%96%E6%97%85%E6%B8%B8.png" group-title="四川电信",四川文化旅游
-http://171.213.199.44:8818/rtp/239.94.1.11:5140
+http://118.112.61.53:6066/rtp/239.94.1.11:5140
 #EXTINF:-1 tvg-id="四川文化旅游" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E6%96%87%E5%8C%96%E6%97%85%E6%B8%B8.png" group-title="四川电信",四川文化旅游
-http://171.213.199.44:8818/rtp/239.94.1.5:5140
+http://118.112.61.53:6066/rtp/239.94.1.5:5140
 #EXTINF:-1 tvg-id="四川文化旅游" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E6%96%87%E5%8C%96%E6%97%85%E6%B8%B8.png" group-title="四川电信",四川文化旅游
-http://171.213.199.44:8818/rtp/239.94.1.6:5140
+http://118.112.61.53:6066/rtp/239.94.1.6:5140
 #EXTINF:-1 tvg-id="四川经济" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E7%BB%8F%E6%B5%8E.png" group-title="四川电信",四川经济
-http://171.213.199.44:8818/rtp/239.94.0.70:5140
+http://118.112.61.53:6066/rtp/239.94.0.70:5140
 #EXTINF:-1 tvg-id="四川新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E6%96%B0%E9%97%BB.png" group-title="四川电信",四川新闻
-http://171.213.199.44:8818/rtp/239.94.0.72:5140
+http://118.112.61.53:6066/rtp/239.94.0.72:5140
 #EXTINF:-1 tvg-id="四川新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E6%96%B0%E9%97%BB.png" group-title="四川电信",四川新闻
-http://171.213.199.44:8818/rtp/239.94.1.3:5140
+http://118.112.61.53:6066/rtp/239.94.1.3:5140
 #EXTINF:-1 tvg-id="四川新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E6%96%B0%E9%97%BB.png" group-title="四川电信",四川新闻
-http://171.213.199.44:8818/rtp/239.94.2.26:5140
+http://118.112.61.53:6066/rtp/239.94.2.26:5140
 #EXTINF:-1 tvg-id="四川影视文艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E5%BD%B1%E8%A7%86%E6%96%87%E8%89%BA.png" group-title="四川电信",四川影视文艺
-http://171.213.199.44:8818/rtp/239.94.0.73:5140
+http://118.112.61.53:6066/rtp/239.94.0.73:5140
 #EXTINF:-1 tvg-id="四川星空购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E6%98%9F%E7%A9%BA%E8%B4%AD%E7%89%A9.png" group-title="四川电信",四川星空购物
-http://171.213.199.44:8818/rtp/239.94.0.74:5140
+http://118.112.61.53:6066/rtp/239.94.0.74:5140
 #EXTINF:-1 tvg-id="四川妇女儿童" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E5%A6%87%E5%A5%B3%E5%84%BF%E7%AB%A5.png" group-title="四川电信",四川妇女儿童
-http://171.213.199.44:8818/rtp/239.94.0.75:5140
+http://118.112.61.53:6066/rtp/239.94.0.75:5140
 #EXTINF:-1 tvg-id="四川科教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E7%A7%91%E6%95%99.png" group-title="四川电信",四川科教
-http://171.213.199.44:8818/rtp/239.94.0.76:5140
+http://118.112.61.53:6066/rtp/239.94.0.76:5140
 #EXTINF:-1 tvg-id="四川乡村" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E4%B9%A1%E6%9D%91.png" group-title="四川电信",四川乡村
-http://171.213.199.44:8818/rtp/239.94.0.77:5140
+http://118.112.61.53:6066/rtp/239.94.0.77:5140
 #EXTINF:-1 tvg-id="四川乡村" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E4%B9%A1%E6%9D%91.png" group-title="四川电信",四川乡村
-http://171.213.199.44:8818/rtp/239.94.1.4:5140
+http://118.112.61.53:6066/rtp/239.94.1.4:5140
 #EXTINF:-1 tvg-id="四川乡村" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E4%B9%A1%E6%9D%91.png" group-title="四川电信",四川乡村
-http://171.213.199.44:8818/rtp/239.94.1.8:5140
+http://118.112.61.53:6066/rtp/239.94.1.8:5140
 #EXTINF:-1 tvg-id="峨眉电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B3%A8%E7%9C%89%E7%94%B5%E5%BD%B1.png" group-title="四川电信",峨眉电影
-http://171.213.199.44:8818/rtp/239.94.0.103:5140
+http://118.112.61.53:6066/rtp/239.94.0.103:5140
 #EXTINF:-1 tvg-id="成都综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%88%90%E9%83%BD%E7%BB%BC%E5%90%88.png" group-title="四川电信",成都综合
-http://171.213.199.44:8818/rtp/239.94.0.154:5140
+http://118.112.61.53:6066/rtp/239.94.0.154:5140
 #EXTINF:-1 tvg-id="成都经济" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%88%90%E9%83%BD%E7%BB%8F%E6%B5%8E.png" group-title="四川电信",成都经济
-http://171.213.199.44:8818/rtp/239.94.0.155:5140
+http://118.112.61.53:6066/rtp/239.94.0.155:5140
 #EXTINF:-1 tvg-id="成都都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%88%90%E9%83%BD%E9%83%BD%E5%B8%82.png" group-title="四川电信",成都都市
-http://171.213.199.44:8818/rtp/239.94.0.156:5140
+http://118.112.61.53:6066/rtp/239.94.0.156:5140
 #EXTINF:-1 tvg-id="成都影视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%88%90%E9%83%BD%E5%BD%B1%E8%A7%86.png" group-title="四川电信",成都影视
-http://171.213.199.44:8818/rtp/239.94.0.157:5140
+http://118.112.61.53:6066/rtp/239.94.0.157:5140
 #EXTINF:-1 tvg-id="成都公共" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%88%90%E9%83%BD%E5%85%AC%E5%85%B1.png" group-title="四川电信",成都公共
-http://171.213.199.44:8818/rtp/239.94.0.158:5140
+http://118.112.61.53:6066/rtp/239.94.0.158:5140
 #EXTINF:-1 tvg-id="成都少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%88%90%E9%83%BD%E5%B0%91%E5%84%BF.png" group-title="四川电信",成都少儿
-http://171.213.199.44:8818/rtp/239.94.0.159:5140
+http://118.112.61.53:6066/rtp/239.94.0.159:5140
 #EXTINF:-1 tvg-id="成都蓉城先锋" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%88%90%E9%83%BD%E8%93%89%E5%9F%8E%E5%85%88%E9%94%8B.png" group-title="四川电信",成都蓉城先锋
-http://171.213.199.44:8818/rtp/239.94.0.160:5140
+http://118.112.61.53:6066/rtp/239.94.0.160:5140
 #EXTINF:-1 tvg-id="成都蓉城先锋" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%88%90%E9%83%BD%E8%93%89%E5%9F%8E%E5%85%88%E9%94%8B.png" group-title="四川电信",成都蓉城先锋
-http://171.213.199.44:8818/rtp/239.94.1.57:5140
+http://118.112.61.53:6066/rtp/239.94.1.57:5140
 #EXTINF:-1 tvg-id="乐山综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B9%90%E5%B1%B1%E7%BB%BC%E5%90%88.png" group-title="四川电信",乐山综合
-http://171.213.199.44:8818/rtp/239.94.0.162:5140
+http://118.112.61.53:6066/rtp/239.94.0.162:5140
 #EXTINF:-1 tvg-id="乐山文旅生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B9%90%E5%B1%B1%E6%96%87%E6%97%85%E7%94%9F%E6%B4%BB.png" group-title="四川电信",乐山文旅生活
-http://171.213.199.44:8818/rtp/239.94.0.173:5140
+http://118.112.61.53:6066/rtp/239.94.0.173:5140
 #EXTINF:-1 tvg-id="自贡综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%87%AA%E8%B4%A1%E7%BB%BC%E5%90%88.png" group-title="四川电信",自贡综合
-http://171.213.199.44:8818/rtp/239.94.0.169:5140
+http://118.112.61.53:6066/rtp/239.94.0.169:5140
 #EXTINF:-1 tvg-id="自贡文化生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%87%AA%E8%B4%A1%E6%96%87%E5%8C%96%E7%94%9F%E6%B4%BB.png" group-title="四川电信",自贡文化生活
-http://171.213.199.44:8818/rtp/239.94.0.178:5140
+http://118.112.61.53:6066/rtp/239.94.0.178:5140
 #EXTINF:-1 tvg-id="广元综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E5%85%83%E7%BB%BC%E5%90%88.png" group-title="四川电信",广元综合
-http://171.213.199.44:8818/rtp/239.94.0.167:5140
+http://118.112.61.53:6066/rtp/239.94.0.167:5140
 #EXTINF:-1 tvg-id="广元文化生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E5%85%83%E6%96%87%E5%8C%96%E7%94%9F%E6%B4%BB.png" group-title="四川电信",广元文化生活
-http://171.213.199.44:8818/rtp/239.94.0.179:5140
+http://118.112.61.53:6066/rtp/239.94.0.179:5140
 #EXTINF:-1 tvg-id="德阳新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%BE%B7%E9%98%B3%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png" group-title="四川电信",德阳新闻综合
-http://171.213.199.44:8818/rtp/239.94.0.176:5140
+http://118.112.61.53:6066/rtp/239.94.0.176:5140
 #EXTINF:-1 tvg-id="德阳文旅科教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%BE%B7%E9%98%B3%E6%96%87%E6%97%85%E7%A7%91%E6%95%99.png" group-title="四川电信",德阳文旅科教
-http://171.213.199.44:8818/rtp/239.94.0.165:5140
+http://118.112.61.53:6066/rtp/239.94.0.165:5140
 #EXTINF:-1 tvg-id="内江综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%85%E6%B1%9F%E7%BB%BC%E5%90%88.png" group-title="四川电信",内江综合
-http://171.213.199.44:8818/rtp/239.94.0.164:5140
+http://118.112.61.53:6066/rtp/239.94.0.164:5140
 #EXTINF:-1 tvg-id="内江科教生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%85%E6%B1%9F%E7%A7%91%E6%95%99%E7%94%9F%E6%B4%BB.png" group-title="四川电信",内江科教生活
-http://171.213.199.44:8818/rtp/239.94.0.181:5140
+http://118.112.61.53:6066/rtp/239.94.0.181:5140
 #EXTINF:-1 tvg-id="凉山综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%87%89%E5%B1%B1%E7%BB%BC%E5%90%88.png" group-title="四川电信",凉山综合
-http://171.213.199.44:8818/rtp/239.94.0.171:5140
+http://118.112.61.53:6066/rtp/239.94.0.171:5140
 #EXTINF:-1 tvg-id="凉山彝语综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%87%89%E5%B1%B1%E5%BD%9D%E8%AF%AD%E7%BB%BC%E5%90%88.png" group-title="四川电信",凉山彝语综合
-http://171.213.199.44:8818/rtp/239.94.0.175:5140
+http://118.112.61.53:6066/rtp/239.94.0.175:5140
 #EXTINF:-1 tvg-id="资阳综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B5%84%E9%98%B3%E7%BB%BC%E5%90%88.png" group-title="四川电信",资阳综合
-http://171.213.199.44:8818/rtp/239.94.0.183:5140
+http://118.112.61.53:6066/rtp/239.94.0.183:5140
 #EXTINF:-1 tvg-id="宜宾公共" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%9C%E5%AE%BE%E5%85%AC%E5%85%B1.png" group-title="四川电信",宜宾公共
-http://171.213.199.44:8818/rtp/239.94.0.172:5140
+http://118.112.61.53:6066/rtp/239.94.0.172:5140
 #EXTINF:-1 tvg-id="宜宾综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%9C%E5%AE%BE%E7%BB%BC%E5%90%88.png" group-title="四川电信",宜宾综合
-http://171.213.199.44:8818/rtp/239.94.0.161:5140
+http://118.112.61.53:6066/rtp/239.94.0.161:5140
 #EXTINF:-1 tvg-id="攀枝花综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%94%80%E6%9E%9D%E8%8A%B1%E7%BB%BC%E5%90%88.png" group-title="四川电信",攀枝花综合
-http://171.213.199.44:8818/rtp/239.94.0.168:5140
+http://118.112.61.53:6066/rtp/239.94.0.168:5140
 #EXTINF:-1 tvg-id="泸州综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B3%B8%E5%B7%9E%E7%BB%BC%E5%90%88.png" group-title="四川电信",泸州综合
-http://171.213.199.44:8818/rtp/239.94.0.163:5140
+http://118.112.61.53:6066/rtp/239.94.0.163:5140
 #EXTINF:-1 tvg-id="泸州科教生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B3%B8%E5%B7%9E%E7%A7%91%E6%95%99%E7%94%9F%E6%B4%BB.png" group-title="四川电信",泸州科教生活
-http://171.213.199.44:8818/rtp/239.94.0.182:5140
+http://118.112.61.53:6066/rtp/239.94.0.182:5140
 #EXTINF:-1 tvg-id="雅安综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%9B%85%E5%AE%89%E7%BB%BC%E5%90%88.png" group-title="四川电信",雅安综合
-http://171.213.199.44:8818/rtp/239.94.0.166:5140
+http://118.112.61.53:6066/rtp/239.94.0.166:5140
 #EXTINF:-1 tvg-id="雅安文化生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%9B%85%E5%AE%89%E6%96%87%E5%8C%96%E7%94%9F%E6%B4%BB.png" group-title="四川电信",雅安文化生活
-http://171.213.199.44:8818/rtp/239.94.0.180:5140
+http://118.112.61.53:6066/rtp/239.94.0.180:5140
 #EXTINF:-1 tvg-id="眉山综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%9C%89%E5%B1%B1%E7%BB%BC%E5%90%88.png" group-title="四川电信",眉山综合
-http://171.213.199.44:8818/rtp/239.94.0.170:5140
+http://118.112.61.53:6066/rtp/239.94.0.170:5140
 #EXTINF:-1 tvg-id="眉山文旅乡村" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%9C%89%E5%B1%B1%E6%96%87%E6%97%85%E4%B9%A1%E6%9D%91.png" group-title="四川电信",眉山文旅乡村
-http://171.213.199.44:8818/rtp/239.94.0.174:5140
+http://118.112.61.53:6066/rtp/239.94.0.174:5140
 #EXTINF:-1 tvg-id="财富天下" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B.png" group-title="四川电信",财富天下
-http://171.213.199.44:8818/rtp/239.94.1.67:5140
+http://118.112.61.53:6066/rtp/239.94.1.67:5140
 #EXTINF:-1 tvg-id="财富天下" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B.png" group-title="四川电信",财富天下
-http://171.213.199.44:8818/rtp/239.94.1.42:5140
+http://118.112.61.53:6066/rtp/239.94.1.42:5140
 #EXTINF:-1 tvg-id="少儿动画" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B0%91%E5%84%BF%E5%8A%A8%E7%94%BB.png" group-title="四川电信",少儿动画
-http://171.213.199.44:8818/rtp/239.94.1.33:5140
+http://118.112.61.53:6066/rtp/239.94.1.33:5140
 #EXTINF:-1 tvg-id="魅力时尚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%AD%85%E5%8A%9B%E6%97%B6%E5%B0%9A.png" group-title="四川电信",魅力时尚
-http://171.213.199.44:8818/rtp/239.94.1.39:5140
+http://118.112.61.53:6066/rtp/239.94.1.39:5140
 #EXTINF:-1 tvg-id="爱体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%88%B1%E4%BD%93%E8%82%B2.png" group-title="四川电信",爱体育
-http://171.213.199.44:8818/rtp/239.94.1.44:5140
+http://118.112.61.53:6066/rtp/239.94.1.44:5140
 #EXTINF:-1 tvg-id="求索记录" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%82%E7%B4%A2%E8%AE%B0%E5%BD%95.png" group-title="四川电信",求索记录
-http://171.213.199.44:8818/rtp/239.94.1.142:5140
+http://118.112.61.53:6066/rtp/239.94.1.142:5140
 #EXTINF:-1 tvg-id="热播剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%83%AD%E6%92%AD%E5%89%A7%E5%9C%BA.png" group-title="四川电信",热播剧场
-http://171.213.199.44:8818/rtp/239.94.1.25:5140
+http://118.112.61.53:6066/rtp/239.94.1.25:5140
 #EXTINF:-1 tvg-id="经典电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="四川电信",经典电影
-http://171.213.199.44:8818/rtp/239.94.1.21:5140
+http://118.112.61.53:6066/rtp/239.94.1.21:5140
 #EXTINF:-1 tvg-id="音乐现场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.png" group-title="四川电信",音乐现场
-http://171.213.199.44:8818/rtp/239.94.1.36:5140
+http://118.112.61.53:6066/rtp/239.94.1.36:5140
 #EXTINF:-1 tvg-id="精彩导视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%B2%BE%E5%BD%A9%E5%AF%BC%E8%A7%86.png" group-title="四川电信",精彩导视
-http://171.213.199.44:8818/rtp/239.94.1.63:5140
+http://118.112.61.53:6066/rtp/239.94.1.63:5140
 #EXTINF:-1 tvg-id="精彩影视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%B2%BE%E5%BD%A9%E5%BD%B1%E8%A7%86.png" group-title="四川电信",精彩影视
-http://171.213.199.44:8818/rtp/239.94.1.172:5140
+http://118.112.61.53:6066/rtp/239.94.1.172:5140
 #EXTINF:-1 tvg-id="爱生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%88%B1%E7%94%9F%E6%B4%BB.png" group-title="四川电信",爱生活
-http://171.213.199.44:8818/rtp/239.94.1.41:5140
+http://118.112.61.53:6066/rtp/239.94.1.41:5140
 #EXTINF:-1 tvg-id="iHOT爱体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/iHOT%E7%88%B1%E4%BD%93%E8%82%B2.png" group-title="四川电信",iHOT爱体育
-http://171.213.199.44:8818/rtp/239.94.1.143:5140
+http://118.112.61.53:6066/rtp/239.94.1.143:5140
 #EXTINF:-1 tvg-id="iHOT爱动漫" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/iHOT%E7%88%B1%E5%8A%A8%E6%BC%AB.png" group-title="四川电信",iHOT爱动漫
-http://171.213.199.44:8818/rtp/239.94.1.141:5140
+http://118.112.61.53:6066/rtp/239.94.1.141:5140
 #EXTINF:-1 tvg-id="iHOT爱历史" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/iHOT%E7%88%B1%E5%8E%86%E5%8F%B2.png" group-title="四川电信",iHOT爱历史
-http://171.213.199.44:8818/rtp/239.94.1.135:5140
+http://118.112.61.53:6066/rtp/239.94.1.135:5140
 #EXTINF:-1 tvg-id="iHOT爱喜剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/iHOT%E7%88%B1%E5%96%9C%E5%89%A7.png" group-title="四川电信",iHOT爱喜剧
-http://171.213.199.44:8818/rtp/239.94.1.129:5140
+http://118.112.61.53:6066/rtp/239.94.1.129:5140
 #EXTINF:-1 tvg-id="iHOT爱喜剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/iHOT%E7%88%B1%E5%96%9C%E5%89%A7.png" group-title="四川电信",iHOT爱喜剧
-http://171.213.199.44:8818/rtp/239.94.2.71:5140
+http://118.112.61.53:6066/rtp/239.94.2.71:5140
 #EXTINF:-1 tvg-id="iHOT爱奇谈" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/iHOT%E7%88%B1%E5%A5%87%E8%B0%88.png" group-title="四川电信",iHOT爱奇谈
-http://171.213.199.44:8818/rtp/239.94.1.130:5140
+http://118.112.61.53:6066/rtp/239.94.1.130:5140
 #EXTINF:-1 tvg-id="iHOT爱幼教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/iHOT%E7%88%B1%E5%B9%BC%E6%95%99.png" group-title="四川电信",iHOT爱幼教
-http://171.213.199.44:8818/rtp/239.94.1.139:5140
+http://118.112.61.53:6066/rtp/239.94.1.139:5140
 #EXTINF:-1 tvg-id="iHOT爱悬疑" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/iHOT%E7%88%B1%E6%82%AC%E7%96%91.png" group-title="四川电信",iHOT爱悬疑
-http://171.213.199.44:8818/rtp/239.94.1.136:5140
+http://118.112.61.53:6066/rtp/239.94.1.136:5140
 #EXTINF:-1 tvg-id="iHOT爱旅行" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/iHOT%E7%88%B1%E6%97%85%E8%A1%8C.png" group-title="四川电信",iHOT爱旅行
-http://171.213.199.44:8818/rtp/239.94.1.137:5140
+http://118.112.61.53:6066/rtp/239.94.1.137:5140
 #EXTINF:-1 tvg-id="iHOT爱浪漫" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/iHOT%E7%88%B1%E6%B5%AA%E6%BC%AB.png" group-title="四川电信",iHOT爱浪漫
-http://171.213.199.44:8818/rtp/239.94.1.128:5140
+http://118.112.61.53:6066/rtp/239.94.1.128:5140
 #EXTINF:-1 tvg-id="iHOT爱玩具" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/iHOT%E7%88%B1%E7%8E%A9%E5%85%B7.png" group-title="四川电信",iHOT爱玩具
-http://171.213.199.44:8818/rtp/239.94.1.140:5140
+http://118.112.61.53:6066/rtp/239.94.1.140:5140
 #EXTINF:-1 tvg-id="iHOT爱科幻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/iHOT%E7%88%B1%E7%A7%91%E5%B9%BB.png" group-title="四川电信",iHOT爱科幻
-http://171.213.199.44:8818/rtp/239.94.1.131:5140
+http://118.112.61.53:6066/rtp/239.94.1.131:5140
 #EXTINF:-1 tvg-id="iHOT爱谍战" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/iHOT%E7%88%B1%E8%B0%8D%E6%88%98.png" group-title="四川电信",iHOT爱谍战
-http://171.213.199.44:8818/rtp/239.94.1.134:5140
+http://118.112.61.53:6066/rtp/239.94.1.134:5140
 #EXTINF:-1 tvg-id="iHOT爱赛车" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/iHOT%E7%88%B1%E8%B5%9B%E8%BD%A6.png" group-title="四川电信",iHOT爱赛车
-http://171.213.199.44:8818/rtp/239.94.1.144:5140
+http://118.112.61.53:6066/rtp/239.94.1.144:5140
 #EXTINF:-1 tvg-id="iHOT爱院线" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/iHOT%E7%88%B1%E9%99%A2%E7%BA%BF.png" group-title="四川电信",iHOT爱院线
-http://171.213.199.44:8818/rtp/239.94.1.132:5140
+http://118.112.61.53:6066/rtp/239.94.1.132:5140
 #EXTINF:-1 tvg-id="bestv" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/bestv.png" group-title="四川电信",bestv
-http://171.213.199.44:8818/rtp/239.94.2.57:5140
+http://118.112.61.53:6066/rtp/239.94.2.57:5140
 #EXTINF:-1 tvg-id="i成都" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/i%E6%88%90%E9%83%BD.png" group-title="四川电信",i成都
-http://171.213.199.44:8818/rtp/239.94.2.1:5140
+http://118.112.61.53:6066/rtp/239.94.2.1:5140
 #EXTINF:-1 tvg-id="乐龄学堂" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B9%90%E9%BE%84%E5%AD%A6%E5%A0%82.png" group-title="四川电信",乐龄学堂
-http://171.213.199.44:8818/rtp/239.94.1.155:5140
+http://118.112.61.53:6066/rtp/239.94.1.155:5140
 #EXTINF:-1 tvg-id="九画面15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B9%9D%E7%94%BB%E9%9D%A215.png" group-title="四川电信",九画面15
-http://171.213.199.44:8818/rtp/239.94.2.138:5140
+http://118.112.61.53:6066/rtp/239.94.2.138:5140
 #EXTINF:-1 tvg-id="九画面卫视1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B9%9D%E7%94%BB%E9%9D%A2%E5%8D%AB%E8%A7%861.png" group-title="四川电信",九画面卫视1
-http://171.213.199.44:8818/rtp/239.94.2.133:5140
+http://118.112.61.53:6066/rtp/239.94.2.133:5140
 #EXTINF:-1 tvg-id="九画面卫视1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B9%9D%E7%94%BB%E9%9D%A2%E5%8D%AB%E8%A7%861.png" group-title="四川电信",九画面卫视1
-http://171.213.199.44:8818/rtp/239.94.2.132:5140
+http://118.112.61.53:6066/rtp/239.94.2.132:5140
 #EXTINF:-1 tvg-id="九画面卫视2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B9%9D%E7%94%BB%E9%9D%A2%E5%8D%AB%E8%A7%862.png" group-title="四川电信",九画面卫视2
-http://171.213.199.44:8818/rtp/239.94.2.134:5140
+http://118.112.61.53:6066/rtp/239.94.2.134:5140
 #EXTINF:-1 tvg-id="九画面卫视2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B9%9D%E7%94%BB%E9%9D%A2%E5%8D%AB%E8%A7%862.png" group-title="四川电信",九画面卫视2
-http://171.213.199.44:8818/rtp/239.94.2.135:5140
+http://118.112.61.53:6066/rtp/239.94.2.135:5140
 #EXTINF:-1 tvg-id="九画面卫视3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B9%9D%E7%94%BB%E9%9D%A2%E5%8D%AB%E8%A7%863.png" group-title="四川电信",九画面卫视3
-http://171.213.199.44:8818/rtp/239.94.2.136:5140
+http://118.112.61.53:6066/rtp/239.94.2.136:5140
 #EXTINF:-1 tvg-id="九画面卫视3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B9%9D%E7%94%BB%E9%9D%A2%E5%8D%AB%E8%A7%863.png" group-title="四川电信",九画面卫视3
-http://171.213.199.44:8818/rtp/239.94.2.137:5140
+http://118.112.61.53:6066/rtp/239.94.2.137:5140
 #EXTINF:-1 tvg-id="九画面卫视4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B9%9D%E7%94%BB%E9%9D%A2%E5%8D%AB%E8%A7%864.png" group-title="四川电信",九画面卫视4
-http://171.213.199.44:8818/rtp/239.94.2.141:5140
+http://118.112.61.53:6066/rtp/239.94.2.141:5140
 #EXTINF:-1 tvg-id="九画面卫视4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B9%9D%E7%94%BB%E9%9D%A2%E5%8D%AB%E8%A7%864.png" group-title="四川电信",九画面卫视4
-http://171.213.199.44:8818/rtp/239.94.2.139:5140
+http://118.112.61.53:6066/rtp/239.94.2.139:5140
 #EXTINF:-1 tvg-id="九画面卫视5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B9%9D%E7%94%BB%E9%9D%A2%E5%8D%AB%E8%A7%865.png" group-title="四川电信",九画面卫视5
-http://171.213.199.44:8818/rtp/239.94.2.140:5140
+http://118.112.61.53:6066/rtp/239.94.2.140:5140
 #EXTINF:-1 tvg-id="九画面四川1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B9%9D%E7%94%BB%E9%9D%A2%E5%9B%9B%E5%B7%9D1.png" group-title="四川电信",九画面四川1
-http://171.213.199.44:8818/rtp/239.94.2.131:5140
+http://118.112.61.53:6066/rtp/239.94.2.131:5140
 #EXTINF:-1 tvg-id="九画面四川2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B9%9D%E7%94%BB%E9%9D%A2%E5%9B%9B%E5%B7%9D2.png" group-title="四川电信",九画面四川2
-http://171.213.199.44:8818/rtp/239.94.2.130:5140
+http://118.112.61.53:6066/rtp/239.94.2.130:5140
 #EXTINF:-1 tvg-id="九画面央视1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B9%9D%E7%94%BB%E9%9D%A2%E5%A4%AE%E8%A7%861.png" group-title="四川电信",九画面央视1
-http://171.213.199.44:8818/rtp/239.94.2.128:5140
+http://118.112.61.53:6066/rtp/239.94.2.128:5140
 #EXTINF:-1 tvg-id="九画面央视1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B9%9D%E7%94%BB%E9%9D%A2%E5%A4%AE%E8%A7%861.png" group-title="四川电信",九画面央视1
-http://171.213.199.44:8818/rtp/239.94.2.73:5140
+http://118.112.61.53:6066/rtp/239.94.2.73:5140
 #EXTINF:-1 tvg-id="九画面央视2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B9%9D%E7%94%BB%E9%9D%A2%E5%A4%AE%E8%A7%862.png" group-title="四川电信",九画面央视2
-http://171.213.199.44:8818/rtp/239.94.2.129:5140
+http://118.112.61.53:6066/rtp/239.94.2.129:5140
 #EXTINF:-1 tvg-id="云看熊猫专区" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BA%91%E7%9C%8B%E7%86%8A%E7%8C%AB%E4%B8%93%E5%8C%BA.png" group-title="四川电信",云看熊猫专区
-http://171.213.199.44:8818/rtp/239.94.1.7:5140
+http://118.112.61.53:6066/rtp/239.94.1.7:5140
 #EXTINF:-1 tvg-id="健康养生" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%81%A5%E5%BA%B7%E5%85%BB%E7%94%9F.png" group-title="四川电信",健康养生
-http://171.213.199.44:8818/rtp/239.94.1.27:5140
+http://118.112.61.53:6066/rtp/239.94.1.27:5140
 #EXTINF:-1 tvg-id="全球大片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%85%A8%E7%90%83%E5%A4%A7%E7%89%87.png" group-title="四川电信",全球大片
-http://171.213.199.44:8818/rtp/239.94.1.24:5140
+http://118.112.61.53:6066/rtp/239.94.1.24:5140
 #EXTINF:-1 tvg-id="军事专区" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%9B%E4%BA%8B%E4%B8%93%E5%8C%BA.png" group-title="四川电信",军事专区
-http://171.213.199.44:8818/rtp/239.94.1.52:5140
+http://118.112.61.53:6066/rtp/239.94.1.52:5140
 #EXTINF:-1 tvg-id="华语影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8D%8E%E8%AF%AD%E5%BD%B1%E9%99%A2.png" group-title="四川电信",华语影院
-http://171.213.199.44:8818/rtp/239.94.1.22:5140
+http://118.112.61.53:6066/rtp/239.94.1.22:5140
 #EXTINF:-1 tvg-id="四海钓鱼" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC.png" group-title="四川电信",四海钓鱼
-http://171.213.199.44:8818/rtp/239.94.1.168:5140
+http://118.112.61.53:6066/rtp/239.94.1.168:5140
 #EXTINF:-1 tvg-id="地理专区" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9C%B0%E7%90%86%E4%B8%93%E5%8C%BA.png" group-title="四川电信",地理专区
-http://171.213.199.44:8818/rtp/239.94.1.54:5140
+http://118.112.61.53:6066/rtp/239.94.1.54:5140
 #EXTINF:-1 tvg-id="墨宝专区" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A2%A8%E5%AE%9D%E4%B8%93%E5%8C%BA.png" group-title="四川电信",墨宝专区
-http://171.213.199.44:8818/rtp/239.94.1.51:5140
+http://118.112.61.53:6066/rtp/239.94.1.51:5140
 #EXTINF:-1 tvg-id="大爱四川专区" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A7%E7%88%B1%E5%9B%9B%E5%B7%9D%E4%B8%93%E5%8C%BA.png" group-title="四川电信",大爱四川专区
-http://171.213.199.44:8818/rtp/239.94.1.12:5140
+http://118.112.61.53:6066/rtp/239.94.1.12:5140
 #EXTINF:-1 tvg-id="大爱四川专区" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A7%E7%88%B1%E5%9B%9B%E5%B7%9D%E4%B8%93%E5%8C%BA.png" group-title="四川电信",大爱四川专区
-http://171.213.199.44:8818/rtp/239.94.1.13:5140
+http://118.112.61.53:6066/rtp/239.94.1.13:5140
 #EXTINF:-1 tvg-id="大爱四川专区" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A7%E7%88%B1%E5%9B%9B%E5%B7%9D%E4%B8%93%E5%8C%BA.png" group-title="四川电信",大爱四川专区
-http://171.213.199.44:8818/rtp/239.94.1.14:5140
+http://118.112.61.53:6066/rtp/239.94.1.14:5140
 #EXTINF:-1 tvg-id="大爱时尚专区" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A7%E7%88%B1%E6%97%B6%E5%B0%9A%E4%B8%93%E5%8C%BA.png" group-title="四川电信",大爱时尚专区
-http://171.213.199.44:8818/rtp/239.94.1.15:5140
+http://118.112.61.53:6066/rtp/239.94.1.15:5140
 #EXTINF:-1 tvg-id="宝宝动画" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%9D%E5%AE%9D%E5%8A%A8%E7%94%BB.png" group-title="四川电信",宝宝动画
-http://171.213.199.44:8818/rtp/239.94.1.32:5140
+http://118.112.61.53:6066/rtp/239.94.1.32:5140
 #EXTINF:-1 tvg-id="导视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AF%BC%E8%A7%86.png" group-title="四川电信",导视
-http://171.213.199.44:8818/rtp/239.94.1.64:5140
+http://118.112.61.53:6066/rtp/239.94.1.64:5140
 #EXTINF:-1 tvg-id="少儿天地" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B0%91%E5%84%BF%E5%A4%A9%E5%9C%B0.png" group-title="四川电信",少儿天地
-http://171.213.199.44:8818/rtp/239.94.1.138:5140
+http://118.112.61.53:6066/rtp/239.94.1.138:5140
 #EXTINF:-1 tvg-id="戏曲专区" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%88%8F%E6%9B%B2%E4%B8%93%E5%8C%BA.png" group-title="四川电信",戏曲专区
-http://171.213.199.44:8818/rtp/239.94.1.38:5140
+http://118.112.61.53:6066/rtp/239.94.1.38:5140
 #EXTINF:-1 tvg-id="戏曲精选" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%88%8F%E6%9B%B2%E7%B2%BE%E9%80%89.png" group-title="四川电信",戏曲精选
-http://171.213.199.44:8818/rtp/239.94.1.37:5140
+http://118.112.61.53:6066/rtp/239.94.1.37:5140
 #EXTINF:-1 tvg-id="收视指南专区" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%94%B6%E8%A7%86%E6%8C%87%E5%8D%97%E4%B8%93%E5%8C%BA.png" group-title="四川电信",收视指南专区
-http://171.213.199.44:8818/rtp/239.94.1.56:5140
+http://118.112.61.53:6066/rtp/239.94.1.56:5140
 #EXTINF:-1 tvg-id="星光院线" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%98%9F%E5%85%89%E9%99%A2%E7%BA%BF.png" group-title="四川电信",星光院线
-http://171.213.199.44:8818/rtp/239.94.1.23:5140
+http://118.112.61.53:6066/rtp/239.94.1.23:5140
 #EXTINF:-1 tvg-id="未知节目" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%9C%AA%E7%9F%A5%E8%8A%82%E7%9B%AE.png" group-title="四川电信",未知节目
-http://171.213.199.44:8818/rtp/239.94.2.72:5140
+http://118.112.61.53:6066/rtp/239.94.2.72:5140
 #EXTINF:-1 tvg-id="未识别" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%9C%AA%E8%AF%86%E5%88%AB.png" group-title="四川电信",未识别
-http://171.213.199.44:8818/rtp/239.94.2.25:5140
+http://118.112.61.53:6066/rtp/239.94.2.25:5140
 #EXTINF:-1 tvg-id="来钓鱼吧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%9D%A5%E9%92%93%E9%B1%BC%E5%90%A7.png" group-title="四川电信",来钓鱼吧
-http://171.213.199.44:8818/rtp/239.94.1.148:5140
+http://118.112.61.53:6066/rtp/239.94.1.148:5140
 #EXTINF:-1 tvg-id="热门剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%83%AD%E9%97%A8%E5%89%A7%E5%9C%BA.png" group-title="四川电信",热门剧场
-http://171.213.199.44:8818/rtp/239.94.1.26:5140
+http://118.112.61.53:6066/rtp/239.94.1.26:5140
 #EXTINF:-1 tvg-id="热门综艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%83%AD%E9%97%A8%E7%BB%BC%E8%89%BA.png" group-title="四川电信",热门综艺
-http://171.213.199.44:8818/rtp/239.94.1.35:5140
+http://118.112.61.53:6066/rtp/239.94.1.35:5140
 #EXTINF:-1 tvg-id="爱乐山" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%88%B1%E4%B9%90%E5%B1%B1.png" group-title="四川电信",爱乐山
-http://171.213.199.44:8818/rtp/239.94.2.2:5140
+http://118.112.61.53:6066/rtp/239.94.2.2:5140
 #EXTINF:-1 tvg-id="爱宠宠物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%88%B1%E5%AE%A0%E5%AE%A0%E7%89%A9.png" group-title="四川电信",爱宠宠物
-http://171.213.199.44:8818/rtp/239.94.1.145:5140
+http://118.112.61.53:6066/rtp/239.94.1.145:5140
 #EXTINF:-1 tvg-id="电信5G" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%B5%E4%BF%A15G.png" group-title="四川电信",电信5G
-http://171.213.199.44:8818/rtp/239.94.2.4:5140
+http://118.112.61.53:6066/rtp/239.94.2.4:5140
 #EXTINF:-1 tvg-id="电竞天堂" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%B5%E7%AB%9E%E5%A4%A9%E5%A0%82.png" group-title="四川电信",电竞天堂
-http://171.213.199.44:8818/rtp/239.94.1.45:5140
+http://118.112.61.53:6066/rtp/239.94.1.45:5140
 #EXTINF:-1 tvg-id="百变课堂" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%99%BE%E5%8F%98%E8%AF%BE%E5%A0%82.png" group-title="四川电信",百变课堂
-http://171.213.199.44:8818/rtp/239.94.1.43:5140
+http://118.112.61.53:6066/rtp/239.94.1.43:5140
 #EXTINF:-1 tvg-id="直播室1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%9B%B4%E6%92%AD%E5%AE%A41.png" group-title="四川电信",直播室1
-http://171.213.199.44:8818/rtp/239.94.2.11:5140
+http://118.112.61.53:6066/rtp/239.94.2.11:5140
 #EXTINF:-1 tvg-id="直播室2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%9B%B4%E6%92%AD%E5%AE%A42.png" group-title="四川电信",直播室2
-http://171.213.199.44:8818/rtp/239.94.2.12:5140
+http://118.112.61.53:6066/rtp/239.94.2.12:5140
 #EXTINF:-1 tvg-id="直播室3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%9B%B4%E6%92%AD%E5%AE%A43.png" group-title="四川电信",直播室3
-http://171.213.199.44:8818/rtp/239.94.2.13:5140
+http://118.112.61.53:6066/rtp/239.94.2.13:5140
 #EXTINF:-1 tvg-id="直播室3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%9B%B4%E6%92%AD%E5%AE%A43.png" group-title="四川电信",直播室3
-http://171.213.199.44:8818/rtp/239.94.2.14:5140
+http://118.112.61.53:6066/rtp/239.94.2.14:5140
 #EXTINF:-1 tvg-id="直播室5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%9B%B4%E6%92%AD%E5%AE%A45.png" group-title="四川电信",直播室5
-http://171.213.199.44:8818/rtp/239.94.2.15:5140
+http://118.112.61.53:6066/rtp/239.94.2.15:5140
 #EXTINF:-1 tvg-id="直播室6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%9B%B4%E6%92%AD%E5%AE%A46.png" group-title="四川电信",直播室6
-http://171.213.199.44:8818/rtp/239.94.2.16:5140
+http://118.112.61.53:6066/rtp/239.94.2.16:5140
 #EXTINF:-1 tvg-id="直播室7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%9B%B4%E6%92%AD%E5%AE%A47.png" group-title="四川电信",直播室7
-http://171.213.199.44:8818/rtp/239.94.2.17:5140
+http://118.112.61.53:6066/rtp/239.94.2.17:5140
 #EXTINF:-1 tvg-id="直播室8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%9B%B4%E6%92%AD%E5%AE%A48.png" group-title="四川电信",直播室8
-http://171.213.199.44:8818/rtp/239.94.2.18:5140
+http://118.112.61.53:6066/rtp/239.94.2.18:5140
 #EXTINF:-1 tvg-id="看天下精选" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%9C%8B%E5%A4%A9%E4%B8%8B%E7%B2%BE%E9%80%89.png" group-title="四川电信",看天下精选
-http://171.213.199.44:8818/rtp/239.94.1.68:5140
+http://118.112.61.53:6066/rtp/239.94.1.68:5140
 #EXTINF:-1 tvg-id="精彩推荐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%B2%BE%E5%BD%A9%E6%8E%A8%E8%8D%90.png" group-title="四川电信",精彩推荐
-http://171.213.199.44:8818/rtp/239.94.2.10:5140
+http://118.112.61.53:6066/rtp/239.94.2.10:5140
 #EXTINF:-1 tvg-id="红色影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%BA%A2%E8%89%B2%E5%BD%B1%E9%99%A2.png" group-title="四川电信",红色影院
-http://171.213.199.44:8818/rtp/239.94.1.48:5140
+http://118.112.61.53:6066/rtp/239.94.1.48:5140
 #EXTINF:-1 tvg-id="经典剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%BB%8F%E5%85%B8%E5%89%A7%E5%9C%BA.png" group-title="四川电信",经典剧场
-http://171.213.199.44:8818/rtp/239.94.1.49:5140
+http://118.112.61.53:6066/rtp/239.94.1.49:5140
 #EXTINF:-1 tvg-id="综艺咖秀" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%BB%BC%E8%89%BA%E5%92%96%E7%A7%80.png" group-title="四川电信",综艺咖秀
-http://171.213.199.44:8818/rtp/239.94.2.28:5140
+http://118.112.61.53:6066/rtp/239.94.2.28:5140
 #EXTINF:-1 tvg-id="综艺咖秀" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%BB%BC%E8%89%BA%E5%92%96%E7%A7%80.png" group-title="四川电信",综艺咖秀
-http://171.213.199.44:8818/rtp/239.94.2.27:5140
+http://118.112.61.53:6066/rtp/239.94.2.27:5140
 #EXTINF:-1 tvg-id="解密专区" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%A7%A3%E5%AF%86%E4%B8%93%E5%8C%BA.png" group-title="四川电信",解密专区
-http://171.213.199.44:8818/rtp/239.94.1.53:5140
+http://118.112.61.53:6066/rtp/239.94.1.53:5140
 #EXTINF:-1 tvg-id="谍战剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B0%8D%E6%88%98%E5%89%A7%E5%9C%BA.png" group-title="四川电信",谍战剧场
-http://171.213.199.44:8818/rtp/239.94.1.28:5140
+http://118.112.61.53:6066/rtp/239.94.1.28:5140
 #EXTINF:-1 tvg-id="足球专区" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B6%B3%E7%90%83%E4%B8%93%E5%8C%BA.png" group-title="四川电信",足球专区
-http://171.213.199.44:8818/rtp/239.94.1.47:5140
+http://118.112.61.53:6066/rtp/239.94.1.47:5140
 #EXTINF:-1 tvg-id="青春动漫" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%9D%92%E6%98%A5%E5%8A%A8%E6%BC%AB.png" group-title="四川电信",青春动漫
-http://171.213.199.44:8818/rtp/239.94.1.34:5140
+http://118.112.61.53:6066/rtp/239.94.1.34:5140
 #EXTINF:-1 tvg-id="风景" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%A3%8E%E6%99%AF.png" group-title="四川电信",风景
-http://171.213.199.44:8818/rtp/239.94.2.74:5140
+http://118.112.61.53:6066/rtp/239.94.2.74:5140
 #EXTINF:-1 tvg-id="风景直播1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%A3%8E%E6%99%AF%E7%9B%B4%E6%92%AD1.png" group-title="四川电信",风景直播1
-http://171.213.199.44:8818/rtp/239.94.2.19:5140
+http://118.112.61.53:6066/rtp/239.94.2.19:5140
 #EXTINF:-1 tvg-id="风景直播2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%A3%8E%E6%99%AF%E7%9B%B4%E6%92%AD2.png" group-title="四川电信",风景直播2
-http://171.213.199.44:8818/rtp/239.94.2.20:5140
+http://118.112.61.53:6066/rtp/239.94.2.20:5140
 #EXTINF:-1 tvg-id="风景直播3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%A3%8E%E6%99%AF%E7%9B%B4%E6%92%AD3.png" group-title="四川电信",风景直播3
-http://171.213.199.44:8818/rtp/239.94.2.23:5140
+http://118.112.61.53:6066/rtp/239.94.2.23:5140
 #EXTINF:-1 tvg-id="麻辣体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%BA%BB%E8%BE%A3%E4%BD%93%E8%82%B2.png" group-title="四川电信",麻辣体育
-http://171.213.199.44:8818/rtp/239.94.1.149:5140
+http://118.112.61.53:6066/rtp/239.94.1.149:5140
 #EXTINF:-1 tvg-id="CCTV1SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1SD.png" group-title="四川电信",CCTV1SD
-http://171.213.199.44:8818/rtp/239.94.2.146:5140
+http://118.112.61.53:6066/rtp/239.94.2.146:5140
 #EXTINF:-1 tvg-id="CCTV2SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2SD.png" group-title="四川电信",CCTV2SD
-http://171.213.199.44:8818/rtp/239.94.2.147:5140
+http://118.112.61.53:6066/rtp/239.94.2.147:5140
 #EXTINF:-1 tvg-id="CCTV3SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3SD.png" group-title="四川电信",CCTV3SD
-http://171.213.199.44:8818/rtp/239.94.2.148:5140
+http://118.112.61.53:6066/rtp/239.94.2.148:5140
 #EXTINF:-1 tvg-id="CCTV4SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4SD.png" group-title="四川电信",CCTV4SD
-http://171.213.199.44:8818/rtp/239.94.2.149:5140
+http://118.112.61.53:6066/rtp/239.94.2.149:5140
 #EXTINF:-1 tvg-id="CCTV5SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5SD.png" group-title="四川电信",CCTV5SD
-http://171.213.199.44:8818/rtp/239.94.2.150:5140
+http://118.112.61.53:6066/rtp/239.94.2.150:5140
 #EXTINF:-1 tvg-id="CCTV5+SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5%2BSD.png" group-title="四川电信",CCTV5+SD
-http://171.213.199.44:8818/rtp/239.94.2.162:5140
+http://118.112.61.53:6066/rtp/239.94.2.162:5140
 #EXTINF:-1 tvg-id="CCTV6SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6SD.png" group-title="四川电信",CCTV6SD
-http://171.213.199.44:8818/rtp/239.94.2.151:5140
+http://118.112.61.53:6066/rtp/239.94.2.151:5140
 #EXTINF:-1 tvg-id="CCTV7SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7SD.png" group-title="四川电信",CCTV7SD
-http://171.213.199.44:8818/rtp/239.94.2.152:5140
+http://118.112.61.53:6066/rtp/239.94.2.152:5140
 #EXTINF:-1 tvg-id="CCTV8SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8SD.png" group-title="四川电信",CCTV8SD
-http://171.213.199.44:8818/rtp/239.94.2.153:5140
+http://118.112.61.53:6066/rtp/239.94.2.153:5140
 #EXTINF:-1 tvg-id="CCTV9SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9SD.png" group-title="四川电信",CCTV9SD
-http://171.213.199.44:8818/rtp/239.94.2.154:5140
+http://118.112.61.53:6066/rtp/239.94.2.154:5140
 #EXTINF:-1 tvg-id="CCTV10SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10SD.png" group-title="四川电信",CCTV10SD
-http://171.213.199.44:8818/rtp/239.94.2.155:5140
+http://118.112.61.53:6066/rtp/239.94.2.155:5140
 #EXTINF:-1 tvg-id="CCTV11SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11SD.png" group-title="四川电信",CCTV11SD
-http://171.213.199.44:8818/rtp/239.94.2.156:5140
+http://118.112.61.53:6066/rtp/239.94.2.156:5140
 #EXTINF:-1 tvg-id="CCTV12SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12SD.png" group-title="四川电信",CCTV12SD
-http://171.213.199.44:8818/rtp/239.94.2.157:5140
+http://118.112.61.53:6066/rtp/239.94.2.157:5140
 #EXTINF:-1 tvg-id="CCTV13SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13SD.png" group-title="四川电信",CCTV13SD
-http://171.213.199.44:8818/rtp/239.94.2.158:5140
+http://118.112.61.53:6066/rtp/239.94.2.158:5140
 #EXTINF:-1 tvg-id="CCTV14SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14SD.png" group-title="四川电信",CCTV14SD
-http://171.213.199.44:8818/rtp/239.94.2.159:5140
+http://118.112.61.53:6066/rtp/239.94.2.159:5140
 #EXTINF:-1 tvg-id="CCTV15SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15SD.png" group-title="四川电信",CCTV15SD
-http://171.213.199.44:8818/rtp/239.94.2.160:5140
+http://118.112.61.53:6066/rtp/239.94.2.160:5140
 #EXTINF:-1 tvg-id="CCTV17SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17SD.png" group-title="四川电信",CCTV17SD
-http://171.213.199.44:8818/rtp/239.94.2.161:5140
+http://118.112.61.53:6066/rtp/239.94.2.161:5140
 #EXTINF:-1 tvg-id="CCTV4KSD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4KSD.png" group-title="四川电信",CCTV4KSD
-http://171.213.199.44:8818/rtp/239.94.2.163:5140
+http://118.112.61.53:6066/rtp/239.94.2.163:5140
 #EXTINF:-1 tvg-id="CETV1SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV1SD.png" group-title="四川电信",CETV1SD
-http://171.213.199.44:8818/rtp/239.94.2.224:5140
+http://118.112.61.53:6066/rtp/239.94.2.224:5140
 #EXTINF:-1 tvg-id="CETV2SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV2SD.png" group-title="四川电信",CETV2SD
-http://171.213.199.44:8818/rtp/239.94.1.19:5140
+http://118.112.61.53:6066/rtp/239.94.1.19:5140
 #EXTINF:-1 tvg-id="CETV2SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV2SD.png" group-title="四川电信",CETV2SD
-http://171.213.199.44:8818/rtp/239.94.2.228:5140
+http://118.112.61.53:6066/rtp/239.94.2.228:5140
 #EXTINF:-1 tvg-id="CETV4SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV4SD.png" group-title="四川电信",CETV4SD
-http://171.213.199.44:8818/rtp/239.94.2.229:5140
+http://118.112.61.53:6066/rtp/239.94.2.229:5140
 #EXTINF:-1 tvg-id="CGTNSD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTNSD.png" group-title="四川电信",CGTNSD
-http://171.213.199.44:8818/rtp/239.94.2.164:5140
+http://118.112.61.53:6066/rtp/239.94.2.164:5140
 #EXTINF:-1 tvg-id="CGTN西语SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN%E8%A5%BF%E8%AF%ADSD.png" group-title="四川电信",CGTN西语SD
-http://171.213.199.44:8818/rtp/239.94.2.237:5140
+http://118.112.61.53:6066/rtp/239.94.2.237:5140
 #EXTINF:-1 tvg-id="CGTN法语SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN%E6%B3%95%E8%AF%ADSD.png" group-title="四川电信",CGTN法语SD
-http://171.213.199.44:8818/rtp/239.94.2.238:5140
+http://118.112.61.53:6066/rtp/239.94.2.238:5140
 #EXTINF:-1 tvg-id="梨园频道SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%A2%A8%E5%9B%AD%E9%A2%91%E9%81%93SD.png" group-title="四川电信",梨园频道SD
-http://171.213.199.44:8818/rtp/239.94.2.227:5140
+http://118.112.61.53:6066/rtp/239.94.2.227:5140
 #EXTINF:-1 tvg-id="游戏风云SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B8%B8%E6%88%8F%E9%A3%8E%E4%BA%91SD.png" group-title="四川电信",游戏风云SD
-http://171.213.199.44:8818/rtp/239.94.2.235:5140
+http://118.112.61.53:6066/rtp/239.94.2.235:5140
 #EXTINF:-1 tvg-id="书法频道SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B9%A6%E6%B3%95%E9%A2%91%E9%81%93SD.png" group-title="四川电信",书法频道SD
-http://171.213.199.44:8818/rtp/239.94.1.163:5140
+http://118.112.61.53:6066/rtp/239.94.1.163:5140
 #EXTINF:-1 tvg-id="金鹰纪实SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%91%E9%B9%B0%E7%BA%AA%E5%AE%9ESD.png" group-title="四川电信",金鹰纪实SD
-http://171.213.199.44:8818/rtp/239.94.2.223:5140
+http://118.112.61.53:6066/rtp/239.94.2.223:5140
 #EXTINF:-1 tvg-id="生活时尚SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9ASD.png" group-title="四川电信",生活时尚SD
-http://171.213.199.44:8818/rtp/239.94.1.40:5140
+http://118.112.61.53:6066/rtp/239.94.1.40:5140
 #EXTINF:-1 tvg-id="生活时尚SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9ASD.png" group-title="四川电信",生活时尚SD
-http://171.213.199.44:8818/rtp/239.94.2.233:5140
+http://118.112.61.53:6066/rtp/239.94.2.233:5140
 #EXTINF:-1 tvg-id="中国交通SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%AD%E5%9B%BD%E4%BA%A4%E9%80%9ASD.png" group-title="四川电信",中国交通SD
-http://171.213.199.44:8818/rtp/239.94.2.193:5140
+http://118.112.61.53:6066/rtp/239.94.2.193:5140
 #EXTINF:-1 tvg-id="重庆卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",重庆卫视SD
-http://171.213.199.44:8818/rtp/239.94.2.188:5140
+http://118.112.61.53:6066/rtp/239.94.2.188:5140
 #EXTINF:-1 tvg-id="江苏卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",江苏卫视SD
-http://171.213.199.44:8818/rtp/239.94.2.168:5140
+http://118.112.61.53:6066/rtp/239.94.2.168:5140
 #EXTINF:-1 tvg-id="浙江卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",浙江卫视SD
-http://171.213.199.44:8818/rtp/239.94.2.169:5140
+http://118.112.61.53:6066/rtp/239.94.2.169:5140
 #EXTINF:-1 tvg-id="东方卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",东方卫视SD
-http://171.213.199.44:8818/rtp/239.94.2.170:5140
+http://118.112.61.53:6066/rtp/239.94.2.170:5140
 #EXTINF:-1 tvg-id="深圳卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",深圳卫视SD
-http://171.213.199.44:8818/rtp/239.94.2.172:5140
+http://118.112.61.53:6066/rtp/239.94.2.172:5140
 #EXTINF:-1 tvg-id="北京卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",北京卫视SD
-http://171.213.199.44:8818/rtp/239.94.2.171:5140
+http://118.112.61.53:6066/rtp/239.94.2.171:5140
 #EXTINF:-1 tvg-id="山东卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",山东卫视SD
-http://171.213.199.44:8818/rtp/239.94.2.175:5140
+http://118.112.61.53:6066/rtp/239.94.2.175:5140
 #EXTINF:-1 tvg-id="天津卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",天津卫视SD
-http://171.213.199.44:8818/rtp/239.94.2.174:5140
+http://118.112.61.53:6066/rtp/239.94.2.174:5140
 #EXTINF:-1 tvg-id="贵州卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",贵州卫视SD
-http://171.213.199.44:8818/rtp/239.94.2.189:5140
+http://118.112.61.53:6066/rtp/239.94.2.189:5140
 #EXTINF:-1 tvg-id="四川卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",四川卫视SD
-http://171.213.199.44:8818/rtp/239.94.2.165:5140
+http://118.112.61.53:6066/rtp/239.94.2.165:5140
 #EXTINF:-1 tvg-id="云南卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",云南卫视SD
-http://171.213.199.44:8818/rtp/239.94.2.196:5140
+http://118.112.61.53:6066/rtp/239.94.2.196:5140
 #EXTINF:-1 tvg-id="广西卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",广西卫视SD
-http://171.213.199.44:8818/rtp/239.94.2.195:5140
+http://118.112.61.53:6066/rtp/239.94.2.195:5140
 #EXTINF:-1 tvg-id="黑龙江卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",黑龙江卫视SD
-http://171.213.199.44:8818/rtp/239.94.2.187:5140
+http://118.112.61.53:6066/rtp/239.94.2.187:5140
 #EXTINF:-1 tvg-id="安徽卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",安徽卫视SD
-http://171.213.199.44:8818/rtp/239.94.2.191:5140
+http://118.112.61.53:6066/rtp/239.94.2.191:5140
 #EXTINF:-1 tvg-id="山西卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",山西卫视SD
-http://171.213.199.44:8818/rtp/239.94.0.93:5140
+http://118.112.61.53:6066/rtp/239.94.0.93:5140
 #EXTINF:-1 tvg-id="山西卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",山西卫视SD
-http://171.213.199.44:8818/rtp/239.94.2.199:5140
+http://118.112.61.53:6066/rtp/239.94.2.199:5140
 #EXTINF:-1 tvg-id="江西卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",江西卫视SD
-http://171.213.199.44:8818/rtp/239.94.2.185:5140
+http://118.112.61.53:6066/rtp/239.94.2.185:5140
 #EXTINF:-1 tvg-id="湖北卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",湖北卫视SD
-http://171.213.199.44:8818/rtp/239.94.2.190:5140
+http://118.112.61.53:6066/rtp/239.94.2.190:5140
 #EXTINF:-1 tvg-id="旅游卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%97%85%E6%B8%B8%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",旅游卫视SD
-http://171.213.199.44:8818/rtp/239.94.0.100:5140
+http://118.112.61.53:6066/rtp/239.94.0.100:5140
 #EXTINF:-1 tvg-id="旅游卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%97%85%E6%B8%B8%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",旅游卫视SD
-http://171.213.199.44:8818/rtp/239.94.2.206:5140
+http://118.112.61.53:6066/rtp/239.94.2.206:5140
 #EXTINF:-1 tvg-id="陕西卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",陕西卫视SD
-http://171.213.199.44:8818/rtp/239.94.2.198:5140
+http://118.112.61.53:6066/rtp/239.94.2.198:5140
 #EXTINF:-1 tvg-id="东南卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",东南卫视SD
-http://171.213.199.44:8818/rtp/239.94.2.186:5140
+http://118.112.61.53:6066/rtp/239.94.2.186:5140
 #EXTINF:-1 tvg-id="厦门卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8E%A6%E9%97%A8%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",厦门卫视SD
-http://171.213.199.44:8818/rtp/239.94.0.104:5140
+http://118.112.61.53:6066/rtp/239.94.0.104:5140
 #EXTINF:-1 tvg-id="厦门卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8E%A6%E9%97%A8%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",厦门卫视SD
-http://171.213.199.44:8818/rtp/239.94.2.210:5140
+http://118.112.61.53:6066/rtp/239.94.2.210:5140
 #EXTINF:-1 tvg-id="吉林卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",吉林卫视SD
-http://171.213.199.44:8818/rtp/239.94.2.197:5140
+http://118.112.61.53:6066/rtp/239.94.2.197:5140
 #EXTINF:-1 tvg-id="辽宁卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",辽宁卫视SD
-http://171.213.199.44:8818/rtp/239.94.2.207:5140
+http://118.112.61.53:6066/rtp/239.94.2.207:5140
 #EXTINF:-1 tvg-id="内蒙古卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",内蒙古卫视SD
-http://171.213.199.44:8818/rtp/239.94.0.94:5140
+http://118.112.61.53:6066/rtp/239.94.0.94:5140
 #EXTINF:-1 tvg-id="内蒙古卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",内蒙古卫视SD
-http://171.213.199.44:8818/rtp/239.94.2.200:5140
+http://118.112.61.53:6066/rtp/239.94.2.200:5140
 #EXTINF:-1 tvg-id="湖南卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",湖南卫视SD
-http://171.213.199.44:8818/rtp/239.94.2.167:5140
+http://118.112.61.53:6066/rtp/239.94.2.167:5140
 #EXTINF:-1 tvg-id="广东卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",广东卫视SD
-http://171.213.199.44:8818/rtp/239.94.2.173:5140
+http://118.112.61.53:6066/rtp/239.94.2.173:5140
 #EXTINF:-1 tvg-id="河南卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",河南卫视SD
-http://171.213.199.44:8818/rtp/239.94.2.194:5140
+http://118.112.61.53:6066/rtp/239.94.2.194:5140
 #EXTINF:-1 tvg-id="河北卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",河北卫视SD
-http://171.213.199.44:8818/rtp/239.94.2.192:5140
+http://118.112.61.53:6066/rtp/239.94.2.192:5140
 #EXTINF:-1 tvg-id="甘肃卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",甘肃卫视SD
-http://171.213.199.44:8818/rtp/239.94.2.205:5140
+http://118.112.61.53:6066/rtp/239.94.2.205:5140
 #EXTINF:-1 tvg-id="青海卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",青海卫视SD
-http://171.213.199.44:8818/rtp/239.94.0.95:5140
+http://118.112.61.53:6066/rtp/239.94.0.95:5140
 #EXTINF:-1 tvg-id="青海卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",青海卫视SD
-http://171.213.199.44:8818/rtp/239.94.2.201:5140
+http://118.112.61.53:6066/rtp/239.94.2.201:5140
 #EXTINF:-1 tvg-id="三沙卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",三沙卫视SD
-http://171.213.199.44:8818/rtp/239.94.0.105:5140
+http://118.112.61.53:6066/rtp/239.94.0.105:5140
 #EXTINF:-1 tvg-id="三沙卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",三沙卫视SD
-http://171.213.199.44:8818/rtp/239.94.2.211:5140
+http://118.112.61.53:6066/rtp/239.94.2.211:5140
 #EXTINF:-1 tvg-id="康巴卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%BA%B7%E5%B7%B4%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",康巴卫视SD
-http://171.213.199.44:8818/rtp/239.94.2.184:5140
+http://118.112.61.53:6066/rtp/239.94.2.184:5140
 #EXTINF:-1 tvg-id="安多卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%89%E5%A4%9A%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",安多卫视SD
-http://171.213.199.44:8818/rtp/239.94.0.110:5140
+http://118.112.61.53:6066/rtp/239.94.0.110:5140
 #EXTINF:-1 tvg-id="安多卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%89%E5%A4%9A%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",安多卫视SD
-http://171.213.199.44:8818/rtp/239.94.2.216:5140
+http://118.112.61.53:6066/rtp/239.94.2.216:5140
 #EXTINF:-1 tvg-id="延边卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%BB%B6%E8%BE%B9%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",延边卫视SD
-http://171.213.199.44:8818/rtp/239.94.0.107:5140
+http://118.112.61.53:6066/rtp/239.94.0.107:5140
 #EXTINF:-1 tvg-id="延边卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%BB%B6%E8%BE%B9%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",延边卫视SD
-http://171.213.199.44:8818/rtp/239.94.2.213:5140
+http://118.112.61.53:6066/rtp/239.94.2.213:5140
 #EXTINF:-1 tvg-id="金鹰卡通SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9ASD.png" group-title="四川电信",金鹰卡通SD
-http://171.213.199.44:8818/rtp/239.94.1.30:5140
+http://118.112.61.53:6066/rtp/239.94.1.30:5140
 #EXTINF:-1 tvg-id="金鹰卡通SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9ASD.png" group-title="四川电信",金鹰卡通SD
-http://171.213.199.44:8818/rtp/239.94.2.231:5140
+http://118.112.61.53:6066/rtp/239.94.2.231:5140
 #EXTINF:-1 tvg-id="嘉佳卡通SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9ASD.png" group-title="四川电信",嘉佳卡通SD
-http://171.213.199.44:8818/rtp/239.94.1.10:5140
+http://118.112.61.53:6066/rtp/239.94.1.10:5140
 #EXTINF:-1 tvg-id="嘉佳卡通SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9ASD.png" group-title="四川电信",嘉佳卡通SD
-http://171.213.199.44:8818/rtp/239.94.2.226:5140
+http://118.112.61.53:6066/rtp/239.94.2.226:5140
 #EXTINF:-1 tvg-id="卡酷少儿SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BFSD.png" group-title="四川电信",卡酷少儿SD
-http://171.213.199.44:8818/rtp/239.94.1.29:5140
+http://118.112.61.53:6066/rtp/239.94.1.29:5140
 #EXTINF:-1 tvg-id="卡酷少儿SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BFSD.png" group-title="四川电信",卡酷少儿SD
-http://171.213.199.44:8818/rtp/239.94.2.230:5140
+http://118.112.61.53:6066/rtp/239.94.2.230:5140
 #EXTINF:-1 tvg-id="山东教育卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",山东教育卫视SD
-http://171.213.199.44:8818/rtp/239.94.0.106:5140
+http://118.112.61.53:6066/rtp/239.94.0.106:5140
 #EXTINF:-1 tvg-id="山东教育卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",山东教育卫视SD
-http://171.213.199.44:8818/rtp/239.94.2.212:5140
+http://118.112.61.53:6066/rtp/239.94.2.212:5140
 #EXTINF:-1 tvg-id="星空卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%98%9F%E7%A9%BA%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",星空卫视SD
-http://171.213.199.44:8818/rtp/239.94.2.54:5140
+http://118.112.61.53:6066/rtp/239.94.2.54:5140
 #EXTINF:-1 tvg-id="星空卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%98%9F%E7%A9%BA%E5%8D%AB%E8%A7%86SD.png" group-title="四川电信",星空卫视SD
-http://171.213.199.44:8818/rtp/239.94.2.53:5140
+http://118.112.61.53:6066/rtp/239.94.2.53:5140
 #EXTINF:-1 tvg-id="ChannelVSD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ChannelVSD.png" group-title="四川电信",ChannelVSD
-http://171.213.199.44:8818/rtp/239.94.2.55:5140
+http://118.112.61.53:6066/rtp/239.94.2.55:5140
 #EXTINF:-1 tvg-id="ChannelVSD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ChannelVSD.png" group-title="四川电信",ChannelVSD
-http://171.213.199.44:8818/rtp/239.94.2.56:5140
+http://118.112.61.53:6066/rtp/239.94.2.56:5140
 #EXTINF:-1 tvg-id="北京纪实科教SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99SD.png" group-title="四川电信",北京纪实科教SD
-http://171.213.199.44:8818/rtp/239.94.2.215:5140
+http://118.112.61.53:6066/rtp/239.94.2.215:5140
 #EXTINF:-1 tvg-id="东方财经SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E6%96%B9%E8%B4%A2%E7%BB%8FSD.png" group-title="四川电信",东方财经SD
-http://171.213.199.44:8818/rtp/239.94.2.236:5140
+http://118.112.61.53:6066/rtp/239.94.2.236:5140
 #EXTINF:-1 tvg-id="四川文化旅游SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E6%96%87%E5%8C%96%E6%97%85%E6%B8%B8SD.png" group-title="四川电信",四川文化旅游SD
-http://171.213.199.44:8818/rtp/239.94.2.177:5140
+http://118.112.61.53:6066/rtp/239.94.2.177:5140
 #EXTINF:-1 tvg-id="四川经济SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E7%BB%8F%E6%B5%8ESD.png" group-title="四川电信",四川经济SD
-http://171.213.199.44:8818/rtp/239.94.2.176:5140
+http://118.112.61.53:6066/rtp/239.94.2.176:5140
 #EXTINF:-1 tvg-id="四川新闻SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E6%96%B0%E9%97%BBSD.png" group-title="四川电信",四川新闻SD
-http://171.213.199.44:8818/rtp/239.94.2.178:5140
+http://118.112.61.53:6066/rtp/239.94.2.178:5140
 #EXTINF:-1 tvg-id="四川影视文艺SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E5%BD%B1%E8%A7%86%E6%96%87%E8%89%BASD.png" group-title="四川电信",四川影视文艺SD
-http://171.213.199.44:8818/rtp/239.94.2.179:5140
+http://118.112.61.53:6066/rtp/239.94.2.179:5140
 #EXTINF:-1 tvg-id="四川星空购物SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E6%98%9F%E7%A9%BA%E8%B4%AD%E7%89%A9SD.png" group-title="四川电信",四川星空购物SD
-http://171.213.199.44:8818/rtp/239.94.2.180:5140
+http://118.112.61.53:6066/rtp/239.94.2.180:5140
 #EXTINF:-1 tvg-id="四川妇女儿童SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E5%A6%87%E5%A5%B3%E5%84%BF%E7%AB%A5SD.png" group-title="四川电信",四川妇女儿童SD
-http://171.213.199.44:8818/rtp/239.94.2.181:5140
+http://118.112.61.53:6066/rtp/239.94.2.181:5140
 #EXTINF:-1 tvg-id="四川科教SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E7%A7%91%E6%95%99SD.png" group-title="四川电信",四川科教SD
-http://171.213.199.44:8818/rtp/239.94.2.182:5140
+http://118.112.61.53:6066/rtp/239.94.2.182:5140
 #EXTINF:-1 tvg-id="四川乡村SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E4%B9%A1%E6%9D%91SD.png" group-title="四川电信",四川乡村SD
-http://171.213.199.44:8818/rtp/239.94.2.183:5140
+http://118.112.61.53:6066/rtp/239.94.2.183:5140
 #EXTINF:-1 tvg-id="峨眉电影SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B3%A8%E7%9C%89%E7%94%B5%E5%BD%B1SD.png" group-title="四川电信",峨眉电影SD
-http://171.213.199.44:8818/rtp/239.94.2.209:5140
+http://118.112.61.53:6066/rtp/239.94.2.209:5140
 #EXTINF:-1 tvg-id="成都综合SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%88%90%E9%83%BD%E7%BB%BC%E5%90%88SD.png" group-title="四川电信",成都综合SD
-http://171.213.199.44:8818/rtp/239.94.2.166:5140
+http://118.112.61.53:6066/rtp/239.94.2.166:5140
 #EXTINF:-1 tvg-id="成都经济SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%88%90%E9%83%BD%E7%BB%8F%E6%B5%8ESD.png" group-title="四川电信",成都经济SD
-http://171.213.199.44:8818/rtp/239.94.2.217:5140
+http://118.112.61.53:6066/rtp/239.94.2.217:5140
 #EXTINF:-1 tvg-id="成都都市SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%88%90%E9%83%BD%E9%83%BD%E5%B8%82SD.png" group-title="四川电信",成都都市SD
-http://171.213.199.44:8818/rtp/239.94.2.218:5140
+http://118.112.61.53:6066/rtp/239.94.2.218:5140
 #EXTINF:-1 tvg-id="成都影视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%88%90%E9%83%BD%E5%BD%B1%E8%A7%86SD.png" group-title="四川电信",成都影视SD
-http://171.213.199.44:8818/rtp/239.94.2.219:5140
+http://118.112.61.53:6066/rtp/239.94.2.219:5140
 #EXTINF:-1 tvg-id="成都公共SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%88%90%E9%83%BD%E5%85%AC%E5%85%B1SD.png" group-title="四川电信",成都公共SD
-http://171.213.199.44:8818/rtp/239.94.2.220:5140
+http://118.112.61.53:6066/rtp/239.94.2.220:5140
 #EXTINF:-1 tvg-id="成都少儿SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%88%90%E9%83%BD%E5%B0%91%E5%84%BFSD.png" group-title="四川电信",成都少儿SD
-http://171.213.199.44:8818/rtp/239.94.2.221:5140
+http://118.112.61.53:6066/rtp/239.94.2.221:5140
 #EXTINF:-1 tvg-id="成都蓉城先锋SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%88%90%E9%83%BD%E8%93%89%E5%9F%8E%E5%85%88%E9%94%8BSD.png" group-title="四川电信",成都蓉城先锋SD
-http://171.213.199.44:8818/rtp/239.94.2.222:5140
+http://118.112.61.53:6066/rtp/239.94.2.222:5140
 #EXTINF:-1 tvg-id="优漫卡通SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9ASD.png" group-title="四川电信",优漫卡通SD
-http://171.213.199.44:8818/rtp/239.94.1.31:5140
+http://118.112.61.53:6066/rtp/239.94.1.31:5140
 #EXTINF:-1 tvg-id="优漫卡通SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9ASD.png" group-title="四川电信",优漫卡通SD
-http://171.213.199.44:8818/rtp/239.94.2.232:5140
+http://118.112.61.53:6066/rtp/239.94.2.232:5140
 #EXTINF:-1 tvg-id="财富天下SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8BSD.png" group-title="四川电信",财富天下SD
-http://171.213.199.44:8818/rtp/239.94.2.234:5140
+http://118.112.61.53:6066/rtp/239.94.2.234:5140
 #EXTINF:-1 tvg-id="家庭理财SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%B6%E5%BA%AD%E7%90%86%E8%B4%A2SD.png" group-title="四川电信",家庭理财SD
-http://171.213.199.44:8818/rtp/239.94.1.50:5140
+http://118.112.61.53:6066/rtp/239.94.1.50:5140
 #EXTINF:-1 tvg-id="导视专区SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AF%BC%E8%A7%86%E4%B8%93%E5%8C%BASD.png" group-title="四川电信",导视专区SD
-http://171.213.199.44:8818/rtp/239.94.1.55:5140
+http://118.112.61.53:6066/rtp/239.94.1.55:5140
 #EXTINF:-1 tvg-id="未知节目SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%9C%AA%E7%9F%A5%E8%8A%82%E7%9B%AESD.png" group-title="四川电信",未知节目SD
-http://171.213.199.44:8818/rtp/239.94.2.3:5140
+http://118.112.61.53:6066/rtp/239.94.2.3:5140
 #EXTINF:-1 tvg-id="未知节目SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%9C%AA%E7%9F%A5%E8%8A%82%E7%9B%AESD.png" group-title="四川电信",未知节目SD
-http://171.213.199.44:8818/rtp/239.94.2.5:5140
+http://118.112.61.53:6066/rtp/239.94.2.5:5140
