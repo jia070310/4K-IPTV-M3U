@@ -1,657 +1,657 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
 #EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="湖南电信",CCTV1
-http://175.0.69.213:9999/rtp/239.76.253.151:9000
+http://61.187.148.168:4022/rtp/239.76.253.151:9000
 #EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="湖南电信",CCTV1
-http://175.0.69.213:9999/rtp/239.76.246.151:1234
+http://61.187.148.168:4022/rtp/239.76.246.151:1234
 #EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="湖南电信",CCTV2
-http://175.0.69.213:9999/rtp/239.76.253.152:9000
+http://61.187.148.168:4022/rtp/239.76.253.152:9000
 #EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="湖南电信",CCTV2
-http://175.0.69.213:9999/rtp/239.76.246.152:1234
+http://61.187.148.168:4022/rtp/239.76.246.152:1234
 #EXTINF:-1 tvg-id="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png" group-title="湖南电信",CCTV3
-http://175.0.69.213:9999/rtp/239.76.253.153:9000
+http://61.187.148.168:4022/rtp/239.76.253.153:9000
 #EXTINF:-1 tvg-id="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png" group-title="湖南电信",CCTV3
-http://175.0.69.213:9999/rtp/239.76.246.153:1234
+http://61.187.148.168:4022/rtp/239.76.246.153:1234
 #EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="湖南电信",CCTV4
-http://175.0.69.213:9999/rtp/239.76.245.195:1234
+http://61.187.148.168:4022/rtp/239.76.245.195:1234
 #EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="湖南电信",CCTV4
-http://175.0.69.213:9999/rtp/239.76.246.154:1234
+http://61.187.148.168:4022/rtp/239.76.246.154:1234
 #EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="湖南电信",CCTV4
-http://175.0.69.213:9999/rtp/239.76.253.154:9000
+http://61.187.148.168:4022/rtp/239.76.253.154:9000
 #EXTINF:-1 tvg-id="CCTV4欧洲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4%E6%AC%A7%E6%B4%B2.png" group-title="湖南电信",CCTV4欧洲
-http://175.0.69.213:9999/rtp/239.76.246.95:1234
+http://61.187.148.168:4022/rtp/239.76.246.95:1234
 #EXTINF:-1 tvg-id="CCTV4欧洲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4%E6%AC%A7%E6%B4%B2.png" group-title="湖南电信",CCTV4欧洲
-http://175.0.69.213:9999/rtp/239.76.253.95:9000
+http://61.187.148.168:4022/rtp/239.76.253.95:9000
 #EXTINF:-1 tvg-id="CCTV4美洲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4%E7%BE%8E%E6%B4%B2.png" group-title="湖南电信",CCTV4美洲
-http://175.0.69.213:9999/rtp/239.76.253.96:9000
+http://61.187.148.168:4022/rtp/239.76.253.96:9000
 #EXTINF:-1 tvg-id="CCTV4美洲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4%E7%BE%8E%E6%B4%B2.png" group-title="湖南电信",CCTV4美洲
-http://175.0.69.213:9999/rtp/239.76.246.96:1234
+http://61.187.148.168:4022/rtp/239.76.246.96:1234
 #EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="湖南电信",CCTV5
-http://175.0.69.213:9999/rtp/239.76.253.155:9000
+http://61.187.148.168:4022/rtp/239.76.253.155:9000
 #EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="湖南电信",CCTV5
-http://175.0.69.213:9999/rtp/239.76.246.155:1234
+http://61.187.148.168:4022/rtp/239.76.246.155:1234
 #EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="湖南电信",CCTV5
-http://175.0.69.213:9999/rtp/239.76.254.214:9000
+http://61.187.148.168:4022/rtp/239.76.254.214:9000
 #EXTINF:-1 tvg-id="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5%2B.png" group-title="湖南电信",CCTV5+
-http://175.0.69.213:9999/rtp/239.76.246.168:1234
+http://61.187.148.168:4022/rtp/239.76.246.168:1234
 #EXTINF:-1 tvg-id="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5%2B.png" group-title="湖南电信",CCTV5+
-http://175.0.69.213:9999/rtp/239.76.254.215:9000
+http://61.187.148.168:4022/rtp/239.76.254.215:9000
 #EXTINF:-1 tvg-id="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="湖南电信",CCTV6
-http://175.0.69.213:9999/rtp/239.76.253.156:9000
+http://61.187.148.168:4022/rtp/239.76.253.156:9000
 #EXTINF:-1 tvg-id="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="湖南电信",CCTV6
-http://175.0.69.213:9999/rtp/239.76.246.156:1234
+http://61.187.148.168:4022/rtp/239.76.246.156:1234
 #EXTINF:-1 tvg-id="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="湖南电信",CCTV7
-http://175.0.69.213:9999/rtp/239.76.253.157:9000
+http://61.187.148.168:4022/rtp/239.76.253.157:9000
 #EXTINF:-1 tvg-id="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="湖南电信",CCTV7
-http://175.0.69.213:9999/rtp/239.76.246.157:1234
+http://61.187.148.168:4022/rtp/239.76.246.157:1234
 #EXTINF:-1 tvg-id="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="湖南电信",CCTV8
-http://175.0.69.213:9999/rtp/239.76.253.158:9000
+http://61.187.148.168:4022/rtp/239.76.253.158:9000
 #EXTINF:-1 tvg-id="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="湖南电信",CCTV8
-http://175.0.69.213:9999/rtp/239.76.246.158:1234
+http://61.187.148.168:4022/rtp/239.76.246.158:1234
 #EXTINF:-1 tvg-id="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="湖南电信",CCTV9
-http://175.0.69.213:9999/rtp/239.76.246.159:1234
+http://61.187.148.168:4022/rtp/239.76.246.159:1234
 #EXTINF:-1 tvg-id="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="湖南电信",CCTV9
-http://175.0.69.213:9999/rtp/239.76.253.159:9000
+http://61.187.148.168:4022/rtp/239.76.253.159:9000
 #EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="湖南电信",CCTV10
-http://175.0.69.213:9999/rtp/239.76.253.160:9000
+http://61.187.148.168:4022/rtp/239.76.253.160:9000
 #EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="湖南电信",CCTV10
-http://175.0.69.213:9999/rtp/239.76.246.160:1234
+http://61.187.148.168:4022/rtp/239.76.246.160:1234
 #EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="湖南电信",CCTV11
-http://175.0.69.213:9999/rtp/239.76.245.251:1234
+http://61.187.148.168:4022/rtp/239.76.245.251:1234
 #EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="湖南电信",CCTV11
-http://175.0.69.213:9999/rtp/239.76.252.251:9000
+http://61.187.148.168:4022/rtp/239.76.252.251:9000
 #EXTINF:-1 tvg-id="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="湖南电信",CCTV12
-http://175.0.69.213:9999/rtp/239.76.246.162:1234
+http://61.187.148.168:4022/rtp/239.76.246.162:1234
 #EXTINF:-1 tvg-id="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="湖南电信",CCTV12
-http://175.0.69.213:9999/rtp/239.76.253.162:9000
+http://61.187.148.168:4022/rtp/239.76.253.162:9000
 #EXTINF:-1 tvg-id="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="湖南电信",CCTV13
-http://175.0.69.213:9999/rtp/239.76.253.93:9000
+http://61.187.148.168:4022/rtp/239.76.253.93:9000
 #EXTINF:-1 tvg-id="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="湖南电信",CCTV13
-http://175.0.69.213:9999/rtp/239.76.246.93:1234
+http://61.187.148.168:4022/rtp/239.76.246.93:1234
 #EXTINF:-1 tvg-id="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png" group-title="湖南电信",CCTV14
-http://175.0.69.213:9999/rtp/239.76.246.164:1234
+http://61.187.148.168:4022/rtp/239.76.246.164:1234
 #EXTINF:-1 tvg-id="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png" group-title="湖南电信",CCTV14
-http://175.0.69.213:9999/rtp/239.76.253.164:9000
+http://61.187.148.168:4022/rtp/239.76.253.164:9000
 #EXTINF:-1 tvg-id="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="湖南电信",CCTV15
-http://175.0.69.213:9999/rtp/239.76.252.252:9000
+http://61.187.148.168:4022/rtp/239.76.252.252:9000
 #EXTINF:-1 tvg-id="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="湖南电信",CCTV15
-http://175.0.69.213:9999/rtp/239.76.245.252:1234
+http://61.187.148.168:4022/rtp/239.76.245.252:1234
 #EXTINF:-1 tvg-id="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="湖南电信",CCTV16
-http://175.0.69.213:9999/rtp/239.76.253.98:9000
+http://61.187.148.168:4022/rtp/239.76.253.98:9000
 #EXTINF:-1 tvg-id="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="湖南电信",CCTV16
-http://175.0.69.213:9999/rtp/239.76.246.98:1234
+http://61.187.148.168:4022/rtp/239.76.246.98:1234
 #EXTINF:-1 tvg-id="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="湖南电信",CCTV17
-http://175.0.69.213:9999/rtp/239.76.252.238:9000
+http://61.187.148.168:4022/rtp/239.76.252.238:9000
 #EXTINF:-1 tvg-id="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="湖南电信",CCTV17
-http://175.0.69.213:9999/rtp/239.76.245.238:1234
+http://61.187.148.168:4022/rtp/239.76.245.238:1234
 #EXTINF:-1 tvg-id="CETV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV1.png" group-title="湖南电信",CETV1
-http://175.0.69.213:9999/rtp/239.76.245.192:1234
+http://61.187.148.168:4022/rtp/239.76.245.192:1234
 #EXTINF:-1 tvg-id="CETV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV1.png" group-title="湖南电信",CETV1
-http://175.0.69.213:9999/rtp/239.76.252.192:9000
+http://61.187.148.168:4022/rtp/239.76.252.192:9000
 #EXTINF:-1 tvg-id="CETV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV4.png" group-title="湖南电信",CETV4
-http://175.0.69.213:9999/rtp/239.76.252.254:9000
+http://61.187.148.168:4022/rtp/239.76.252.254:9000
 #EXTINF:-1 tvg-id="CETV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV4.png" group-title="湖南电信",CETV4
-http://175.0.69.213:9999/rtp/239.76.245.254:1234
+http://61.187.148.168:4022/rtp/239.76.245.254:1234
 #EXTINF:-1 tvg-id="CETV早期教育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV%E6%97%A9%E6%9C%9F%E6%95%99%E8%82%B2.png" group-title="湖南电信",CETV早期教育
-http://175.0.69.213:9999/rtp/239.76.254.202:9000
+http://61.187.148.168:4022/rtp/239.76.254.202:9000
 #EXTINF:-1 tvg-id="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="湖南电信",CCTV4K
-http://175.0.69.213:9999/rtp/239.76.254.64:9000
+http://61.187.148.168:4022/rtp/239.76.254.64:9000
 #EXTINF:-1 tvg-id="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="湖南电信",CCTV4K
-http://175.0.69.213:9999/rtp/239.76.254.101:9000
+http://61.187.148.168:4022/rtp/239.76.254.101:9000
 #EXTINF:-1 tvg-id="CCTV16 4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16%204K.png" group-title="湖南电信",CCTV16 4K
-http://175.0.69.213:9999/rtp/239.76.254.200:9000
+http://61.187.148.168:4022/rtp/239.76.254.200:9000
 #EXTINF:-1 tvg-id="CCTV16 4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16%204K.png" group-title="湖南电信",CCTV16 4K
-http://175.0.69.213:9999/rtp/239.76.253.230:9000
+http://61.187.148.168:4022/rtp/239.76.253.230:9000
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%864K.png" group-title="湖南电信",北京卫视4K
-http://175.0.69.213:9999/rtp/239.76.253.150:9000
+http://61.187.148.168:4022/rtp/239.76.253.150:9000
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%864K.png" group-title="湖南电信",北京卫视4K
-http://175.0.69.213:9999/rtp/239.76.246.150:1234
+http://61.187.148.168:4022/rtp/239.76.246.150:1234
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%864K.png" group-title="湖南电信",北京卫视4K
-http://175.0.69.213:9999/rtp/239.76.246.246:1234
+http://61.187.148.168:4022/rtp/239.76.246.246:1234
 #EXTINF:-1 tvg-id="东方卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K.png" group-title="湖南电信",东方卫视4K
-http://175.0.69.213:9999/rtp/239.76.254.224:9000
+http://61.187.148.168:4022/rtp/239.76.254.224:9000
 #EXTINF:-1 tvg-id="东方卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K.png" group-title="湖南电信",东方卫视4K
-http://175.0.69.213:9999/rtp/239.76.254.226:9000
+http://61.187.148.168:4022/rtp/239.76.254.226:9000
 #EXTINF:-1 tvg-id="广东卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%864K.png" group-title="湖南电信",广东卫视4K
-http://175.0.69.213:9999/rtp/239.76.254.138:9000
+http://61.187.148.168:4022/rtp/239.76.254.138:9000
 #EXTINF:-1 tvg-id="深圳卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%864K.png" group-title="湖南电信",深圳卫视4K
-http://175.0.69.213:9999/rtp/239.76.254.137:9000
+http://61.187.148.168:4022/rtp/239.76.254.137:9000
 #EXTINF:-1 tvg-id="湖南卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K.png" group-title="湖南电信",湖南卫视4K
-http://175.0.69.213:9999/rtp/239.76.253.214:9000
+http://61.187.148.168:4022/rtp/239.76.253.214:9000
 #EXTINF:-1 tvg-id="湖南卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K.png" group-title="湖南电信",湖南卫视4K
-http://175.0.69.213:9999/rtp/239.76.253.100:9000
+http://61.187.148.168:4022/rtp/239.76.253.100:9000
 #EXTINF:-1 tvg-id="湖南卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K.png" group-title="湖南电信",湖南卫视4K
-http://175.0.69.213:9999/rtp/239.76.253.224:9000
+http://61.187.148.168:4022/rtp/239.76.253.224:9000
 #EXTINF:-1 tvg-id="湖南卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K.png" group-title="湖南电信",湖南卫视4K
-http://175.0.69.213:9999/rtp/239.76.246.100:1234
+http://61.187.148.168:4022/rtp/239.76.246.100:1234
 #EXTINF:-1 tvg-id="湖南卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K.png" group-title="湖南电信",湖南卫视4K
-http://175.0.69.213:9999/rtp/239.76.254.136:9000
+http://61.187.148.168:4022/rtp/239.76.254.136:9000
 #EXTINF:-1 tvg-id="湖南卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K.png" group-title="湖南电信",湖南卫视4K
-http://175.0.69.213:9999/rtp/239.76.246.224:1234
+http://61.187.148.168:4022/rtp/239.76.246.224:1234
 #EXTINF:-1 tvg-id="湖南卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K.png" group-title="湖南电信",湖南卫视4K
-http://175.0.69.213:9999/rtp/239.76.246.63:1234
+http://61.187.148.168:4022/rtp/239.76.246.63:1234
 #EXTINF:-1 tvg-id="湖南卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K.png" group-title="湖南电信",湖南卫视4K
-http://175.0.69.213:9999/rtp/239.76.253.62:9000
+http://61.187.148.168:4022/rtp/239.76.253.62:9000
 #EXTINF:-1 tvg-id="山东卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%864K.png" group-title="湖南电信",山东卫视4K
-http://175.0.69.213:9999/rtp/239.76.254.228:9000
+http://61.187.148.168:4022/rtp/239.76.254.228:9000
 #EXTINF:-1 tvg-id="山东卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%864K.png" group-title="湖南电信",山东卫视4K
-http://175.0.69.213:9999/rtp/239.76.254.230:9000
+http://61.187.148.168:4022/rtp/239.76.254.230:9000
 #EXTINF:-1 tvg-id="四川卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%864K.png" group-title="湖南电信",四川卫视4K
-http://175.0.69.213:9999/rtp/239.76.254.234:9000
+http://61.187.148.168:4022/rtp/239.76.254.234:9000
 #EXTINF:-1 tvg-id="四川卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%864K.png" group-title="湖南电信",四川卫视4K
-http://175.0.69.213:9999/rtp/239.76.254.232:9000
+http://61.187.148.168:4022/rtp/239.76.254.232:9000
 #EXTINF:-1 tvg-id="浙江卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K.png" group-title="湖南电信",浙江卫视4K
-http://175.0.69.213:9999/rtp/239.76.254.222:9000
+http://61.187.148.168:4022/rtp/239.76.254.222:9000
 #EXTINF:-1 tvg-id="浙江卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K.png" group-title="湖南电信",浙江卫视4K
-http://175.0.69.213:9999/rtp/239.76.254.220:9000
+http://61.187.148.168:4022/rtp/239.76.254.220:9000
 #EXTINF:-1 tvg-id="江苏卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%864K.png" group-title="湖南电信",江苏卫视4K
-http://175.0.69.213:9999/rtp/239.76.254.216:9000
+http://61.187.148.168:4022/rtp/239.76.254.216:9000
 #EXTINF:-1 tvg-id="江苏卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%864K.png" group-title="湖南电信",江苏卫视4K
-http://175.0.69.213:9999/rtp/239.76.254.218:9000
+http://61.187.148.168:4022/rtp/239.76.254.218:9000
 #EXTINF:-1 tvg-id="欢笑剧场4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA4K.png" group-title="湖南电信",欢笑剧场4K
-http://175.0.69.213:9999/rtp/239.76.254.66:9000
+http://61.187.148.168:4022/rtp/239.76.254.66:9000
 #EXTINF:-1 tvg-id="欢笑剧场4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA4K.png" group-title="湖南电信",欢笑剧场4K
-http://175.0.69.213:9999/rtp/239.76.253.43:9000
+http://61.187.148.168:4022/rtp/239.76.253.43:9000
 #EXTINF:-1 tvg-id="欢笑剧场4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA4K.png" group-title="湖南电信",欢笑剧场4K
-http://175.0.69.213:9999/rtp/239.76.246.43:1234
+http://61.187.148.168:4022/rtp/239.76.246.43:1234
 #EXTINF:-1 tvg-id="信源检修4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E4%BF%AE4K.png" group-title="湖南电信",信源检修4K
-http://175.0.69.213:9999/rtp/239.76.254.2:9000
+http://61.187.148.168:4022/rtp/239.76.254.2:9000
 #EXTINF:-1 tvg-id="信源检修4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E4%BF%AE4K.png" group-title="湖南电信",信源检修4K
-http://175.0.69.213:9999/rtp/239.76.254.3:9000
+http://61.187.148.168:4022/rtp/239.76.254.3:9000
 #EXTINF:-1 tvg-id="信源检修4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E4%BF%AE4K.png" group-title="湖南电信",信源检修4K
-http://175.0.69.213:9999/rtp/239.76.254.4:9000
+http://61.187.148.168:4022/rtp/239.76.254.4:9000
 #EXTINF:-1 tvg-id="信源检修4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E4%BF%AE4K.png" group-title="湖南电信",信源检修4K
-http://175.0.69.213:9999/rtp/239.76.254.77:9000
+http://61.187.148.168:4022/rtp/239.76.254.77:9000
 #EXTINF:-1 tvg-id="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="湖南电信",CGTN
-http://175.0.69.213:9999/rtp/239.76.245.66:1234
+http://61.187.148.168:4022/rtp/239.76.245.66:1234
 #EXTINF:-1 tvg-id="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="湖南电信",CGTN
-http://175.0.69.213:9999/rtp/239.76.252.66:9000
+http://61.187.148.168:4022/rtp/239.76.252.66:9000
 #EXTINF:-1 tvg-id="CGTN纪录" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN%E7%BA%AA%E5%BD%95.png" group-title="湖南电信",CGTN纪录
-http://175.0.69.213:9999/rtp/239.76.245.67:1234
+http://61.187.148.168:4022/rtp/239.76.245.67:1234
 #EXTINF:-1 tvg-id="CGTN纪录" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN%E7%BA%AA%E5%BD%95.png" group-title="湖南电信",CGTN纪录
-http://175.0.69.213:9999/rtp/239.76.252.67:9000
+http://61.187.148.168:4022/rtp/239.76.252.67:9000
 #EXTINF:-1 tvg-id="CGTN阿语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN%E9%98%BF%E8%AF%AD.png" group-title="湖南电信",CGTN阿语
-http://175.0.69.213:9999/rtp/239.76.253.97:9000
+http://61.187.148.168:4022/rtp/239.76.253.97:9000
 #EXTINF:-1 tvg-id="CGTN阿语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN%E9%98%BF%E8%AF%AD.png" group-title="湖南电信",CGTN阿语
-http://175.0.69.213:9999/rtp/239.76.246.97:1234
+http://61.187.148.168:4022/rtp/239.76.246.97:1234
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN%E4%BF%84%E8%AF%AD.png" group-title="湖南电信",CGTN俄语
-http://175.0.69.213:9999/rtp/239.76.246.86:1234
+http://61.187.148.168:4022/rtp/239.76.246.86:1234
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN%E4%BF%84%E8%AF%AD.png" group-title="湖南电信",CGTN俄语
-http://175.0.69.213:9999/rtp/239.76.253.86:9000
+http://61.187.148.168:4022/rtp/239.76.253.86:9000
 #EXTINF:-1 tvg-id="CGTN西语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN%E8%A5%BF%E8%AF%AD.png" group-title="湖南电信",CGTN西语
-http://175.0.69.213:9999/rtp/239.76.253.88:9000
+http://61.187.148.168:4022/rtp/239.76.253.88:9000
 #EXTINF:-1 tvg-id="CGTN西语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN%E8%A5%BF%E8%AF%AD.png" group-title="湖南电信",CGTN西语
-http://175.0.69.213:9999/rtp/239.76.246.88:1234
+http://61.187.148.168:4022/rtp/239.76.246.88:1234
 #EXTINF:-1 tvg-id="CGTN法语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN%E6%B3%95%E8%AF%AD.png" group-title="湖南电信",CGTN法语
-http://175.0.69.213:9999/rtp/239.76.246.87:1234
+http://61.187.148.168:4022/rtp/239.76.246.87:1234
 #EXTINF:-1 tvg-id="CGTN法语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN%E6%B3%95%E8%AF%AD.png" group-title="湖南电信",CGTN法语
-http://175.0.69.213:9999/rtp/239.76.253.87:9000
+http://61.187.148.168:4022/rtp/239.76.253.87:9000
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png" group-title="湖南电信",CHC影迷电影
-http://175.0.69.213:9999/rtp/239.76.245.242:1234
+http://61.187.148.168:4022/rtp/239.76.245.242:1234
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png" group-title="湖南电信",CHC影迷电影
-http://175.0.69.213:9999/rtp/239.76.252.242:9000
+http://61.187.148.168:4022/rtp/239.76.252.242:9000
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2.png" group-title="湖南电信",CHC家庭影院
-http://175.0.69.213:9999/rtp/239.76.245.241:1234
+http://61.187.148.168:4022/rtp/239.76.245.241:1234
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2.png" group-title="湖南电信",CHC家庭影院
-http://175.0.69.213:9999/rtp/239.76.252.241:9000
+http://61.187.148.168:4022/rtp/239.76.252.241:9000
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png" group-title="湖南电信",CHC动作电影
-http://175.0.69.213:9999/rtp/239.76.252.243:9000
+http://61.187.148.168:4022/rtp/239.76.252.243:9000
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png" group-title="湖南电信",CHC动作电影
-http://175.0.69.213:9999/rtp/239.76.245.243:1234
+http://61.187.148.168:4022/rtp/239.76.245.243:1234
 #EXTINF:-1 tvg-id="第一剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%AC%AC%E4%B8%80%E5%89%A7%E5%9C%BA.png" group-title="湖南电信",第一剧场
-http://175.0.69.213:9999/rtp/239.76.254.49:9000
+http://61.187.148.168:4022/rtp/239.76.254.49:9000
 #EXTINF:-1 tvg-id="风云剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA.png" group-title="湖南电信",风云剧场
-http://175.0.69.213:9999/rtp/239.76.254.50:9000
+http://61.187.148.168:4022/rtp/239.76.254.50:9000
 #EXTINF:-1 tvg-id="风云足球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83.png" group-title="湖南电信",风云足球
-http://175.0.69.213:9999/rtp/239.76.254.52:9000
+http://61.187.148.168:4022/rtp/239.76.254.52:9000
 #EXTINF:-1 tvg-id="风云音乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%A3%8E%E4%BA%91%E9%9F%B3%E4%B9%90.png" group-title="湖南电信",风云音乐
-http://175.0.69.213:9999/rtp/239.76.254.51:9000
+http://61.187.148.168:4022/rtp/239.76.254.51:9000
 #EXTINF:-1 tvg-id="世界地理" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86.png" group-title="湖南电信",世界地理
-http://175.0.69.213:9999/rtp/239.76.254.57:9000
+http://61.187.148.168:4022/rtp/239.76.254.57:9000
 #EXTINF:-1 tvg-id="电视指南" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%B5%E8%A7%86%E6%8C%87%E5%8D%97.png" group-title="湖南电信",电视指南
-http://175.0.69.213:9999/rtp/239.76.254.61:9000
+http://61.187.148.168:4022/rtp/239.76.254.61:9000
 #EXTINF:-1 tvg-id="怀旧剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA.png" group-title="湖南电信",怀旧剧场
-http://175.0.69.213:9999/rtp/239.76.254.53:9000
+http://61.187.148.168:4022/rtp/239.76.254.53:9000
 #EXTINF:-1 tvg-id="兵器科技" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%85%B5%E5%99%A8%E7%A7%91%E6%8A%80.png" group-title="湖南电信",兵器科技
-http://175.0.69.213:9999/rtp/239.76.254.59:9000
+http://61.187.148.168:4022/rtp/239.76.254.59:9000
 #EXTINF:-1 tvg-id="女性时尚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A5%B3%E6%80%A7%E6%97%B6%E5%B0%9A.png" group-title="湖南电信",女性时尚
-http://175.0.69.213:9999/rtp/239.76.254.55:9000
+http://61.187.148.168:4022/rtp/239.76.254.55:9000
 #EXTINF:-1 tvg-id="高尔夫网球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%AB%98%E5%B0%94%E5%A4%AB%E7%BD%91%E7%90%83.png" group-title="湖南电信",高尔夫网球
-http://175.0.69.213:9999/rtp/239.76.254.62:9000
+http://61.187.148.168:4022/rtp/239.76.254.62:9000
 #EXTINF:-1 tvg-id="央视台球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83.png" group-title="湖南电信",央视台球
-http://175.0.69.213:9999/rtp/239.76.254.58:9000
+http://61.187.148.168:4022/rtp/239.76.254.58:9000
 #EXTINF:-1 tvg-id="央视文化精品" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%AE%E8%A7%86%E6%96%87%E5%8C%96%E7%B2%BE%E5%93%81.png" group-title="湖南电信",央视文化精品
-http://175.0.69.213:9999/rtp/239.76.254.56:9000
+http://61.187.148.168:4022/rtp/239.76.254.56:9000
 #EXTINF:-1 tvg-id="梨园频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%A2%A8%E5%9B%AD%E9%A2%91%E9%81%93.png" group-title="湖南电信",梨园频道
-http://175.0.69.213:9999/rtp/239.76.245.179:1234
+http://61.187.148.168:4022/rtp/239.76.245.179:1234
 #EXTINF:-1 tvg-id="梨园频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%A2%A8%E5%9B%AD%E9%A2%91%E9%81%93.png" group-title="湖南电信",梨园频道
-http://175.0.69.213:9999/rtp/239.76.252.179:9000
+http://61.187.148.168:4022/rtp/239.76.252.179:9000
 #EXTINF:-1 tvg-id="天元围棋" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E5%85%83%E5%9B%B4%E6%A3%8B.png" group-title="湖南电信",天元围棋
-http://175.0.69.213:9999/rtp/239.76.246.2:1234
+http://61.187.148.168:4022/rtp/239.76.246.2:1234
 #EXTINF:-1 tvg-id="天元围棋" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E5%85%83%E5%9B%B4%E6%A3%8B.png" group-title="湖南电信",天元围棋
-http://175.0.69.213:9999/rtp/239.76.253.2:9000
+http://61.187.148.168:4022/rtp/239.76.253.2:9000
 #EXTINF:-1 tvg-id="卫生健康" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8D%AB%E7%94%9F%E5%81%A5%E5%BA%B7.png" group-title="湖南电信",卫生健康
-http://175.0.69.213:9999/rtp/239.76.246.247:1234
+http://61.187.148.168:4022/rtp/239.76.246.247:1234
 #EXTINF:-1 tvg-id="法治天地" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B3%95%E6%B2%BB%E5%A4%A9%E5%9C%B0.png" group-title="湖南电信",法治天地
-http://175.0.69.213:9999/rtp/239.76.254.67:9000
+http://61.187.148.168:4022/rtp/239.76.254.67:9000
 #EXTINF:-1 tvg-id="游戏风云" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B8%B8%E6%88%8F%E9%A3%8E%E4%BA%91.png" group-title="湖南电信",游戏风云
-http://175.0.69.213:9999/rtp/239.76.254.71:9000
+http://61.187.148.168:4022/rtp/239.76.254.71:9000
 #EXTINF:-1 tvg-id="茶频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%8C%B6%E9%A2%91%E9%81%93.png" group-title="湖南电信",茶频道
-http://175.0.69.213:9999/rtp/239.76.245.239:1234
+http://61.187.148.168:4022/rtp/239.76.245.239:1234
 #EXTINF:-1 tvg-id="茶频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%8C%B6%E9%A2%91%E9%81%93.png" group-title="湖南电信",茶频道
-http://175.0.69.213:9999/rtp/239.76.252.239:9000
+http://61.187.148.168:4022/rtp/239.76.252.239:9000
 #EXTINF:-1 tvg-id="金色学堂" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%91%E8%89%B2%E5%AD%A6%E5%A0%82.png" group-title="湖南电信",金色学堂
-http://175.0.69.213:9999/rtp/239.76.254.75:9000
+http://61.187.148.168:4022/rtp/239.76.254.75:9000
 #EXTINF:-1 tvg-id="武术世界" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%AD%A6%E6%9C%AF%E4%B8%96%E7%95%8C.png" group-title="湖南电信",武术世界
-http://175.0.69.213:9999/rtp/239.76.245.181:1234
+http://61.187.148.168:4022/rtp/239.76.245.181:1234
 #EXTINF:-1 tvg-id="武术世界" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%AD%A6%E6%9C%AF%E4%B8%96%E7%95%8C.png" group-title="湖南电信",武术世界
-http://175.0.69.213:9999/rtp/239.76.252.181:9000
+http://61.187.148.168:4022/rtp/239.76.252.181:9000
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%91%E9%B9%B0%E7%BA%AA%E5%AE%9E.png" group-title="湖南电信",金鹰纪实
-http://175.0.69.213:9999/rtp/239.76.253.110:9000
+http://61.187.148.168:4022/rtp/239.76.253.110:9000
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%91%E9%B9%B0%E7%BA%AA%E5%AE%9E.png" group-title="湖南电信",金鹰纪实
-http://175.0.69.213:9999/rtp/239.76.246.110:1234
+http://61.187.148.168:4022/rtp/239.76.246.110:1234
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%91%E9%B9%B0%E7%BA%AA%E5%AE%9E.png" group-title="湖南电信",金鹰纪实
-http://175.0.69.213:9999/rtp/239.76.252.122:9000
+http://61.187.148.168:4022/rtp/239.76.252.122:9000
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%91%E9%B9%B0%E7%BA%AA%E5%AE%9E.png" group-title="湖南电信",金鹰纪实
-http://175.0.69.213:9999/rtp/239.76.245.122:1234
+http://61.187.148.168:4022/rtp/239.76.245.122:1234
 #EXTINF:-1 tvg-id="无信号" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%97%A0%E4%BF%A1%E5%8F%B7.png" group-title="湖南电信",无信号
-http://175.0.69.213:9999/rtp/239.76.245.136:1234
+http://61.187.148.168:4022/rtp/239.76.245.136:1234
 #EXTINF:-1 tvg-id="文物宝库" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%96%87%E7%89%A9%E5%AE%9D%E5%BA%93.png" group-title="湖南电信",文物宝库
-http://175.0.69.213:9999/rtp/239.76.252.180:9000
+http://61.187.148.168:4022/rtp/239.76.252.180:9000
 #EXTINF:-1 tvg-id="文物宝库" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%96%87%E7%89%A9%E5%AE%9D%E5%BA%93.png" group-title="湖南电信",文物宝库
-http://175.0.69.213:9999/rtp/239.76.245.180:1234
+http://61.187.148.168:4022/rtp/239.76.245.180:1234
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93.png" group-title="湖南电信",快乐垂钓
-http://175.0.69.213:9999/rtp/239.76.246.5:1234
+http://61.187.148.168:4022/rtp/239.76.246.5:1234
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93.png" group-title="湖南电信",快乐垂钓
-http://175.0.69.213:9999/rtp/239.76.245.127:1234
+http://61.187.148.168:4022/rtp/239.76.245.127:1234
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93.png" group-title="湖南电信",快乐垂钓
-http://175.0.69.213:9999/rtp/239.76.252.127:9000
+http://61.187.148.168:4022/rtp/239.76.252.127:9000
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93.png" group-title="湖南电信",快乐垂钓
-http://175.0.69.213:9999/rtp/239.76.253.5:9000
+http://61.187.148.168:4022/rtp/239.76.253.5:9000
 #EXTINF:-1 tvg-id="生活时尚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9A.png" group-title="湖南电信",生活时尚
-http://175.0.69.213:9999/rtp/239.76.254.73:9000
+http://61.187.148.168:4022/rtp/239.76.254.73:9000
 #EXTINF:-1 tvg-id="中国天气" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%AD%E5%9B%BD%E5%A4%A9%E6%B0%94.png" group-title="湖南电信",中国天气
-http://175.0.69.213:9999/rtp/239.76.253.61:9000
+http://61.187.148.168:4022/rtp/239.76.253.61:9000
 #EXTINF:-1 tvg-id="中国天气" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%AD%E5%9B%BD%E5%A4%A9%E6%B0%94.png" group-title="湖南电信",中国天气
-http://175.0.69.213:9999/rtp/239.76.246.61:1234
+http://61.187.148.168:4022/rtp/239.76.246.61:1234
 #EXTINF:-1 tvg-id="乐游" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B9%90%E6%B8%B8.png" group-title="湖南电信",乐游
-http://175.0.69.213:9999/rtp/239.76.254.68:9000
+http://61.187.148.168:4022/rtp/239.76.254.68:9000
 #EXTINF:-1 tvg-id="动漫秀场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BA.png" group-title="湖南电信",动漫秀场
-http://175.0.69.213:9999/rtp/239.76.254.70:9000
+http://61.187.148.168:4022/rtp/239.76.254.70:9000
 #EXTINF:-1 tvg-id="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",重庆卫视
-http://175.0.69.213:9999/rtp/239.76.246.92:1234
+http://61.187.148.168:4022/rtp/239.76.246.92:1234
 #EXTINF:-1 tvg-id="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",重庆卫视
-http://175.0.69.213:9999/rtp/239.76.253.92:9000
+http://61.187.148.168:4022/rtp/239.76.253.92:9000
 #EXTINF:-1 tvg-id="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",江苏卫视
-http://175.0.69.213:9999/rtp/239.76.253.181:9000
+http://61.187.148.168:4022/rtp/239.76.253.181:9000
 #EXTINF:-1 tvg-id="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",江苏卫视
-http://175.0.69.213:9999/rtp/239.76.246.181:1234
+http://61.187.148.168:4022/rtp/239.76.246.181:1234
 #EXTINF:-1 tvg-id="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",浙江卫视
-http://175.0.69.213:9999/rtp/239.76.246.182:1234
+http://61.187.148.168:4022/rtp/239.76.246.182:1234
 #EXTINF:-1 tvg-id="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",浙江卫视
-http://175.0.69.213:9999/rtp/239.76.253.182:9000
+http://61.187.148.168:4022/rtp/239.76.253.182:9000
 #EXTINF:-1 tvg-id="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",东方卫视
-http://175.0.69.213:9999/rtp/239.76.246.186:1234
+http://61.187.148.168:4022/rtp/239.76.246.186:1234
 #EXTINF:-1 tvg-id="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",东方卫视
-http://175.0.69.213:9999/rtp/239.76.253.186:9000
+http://61.187.148.168:4022/rtp/239.76.253.186:9000
 #EXTINF:-1 tvg-id="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",深圳卫视
-http://175.0.69.213:9999/rtp/239.76.246.188:1234
+http://61.187.148.168:4022/rtp/239.76.246.188:1234
 #EXTINF:-1 tvg-id="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",深圳卫视
-http://175.0.69.213:9999/rtp/239.76.253.188:9000
+http://61.187.148.168:4022/rtp/239.76.253.188:9000
 #EXTINF:-1 tvg-id="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",北京卫视
-http://175.0.69.213:9999/rtp/239.76.246.184:1234
+http://61.187.148.168:4022/rtp/239.76.246.184:1234
 #EXTINF:-1 tvg-id="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",北京卫视
-http://175.0.69.213:9999/rtp/239.76.253.184:9000
+http://61.187.148.168:4022/rtp/239.76.253.184:9000
 #EXTINF:-1 tvg-id="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",山东卫视
-http://175.0.69.213:9999/rtp/239.76.253.195:9000
+http://61.187.148.168:4022/rtp/239.76.253.195:9000
 #EXTINF:-1 tvg-id="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",山东卫视
-http://175.0.69.213:9999/rtp/239.76.246.195:1234
+http://61.187.148.168:4022/rtp/239.76.246.195:1234
 #EXTINF:-1 tvg-id="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",天津卫视
-http://175.0.69.213:9999/rtp/239.76.253.185:9000
+http://61.187.148.168:4022/rtp/239.76.253.185:9000
 #EXTINF:-1 tvg-id="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",天津卫视
-http://175.0.69.213:9999/rtp/239.76.246.185:1234
+http://61.187.148.168:4022/rtp/239.76.246.185:1234
 #EXTINF:-1 tvg-id="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",贵州卫视
-http://175.0.69.213:9999/rtp/239.76.245.198:1234
+http://61.187.148.168:4022/rtp/239.76.245.198:1234
 #EXTINF:-1 tvg-id="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",贵州卫视
-http://175.0.69.213:9999/rtp/239.76.252.198:9000
+http://61.187.148.168:4022/rtp/239.76.252.198:9000
 #EXTINF:-1 tvg-id="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",四川卫视
-http://175.0.69.213:9999/rtp/239.76.253.91:9000
+http://61.187.148.168:4022/rtp/239.76.253.91:9000
 #EXTINF:-1 tvg-id="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",四川卫视
-http://175.0.69.213:9999/rtp/239.76.246.91:1234
+http://61.187.148.168:4022/rtp/239.76.246.91:1234
 #EXTINF:-1 tvg-id="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",云南卫视
-http://175.0.69.213:9999/rtp/239.76.254.60:9000
+http://61.187.148.168:4022/rtp/239.76.254.60:9000
 #EXTINF:-1 tvg-id="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",广西卫视
-http://175.0.69.213:9999/rtp/239.76.254.54:9000
+http://61.187.148.168:4022/rtp/239.76.254.54:9000
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",黑龙江卫视
-http://175.0.69.213:9999/rtp/239.76.253.200:9000
+http://61.187.148.168:4022/rtp/239.76.253.200:9000
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",黑龙江卫视
-http://175.0.69.213:9999/rtp/239.76.246.200:1234
+http://61.187.148.168:4022/rtp/239.76.246.200:1234
 #EXTINF:-1 tvg-id="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",安徽卫视
-http://175.0.69.213:9999/rtp/239.76.245.196:1234
+http://61.187.148.168:4022/rtp/239.76.245.196:1234
 #EXTINF:-1 tvg-id="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",安徽卫视
-http://175.0.69.213:9999/rtp/239.76.252.196:9000
+http://61.187.148.168:4022/rtp/239.76.252.196:9000
 #EXTINF:-1 tvg-id="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",江西卫视
-http://175.0.69.213:9999/rtp/239.76.252.225:9000
+http://61.187.148.168:4022/rtp/239.76.252.225:9000
 #EXTINF:-1 tvg-id="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",江西卫视
-http://175.0.69.213:9999/rtp/239.76.245.225:1234
+http://61.187.148.168:4022/rtp/239.76.245.225:1234
 #EXTINF:-1 tvg-id="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",湖北卫视
-http://175.0.69.213:9999/rtp/239.76.246.193:1234
+http://61.187.148.168:4022/rtp/239.76.246.193:1234
 #EXTINF:-1 tvg-id="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",湖北卫视
-http://175.0.69.213:9999/rtp/239.76.253.193:9000
+http://61.187.148.168:4022/rtp/239.76.253.193:9000
 #EXTINF:-1 tvg-id="旅游卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%97%85%E6%B8%B8%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",旅游卫视
-http://175.0.69.213:9999/rtp/239.76.253.203:9000
+http://61.187.148.168:4022/rtp/239.76.253.203:9000
 #EXTINF:-1 tvg-id="陕西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",陕西卫视
-http://175.0.69.213:9999/rtp/239.76.254.76:9000
+http://61.187.148.168:4022/rtp/239.76.254.76:9000
 #EXTINF:-1 tvg-id="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",东南卫视
-http://175.0.69.213:9999/rtp/239.76.245.190:1234
+http://61.187.148.168:4022/rtp/239.76.245.190:1234
 #EXTINF:-1 tvg-id="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",东南卫视
-http://175.0.69.213:9999/rtp/239.76.252.190:9000
+http://61.187.148.168:4022/rtp/239.76.252.190:9000
 #EXTINF:-1 tvg-id="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",吉林卫视
-http://175.0.69.213:9999/rtp/239.76.253.201:9000
+http://61.187.148.168:4022/rtp/239.76.253.201:9000
 #EXTINF:-1 tvg-id="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",吉林卫视
-http://175.0.69.213:9999/rtp/239.76.246.201:1234
+http://61.187.148.168:4022/rtp/239.76.246.201:1234
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",辽宁卫视
-http://175.0.69.213:9999/rtp/239.76.245.197:1234
+http://61.187.148.168:4022/rtp/239.76.245.197:1234
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",辽宁卫视
-http://175.0.69.213:9999/rtp/239.76.252.197:9000
+http://61.187.148.168:4022/rtp/239.76.252.197:9000
 #EXTINF:-1 tvg-id="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",湖南卫视
-http://175.0.69.213:9999/rtp/239.76.245.115:1234
+http://61.187.148.168:4022/rtp/239.76.245.115:1234
 #EXTINF:-1 tvg-id="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",湖南卫视
-http://175.0.69.213:9999/rtp/239.76.246.101:1234
+http://61.187.148.168:4022/rtp/239.76.246.101:1234
 #EXTINF:-1 tvg-id="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",湖南卫视
-http://175.0.69.213:9999/rtp/239.76.252.115:9000
+http://61.187.148.168:4022/rtp/239.76.252.115:9000
 #EXTINF:-1 tvg-id="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",湖南卫视
-http://175.0.69.213:9999/rtp/239.76.253.101:9000
+http://61.187.148.168:4022/rtp/239.76.253.101:9000
 #EXTINF:-1 tvg-id="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",广东卫视
-http://175.0.69.213:9999/rtp/239.76.252.189:9000
+http://61.187.148.168:4022/rtp/239.76.252.189:9000
 #EXTINF:-1 tvg-id="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",广东卫视
-http://175.0.69.213:9999/rtp/239.76.245.189:1234
+http://61.187.148.168:4022/rtp/239.76.245.189:1234
 #EXTINF:-1 tvg-id="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",河南卫视
-http://175.0.69.213:9999/rtp/239.76.253.202:9000
+http://61.187.148.168:4022/rtp/239.76.253.202:9000
 #EXTINF:-1 tvg-id="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",河南卫视
-http://175.0.69.213:9999/rtp/239.76.246.202:1234
+http://61.187.148.168:4022/rtp/239.76.246.202:1234
 #EXTINF:-1 tvg-id="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",河南卫视
-http://175.0.69.213:9999/rtp/239.76.246.203:1234
+http://61.187.148.168:4022/rtp/239.76.246.203:1234
 #EXTINF:-1 tvg-id="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",河北卫视
-http://175.0.69.213:9999/rtp/239.76.245.199:1234
+http://61.187.148.168:4022/rtp/239.76.245.199:1234
 #EXTINF:-1 tvg-id="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",河北卫视
-http://175.0.69.213:9999/rtp/239.76.252.199:9000
+http://61.187.148.168:4022/rtp/239.76.252.199:9000
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",宁夏卫视
-http://175.0.69.213:9999/rtp/239.76.252.107:9000
+http://61.187.148.168:4022/rtp/239.76.252.107:9000
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",宁夏卫视
-http://175.0.69.213:9999/rtp/239.76.245.107:1234
+http://61.187.148.168:4022/rtp/239.76.245.107:1234
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",甘肃卫视
-http://175.0.69.213:9999/rtp/239.76.253.94:9000
+http://61.187.148.168:4022/rtp/239.76.253.94:9000
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",甘肃卫视
-http://175.0.69.213:9999/rtp/239.76.246.94:1234
+http://61.187.148.168:4022/rtp/239.76.246.94:1234
 #EXTINF:-1 tvg-id="青海卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",青海卫视
-http://175.0.69.213:9999/rtp/239.76.254.132:9000
+http://61.187.148.168:4022/rtp/239.76.254.132:9000
 #EXTINF:-1 tvg-id="新疆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",新疆卫视
-http://175.0.69.213:9999/rtp/239.76.252.109:9000
+http://61.187.148.168:4022/rtp/239.76.252.109:9000
 #EXTINF:-1 tvg-id="新疆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",新疆卫视
-http://175.0.69.213:9999/rtp/239.76.245.109:1234
+http://61.187.148.168:4022/rtp/239.76.245.109:1234
 #EXTINF:-1 tvg-id="西藏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",西藏卫视
-http://175.0.69.213:9999/rtp/239.76.245.108:1234
+http://61.187.148.168:4022/rtp/239.76.245.108:1234
 #EXTINF:-1 tvg-id="西藏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",西藏卫视
-http://175.0.69.213:9999/rtp/239.76.252.108:9000
+http://61.187.148.168:4022/rtp/239.76.252.108:9000
 #EXTINF:-1 tvg-id="兵团卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",兵团卫视
-http://175.0.69.213:9999/rtp/239.76.252.232:9000
+http://61.187.148.168:4022/rtp/239.76.252.232:9000
 #EXTINF:-1 tvg-id="兵团卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",兵团卫视
-http://175.0.69.213:9999/rtp/239.76.245.232:1234
+http://61.187.148.168:4022/rtp/239.76.245.232:1234
 #EXTINF:-1 tvg-id="三沙卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",三沙卫视
-http://175.0.69.213:9999/rtp/239.76.246.74:1234
+http://61.187.148.168:4022/rtp/239.76.246.74:1234
 #EXTINF:-1 tvg-id="三沙卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86.png" group-title="湖南电信",三沙卫视
-http://175.0.69.213:9999/rtp/239.76.253.74:9000
+http://61.187.148.168:4022/rtp/239.76.253.74:9000
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A.png" group-title="湖南电信",金鹰卡通
-http://175.0.69.213:9999/rtp/239.76.245.120:1234
+http://61.187.148.168:4022/rtp/239.76.245.120:1234
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A.png" group-title="湖南电信",金鹰卡通
-http://175.0.69.213:9999/rtp/239.76.252.120:9000
+http://61.187.148.168:4022/rtp/239.76.252.120:9000
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A.png" group-title="湖南电信",金鹰卡通
-http://175.0.69.213:9999/rtp/239.76.246.107:1234
+http://61.187.148.168:4022/rtp/239.76.246.107:1234
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A.png" group-title="湖南电信",金鹰卡通
-http://175.0.69.213:9999/rtp/239.76.253.107:9000
+http://61.187.148.168:4022/rtp/239.76.253.107:9000
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png" group-title="湖南电信",卡酷少儿
-http://175.0.69.213:9999/rtp/239.76.254.81:9000
+http://61.187.148.168:4022/rtp/239.76.254.81:9000
 #EXTINF:-1 tvg-id="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png" group-title="湖南电信",凤凰中文
-http://175.0.69.213:9999/rtp/239.76.253.135:9000
+http://61.187.148.168:4022/rtp/239.76.253.135:9000
 #EXTINF:-1 tvg-id="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png" group-title="湖南电信",凤凰中文
-http://175.0.69.213:9999/rtp/239.76.246.134:1234
+http://61.187.148.168:4022/rtp/239.76.246.134:1234
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png" group-title="湖南电信",凤凰资讯
-http://175.0.69.213:9999/rtp/239.76.246.135:1234
+http://61.187.148.168:4022/rtp/239.76.246.135:1234
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png" group-title="湖南电信",凤凰资讯
-http://175.0.69.213:9999/rtp/239.76.253.134:9000
+http://61.187.148.168:4022/rtp/239.76.253.134:9000
 #EXTINF:-1 tvg-id="北京纪实科教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99.png" group-title="湖南电信",北京纪实科教
-http://175.0.69.213:9999/rtp/239.76.254.65:9000
+http://61.187.148.168:4022/rtp/239.76.254.65:9000
 #EXTINF:-1 tvg-id="东方财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E6%96%B9%E8%B4%A2%E7%BB%8F.png" group-title="湖南电信",东方财经
-http://175.0.69.213:9999/rtp/239.76.254.69:9000
+http://61.187.148.168:4022/rtp/239.76.254.69:9000
 #EXTINF:-1 tvg-id="都市剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%83%BD%E5%B8%82%E5%89%A7%E5%9C%BA.png" group-title="湖南电信",都市剧场
-http://175.0.69.213:9999/rtp/239.76.254.74:9000
+http://61.187.148.168:4022/rtp/239.76.254.74:9000
 #EXTINF:-1 tvg-id="湖南都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E9%83%BD%E5%B8%82.png" group-title="湖南电信",湖南都市
-http://175.0.69.213:9999/rtp/239.76.252.117:9000
+http://61.187.148.168:4022/rtp/239.76.252.117:9000
 #EXTINF:-1 tvg-id="湖南都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E9%83%BD%E5%B8%82.png" group-title="湖南电信",湖南都市
-http://175.0.69.213:9999/rtp/239.76.246.104:1234
+http://61.187.148.168:4022/rtp/239.76.246.104:1234
 #EXTINF:-1 tvg-id="湖南都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E9%83%BD%E5%B8%82.png" group-title="湖南电信",湖南都市
-http://175.0.69.213:9999/rtp/239.76.245.117:1234
+http://61.187.148.168:4022/rtp/239.76.245.117:1234
 #EXTINF:-1 tvg-id="湖南都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E9%83%BD%E5%B8%82.png" group-title="湖南电信",湖南都市
-http://175.0.69.213:9999/rtp/239.76.253.104:9000
+http://61.187.148.168:4022/rtp/239.76.253.104:9000
 #EXTINF:-1 tvg-id="湖南经视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E7%BB%8F%E8%A7%86.png" group-title="湖南电信",湖南经视
-http://175.0.69.213:9999/rtp/239.76.252.116:9000
+http://61.187.148.168:4022/rtp/239.76.252.116:9000
 #EXTINF:-1 tvg-id="湖南经视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E7%BB%8F%E8%A7%86.png" group-title="湖南电信",湖南经视
-http://175.0.69.213:9999/rtp/239.76.246.103:1234
+http://61.187.148.168:4022/rtp/239.76.246.103:1234
 #EXTINF:-1 tvg-id="湖南经视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E7%BB%8F%E8%A7%86.png" group-title="湖南电信",湖南经视
-http://175.0.69.213:9999/rtp/239.76.245.116:1234
+http://61.187.148.168:4022/rtp/239.76.245.116:1234
 #EXTINF:-1 tvg-id="湖南经视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E7%BB%8F%E8%A7%86.png" group-title="湖南电信",湖南经视
-http://175.0.69.213:9999/rtp/239.76.253.103:9000
+http://61.187.148.168:4022/rtp/239.76.253.103:9000
 #EXTINF:-1 tvg-id="湖南爱晚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E7%88%B1%E6%99%9A.png" group-title="湖南电信",湖南爱晚
-http://175.0.69.213:9999/rtp/239.76.246.109:1234
+http://61.187.148.168:4022/rtp/239.76.246.109:1234
 #EXTINF:-1 tvg-id="湖南爱晚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E7%88%B1%E6%99%9A.png" group-title="湖南电信",湖南爱晚
-http://175.0.69.213:9999/rtp/239.76.252.123:9000
+http://61.187.148.168:4022/rtp/239.76.252.123:9000
 #EXTINF:-1 tvg-id="湖南爱晚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E7%88%B1%E6%99%9A.png" group-title="湖南电信",湖南爱晚
-http://175.0.69.213:9999/rtp/239.76.245.123:1234
+http://61.187.148.168:4022/rtp/239.76.245.123:1234
 #EXTINF:-1 tvg-id="湖南爱晚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E7%88%B1%E6%99%9A.png" group-title="湖南电信",湖南爱晚
-http://175.0.69.213:9999/rtp/239.76.253.109:9000
+http://61.187.148.168:4022/rtp/239.76.253.109:9000
 #EXTINF:-1 tvg-id="湖南电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E7%94%B5%E5%BD%B1.png" group-title="湖南电信",湖南电影
-http://175.0.69.213:9999/rtp/239.76.252.119:9000
+http://61.187.148.168:4022/rtp/239.76.252.119:9000
 #EXTINF:-1 tvg-id="湖南电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E7%94%B5%E5%BD%B1.png" group-title="湖南电信",湖南电影
-http://175.0.69.213:9999/rtp/239.76.253.106:9000
+http://61.187.148.168:4022/rtp/239.76.253.106:9000
 #EXTINF:-1 tvg-id="湖南电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E7%94%B5%E5%BD%B1.png" group-title="湖南电信",湖南电影
-http://175.0.69.213:9999/rtp/239.76.245.119:1234
+http://61.187.148.168:4022/rtp/239.76.245.119:1234
 #EXTINF:-1 tvg-id="湖南电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E7%94%B5%E5%BD%B1.png" group-title="湖南电信",湖南电影
-http://175.0.69.213:9999/rtp/239.76.246.106:1234
+http://61.187.148.168:4022/rtp/239.76.246.106:1234
 #EXTINF:-1 tvg-id="湖南电视剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E7%94%B5%E8%A7%86%E5%89%A7.png" group-title="湖南电信",湖南电视剧
-http://175.0.69.213:9999/rtp/239.76.252.118:9000
+http://61.187.148.168:4022/rtp/239.76.252.118:9000
 #EXTINF:-1 tvg-id="湖南电视剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E7%94%B5%E8%A7%86%E5%89%A7.png" group-title="湖南电信",湖南电视剧
-http://175.0.69.213:9999/rtp/239.76.246.108:1234
+http://61.187.148.168:4022/rtp/239.76.246.108:1234
 #EXTINF:-1 tvg-id="湖南电视剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E7%94%B5%E8%A7%86%E5%89%A7.png" group-title="湖南电信",湖南电视剧
-http://175.0.69.213:9999/rtp/239.76.245.118:1234
+http://61.187.148.168:4022/rtp/239.76.245.118:1234
 #EXTINF:-1 tvg-id="湖南娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%A8%B1%E4%B9%90.png" group-title="湖南电信",湖南娱乐
-http://175.0.69.213:9999/rtp/239.76.253.105:9000
+http://61.187.148.168:4022/rtp/239.76.253.105:9000
 #EXTINF:-1 tvg-id="湖南娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%A8%B1%E4%B9%90.png" group-title="湖南电信",湖南娱乐
-http://175.0.69.213:9999/rtp/239.76.252.121:9000
+http://61.187.148.168:4022/rtp/239.76.252.121:9000
 #EXTINF:-1 tvg-id="湖南娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%A8%B1%E4%B9%90.png" group-title="湖南电信",湖南娱乐
-http://175.0.69.213:9999/rtp/239.76.246.105:1234
+http://61.187.148.168:4022/rtp/239.76.246.105:1234
 #EXTINF:-1 tvg-id="湖南娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%A8%B1%E4%B9%90.png" group-title="湖南电信",湖南娱乐
-http://175.0.69.213:9999/rtp/239.76.245.121:1234
+http://61.187.148.168:4022/rtp/239.76.245.121:1234
 #EXTINF:-1 tvg-id="湖南教育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E6%95%99%E8%82%B2.png" group-title="湖南电信",湖南教育
-http://175.0.69.213:9999/rtp/239.76.245.233:1234
+http://61.187.148.168:4022/rtp/239.76.245.233:1234
 #EXTINF:-1 tvg-id="湖南教育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E6%95%99%E8%82%B2.png" group-title="湖南电信",湖南教育
-http://175.0.69.213:9999/rtp/239.76.252.233:9000
+http://61.187.148.168:4022/rtp/239.76.252.233:9000
 #EXTINF:-1 tvg-id="湖南国际" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%9B%BD%E9%99%85.png" group-title="湖南电信",湖南国际
-http://175.0.69.213:9999/rtp/239.76.252.240:9000
+http://61.187.148.168:4022/rtp/239.76.252.240:9000
 #EXTINF:-1 tvg-id="湖南国际" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%9B%BD%E9%99%85.png" group-title="湖南电信",湖南国际
-http://175.0.69.213:9999/rtp/239.76.246.102:1234
+http://61.187.148.168:4022/rtp/239.76.246.102:1234
 #EXTINF:-1 tvg-id="湖南国际" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%9B%BD%E9%99%85.png" group-title="湖南电信",湖南国际
-http://175.0.69.213:9999/rtp/239.76.252.124:9000
+http://61.187.148.168:4022/rtp/239.76.252.124:9000
 #EXTINF:-1 tvg-id="湖南国际" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%9B%BD%E9%99%85.png" group-title="湖南电信",湖南国际
-http://175.0.69.213:9999/rtp/239.76.245.124:1234
+http://61.187.148.168:4022/rtp/239.76.245.124:1234
 #EXTINF:-1 tvg-id="湖南国际" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%9B%BD%E9%99%85.png" group-title="湖南电信",湖南国际
-http://175.0.69.213:9999/rtp/239.76.253.102:9000
+http://61.187.148.168:4022/rtp/239.76.253.102:9000
 #EXTINF:-1 tvg-id="长沙综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%95%BF%E6%B2%99%E7%BB%BC%E5%90%88.png" group-title="湖南电信",长沙综合
-http://175.0.69.213:9999/rtp/239.76.253.121:9000
+http://61.187.148.168:4022/rtp/239.76.253.121:9000
 #EXTINF:-1 tvg-id="长沙政法" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%95%BF%E6%B2%99%E6%94%BF%E6%B3%95.png" group-title="湖南电信",长沙政法
-http://175.0.69.213:9999/rtp/239.76.253.122:9000
+http://61.187.148.168:4022/rtp/239.76.253.122:9000
 #EXTINF:-1 tvg-id="长沙嘉丽购" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%95%BF%E6%B2%99%E5%98%89%E4%B8%BD%E8%B4%AD.png" group-title="湖南电信",长沙嘉丽购
-http://175.0.69.213:9999/rtp/239.76.246.245:1234
+http://61.187.148.168:4022/rtp/239.76.246.245:1234
 #EXTINF:-1 tvg-id="湘西文化旅游" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%98%E8%A5%BF%E6%96%87%E5%8C%96%E6%97%85%E6%B8%B8.png" group-title="湖南电信",湘西文化旅游
-http://175.0.69.213:9999/rtp/239.76.245.209:1234
+http://61.187.148.168:4022/rtp/239.76.245.209:1234
 #EXTINF:-1 tvg-id="湘西文化旅游" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%98%E8%A5%BF%E6%96%87%E5%8C%96%E6%97%85%E6%B8%B8.png" group-title="湖南电信",湘西文化旅游
-http://175.0.69.213:9999/rtp/239.76.252.209:9000
+http://61.187.148.168:4022/rtp/239.76.252.209:9000
 #EXTINF:-1 tvg-id="湘西综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%98%E8%A5%BF%E7%BB%BC%E5%90%88.png" group-title="湖南电信",湘西综合
-http://175.0.69.213:9999/rtp/239.76.245.208:1234
+http://61.187.148.168:4022/rtp/239.76.245.208:1234
 #EXTINF:-1 tvg-id="湘西综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%98%E8%A5%BF%E7%BB%BC%E5%90%88.png" group-title="湖南电信",湘西综合
-http://175.0.69.213:9999/rtp/239.76.252.208:9000
+http://61.187.148.168:4022/rtp/239.76.252.208:9000
 #EXTINF:-1 tvg-id="张家界综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%BC%A0%E5%AE%B6%E7%95%8C%E7%BB%BC%E5%90%88.png" group-title="湖南电信",张家界综合
-http://175.0.69.213:9999/rtp/239.76.252.234:9000
+http://61.187.148.168:4022/rtp/239.76.252.234:9000
 #EXTINF:-1 tvg-id="张家界公共" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%BC%A0%E5%AE%B6%E7%95%8C%E5%85%AC%E5%85%B1.png" group-title="湖南电信",张家界公共
-http://175.0.69.213:9999/rtp/239.76.245.235:1234
+http://61.187.148.168:4022/rtp/239.76.245.235:1234
 #EXTINF:-1 tvg-id="张家界公共" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%BC%A0%E5%AE%B6%E7%95%8C%E5%85%AC%E5%85%B1.png" group-title="湖南电信",张家界公共
-http://175.0.69.213:9999/rtp/239.76.252.235:9000
+http://61.187.148.168:4022/rtp/239.76.252.235:9000
 #EXTINF:-1 tvg-id="衡阳综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%A1%A1%E9%98%B3%E7%BB%BC%E5%90%88.png" group-title="湖南电信",衡阳综合
-http://175.0.69.213:9999/rtp/239.76.248.13:1234
+http://61.187.148.168:4022/rtp/239.76.248.13:1234
 #EXTINF:-1 tvg-id="衡阳文旅法治" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%A1%A1%E9%98%B3%E6%96%87%E6%97%85%E6%B3%95%E6%B2%BB.png" group-title="湖南电信",衡阳文旅法治
-http://175.0.69.213:9999/rtp/239.76.248.14:1234
+http://61.187.148.168:4022/rtp/239.76.248.14:1234
 #EXTINF:-1 tvg-id="郴州综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%83%B4%E5%B7%9E%E7%BB%BC%E5%90%88.png" group-title="湖南电信",郴州综合
-http://175.0.69.213:9999/rtp/239.76.246.75:1234
+http://61.187.148.168:4022/rtp/239.76.246.75:1234
 #EXTINF:-1 tvg-id="郴州综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%83%B4%E5%B7%9E%E7%BB%BC%E5%90%88.png" group-title="湖南电信",郴州综合
-http://175.0.69.213:9999/rtp/239.76.253.75:9000
+http://61.187.148.168:4022/rtp/239.76.253.75:9000
 #EXTINF:-1 tvg-id="芷江电视台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%8A%B7%E6%B1%9F%E7%94%B5%E8%A7%86%E5%8F%B0.png" group-title="湖南电信",芷江电视台
-http://175.0.69.213:9999/rtp/239.76.253.67:9000
+http://61.187.148.168:4022/rtp/239.76.253.67:9000
 #EXTINF:-1 tvg-id="芷江电视台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%8A%B7%E6%B1%9F%E7%94%B5%E8%A7%86%E5%8F%B0.png" group-title="湖南电信",芷江电视台
-http://175.0.69.213:9999/rtp/239.76.246.64:1234
+http://61.187.148.168:4022/rtp/239.76.246.64:1234
 #EXTINF:-1 tvg-id="永州新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B0%B8%E5%B7%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png" group-title="湖南电信",永州新闻综合
-http://175.0.69.213:9999/rtp/239.76.248.23:1234
+http://61.187.148.168:4022/rtp/239.76.248.23:1234
 #EXTINF:-1 tvg-id="常德综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B8%B8%E5%BE%B7%E7%BB%BC%E5%90%88.png" group-title="湖南电信",常德综合
-http://175.0.69.213:9999/rtp/239.76.248.10:1234
+http://61.187.148.168:4022/rtp/239.76.248.10:1234
 #EXTINF:-1 tvg-id="快乐购" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%BF%AB%E4%B9%90%E8%B4%AD.png" group-title="湖南电信",快乐购
-http://175.0.69.213:9999/rtp/239.76.252.125:9000
+http://61.187.148.168:4022/rtp/239.76.252.125:9000
 #EXTINF:-1 tvg-id="快乐购" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%BF%AB%E4%B9%90%E8%B4%AD.png" group-title="湖南电信",快乐购
-http://175.0.69.213:9999/rtp/239.76.245.125:1234
+http://61.187.148.168:4022/rtp/239.76.245.125:1234
 #EXTINF:-1 tvg-id="快乐购" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%BF%AB%E4%B9%90%E8%B4%AD.png" group-title="湖南电信",快乐购
-http://175.0.69.213:9999/rtp/239.76.246.112:1234
+http://61.187.148.168:4022/rtp/239.76.246.112:1234
 #EXTINF:-1 tvg-id="临武综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%B4%E6%AD%A6%E7%BB%BC%E5%90%88.png" group-title="湖南电信",临武综合
-http://175.0.69.213:9999/rtp/239.76.246.66:1234
+http://61.187.148.168:4022/rtp/239.76.246.66:1234
 #EXTINF:-1 tvg-id="临武综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%B4%E6%AD%A6%E7%BB%BC%E5%90%88.png" group-title="湖南电信",临武综合
-http://175.0.69.213:9999/rtp/239.76.253.69:9000
+http://61.187.148.168:4022/rtp/239.76.253.69:9000
 #EXTINF:-1 tvg-id="桂东融媒" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%A1%82%E4%B8%9C%E8%9E%8D%E5%AA%92.png" group-title="湖南电信",桂东融媒
-http://175.0.69.213:9999/rtp/239.76.253.231:9000
+http://61.187.148.168:4022/rtp/239.76.253.231:9000
 #EXTINF:-1 tvg-id="桂东融媒" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%A1%82%E4%B8%9C%E8%9E%8D%E5%AA%92.png" group-title="湖南电信",桂东融媒
-http://175.0.69.213:9999/rtp/239.76.246.231:1234
+http://61.187.148.168:4022/rtp/239.76.246.231:1234
 #EXTINF:-1 tvg-id="湖南九画面" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E4%B9%9D%E7%94%BB%E9%9D%A2.png" group-title="湖南电信",湖南九画面
-http://175.0.69.213:9999/rtp/239.76.252.131:9000
+http://61.187.148.168:4022/rtp/239.76.252.131:9000
 #EXTINF:-1 tvg-id="湖南九画面" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E4%B9%9D%E7%94%BB%E9%9D%A2.png" group-title="湖南电信",湖南九画面
-http://175.0.69.213:9999/rtp/239.76.245.131:1234
+http://61.187.148.168:4022/rtp/239.76.245.131:1234
 #EXTINF:-1 tvg-id="优购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BC%98%E8%B4%AD%E7%89%A9.png" group-title="湖南电信",优购物
-http://175.0.69.213:9999/rtp/239.76.254.63:9000
+http://61.187.148.168:4022/rtp/239.76.254.63:9000
 #EXTINF:-1 tvg-id="优乐购" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BC%98%E4%B9%90%E8%B4%AD.png" group-title="湖南电信",优乐购
-http://175.0.69.213:9999/rtp/239.76.253.112:9000
+http://61.187.148.168:4022/rtp/239.76.253.112:9000
 #EXTINF:-1 tvg-id="信源检修" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E4%BF%AE.png" group-title="湖南电信",信源检修
-http://175.0.69.213:9999/rtp/239.76.254.118:9000
+http://61.187.148.168:4022/rtp/239.76.254.118:9000
 #EXTINF:-1 tvg-id="信源检修" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E4%BF%AE.png" group-title="湖南电信",信源检修
-http://175.0.69.213:9999/rtp/239.76.254.119:9000
+http://61.187.148.168:4022/rtp/239.76.254.119:9000
 #EXTINF:-1 tvg-id="信源检修" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E4%BF%AE.png" group-title="湖南电信",信源检修
-http://175.0.69.213:9999/rtp/239.76.254.120:9000
+http://61.187.148.168:4022/rtp/239.76.254.120:9000
 #EXTINF:-1 tvg-id="信源检修" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E4%BF%AE.png" group-title="湖南电信",信源检修
-http://175.0.69.213:9999/rtp/239.76.254.121:9000
+http://61.187.148.168:4022/rtp/239.76.254.121:9000
 #EXTINF:-1 tvg-id="信源检修" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E4%BF%AE.png" group-title="湖南电信",信源检修
-http://175.0.69.213:9999/rtp/239.76.254.122:9000
+http://61.187.148.168:4022/rtp/239.76.254.122:9000
 #EXTINF:-1 tvg-id="信源检修" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E4%BF%AE.png" group-title="湖南电信",信源检修
-http://175.0.69.213:9999/rtp/239.76.254.123:9000
+http://61.187.148.168:4022/rtp/239.76.254.123:9000
 #EXTINF:-1 tvg-id="信源检修" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E4%BF%AE.png" group-title="湖南电信",信源检修
-http://175.0.69.213:9999/rtp/239.76.254.124:9000
+http://61.187.148.168:4022/rtp/239.76.254.124:9000
 #EXTINF:-1 tvg-id="信源检修" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E4%BF%AE.png" group-title="湖南电信",信源检修
-http://175.0.69.213:9999/rtp/239.76.254.125:9000
+http://61.187.148.168:4022/rtp/239.76.254.125:9000
 #EXTINF:-1 tvg-id="信源检修" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E4%BF%AE.png" group-title="湖南电信",信源检修
-http://175.0.69.213:9999/rtp/239.76.254.126:9000
+http://61.187.148.168:4022/rtp/239.76.254.126:9000
 #EXTINF:-1 tvg-id="信源检修" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E4%BF%AE.png" group-title="湖南电信",信源检修
-http://175.0.69.213:9999/rtp/239.76.254.127:9000
+http://61.187.148.168:4022/rtp/239.76.254.127:9000
 #EXTINF:-1 tvg-id="信源检修" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E4%BF%AE.png" group-title="湖南电信",信源检修
-http://175.0.69.213:9999/rtp/239.76.254.128:9000
+http://61.187.148.168:4022/rtp/239.76.254.128:9000
 #EXTINF:-1 tvg-id="信源检修" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E4%BF%AE.png" group-title="湖南电信",信源检修
-http://175.0.69.213:9999/rtp/239.76.254.129:9000
+http://61.187.148.168:4022/rtp/239.76.254.129:9000
 #EXTINF:-1 tvg-id="信源检修" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E4%BF%AE.png" group-title="湖南电信",信源检修
-http://175.0.69.213:9999/rtp/239.76.254.130:9000
+http://61.187.148.168:4022/rtp/239.76.254.130:9000
 #EXTINF:-1 tvg-id="信源检修" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E4%BF%AE.png" group-title="湖南电信",信源检修
-http://175.0.69.213:9999/rtp/239.76.254.131:9000
+http://61.187.148.168:4022/rtp/239.76.254.131:9000
 #EXTINF:-1 tvg-id="信源检修" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E4%BF%AE.png" group-title="湖南电信",信源检修
-http://175.0.69.213:9999/rtp/239.76.254.133:9000
+http://61.187.148.168:4022/rtp/239.76.254.133:9000
 #EXTINF:-1 tvg-id="信源检修" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E4%BF%AE.png" group-title="湖南电信",信源检修
-http://175.0.69.213:9999/rtp/239.76.254.134:9000
+http://61.187.148.168:4022/rtp/239.76.254.134:9000
 #EXTINF:-1 tvg-id="信源检修" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E4%BF%AE.png" group-title="湖南电信",信源检修
-http://175.0.69.213:9999/rtp/239.76.254.135:9000
+http://61.187.148.168:4022/rtp/239.76.254.135:9000
 #EXTINF:-1 tvg-id="信源检修" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E4%BF%AE.png" group-title="湖南电信",信源检修
-http://175.0.69.213:9999/rtp/239.76.254.78:9000
+http://61.187.148.168:4022/rtp/239.76.254.78:9000
 #EXTINF:-1 tvg-id="信源检修" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E4%BF%AE.png" group-title="湖南电信",信源检修
-http://175.0.69.213:9999/rtp/239.76.254.79:9000
+http://61.187.148.168:4022/rtp/239.76.254.79:9000
 #EXTINF:-1 tvg-id="信源检修" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E4%BF%AE.png" group-title="湖南电信",信源检修
-http://175.0.69.213:9999/rtp/239.76.254.80:9000
+http://61.187.148.168:4022/rtp/239.76.254.80:9000
 #EXTINF:-1 tvg-id="信源检修" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E4%BF%AE.png" group-title="湖南电信",信源检修
-http://175.0.69.213:9999/rtp/239.76.254.82:9000
+http://61.187.148.168:4022/rtp/239.76.254.82:9000
 #EXTINF:-1 tvg-id="信源检修" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E4%BF%AE.png" group-title="湖南电信",信源检修
-http://175.0.69.213:9999/rtp/239.76.254.83:9000
+http://61.187.148.168:4022/rtp/239.76.254.83:9000
 #EXTINF:-1 tvg-id="信源检修" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E4%BF%AE.png" group-title="湖南电信",信源检修
-http://175.0.69.213:9999/rtp/239.76.254.84:9000
+http://61.187.148.168:4022/rtp/239.76.254.84:9000
 #EXTINF:-1 tvg-id="信源检修" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E4%BF%AE.png" group-title="湖南电信",信源检修
-http://175.0.69.213:9999/rtp/239.76.254.85:9000
+http://61.187.148.168:4022/rtp/239.76.254.85:9000
 #EXTINF:-1 tvg-id="信源检修" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E4%BF%AE.png" group-title="湖南电信",信源检修
-http://175.0.69.213:9999/rtp/239.76.254.86:9000
+http://61.187.148.168:4022/rtp/239.76.254.86:9000
 #EXTINF:-1 tvg-id="信源检修" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E4%BF%AE.png" group-title="湖南电信",信源检修
-http://175.0.69.213:9999/rtp/239.76.254.87:9000
+http://61.187.148.168:4022/rtp/239.76.254.87:9000
 #EXTINF:-1 tvg-id="信源检修" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E4%BF%AE.png" group-title="湖南电信",信源检修
-http://175.0.69.213:9999/rtp/239.76.254.88:9000
+http://61.187.148.168:4022/rtp/239.76.254.88:9000
 #EXTINF:-1 tvg-id="信源检修" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E4%BF%AE.png" group-title="湖南电信",信源检修
-http://175.0.69.213:9999/rtp/239.76.254.89:9000
+http://61.187.148.168:4022/rtp/239.76.254.89:9000
 #EXTINF:-1 tvg-id="信源检修" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E4%BF%AE.png" group-title="湖南电信",信源检修
-http://175.0.69.213:9999/rtp/239.76.254.90:9000
+http://61.187.148.168:4022/rtp/239.76.254.90:9000
 #EXTINF:-1 tvg-id="信源检修" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E4%BF%AE.png" group-title="湖南电信",信源检修
-http://175.0.69.213:9999/rtp/239.76.254.91:9000
+http://61.187.148.168:4022/rtp/239.76.254.91:9000
 #EXTINF:-1 tvg-id="信源检修" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E4%BF%AE.png" group-title="湖南电信",信源检修
-http://175.0.69.213:9999/rtp/239.76.254.92:9000
+http://61.187.148.168:4022/rtp/239.76.254.92:9000
 #EXTINF:-1 tvg-id="信源检修" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E4%BF%AE.png" group-title="湖南电信",信源检修
-http://175.0.69.213:9999/rtp/239.76.254.93:9000
+http://61.187.148.168:4022/rtp/239.76.254.93:9000
 #EXTINF:-1 tvg-id="信源检修" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E4%BF%AE.png" group-title="湖南电信",信源检修
-http://175.0.69.213:9999/rtp/239.76.254.94:9000
+http://61.187.148.168:4022/rtp/239.76.254.94:9000
 #EXTINF:-1 tvg-id="信源检修" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E4%BF%AE.png" group-title="湖南电信",信源检修
-http://175.0.69.213:9999/rtp/239.76.254.95:9000
+http://61.187.148.168:4022/rtp/239.76.254.95:9000
 #EXTINF:-1 tvg-id="信源检修" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E4%BF%AE.png" group-title="湖南电信",信源检修
-http://175.0.69.213:9999/rtp/239.76.254.96:9000
+http://61.187.148.168:4022/rtp/239.76.254.96:9000
 #EXTINF:-1 tvg-id="信源检修" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E4%BF%AE.png" group-title="湖南电信",信源检修
-http://175.0.69.213:9999/rtp/239.76.254.97:9000
+http://61.187.148.168:4022/rtp/239.76.254.97:9000
 #EXTINF:-1 tvg-id="信源检修" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E4%BF%AE.png" group-title="湖南电信",信源检修
-http://175.0.69.213:9999/rtp/239.76.254.98:9000
+http://61.187.148.168:4022/rtp/239.76.254.98:9000
 #EXTINF:-1 tvg-id="信源检修" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E4%BF%AE.png" group-title="湖南电信",信源检修
-http://175.0.69.213:9999/rtp/239.76.254.99:9000
+http://61.187.148.168:4022/rtp/239.76.254.99:9000
 #EXTINF:-1 tvg-id="信源检测" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E6%B5%8B.png" group-title="湖南电信",信源检测
-http://175.0.69.213:9999/rtp/239.76.245.185:1234
+http://61.187.148.168:4022/rtp/239.76.245.185:1234
 #EXTINF:-1 tvg-id="信源检测" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E6%B5%8B.png" group-title="湖南电信",信源检测
-http://175.0.69.213:9999/rtp/239.76.245.212:1234
+http://61.187.148.168:4022/rtp/239.76.245.212:1234
 #EXTINF:-1 tvg-id="信源检测" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E6%B5%8B.png" group-title="湖南电信",信源检测
-http://175.0.69.213:9999/rtp/239.76.245.227:1234
+http://61.187.148.168:4022/rtp/239.76.245.227:1234
 #EXTINF:-1 tvg-id="信源检测" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E6%B5%8B.png" group-title="湖南电信",信源检测
-http://175.0.69.213:9999/rtp/239.76.245.228:1234
+http://61.187.148.168:4022/rtp/239.76.245.228:1234
 #EXTINF:-1 tvg-id="信源检测" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E6%B5%8B.png" group-title="湖南电信",信源检测
-http://175.0.69.213:9999/rtp/239.76.245.229:1234
+http://61.187.148.168:4022/rtp/239.76.245.229:1234
 #EXTINF:-1 tvg-id="信源检测" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E6%B5%8B.png" group-title="湖南电信",信源检测
-http://175.0.69.213:9999/rtp/239.76.246.68:1234
+http://61.187.148.168:4022/rtp/239.76.246.68:1234
 #EXTINF:-1 tvg-id="信源检测" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E6%B5%8B.png" group-title="湖南电信",信源检测
-http://175.0.69.213:9999/rtp/239.76.252.212:9000
+http://61.187.148.168:4022/rtp/239.76.252.212:9000
 #EXTINF:-1 tvg-id="信源检测" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E6%B5%8B.png" group-title="湖南电信",信源检测
-http://175.0.69.213:9999/rtp/239.76.252.227:9000
+http://61.187.148.168:4022/rtp/239.76.252.227:9000
 #EXTINF:-1 tvg-id="信源检测" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E6%B5%8B.png" group-title="湖南电信",信源检测
-http://175.0.69.213:9999/rtp/239.76.252.228:9000
+http://61.187.148.168:4022/rtp/239.76.252.228:9000
 #EXTINF:-1 tvg-id="信源检测" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E6%B5%8B.png" group-title="湖南电信",信源检测
-http://175.0.69.213:9999/rtp/239.76.252.229:9000
+http://61.187.148.168:4022/rtp/239.76.252.229:9000
 #EXTINF:-1 tvg-id="信源检测" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%A1%E6%BA%90%E6%A3%80%E6%B5%8B.png" group-title="湖南电信",信源检测
-http://175.0.69.213:9999/rtp/239.76.253.71:9000
+http://61.187.148.168:4022/rtp/239.76.253.71:9000
 #EXTINF:-1 tvg-id="四海钓鱼" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC.png" group-title="湖南电信",四海钓鱼
-http://175.0.69.213:9999/rtp/239.76.246.4:1234
+http://61.187.148.168:4022/rtp/239.76.246.4:1234
 #EXTINF:-1 tvg-id="四海钓鱼" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC.png" group-title="湖南电信",四海钓鱼
-http://175.0.69.213:9999/rtp/239.76.253.4:9000
+http://61.187.148.168:4022/rtp/239.76.253.4:9000
 #EXTINF:-1 tvg-id="待确认" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%BE%85%E7%A1%AE%E8%AE%A4.png" group-title="湖南电信",待确认
-http://175.0.69.213:9999/rtp/239.76.245.234:1234
+http://61.187.148.168:4022/rtp/239.76.245.234:1234
 #EXTINF:-1 tvg-id="湖南IPTV宣传" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97IPTV%E5%AE%A3%E4%BC%A0.png" group-title="湖南电信",湖南IPTV宣传
-http://175.0.69.213:9999/rtp/239.76.245.151:1234
+http://61.187.148.168:4022/rtp/239.76.245.151:1234
 #EXTINF:-1 tvg-id="湖南IPTV电信新电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97IPTV%E7%94%B5%E4%BF%A1%E6%96%B0%E7%94%B5%E8%A7%86.png" group-title="湖南电信",湖南IPTV电信新电视
-http://175.0.69.213:9999/rtp/239.76.245.152:1234
+http://61.187.148.168:4022/rtp/239.76.245.152:1234
 #EXTINF:-1 tvg-id="湖南IPTV电信新电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97IPTV%E7%94%B5%E4%BF%A1%E6%96%B0%E7%94%B5%E8%A7%86.png" group-title="湖南电信",湖南IPTV电信新电视
-http://175.0.69.213:9999/rtp/239.76.245.153:1234
+http://61.187.148.168:4022/rtp/239.76.245.153:1234
 #EXTINF:-1 tvg-id="湖南IPTV电信新电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97IPTV%E7%94%B5%E4%BF%A1%E6%96%B0%E7%94%B5%E8%A7%86.png" group-title="湖南电信",湖南IPTV电信新电视
-http://175.0.69.213:9999/rtp/239.76.245.154:1234
+http://61.187.148.168:4022/rtp/239.76.245.154:1234
