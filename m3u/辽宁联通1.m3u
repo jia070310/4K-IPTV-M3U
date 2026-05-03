@@ -1,0 +1,267 @@
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png" group-title="辽宁联通",辽宁卫视
+http://175.172.170.43:8089/rtp/232.0.0.126:1234
+#EXTINF:-1 tvg-id="辽宁都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BE%BD%E5%AE%81%E9%83%BD%E5%B8%82.png" group-title="辽宁联通",辽宁都市
+http://175.172.170.43:8089/rtp/232.0.0.154:1234
+#EXTINF:-1 tvg-id="辽宁影视剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BE%BD%E5%AE%81%E5%BD%B1%E8%A7%86%E5%89%A7.png" group-title="辽宁联通",辽宁影视剧
+http://175.172.170.43:8089/rtp/232.0.0.25:1234
+#EXTINF:-1 tvg-id="辽宁体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BE%BD%E5%AE%81%E4%BD%93%E8%82%B2.png" group-title="辽宁联通",辽宁体育
+http://175.172.170.43:8089/rtp/232.0.0.164:1234
+#EXTINF:-1 tvg-id="辽宁生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BE%BD%E5%AE%81%E7%94%9F%E6%B4%BB.png" group-title="辽宁联通",辽宁生活
+http://175.172.170.43:8089/rtp/232.0.0.150:1234
+#EXTINF:-1 tvg-id="辽宁教育青少" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BE%BD%E5%AE%81%E6%95%99%E8%82%B2%E9%9D%92%E5%B0%91.png" group-title="辽宁联通",辽宁教育青少
+http://175.172.170.43:8089/rtp/232.0.0.241:1234
+#EXTINF:-1 tvg-id="辽宁北方" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BE%BD%E5%AE%81%E5%8C%97%E6%96%B9.png" group-title="辽宁联通",辽宁北方
+http://175.172.170.43:8089/rtp/232.0.0.151:1234
+#EXTINF:-1 tvg-id="辽宁宜佳购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BE%BD%E5%AE%81%E5%AE%9C%E4%BD%B3%E8%B4%AD%E7%89%A9.png" group-title="辽宁联通",辽宁宜佳购物
+http://175.172.170.43:8089/rtp/232.0.0.30:1234
+#EXTINF:-1 tvg-id="辽宁公共" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BE%BD%E5%AE%81%E5%85%AC%E5%85%B1.png" group-title="辽宁联通",辽宁公共
+http://175.172.170.43:8089/rtp/232.0.0.168:1234
+#EXTINF:-1 tvg-id="辽宁经济" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BE%BD%E5%AE%81%E7%BB%8F%E6%B5%8E.png" group-title="辽宁联通",辽宁经济
+http://175.172.170.43:8089/rtp/232.0.0.156:1234
+#EXTINF:-1 tvg-id="CCTV-1综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-1%E7%BB%BC%E5%90%88.png" group-title="辽宁联通",CCTV-1综合
+http://175.172.170.43:8089/rtp/232.0.0.27:1234
+#EXTINF:-1 tvg-id="CCTV-2财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-2%E8%B4%A2%E7%BB%8F.png" group-title="辽宁联通",CCTV-2财经
+http://175.172.170.43:8089/rtp/232.0.0.135:1234
+#EXTINF:-1 tvg-id="CCTV-3综艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-3%E7%BB%BC%E8%89%BA.png" group-title="辽宁联通",CCTV-3综艺
+http://175.172.170.43:8089/rtp/232.0.0.170:1234
+#EXTINF:-1 tvg-id="CCTV-4国际" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-4%E5%9B%BD%E9%99%85.png" group-title="辽宁联通",CCTV-4国际
+http://175.172.170.43:8089/rtp/232.0.0.201:1234
+#EXTINF:-1 tvg-id="CCTV-5体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-5%E4%BD%93%E8%82%B2.png" group-title="辽宁联通",CCTV-5体育
+http://175.172.170.43:8089/rtp/232.0.0.171:1234
+#EXTINF:-1 tvg-id="CCTV-6电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-6%E7%94%B5%E5%BD%B1.png" group-title="辽宁联通",CCTV-6电影
+http://175.172.170.43:8089/rtp/232.0.0.172:1234
+#EXTINF:-1 tvg-id="CCTV-7国防军事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-7%E5%9B%BD%E9%98%B2%E5%86%9B%E4%BA%8B.png" group-title="辽宁联通",CCTV-7国防军事
+http://175.172.170.43:8089/rtp/232.0.0.136:1234
+#EXTINF:-1 tvg-id="CCTV-8电视剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-8%E7%94%B5%E8%A7%86%E5%89%A7.png" group-title="辽宁联通",CCTV-8电视剧
+http://175.172.170.43:8089/rtp/232.0.0.173:1234
+#EXTINF:-1 tvg-id="CCTV-9纪录" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-9%E7%BA%AA%E5%BD%95.png" group-title="辽宁联通",CCTV-9纪录
+http://175.172.170.43:8089/rtp/232.0.0.137:1234
+#EXTINF:-1 tvg-id="CCTV-10科教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-10%E7%A7%91%E6%95%99.png" group-title="辽宁联通",CCTV-10科教
+http://175.172.170.43:8089/rtp/232.0.0.138:1234
+#EXTINF:-1 tvg-id="CCTV-11戏曲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-11%E6%88%8F%E6%9B%B2.png" group-title="辽宁联通",CCTV-11戏曲
+http://175.172.170.43:8089/rtp/232.0.0.178:1234
+#EXTINF:-1 tvg-id="CCTV-12社会与法" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-12%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95.png" group-title="辽宁联通",CCTV-12社会与法
+http://175.172.170.43:8089/rtp/232.0.0.139:1234
+#EXTINF:-1 tvg-id="CCTV-13新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-13%E6%96%B0%E9%97%BB.png" group-title="辽宁联通",CCTV-13新闻
+http://175.172.170.43:8089/rtp/232.0.0.15:1234
+#EXTINF:-1 tvg-id="CCTV-14少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-14%E5%B0%91%E5%84%BF.png" group-title="辽宁联通",CCTV-14少儿
+http://175.172.170.43:8089/rtp/232.0.0.140:1234
+#EXTINF:-1 tvg-id="CCTV-15音乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-15%E9%9F%B3%E4%B9%90.png" group-title="辽宁联通",CCTV-15音乐
+http://175.172.170.43:8089/rtp/232.0.0.179:1234
+#EXTINF:-1 tvg-id="CCTV-16奥林匹克" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-16%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B.png" group-title="辽宁联通",CCTV-16奥林匹克
+http://175.172.170.43:8089/rtp/232.0.0.182:1234
+#EXTINF:-1 tvg-id="CCTV-17高清" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-17%E9%AB%98%E6%B8%85.png" group-title="辽宁联通",CCTV-17高清
+http://175.172.170.43:8089/rtp/232.0.0.230:1234
+#EXTINF:-1 tvg-id="CCTV5+体育赛事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5%2B%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B.png" group-title="辽宁联通",CCTV5+体育赛事
+http://175.172.170.43:8089/rtp/232.0.0.93:1234
+#EXTINF:-1 tvg-id="CGTN-英语新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN-%E8%8B%B1%E8%AF%AD%E6%96%B0%E9%97%BB.png" group-title="辽宁联通",CGTN-英语新闻
+http://175.172.170.43:8089/rtp/232.0.0.188:1234
+#EXTINF:-1 tvg-id="CGTN-纪录(国际版)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN-%E7%BA%AA%E5%BD%95%28%E5%9B%BD%E9%99%85%E7%89%88%29.png" group-title="辽宁联通",CGTN-纪录(国际版)
+http://175.172.170.43:8089/rtp/232.0.0.198:1234
+#EXTINF:-1 tvg-id="CGTN-俄语国际" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN-%E4%BF%84%E8%AF%AD%E5%9B%BD%E9%99%85.png" group-title="辽宁联通",CGTN-俄语国际
+http://175.172.170.43:8089/rtp/232.0.0.28:1234
+#EXTINF:-1 tvg-id="CGTN-西班牙语国际" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN-%E8%A5%BF%E7%8F%AD%E7%89%99%E8%AF%AD%E5%9B%BD%E9%99%85.png" group-title="辽宁联通",CGTN-西班牙语国际
+http://175.172.170.43:8089/rtp/232.0.0.6:1234
+#EXTINF:-1 tvg-id="CGTN-阿拉伯语国际" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN-%E9%98%BF%E6%8B%89%E4%BC%AF%E8%AF%AD%E5%9B%BD%E9%99%85.png" group-title="辽宁联通",CGTN-阿拉伯语国际
+http://175.172.170.43:8089/rtp/232.0.0.43:1234
+#EXTINF:-1 tvg-id="CGTN-法语国际" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN-%E6%B3%95%E8%AF%AD%E5%9B%BD%E9%99%85.png" group-title="辽宁联通",CGTN-法语国际
+http://175.172.170.43:8089/rtp/232.0.0.8:1234
+#EXTINF:-1 tvg-id="移动电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%A7%86.png" group-title="辽宁联通",移动电视
+http://175.172.170.43:8089/rtp/232.0.0.165:1234
+#EXTINF:-1 tvg-id="家有购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%B6%E6%9C%89%E8%B4%AD%E7%89%A9.png" group-title="辽宁联通",家有购物
+http://175.172.170.43:8089/rtp/232.0.0.225:1234
+#EXTINF:-1 tvg-id="央广购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%AE%E5%B9%BF%E8%B4%AD%E7%89%A9.png" group-title="辽宁联通",央广购物
+http://175.172.170.43:8089/rtp/232.0.0.240:1234
+#EXTINF:-1 tvg-id="聚鲨环球精选" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%81%9A%E9%B2%A8%E7%8E%AF%E7%90%83%E7%B2%BE%E9%80%89.png" group-title="辽宁联通",聚鲨环球精选
+http://175.172.170.43:8089/rtp/232.0.0.207:1234
+#EXTINF:-1 tvg-id="沈阳新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%88%E9%98%B3%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png" group-title="辽宁联通",沈阳新闻综合
+http://175.172.170.43:8089/rtp/232.0.0.206:1234
+#EXTINF:-1 tvg-id="CCTV中视购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV%E4%B8%AD%E8%A7%86%E8%B4%AD%E7%89%A9.png" group-title="辽宁联通",CCTV中视购物
+http://175.172.170.43:8089/rtp/232.0.0.202:1234
+#EXTINF:-1 tvg-id="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png" group-title="辽宁联通",北京卫视
+http://175.172.170.43:8089/rtp/232.0.0.117:1234
+#EXTINF:-1 tvg-id="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png" group-title="辽宁联通",天津卫视
+http://175.172.170.43:8089/rtp/232.0.0.125:1234
+#EXTINF:-1 tvg-id="上海东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%8A%E6%B5%B7%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="辽宁联通",上海东方卫视
+http://175.172.170.43:8089/rtp/232.0.0.122:1234
+#EXTINF:-1 tvg-id="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="辽宁联通",浙江卫视
+http://175.172.170.43:8089/rtp/232.0.0.123:1234
+#EXTINF:-1 tvg-id="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="辽宁联通",江苏卫视
+http://175.172.170.43:8089/rtp/232.0.0.116:1234
+#EXTINF:-1 tvg-id="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="辽宁联通",安徽卫视
+http://175.172.170.43:8089/rtp/232.0.0.141:1234
+#EXTINF:-1 tvg-id="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="辽宁联通",湖南卫视
+http://175.172.170.43:8089/rtp/232.0.0.115:1234
+#EXTINF:-1 tvg-id="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png" group-title="辽宁联通",贵州卫视
+http://175.172.170.43:8089/rtp/232.0.0.181:1234
+#EXTINF:-1 tvg-id="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="辽宁联通",山东卫视
+http://175.172.170.43:8089/rtp/232.0.0.131:1234
+#EXTINF:-1 tvg-id="山西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="辽宁联通",山西卫视
+http://175.172.170.43:8089/rtp/232.0.0.86:1234
+#EXTINF:-1 tvg-id="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="辽宁联通",广东卫视
+http://175.172.170.43:8089/rtp/232.0.0.130:1234
+#EXTINF:-1 tvg-id="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="辽宁联通",广西卫视
+http://175.172.170.43:8089/rtp/232.0.0.76:1234
+#EXTINF:-1 tvg-id="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="辽宁联通",湖北卫视
+http://175.172.170.43:8089/rtp/232.0.0.124:1234
+#EXTINF:-1 tvg-id="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="辽宁联通",江西卫视
+http://175.172.170.43:8089/rtp/232.0.0.82:1234
+#EXTINF:-1 tvg-id="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="辽宁联通",河北卫视
+http://175.172.170.43:8089/rtp/232.0.0.49:1234
+#EXTINF:-1 tvg-id="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="辽宁联通",河南卫视
+http://175.172.170.43:8089/rtp/232.0.0.80:1234
+#EXTINF:-1 tvg-id="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png" group-title="辽宁联通",四川卫视
+http://175.172.170.43:8089/rtp/232.0.0.185:1234
+#EXTINF:-1 tvg-id="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86.png" group-title="辽宁联通",重庆卫视
+http://175.172.170.43:8089/rtp/232.0.0.186:1234
+#EXTINF:-1 tvg-id="福建东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%A6%8F%E5%BB%BA%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="辽宁联通",福建东南卫视
+http://175.172.170.43:8089/rtp/232.0.0.74:1234
+#EXTINF:-1 tvg-id="海南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="辽宁联通",海南卫视
+http://175.172.170.43:8089/rtp/232.0.0.26:1234
+#EXTINF:-1 tvg-id="青海卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png" group-title="辽宁联通",青海卫视
+http://175.172.170.43:8089/rtp/232.0.0.101:1234
+#EXTINF:-1 tvg-id="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="辽宁联通",云南卫视
+http://175.172.170.43:8089/rtp/232.0.0.40:1234
+#EXTINF:-1 tvg-id="陕西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="辽宁联通",陕西卫视
+http://175.172.170.43:8089/rtp/232.0.0.35:1234
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86.png" group-title="辽宁联通",内蒙古卫视
+http://175.172.170.43:8089/rtp/232.0.0.111:1234
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png" group-title="辽宁联通",宁夏卫视
+http://175.172.170.43:8089/rtp/232.0.0.34:1234
+#EXTINF:-1 tvg-id="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86.png" group-title="辽宁联通",吉林卫视
+http://175.172.170.43:8089/rtp/232.0.0.180:1234
+#EXTINF:-1 tvg-id="新疆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png" group-title="辽宁联通",新疆卫视
+http://175.172.170.43:8089/rtp/232.0.0.18:1234
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png" group-title="辽宁联通",甘肃卫视
+http://175.172.170.43:8089/rtp/232.0.0.50:1234
+#EXTINF:-1 tvg-id="西藏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png" group-title="辽宁联通",西藏卫视
+http://175.172.170.43:8089/rtp/232.0.0.114:1234
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="辽宁联通",黑龙江卫视
+http://175.172.170.43:8089/rtp/232.0.0.95:1234
+#EXTINF:-1 tvg-id="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png" group-title="辽宁联通",深圳卫视
+http://175.172.170.43:8089/rtp/232.0.0.110:1234
+#EXTINF:-1 tvg-id="厦门卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8E%A6%E9%97%A8%E5%8D%AB%E8%A7%86.png" group-title="辽宁联通",厦门卫视
+http://175.172.170.43:8089/rtp/232.0.0.160:1234
+#EXTINF:-1 tvg-id="中国教育1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21.png" group-title="辽宁联通",中国教育1
+http://175.172.170.43:8089/rtp/232.0.0.212:1234
+#EXTINF:-1 tvg-id="CETV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV2.png" group-title="辽宁联通",CETV2
+http://175.172.170.43:8089/rtp/232.0.0.238:1234
+#EXTINF:-1 tvg-id="CETV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV4.png" group-title="辽宁联通",CETV4
+http://175.172.170.43:8089/rtp/232.0.0.239:1234
+#EXTINF:-1 tvg-id="山东教育卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86.png" group-title="辽宁联通",山东教育卫视
+http://175.172.170.43:8089/rtp/232.0.0.169:1234
+#EXTINF:-1 tvg-id="兵团卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86.png" group-title="辽宁联通",兵团卫视
+http://175.172.170.43:8089/rtp/232.0.0.67:1234
+#EXTINF:-1 tvg-id="延边卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%BB%B6%E8%BE%B9%E5%8D%AB%E8%A7%86.png" group-title="辽宁联通",延边卫视
+http://175.172.170.43:8089/rtp/232.0.0.161:1234
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A.png" group-title="辽宁联通",金鹰卡通
+http://175.172.170.43:8089/rtp/232.0.0.90:1234
+#EXTINF:-1 tvg-id="炫动卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%82%AB%E5%8A%A8%E5%8D%A1%E9%80%9A.png" group-title="辽宁联通",炫动卡通
+http://175.172.170.43:8089/rtp/232.0.0.103:1234
+#EXTINF:-1 tvg-id="优漫卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A.png" group-title="辽宁联通",优漫卡通
+http://175.172.170.43:8089/rtp/232.0.0.159:1234
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A.png" group-title="辽宁联通",嘉佳卡通
+http://175.172.170.43:8089/rtp/232.0.0.157:1234
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png" group-title="辽宁联通",卡酷少儿
+http://175.172.170.43:8089/rtp/232.0.0.57:1234
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%91%E9%B9%B0%E7%BA%AA%E5%AE%9E.png" group-title="辽宁联通",金鹰纪实
+http://175.172.170.43:8089/rtp/232.0.0.163:1234
+#EXTINF:-1 tvg-id="北京冬奥纪实" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E7%BA%AA%E5%AE%9E.png" group-title="辽宁联通",北京冬奥纪实
+http://175.172.170.43:8089/rtp/232.0.0.162:1234
+#EXTINF:-1 tvg-id="上海纪实" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%8A%E6%B5%B7%E7%BA%AA%E5%AE%9E.png" group-title="辽宁联通",上海纪实
+http://175.172.170.43:8089/rtp/232.0.0.132:1234
+#EXTINF:-1 tvg-id="CCTV-4欧洲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-4%E6%AC%A7%E6%B4%B2.png" group-title="辽宁联通",CCTV-4欧洲
+http://175.172.170.43:8089/rtp/232.0.0.53:1234
+#EXTINF:-1 tvg-id="CCTV-4美洲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-4%E7%BE%8E%E6%B4%B2.png" group-title="辽宁联通",CCTV-4美洲
+http://175.172.170.43:8089/rtp/232.0.0.59:1234
+#EXTINF:-1 tvg-id="西藏卫视（藏语）" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86%EF%BC%88%E8%97%8F%E8%AF%AD%EF%BC%89.png" group-title="辽宁联通",西藏卫视（藏语）
+http://175.172.170.43:8089/rtp/232.0.0.104:1234
+#EXTINF:-1 tvg-id="安多藏语综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%89%E5%A4%9A%E8%97%8F%E8%AF%AD%E7%BB%BC%E5%90%88.png" group-title="辽宁联通",安多藏语综合
+http://175.172.170.43:8089/rtp/232.0.0.105:1234
+#EXTINF:-1 tvg-id="康巴藏语综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%BA%B7%E5%B7%B4%E8%97%8F%E8%AF%AD%E7%BB%BC%E5%90%88.png" group-title="辽宁联通",康巴藏语综合
+http://175.172.170.43:8089/rtp/232.0.0.109:1234
+#EXTINF:-1 tvg-id="电视指南" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%B5%E8%A7%86%E6%8C%87%E5%8D%97.png" group-title="辽宁联通",电视指南
+http://175.172.170.43:8089/rtp/232.0.0.91:1234
+#EXTINF:-1 tvg-id="证券服务" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%AF%81%E5%88%B8%E6%9C%8D%E5%8A%A1.png" group-title="辽宁联通",证券服务
+http://175.172.170.43:8089/rtp/232.0.0.152:1234
+#EXTINF:-1 tvg-id="新动漫" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%96%B0%E5%8A%A8%E6%BC%AB.png" group-title="辽宁联通",新动漫
+http://175.172.170.43:8089/rtp/232.0.0.65:1234
+#EXTINF:-1 tvg-id="家庭理财" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%B6%E5%BA%AD%E7%90%86%E8%B4%A2.png" group-title="辽宁联通",家庭理财
+http://175.172.170.43:8089/rtp/232.0.0.19:1234
+#EXTINF:-1 tvg-id="网络棋牌" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%BD%91%E7%BB%9C%E6%A3%8B%E7%89%8C.png" group-title="辽宁联通",网络棋牌
+http://175.172.170.43:8089/rtp/232.0.0.64:1234
+#EXTINF:-1 tvg-id="第一剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%AC%AC%E4%B8%80%E5%89%A7%E5%9C%BA.png" group-title="辽宁联通",第一剧场
+http://175.172.170.43:8089/rtp/232.0.0.29:1234
+#EXTINF:-1 tvg-id="怀旧剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA.png" group-title="辽宁联通",怀旧剧场
+http://175.172.170.43:8089/rtp/232.0.0.38:1234
+#EXTINF:-1 tvg-id="风云剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA.png" group-title="辽宁联通",风云剧场
+http://175.172.170.43:8089/rtp/232.0.0.45:1234
+#EXTINF:-1 tvg-id="风云足球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83.png" group-title="辽宁联通",风云足球
+http://175.172.170.43:8089/rtp/232.0.0.52:1234
+#EXTINF:-1 tvg-id="风云音乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%A3%8E%E4%BA%91%E9%9F%B3%E4%B9%90.png" group-title="辽宁联通",风云音乐
+http://175.172.170.43:8089/rtp/232.0.0.47:1234
+#EXTINF:-1 tvg-id="央视台球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83.png" group-title="辽宁联通",央视台球
+http://175.172.170.43:8089/rtp/232.0.0.60:1234
+#EXTINF:-1 tvg-id="央视文化精品" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%AE%E8%A7%86%E6%96%87%E5%8C%96%E7%B2%BE%E5%93%81.png" group-title="辽宁联通",央视文化精品
+http://175.172.170.43:8089/rtp/232.0.0.56:1234
+#EXTINF:-1 tvg-id="世界地理" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86.png" group-title="辽宁联通",世界地理
+http://175.172.170.43:8089/rtp/232.0.0.63:1234
+#EXTINF:-1 tvg-id="兵器科技" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%85%B5%E5%99%A8%E7%A7%91%E6%8A%80.png" group-title="辽宁联通",兵器科技
+http://175.172.170.43:8089/rtp/232.0.0.58:1234
+#EXTINF:-1 tvg-id="女性时尚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A5%B3%E6%80%A7%E6%97%B6%E5%B0%9A.png" group-title="辽宁联通",女性时尚
+http://175.172.170.43:8089/rtp/232.0.0.51:1234
+#EXTINF:-1 tvg-id="游戏竞技" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B8%B8%E6%88%8F%E7%AB%9E%E6%8A%80.png" group-title="辽宁联通",游戏竞技
+http://175.172.170.43:8089/rtp/232.0.0.112:1234
+#EXTINF:-1 tvg-id="电子体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%B5%E5%AD%90%E4%BD%93%E8%82%B2.png" group-title="辽宁联通",电子体育
+http://175.172.170.43:8089/rtp/232.0.0.24:1234
+#EXTINF:-1 tvg-id="4K欢笑剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/4K%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA.png" group-title="辽宁联通",4K欢笑剧场
+http://175.172.170.43:8089/rtp/232.0.0.98:1234
+#EXTINF:-1 tvg-id="生活时尚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9A.png" group-title="辽宁联通",生活时尚
+http://175.172.170.43:8089/rtp/232.0.0.107:1234
+#EXTINF:-1 tvg-id="乐游" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B9%90%E6%B8%B8.png" group-title="辽宁联通",乐游
+http://175.172.170.43:8089/rtp/232.0.0.108:1234
+#EXTINF:-1 tvg-id="游戏风云" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B8%B8%E6%88%8F%E9%A3%8E%E4%BA%91.png" group-title="辽宁联通",游戏风云
+http://175.172.170.43:8089/rtp/232.0.0.127:1234
+#EXTINF:-1 tvg-id="动漫秀场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BA.png" group-title="辽宁联通",动漫秀场
+http://175.172.170.43:8089/rtp/232.0.0.128:1234
+#EXTINF:-1 tvg-id="金色学堂" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%91%E8%89%B2%E5%AD%A6%E5%A0%82.png" group-title="辽宁联通",金色学堂
+http://175.172.170.43:8089/rtp/232.0.0.133:1234
+#EXTINF:-1 tvg-id="法治天地" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B3%95%E6%B2%BB%E5%A4%A9%E5%9C%B0.png" group-title="辽宁联通",法治天地
+http://175.172.170.43:8089/rtp/232.0.0.134:1234
+#EXTINF:-1 tvg-id="都市剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%83%BD%E5%B8%82%E5%89%A7%E5%9C%BA.png" group-title="辽宁联通",都市剧场
+http://175.172.170.43:8089/rtp/232.0.0.149:1234
+#EXTINF:-1 tvg-id="精选" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%B2%BE%E9%80%89.png" group-title="辽宁联通",精选
+http://175.172.170.43:8089/rtp/232.0.0.102:1234
+#EXTINF:-1 tvg-id="IPTV足球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E8%B6%B3%E7%90%83.png" group-title="辽宁联通",IPTV足球
+http://175.172.170.43:8089/rtp/232.0.0.213:1234
+#EXTINF:-1 tvg-id="爱生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%88%B1%E7%94%9F%E6%B4%BB.png" group-title="辽宁联通",爱生活
+http://175.172.170.43:8089/rtp/232.0.0.148:1234
+#EXTINF:-1 tvg-id="IPTV3(轮播)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV3%28%E8%BD%AE%E6%92%AD%29.png" group-title="辽宁联通",IPTV3(轮播)
+http://175.172.170.43:8089/rtp/232.0.0.118:1234
+#EXTINF:-1 tvg-id="IPTV5(轮播)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV5%28%E8%BD%AE%E6%92%AD%29.png" group-title="辽宁联通",IPTV5(轮播)
+http://175.172.170.43:8089/rtp/232.0.0.119:1234
+#EXTINF:-1 tvg-id="爱上4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%88%B1%E4%B8%8A4K.png" group-title="辽宁联通",爱上4K
+http://175.172.170.43:8089/rtp/232.0.0.187:1234
+#EXTINF:-1 tvg-id="谍战剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B0%8D%E6%88%98%E5%89%A7%E5%9C%BA.png" group-title="辽宁联通",谍战剧场
+http://175.172.170.43:8089/rtp/232.0.0.203:1234
+#EXTINF:-1 tvg-id="地理" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9C%B0%E7%90%86.png" group-title="辽宁联通",地理
+http://175.172.170.43:8089/rtp/232.0.0.197:1234
+#EXTINF:-1 tvg-id="怀旧电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%80%80%E6%97%A7%E7%94%B5%E5%BD%B1.png" group-title="辽宁联通",怀旧电影
+http://175.172.170.43:8089/rtp/232.0.0.48:1234
+#EXTINF:-1 tvg-id="劲爆电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8A%B2%E7%88%86%E7%94%B5%E5%BD%B1.png" group-title="辽宁联通",劲爆电影
+http://175.172.170.43:8089/rtp/232.0.0.155:1234
+#EXTINF:-1 tvg-id="党员教育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%85%9A%E5%91%98%E6%95%99%E8%82%B2.png" group-title="辽宁联通",党员教育
+http://175.172.170.43:8089/rtp/232.0.0.129:1234
+#EXTINF:-1 tvg-id="抚顺综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%8A%9A%E9%A1%BA%E7%BB%BC%E5%90%88.png" group-title="辽宁联通",抚顺综合
+http://175.172.170.43:8089/rtp/232.0.0.143:1234
+#EXTINF:-1 tvg-id="抚顺教育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%8A%9A%E9%A1%BA%E6%95%99%E8%82%B2.png" group-title="辽宁联通",抚顺教育
+http://175.172.170.43:8089/rtp/232.0.0.145:1234
+#EXTINF:-1 tvg-id="大洼综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A7%E6%B4%BC%E7%BB%BC%E5%90%88.png" group-title="辽宁联通",大洼综合
+http://175.172.170.43:8089/rtp/232.0.0.146:1234
+#EXTINF:-1 tvg-id="盘锦新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%9B%98%E9%94%A6%E6%96%B0%E9%97%BB.png" group-title="辽宁联通",盘锦新闻
+http://175.172.170.43:8089/rtp/232.0.0.148:1234
+#EXTINF:-1 tvg-id="辽河新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BE%BD%E6%B2%B3%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png" group-title="辽宁联通",辽河新闻综合
+http://175.172.170.43:8089/rtp/232.0.0.214:1234
+#EXTINF:-1 tvg-id="辽河文化生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BE%BD%E6%B2%B3%E6%96%87%E5%8C%96%E7%94%9F%E6%B4%BB.png" group-title="辽宁联通",辽河文化生活
+http://175.172.170.43:8089/rtp/232.0.0.215:1234

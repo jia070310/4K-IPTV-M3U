@@ -1,211 +1,211 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
 #EXTINF:-1 tvg-id="浙江卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K.png" group-title="山东联通",浙江卫视4K
-http://27.223.140.6:4000/rtp/239.253.242.27:8000
+http://39.87.233.138:4000/rtp/239.253.242.27:8000
 #EXTINF:-1 tvg-id="湖南卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K.png" group-title="山东联通",湖南卫视4K
-http://27.223.140.6:4000/rtp/239.253.242.28:8000
+http://39.87.233.138:4000/rtp/239.253.242.28:8000
 #EXTINF:-1 tvg-id="深圳卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%864K.png" group-title="山东联通",深圳卫视4K
-http://27.223.140.6:4000/rtp/239.253.242.61:8000
+http://39.87.233.138:4000/rtp/239.253.242.61:8000
 #EXTINF:-1 tvg-id="广东卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%864K.png" group-title="山东联通",广东卫视4K
-http://27.223.140.6:4000/rtp/239.253.242.108:8000
+http://39.87.233.138:4000/rtp/239.253.242.108:8000
 #EXTINF:-1 tvg-id="四川卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%864K.png" group-title="山东联通",四川卫视4K
-http://27.223.140.6:4000/rtp/239.253.242.123:8000
+http://39.87.233.138:4000/rtp/239.253.242.123:8000
 #EXTINF:-1 tvg-id="东方卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K.png" group-title="山东联通",东方卫视4K
-http://27.223.140.6:4000/rtp/239.253.242.176:8000
+http://39.87.233.138:4000/rtp/239.253.242.176:8000
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%864K.png" group-title="山东联通",北京卫视4K
-http://27.223.140.6:4000/rtp/239.253.242.200:8000
+http://39.87.233.138:4000/rtp/239.253.242.200:8000
 #EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="山东联通",CCTV1
-http://27.223.140.6:4000/rtp/239.253.254.77:8000
+http://39.87.233.138:4000/rtp/239.253.254.77:8000
 #EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="山东联通",CCTV2
-http://27.223.140.6:4000/rtp/239.253.254.232:8000
+http://39.87.233.138:4000/rtp/239.253.254.232:8000
 #EXTINF:-1 tvg-id="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png" group-title="山东联通",CCTV3
-http://27.223.140.6:4000/rtp/239.253.254.191:8000
+http://39.87.233.138:4000/rtp/239.253.254.191:8000
 #EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="山东联通",CCTV4
-http://27.223.140.6:4000/rtp/239.253.254.111:8000
+http://39.87.233.138:4000/rtp/239.253.254.111:8000
 #EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="山东联通",CCTV4
-http://27.223.140.6:4000/rtp/239.253.254.186:8000
+http://39.87.233.138:4000/rtp/239.253.254.186:8000
 #EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="山东联通",CCTV4
-http://27.223.140.6:4000/rtp/239.253.254.187:8000
+http://39.87.233.138:4000/rtp/239.253.254.187:8000
 #EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="山东联通",CCTV5
-http://27.223.140.6:4000/rtp/239.253.254.192:8000
+http://39.87.233.138:4000/rtp/239.253.254.192:8000
 #EXTINF:-1 tvg-id="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5%2B.png" group-title="山东联通",CCTV5+
-http://27.223.140.6:4000/rtp/239.253.254.80:8000
+http://39.87.233.138:4000/rtp/239.253.254.80:8000
 #EXTINF:-1 tvg-id="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="山东联通",CCTV6
-http://27.223.140.6:4000/rtp/239.253.254.193:8000
+http://39.87.233.138:4000/rtp/239.253.254.193:8000
 #EXTINF:-1 tvg-id="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="山东联通",CCTV7
-http://27.223.140.6:4000/rtp/239.253.254.233:8000
+http://39.87.233.138:4000/rtp/239.253.254.233:8000
 #EXTINF:-1 tvg-id="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="山东联通",CCTV8
-http://27.223.140.6:4000/rtp/239.253.254.194:8000
+http://39.87.233.138:4000/rtp/239.253.254.194:8000
 #EXTINF:-1 tvg-id="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="山东联通",CCTV9
-http://27.223.140.6:4000/rtp/239.253.254.79:8000
+http://39.87.233.138:4000/rtp/239.253.254.79:8000
 #EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="山东联通",CCTV10
-http://27.223.140.6:4000/rtp/239.253.254.234:8000
+http://39.87.233.138:4000/rtp/239.253.254.234:8000
 #EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="山东联通",CCTV11
-http://27.223.140.6:4000/rtp/239.253.254.169:8000
+http://39.87.233.138:4000/rtp/239.253.254.169:8000
 #EXTINF:-1 tvg-id="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="山东联通",CCTV12
-http://27.223.140.6:4000/rtp/239.253.254.235:8000
+http://39.87.233.138:4000/rtp/239.253.254.235:8000
 #EXTINF:-1 tvg-id="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="山东联通",CCTV13
-http://27.223.140.6:4000/rtp/239.253.254.175:8000
+http://39.87.233.138:4000/rtp/239.253.254.175:8000
 #EXTINF:-1 tvg-id="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png" group-title="山东联通",CCTV14
-http://27.223.140.6:4000/rtp/239.253.254.236:8000
+http://39.87.233.138:4000/rtp/239.253.254.236:8000
 #EXTINF:-1 tvg-id="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="山东联通",CCTV15
-http://27.223.140.6:4000/rtp/239.253.254.170:8000
+http://39.87.233.138:4000/rtp/239.253.254.170:8000
 #EXTINF:-1 tvg-id="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="山东联通",CCTV17
-http://27.223.140.6:4000/rtp/239.253.254.168:8000
+http://39.87.233.138:4000/rtp/239.253.254.168:8000
 #EXTINF:-1 tvg-id="CETV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV1.png" group-title="山东联通",CETV1
-http://27.223.140.6:4000/rtp/239.253.254.110:8000
+http://39.87.233.138:4000/rtp/239.253.254.110:8000
 #EXTINF:-1 tvg-id="CETV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV4.png" group-title="山东联通",CETV4
-http://27.223.140.6:4000/rtp/239.253.254.116:8000
+http://39.87.233.138:4000/rtp/239.253.254.116:8000
 #EXTINF:-1 tvg-id="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="山东联通",CGTN
-http://27.223.140.6:4000/rtp/239.253.254.182:8000
+http://39.87.233.138:4000/rtp/239.253.254.182:8000
 #EXTINF:-1 tvg-id="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="山东联通",CGTN
-http://27.223.140.6:4000/rtp/239.253.254.183:8000
+http://39.87.233.138:4000/rtp/239.253.254.183:8000
 #EXTINF:-1 tvg-id="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="山东联通",CGTN
-http://27.223.140.6:4000/rtp/239.253.254.184:8000
+http://39.87.233.138:4000/rtp/239.253.254.184:8000
 #EXTINF:-1 tvg-id="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="山东联通",CGTN
-http://27.223.140.6:4000/rtp/239.253.254.185:8000
+http://39.87.233.138:4000/rtp/239.253.254.185:8000
 #EXTINF:-1 tvg-id="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="山东联通",CGTN
-http://27.223.140.6:4000/rtp/239.253.254.188:8000
+http://39.87.233.138:4000/rtp/239.253.254.188:8000
 #EXTINF:-1 tvg-id="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="山东联通",CGTN
-http://27.223.140.6:4000/rtp/239.253.254.189:8000
+http://39.87.233.138:4000/rtp/239.253.254.189:8000
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png" group-title="山东联通",CHC动作电影
-http://27.223.140.6:4000/rtp/239.253.254.153:8000
+http://39.87.233.138:4000/rtp/239.253.254.153:8000
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC%E9%AB%98%E6%B8%85%E7%94%B5%E5%BD%B1.png" group-title="山东联通",CHC高清电影
-http://27.223.140.6:4000/rtp/239.253.254.154:8000
+http://39.87.233.138:4000/rtp/239.253.254.154:8000
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2.png" group-title="山东联通",CHC家庭影院
-http://27.223.140.6:4000/rtp/239.253.254.152:8000
+http://39.87.233.138:4000/rtp/239.253.254.152:8000
 #EXTINF:-1 tvg-id="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="山东联通",安徽卫视
-http://27.223.140.6:4000/rtp/239.253.254.87:8000
+http://39.87.233.138:4000/rtp/239.253.254.87:8000
 #EXTINF:-1 tvg-id="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png" group-title="山东联通",北京卫视
-http://27.223.140.6:4000/rtp/239.253.254.85:8000
+http://39.87.233.138:4000/rtp/239.253.254.85:8000
 #EXTINF:-1 tvg-id="茶频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%8C%B6%E9%A2%91%E9%81%93.png" group-title="山东联通",茶频道
-http://27.223.140.6:4000/rtp/239.253.254.143:8000
+http://39.87.233.138:4000/rtp/239.253.254.143:8000
 #EXTINF:-1 tvg-id="东方财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E6%96%B9%E8%B4%A2%E7%BB%8F.png" group-title="山东联通",东方财经
-http://27.223.140.6:4000/rtp/239.253.254.94:8000
+http://39.87.233.138:4000/rtp/239.253.254.94:8000
 #EXTINF:-1 tvg-id="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="山东联通",东方卫视
-http://27.223.140.6:4000/rtp/239.253.254.86:8000
+http://39.87.233.138:4000/rtp/239.253.254.86:8000
 #EXTINF:-1 tvg-id="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="山东联通",东南卫视
-http://27.223.140.6:4000/rtp/239.253.254.105:8000
+http://39.87.233.138:4000/rtp/239.253.254.105:8000
 #EXTINF:-1 tvg-id="动漫秀场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BA.png" group-title="山东联通",动漫秀场
-http://27.223.140.6:4000/rtp/239.253.254.115:8000
+http://39.87.233.138:4000/rtp/239.253.254.115:8000
 #EXTINF:-1 tvg-id="都市剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%83%BD%E5%B8%82%E5%89%A7%E5%9C%BA.png" group-title="山东联通",都市剧场
-http://27.223.140.6:4000/rtp/239.253.254.98:8000
+http://39.87.233.138:4000/rtp/239.253.254.98:8000
 #EXTINF:-1 tvg-id="法治天地" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B3%95%E6%B2%BB%E5%A4%A9%E5%9C%B0.png" group-title="山东联通",法治天地
-http://27.223.140.6:4000/rtp/239.253.254.96:8000
+http://39.87.233.138:4000/rtp/239.253.254.96:8000
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png" group-title="山东联通",甘肃卫视
-http://27.223.140.6:4000/rtp/239.253.254.74:8000
+http://39.87.233.138:4000/rtp/239.253.254.74:8000
 #EXTINF:-1 tvg-id="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="山东联通",广东卫视
-http://27.223.140.6:4000/rtp/239.253.254.90:8000
+http://39.87.233.138:4000/rtp/239.253.254.90:8000
 #EXTINF:-1 tvg-id="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="山东联通",广西卫视
-http://27.223.140.6:4000/rtp/239.253.254.197:8000
+http://39.87.233.138:4000/rtp/239.253.254.197:8000
 #EXTINF:-1 tvg-id="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png" group-title="山东联通",贵州卫视
-http://27.223.140.6:4000/rtp/239.253.254.113:8000
+http://39.87.233.138:4000/rtp/239.253.254.113:8000
 #EXTINF:-1 tvg-id="海南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="山东联通",海南卫视
-http://27.223.140.6:4000/rtp/239.253.254.179:8000
+http://39.87.233.138:4000/rtp/239.253.254.179:8000
 #EXTINF:-1 tvg-id="海洋" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%B7%E6%B4%8B.png" group-title="山东联通",海洋
-http://27.223.140.6:4000/rtp/239.253.254.67:8000
+http://39.87.233.138:4000/rtp/239.253.254.67:8000
 #EXTINF:-1 tvg-id="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="山东联通",河北卫视
-http://27.223.140.6:4000/rtp/239.253.254.112:8000
+http://39.87.233.138:4000/rtp/239.253.254.112:8000
 #EXTINF:-1 tvg-id="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="山东联通",河南卫视
-http://27.223.140.6:4000/rtp/239.253.254.190:8000
+http://39.87.233.138:4000/rtp/239.253.254.190:8000
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="山东联通",黑龙江卫视
-http://27.223.140.6:4000/rtp/239.253.254.93:8000
+http://39.87.233.138:4000/rtp/239.253.254.93:8000
 #EXTINF:-1 tvg-id="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="山东联通",湖北卫视
-http://27.223.140.6:4000/rtp/239.253.254.88:8000
+http://39.87.233.138:4000/rtp/239.253.254.88:8000
 #EXTINF:-1 tvg-id="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="山东联通",湖南卫视
-http://27.223.140.6:4000/rtp/239.253.254.82:8000
+http://39.87.233.138:4000/rtp/239.253.254.82:8000
 #EXTINF:-1 tvg-id="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86.png" group-title="山东联通",吉林卫视
-http://27.223.140.6:4000/rtp/239.253.254.173:8000
+http://39.87.233.138:4000/rtp/239.253.254.173:8000
 #EXTINF:-1 tvg-id="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="山东联通",江苏卫视
-http://27.223.140.6:4000/rtp/239.253.254.83:8000
+http://39.87.233.138:4000/rtp/239.253.254.83:8000
 #EXTINF:-1 tvg-id="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="山东联通",江西卫视
-http://27.223.140.6:4000/rtp/239.253.254.47:8000
+http://39.87.233.138:4000/rtp/239.253.254.47:8000
 #EXTINF:-1 tvg-id="金色学堂" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%91%E8%89%B2%E5%AD%A6%E5%A0%82.png" group-title="山东联通",金色学堂
-http://27.223.140.6:4000/rtp/239.253.254.101:8000
+http://39.87.233.138:4000/rtp/239.253.254.101:8000
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%91%E9%B9%B0%E7%BA%AA%E5%AE%9E.png" group-title="山东联通",金鹰纪实
-http://27.223.140.6:4000/rtp/239.253.254.103:8000
+http://39.87.233.138:4000/rtp/239.253.254.103:8000
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A.png" group-title="山东联通",金鹰卡通
-http://27.223.140.6:4000/rtp/239.253.254.117:8000
+http://39.87.233.138:4000/rtp/239.253.254.117:8000
 #EXTINF:-1 tvg-id="精彩电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%B2%BE%E5%BD%A9%E7%94%B5%E5%BD%B1.png" group-title="山东联通",精彩电影
-http://27.223.140.6:4000/rtp/239.253.254.142:8000
+http://39.87.233.138:4000/rtp/239.253.254.142:8000
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF.png" group-title="山东联通",卡酷少儿
-http://27.223.140.6:4000/rtp/239.253.254.66:8000
+http://39.87.233.138:4000/rtp/239.253.254.66:8000
 #EXTINF:-1 tvg-id="莱西" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%8E%B1%E8%A5%BF.png" group-title="山东联通",莱西
-http://27.223.140.6:4000/rtp/239.253.254.247:8000
+http://39.87.233.138:4000/rtp/239.253.254.247:8000
 #EXTINF:-1 tvg-id="崂山" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B4%82%E5%B1%B1.png" group-title="山东联通",崂山
-http://27.223.140.6:4000/rtp/239.253.254.242:8000
+http://39.87.233.138:4000/rtp/239.253.254.242:8000
 #EXTINF:-1 tvg-id="梨园" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%A2%A8%E5%9B%AD.png" group-title="山东联通",梨园
-http://27.223.140.6:4000/rtp/239.253.254.139:8000
+http://39.87.233.138:4000/rtp/239.253.254.139:8000
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png" group-title="山东联通",辽宁卫视
-http://27.223.140.6:4000/rtp/239.253.254.92:8000
+http://39.87.233.138:4000/rtp/239.253.254.92:8000
 #EXTINF:-1 tvg-id="魅力足球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%AD%85%E5%8A%9B%E8%B6%B3%E7%90%83.png" group-title="山东联通",魅力足球
-http://27.223.140.6:4000/rtp/239.253.254.100:8000
+http://39.87.233.138:4000/rtp/239.253.254.100:8000
 #EXTINF:-1 tvg-id="平度" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%B3%E5%BA%A6.png" group-title="山东联通",平度
-http://27.223.140.6:4000/rtp/239.253.254.248:8000
+http://39.87.233.138:4000/rtp/239.253.254.248:8000
 #EXTINF:-1 tvg-id="青岛李沧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%9D%92%E5%B2%9B%E6%9D%8E%E6%B2%A7.png" group-title="山东联通",青岛李沧
-http://27.223.140.6:4000/rtp/239.253.254.249:8000
+http://39.87.233.138:4000/rtp/239.253.254.249:8000
 #EXTINF:-1 tvg-id="青岛李沧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%9D%92%E5%B2%9B%E6%9D%8E%E6%B2%A7.png" group-title="山东联通",青岛李沧
-http://27.223.140.6:4000/rtp/239.253.254.250:8000
+http://39.87.233.138:4000/rtp/239.253.254.250:8000
 #EXTINF:-1 tvg-id="青岛李沧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%9D%92%E5%B2%9B%E6%9D%8E%E6%B2%A7.png" group-title="山东联通",青岛李沧
-http://27.223.140.6:4000/rtp/239.253.254.251:8000
+http://39.87.233.138:4000/rtp/239.253.254.251:8000
 #EXTINF:-1 tvg-id="青岛李沧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%9D%92%E5%B2%9B%E6%9D%8E%E6%B2%A7.png" group-title="山东联通",青岛李沧
-http://27.223.140.6:4000/rtp/239.253.254.252:8000
+http://39.87.233.138:4000/rtp/239.253.254.252:8000
 #EXTINF:-1 tvg-id="青岛李沧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%9D%92%E5%B2%9B%E6%9D%8E%E6%B2%A7.png" group-title="山东联通",青岛李沧
-http://27.223.140.6:4000/rtp/239.253.254.253:8000
+http://39.87.233.138:4000/rtp/239.253.254.253:8000
 #EXTINF:-1 tvg-id="青岛生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%9D%92%E5%B2%9B%E7%94%9F%E6%B4%BB.png" group-title="山东联通",青岛生活
-http://27.223.140.6:4000/rtp/239.253.254.244:8000
+http://39.87.233.138:4000/rtp/239.253.254.244:8000
 #EXTINF:-1 tvg-id="青岛综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%9D%92%E5%B2%9B%E7%BB%BC%E5%90%88.png" group-title="山东联通",青岛综合
-http://27.223.140.6:4000/rtp/239.253.254.243:8000
+http://39.87.233.138:4000/rtp/239.253.254.243:8000
 #EXTINF:-1 tvg-id="青海卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png" group-title="山东联通",青海卫视
-http://27.223.140.6:4000/rtp/239.253.254.195:8000
+http://39.87.233.138:4000/rtp/239.253.254.195:8000
 #EXTINF:-1 tvg-id="山东购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E8%B4%AD%E7%89%A9.png" group-title="山东联通",山东购物
-http://27.223.140.6:4000/rtp/239.253.254.104:8000
+http://39.87.233.138:4000/rtp/239.253.254.104:8000
 #EXTINF:-1 tvg-id="山东教育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2.png" group-title="山东联通",山东教育
-http://27.223.140.6:4000/rtp/239.253.254.59:8000
+http://39.87.233.138:4000/rtp/239.253.254.59:8000
 #EXTINF:-1 tvg-id="山东农科" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E5%86%9C%E7%A7%91.png" group-title="山东联通",山东农科
-http://27.223.140.6:4000/rtp/239.253.254.24:8000
+http://39.87.233.138:4000/rtp/239.253.254.24:8000
 #EXTINF:-1 tvg-id="山东齐鲁" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E9%BD%90%E9%B2%81.png" group-title="山东联通",山东齐鲁
-http://27.223.140.6:4000/rtp/239.253.254.114:8000
+http://39.87.233.138:4000/rtp/239.253.254.114:8000
 #EXTINF:-1 tvg-id="山东少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E5%B0%91%E5%84%BF.png" group-title="山东联通",山东少儿
-http://27.223.140.6:4000/rtp/239.253.254.25:8000
+http://39.87.233.138:4000/rtp/239.253.254.25:8000
 #EXTINF:-1 tvg-id="山东生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E7%94%9F%E6%B4%BB.png" group-title="山东联通",山东生活
-http://27.223.140.6:4000/rtp/239.253.254.151:8000
+http://39.87.233.138:4000/rtp/239.253.254.151:8000
 #EXTINF:-1 tvg-id="山东体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E4%BD%93%E8%82%B2.png" group-title="山东联通",山东体育
-http://27.223.140.6:4000/rtp/239.253.254.22:8000
+http://39.87.233.138:4000/rtp/239.253.254.22:8000
 #EXTINF:-1 tvg-id="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="山东联通",山东卫视
-http://27.223.140.6:4000/rtp/239.253.254.78:8000
+http://39.87.233.138:4000/rtp/239.253.254.78:8000
 #EXTINF:-1 tvg-id="山东文旅" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E6%96%87%E6%97%85.png" group-title="山东联通",山东文旅
-http://27.223.140.6:4000/rtp/239.253.254.160:8000
+http://39.87.233.138:4000/rtp/239.253.254.160:8000
 #EXTINF:-1 tvg-id="山东新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E6%96%B0%E9%97%BB.png" group-title="山东联通",山东新闻
-http://27.223.140.6:4000/rtp/239.253.254.23:8000
+http://39.87.233.138:4000/rtp/239.253.254.23:8000
 #EXTINF:-1 tvg-id="山东综艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E7%BB%BC%E8%89%BA.png" group-title="山东联通",山东综艺
-http://27.223.140.6:4000/rtp/239.253.254.159:8000
+http://39.87.233.138:4000/rtp/239.253.254.159:8000
 #EXTINF:-1 tvg-id="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png" group-title="山东联通",深圳卫视
-http://27.223.140.6:4000/rtp/239.253.254.91:8000
+http://39.87.233.138:4000/rtp/239.253.254.91:8000
 #EXTINF:-1 tvg-id="生活时尚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9A.png" group-title="山东联通",生活时尚
-http://27.223.140.6:4000/rtp/239.253.254.99:8000
+http://39.87.233.138:4000/rtp/239.253.254.99:8000
 #EXTINF:-1 tvg-id="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png" group-title="山东联通",四川卫视
-http://27.223.140.6:4000/rtp/239.253.254.180:8000
+http://39.87.233.138:4000/rtp/239.253.254.180:8000
 #EXTINF:-1 tvg-id="四海钓鱼" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC.png" group-title="山东联通",四海钓鱼
-http://27.223.140.6:4000/rtp/239.253.254.109:8000
+http://39.87.233.138:4000/rtp/239.253.254.109:8000
 #EXTINF:-1 tvg-id="四海钓鱼" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC.png" group-title="山东联通",四海钓鱼
-http://27.223.140.6:4000/rtp/239.253.254.144:8000
+http://39.87.233.138:4000/rtp/239.253.254.144:8000
 #EXTINF:-1 tvg-id="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png" group-title="山东联通",天津卫视
-http://27.223.140.6:4000/rtp/239.253.254.89:8000
+http://39.87.233.138:4000/rtp/239.253.254.89:8000
 #EXTINF:-1 tvg-id="文物宝库" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%96%87%E7%89%A9%E5%AE%9D%E5%BA%93.png" group-title="山东联通",文物宝库
-http://27.223.140.6:4000/rtp/239.253.254.141:8000
+http://39.87.233.138:4000/rtp/239.253.254.141:8000
 #EXTINF:-1 tvg-id="武术世界" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%AD%A6%E6%9C%AF%E4%B8%96%E7%95%8C.png" group-title="山东联通",武术世界
-http://27.223.140.6:4000/rtp/239.253.254.140:8000
+http://39.87.233.138:4000/rtp/239.253.254.140:8000
 #EXTINF:-1 tvg-id="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="山东联通",云南卫视
-http://27.223.140.6:4000/rtp/239.253.254.196:8000
+http://39.87.233.138:4000/rtp/239.253.254.196:8000
 #EXTINF:-1 tvg-id="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="山东联通",浙江卫视
-http://27.223.140.6:4000/rtp/239.253.254.84:8000
+http://39.87.233.138:4000/rtp/239.253.254.84:8000
 #EXTINF:-1 tvg-id="中国交通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%AD%E5%9B%BD%E4%BA%A4%E9%80%9A.png" group-title="山东联通",中国交通
-http://27.223.140.6:4000/rtp/239.253.254.177:8000
+http://39.87.233.138:4000/rtp/239.253.254.177:8000
 #EXTINF:-1 tvg-id="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86.png" group-title="山东联通",重庆卫视
-http://27.223.140.6:4000/rtp/239.253.254.38:8000
+http://39.87.233.138:4000/rtp/239.253.254.38:8000
 #EXTINF:-1 tvg-id="综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%BB%BC%E5%90%88.png" group-title="山东联通",综合
-http://27.223.140.6:4000/rtp/239.253.254.245:8000
+http://39.87.233.138:4000/rtp/239.253.254.245:8000
 #EXTINF:-1 tvg-id="综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%BB%BC%E5%90%88.png" group-title="山东联通",综合
-http://27.223.140.6:4000/rtp/239.253.254.246:8000
+http://39.87.233.138:4000/rtp/239.253.254.246:8000
 #EXTINF:-1 tvg-id="游戏风云" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B8%B8%E6%88%8F%E9%A3%8E%E4%BA%91.png" group-title="山东联通",游戏风云
-http://27.223.140.6:4000/rtp/239.253.254.95:8000
+http://39.87.233.138:4000/rtp/239.253.254.95:8000
