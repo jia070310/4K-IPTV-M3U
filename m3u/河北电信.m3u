@@ -1,621 +1,621 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
 #EXTINF:-1 tvg-id="CCTV-1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-1.png" group-title="河北电信",CCTV-1
-http://106.116.243.51:9999/rtp/239.254.200.45:8008
+http://27.184.28.92:4022/rtp/239.254.200.45:8008
 #EXTINF:-1 tvg-id="CCTV-2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-2.png" group-title="河北电信",CCTV-2
-http://106.116.243.51:9999/rtp/239.254.200.158:6000
+http://27.184.28.92:4022/rtp/239.254.200.158:6000
 #EXTINF:-1 tvg-id="CCTV-3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-3.png" group-title="河北电信",CCTV-3
-http://106.116.243.51:9999/rtp/239.254.200.13:6000
+http://27.184.28.92:4022/rtp/239.254.200.13:6000
 #EXTINF:-1 tvg-id="CCTV-4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-4.png" group-title="河北电信",CCTV-4
-http://106.116.243.51:9999/rtp/239.254.200.190:6307
+http://27.184.28.92:4022/rtp/239.254.200.190:6307
 #EXTINF:-1 tvg-id="CCTV-5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-5.png" group-title="河北电信",CCTV-5
-http://106.116.243.51:9999/rtp/239.254.200.14:6000
+http://27.184.28.92:4022/rtp/239.254.200.14:6000
 #EXTINF:-1 tvg-id="CCTV-6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-6.png" group-title="河北电信",CCTV-6
-http://106.116.243.51:9999/rtp/239.254.200.15:6000
+http://27.184.28.92:4022/rtp/239.254.200.15:6000
 #EXTINF:-1 tvg-id="CCTV-7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-7.png" group-title="河北电信",CCTV-7
-http://106.116.243.51:9999/rtp/239.254.200.159:6000
+http://27.184.28.92:4022/rtp/239.254.200.159:6000
 #EXTINF:-1 tvg-id="CCTV-8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-8.png" group-title="河北电信",CCTV-8
-http://106.116.243.51:9999/rtp/239.254.200.16:6000
+http://27.184.28.92:4022/rtp/239.254.200.16:6000
 #EXTINF:-1 tvg-id="CCTV-9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-9.png" group-title="河北电信",CCTV-9
-http://106.116.243.51:9999/rtp/239.254.200.59:8112
+http://27.184.28.92:4022/rtp/239.254.200.59:8112
 #EXTINF:-1 tvg-id="CCTV-10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-10.png" group-title="河北电信",CCTV-10
-http://106.116.243.51:9999/rtp/239.254.200.160:6000
+http://27.184.28.92:4022/rtp/239.254.200.160:6000
 #EXTINF:-1 tvg-id="CCTV-11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-11.png" group-title="河北电信",CCTV-11
-http://106.116.243.51:9999/rtp/239.254.201.123:8120
+http://27.184.28.92:4022/rtp/239.254.201.123:8120
 #EXTINF:-1 tvg-id="CCTV-12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-12.png" group-title="河北电信",CCTV-12
-http://106.116.243.51:9999/rtp/239.254.200.161:6000
+http://27.184.28.92:4022/rtp/239.254.200.161:6000
 #EXTINF:-1 tvg-id="CCTV-13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-13.png" group-title="河北电信",CCTV-13
-http://106.116.243.51:9999/rtp/239.254.200.9:8264
+http://27.184.28.92:4022/rtp/239.254.200.9:8264
 #EXTINF:-1 tvg-id="CCTV-14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-14.png" group-title="河北电信",CCTV-14
-http://106.116.243.51:9999/rtp/239.254.200.162:6000
+http://27.184.28.92:4022/rtp/239.254.200.162:6000
 #EXTINF:-1 tvg-id="CCTV-15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-15.png" group-title="河北电信",CCTV-15
-http://106.116.243.51:9999/rtp/239.254.201.124:8136
+http://27.184.28.92:4022/rtp/239.254.201.124:8136
 #EXTINF:-1 tvg-id="CCTV-奥林匹克4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B4K.png" group-title="河北电信",CCTV-奥林匹克4K
-http://106.116.243.51:9999/rtp/239.254.201.150:6345
+http://27.184.28.92:4022/rtp/239.254.201.150:6345
 #EXTINF:-1 tvg-id="CCTV-17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-17.png" group-title="河北电信",CCTV-17
-http://106.116.243.51:9999/rtp/239.254.201.120:8144
+http://27.184.28.92:4022/rtp/239.254.201.120:8144
 #EXTINF:-1 tvg-id="CCTV-5+高清" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-5%2B%E9%AB%98%E6%B8%85.png" group-title="河北电信",CCTV-5+高清
-http://106.116.243.51:9999/rtp/239.254.200.46:8004
+http://27.184.28.92:4022/rtp/239.254.200.46:8004
 #EXTINF:-1 tvg-id="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="河北电信",CGTN
-http://106.116.243.51:9999/rtp/239.254.200.12:8056
+http://27.184.28.92:4022/rtp/239.254.200.12:8056
 #EXTINF:-1 tvg-id="CCTV-3高清" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-3%E9%AB%98%E6%B8%85.png" group-title="河北电信",CCTV-3高清
-http://106.116.243.51:9999/rtp/239.254.201.152:7205
+http://27.184.28.92:4022/rtp/239.254.201.152:7205
 #EXTINF:-1 tvg-id="CCTV-5高清" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-5%E9%AB%98%E6%B8%85.png" group-title="河北电信",CCTV-5高清
-http://106.116.243.51:9999/rtp/239.254.201.153:7206
+http://27.184.28.92:4022/rtp/239.254.201.153:7206
 #EXTINF:-1 tvg-id="CCTV-6高清" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-6%E9%AB%98%E6%B8%85.png" group-title="河北电信",CCTV-6高清
-http://106.116.243.51:9999/rtp/239.254.201.154:7207
+http://27.184.28.92:4022/rtp/239.254.201.154:7207
 #EXTINF:-1 tvg-id="CCTV-8高清" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-8%E9%AB%98%E6%B8%85.png" group-title="河北电信",CCTV-8高清
-http://106.116.243.51:9999/rtp/239.254.201.155:7208
+http://27.184.28.92:4022/rtp/239.254.201.155:7208
 #EXTINF:-1 tvg-id="CCTV-16[4K]" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-16%5B4K%5D.png" group-title="河北电信",CCTV-16[4K]
-http://106.116.243.51:9999/rtp/239.254.201.150:6345
+http://27.184.28.92:4022/rtp/239.254.201.150:6345
 #EXTINF:-1 tvg-id="CCTV-奥林匹克 4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%204K.png" group-title="河北电信",CCTV-奥林匹克 4K
-http://106.116.243.51:9999/rtp/239.254.200.7:6346
+http://27.184.28.92:4022/rtp/239.254.200.7:6346
 #EXTINF:-1 tvg-id="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="河北电信",河北卫视
-http://106.116.243.51:9999/rtp/239.254.200.174:6000
+http://27.184.28.92:4022/rtp/239.254.200.174:6000
 #EXTINF:-1 tvg-id="河北经济生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8C%97%E7%BB%8F%E6%B5%8E%E7%94%9F%E6%B4%BB.png" group-title="河北电信",河北经济生活
-http://106.116.243.51:9999/rtp/239.254.200.18:6000
+http://27.184.28.92:4022/rtp/239.254.200.18:6000
 #EXTINF:-1 tvg-id="河北都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8C%97%E9%83%BD%E5%B8%82.png" group-title="河北电信",河北都市
-http://106.116.243.51:9999/rtp/239.254.200.19:6000
+http://27.184.28.92:4022/rtp/239.254.200.19:6000
 #EXTINF:-1 tvg-id="河北影视剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8C%97%E5%BD%B1%E8%A7%86%E5%89%A7.png" group-title="河北电信",河北影视剧
-http://106.116.243.51:9999/rtp/239.254.200.20:6000
+http://27.184.28.92:4022/rtp/239.254.200.20:6000
 #EXTINF:-1 tvg-id="河北少儿科教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8C%97%E5%B0%91%E5%84%BF%E7%A7%91%E6%95%99.png" group-title="河北电信",河北少儿科教
-http://106.116.243.51:9999/rtp/239.254.200.21:6000
+http://27.184.28.92:4022/rtp/239.254.200.21:6000
 #EXTINF:-1 tvg-id="河北公共" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8C%97%E5%85%AC%E5%85%B1.png" group-title="河北电信",河北公共
-http://106.116.243.51:9999/rtp/239.254.200.22:6000
+http://27.184.28.92:4022/rtp/239.254.200.22:6000
 #EXTINF:-1 tvg-id="河北农民" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8C%97%E5%86%9C%E6%B0%91.png" group-title="河北电信",河北农民
-http://106.116.243.51:9999/rtp/239.254.200.23:6000
+http://27.184.28.92:4022/rtp/239.254.200.23:6000
 #EXTINF:-1 tvg-id="睛彩河北" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%9D%9B%E5%BD%A9%E6%B2%B3%E5%8C%97.png" group-title="河北电信",睛彩河北
-http://106.116.243.51:9999/rtp/239.254.200.27:6000
+http://27.184.28.92:4022/rtp/239.254.200.27:6000
 #EXTINF:-1 tvg-id="三佳购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%89%E4%BD%B3%E8%B4%AD%E7%89%A9.png" group-title="河北电信",三佳购物
-http://106.116.243.51:9999/rtp/239.254.200.143:6000
+http://27.184.28.92:4022/rtp/239.254.200.143:6000
 #EXTINF:-1 tvg-id="优购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BC%98%E8%B4%AD%E7%89%A9.png" group-title="河北电信",优购物
-http://106.116.243.51:9999/rtp/239.254.201.78:6283
+http://27.184.28.92:4022/rtp/239.254.201.78:6283
 #EXTINF:-1 tvg-id="快乐购" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%BF%AB%E4%B9%90%E8%B4%AD.png" group-title="河北电信",快乐购
-http://106.116.243.51:9999/rtp/239.254.201.79:7196
+http://27.184.28.92:4022/rtp/239.254.201.79:7196
 #EXTINF:-1 tvg-id="家有购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%B6%E6%9C%89%E8%B4%AD%E7%89%A9.png" group-title="河北电信",家有购物
-http://106.116.243.51:9999/rtp/239.254.201.80:7192
+http://27.184.28.92:4022/rtp/239.254.201.80:7192
 #EXTINF:-1 tvg-id="聚鲨环球精选" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%81%9A%E9%B2%A8%E7%8E%AF%E7%90%83%E7%B2%BE%E9%80%89.png" group-title="河北电信",聚鲨环球精选
-http://106.116.243.51:9999/rtp/239.254.201.81:7191
+http://27.184.28.92:4022/rtp/239.254.201.81:7191
 #EXTINF:-1 tvg-id="家家购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%B6%E5%AE%B6%E8%B4%AD%E7%89%A9.png" group-title="河北电信",家家购物
-http://106.116.243.51:9999/rtp/239.254.201.144:7262
+http://27.184.28.92:4022/rtp/239.254.201.144:7262
 #EXTINF:-1 tvg-id="央广购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%AE%E5%B9%BF%E8%B4%AD%E7%89%A9.png" group-title="河北电信",央广购物
-http://106.116.243.51:9999/rtp/239.254.201.202:7268
+http://27.184.28.92:4022/rtp/239.254.201.202:7268
 #EXTINF:-1 tvg-id="河北杂技频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8C%97%E6%9D%82%E6%8A%80%E9%A2%91%E9%81%93.png" group-title="河北电信",河北杂技频道
-http://106.116.243.51:9999/rtp/239.254.201.139:7203
+http://27.184.28.92:4022/rtp/239.254.201.139:7203
 #EXTINF:-1 tvg-id="石家庄新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%9F%B3%E5%AE%B6%E5%BA%84%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png" group-title="河北电信",石家庄新闻综合
-http://106.116.243.51:9999/rtp/239.254.200.157:6000
+http://27.184.28.92:4022/rtp/239.254.200.157:6000
 #EXTINF:-1 tvg-id="石家庄娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%A8%B1%E4%B9%90.png" group-title="河北电信",石家庄娱乐
-http://106.116.243.51:9999/rtp/239.254.200.29:6000
+http://27.184.28.92:4022/rtp/239.254.200.29:6000
 #EXTINF:-1 tvg-id="石家庄生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%9F%B3%E5%AE%B6%E5%BA%84%E7%94%9F%E6%B4%BB.png" group-title="河北电信",石家庄生活
-http://106.116.243.51:9999/rtp/239.254.200.30:6000
+http://27.184.28.92:4022/rtp/239.254.200.30:6000
 #EXTINF:-1 tvg-id="石家庄都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%9F%B3%E5%AE%B6%E5%BA%84%E9%83%BD%E5%B8%82.png" group-title="河北电信",石家庄都市
-http://106.116.243.51:9999/rtp/239.254.200.31:6000
+http://27.184.28.92:4022/rtp/239.254.200.31:6000
 #EXTINF:-1 tvg-id="承德新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%89%BF%E5%BE%B7%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png" group-title="河北电信",承德新闻综合
-http://106.116.243.51:9999/rtp/239.254.200.32:6000
+http://27.184.28.92:4022/rtp/239.254.200.32:6000
 #EXTINF:-1 tvg-id="承德公共" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%89%BF%E5%BE%B7%E5%85%AC%E5%85%B1.png" group-title="河北电信",承德公共
-http://106.116.243.51:9999/rtp/239.254.200.33:6000
+http://27.184.28.92:4022/rtp/239.254.200.33:6000
 #EXTINF:-1 tvg-id="张家口新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%BC%A0%E5%AE%B6%E5%8F%A3%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png" group-title="河北电信",张家口新闻综合
-http://106.116.243.51:9999/rtp/239.254.200.35:6000
+http://27.184.28.92:4022/rtp/239.254.200.35:6000
 #EXTINF:-1 tvg-id="张家口公共" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%BC%A0%E5%AE%B6%E5%8F%A3%E5%85%AC%E5%85%B1.png" group-title="河北电信",张家口公共
-http://106.116.243.51:9999/rtp/239.254.200.36:6000
+http://27.184.28.92:4022/rtp/239.254.200.36:6000
 #EXTINF:-1 tvg-id="秦皇岛新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%A7%A6%E7%9A%87%E5%B2%9B%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png" group-title="河北电信",秦皇岛新闻综合
-http://106.116.243.51:9999/rtp/239.254.200.39:6000
+http://27.184.28.92:4022/rtp/239.254.200.39:6000
 #EXTINF:-1 tvg-id="秦皇岛公共" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%A7%A6%E7%9A%87%E5%B2%9B%E5%85%AC%E5%85%B1.png" group-title="河北电信",秦皇岛公共
-http://106.116.243.51:9999/rtp/239.254.200.40:6000
+http://27.184.28.92:4022/rtp/239.254.200.40:6000
 #EXTINF:-1 tvg-id="秦皇岛影视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%A7%A6%E7%9A%87%E5%B2%9B%E5%BD%B1%E8%A7%86.png" group-title="河北电信",秦皇岛影视
-http://106.116.243.51:9999/rtp/239.254.200.41:6000
+http://27.184.28.92:4022/rtp/239.254.200.41:6000
 #EXTINF:-1 tvg-id="唐山新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%94%90%E5%B1%B1%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png" group-title="河北电信",唐山新闻综合
-http://106.116.243.51:9999/rtp/239.254.200.166:6000
+http://27.184.28.92:4022/rtp/239.254.200.166:6000
 #EXTINF:-1 tvg-id="唐山生活服务" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%94%90%E5%B1%B1%E7%94%9F%E6%B4%BB%E6%9C%8D%E5%8A%A1.png" group-title="河北电信",唐山生活服务
-http://106.116.243.51:9999/rtp/239.254.200.167:6000
+http://27.184.28.92:4022/rtp/239.254.200.167:6000
 #EXTINF:-1 tvg-id="唐山影视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%94%90%E5%B1%B1%E5%BD%B1%E8%A7%86.png" group-title="河北电信",唐山影视
-http://106.116.243.51:9999/rtp/239.254.200.168:6000
+http://27.184.28.92:4022/rtp/239.254.200.168:6000
 #EXTINF:-1 tvg-id="唐山公共" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%94%90%E5%B1%B1%E5%85%AC%E5%85%B1.png" group-title="河北电信",唐山公共
-http://106.116.243.51:9999/rtp/239.254.200.169:6000
+http://27.184.28.92:4022/rtp/239.254.200.169:6000
 #EXTINF:-1 tvg-id="廊坊新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%BB%8A%E5%9D%8A%E6%96%B0%E9%97%BB.png" group-title="河北电信",廊坊新闻
-http://106.116.243.51:9999/rtp/239.254.200.183:6000
+http://27.184.28.92:4022/rtp/239.254.200.183:6000
 #EXTINF:-1 tvg-id="廊坊公共" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%BB%8A%E5%9D%8A%E5%85%AC%E5%85%B1.png" group-title="河北电信",廊坊公共
-http://106.116.243.51:9999/rtp/239.254.200.184:6000
+http://27.184.28.92:4022/rtp/239.254.200.184:6000
 #EXTINF:-1 tvg-id="沧州新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%A7%E5%B7%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png" group-title="河北电信",沧州新闻综合
-http://106.116.243.51:9999/rtp/239.254.200.42:6000
+http://27.184.28.92:4022/rtp/239.254.200.42:6000
 #EXTINF:-1 tvg-id="沧州公共" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%A7%E5%B7%9E%E5%85%AC%E5%85%B1.png" group-title="河北电信",沧州公共
-http://106.116.243.51:9999/rtp/239.254.200.43:6000
+http://27.184.28.92:4022/rtp/239.254.200.43:6000
 #EXTINF:-1 tvg-id="沧州影视娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%A7%E5%B7%9E%E5%BD%B1%E8%A7%86%E5%A8%B1%E4%B9%90.png" group-title="河北电信",沧州影视娱乐
-http://106.116.243.51:9999/rtp/239.254.200.44:6000
+http://27.184.28.92:4022/rtp/239.254.200.44:6000
 #EXTINF:-1 tvg-id="保定新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%9D%E5%AE%9A%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png" group-title="河北电信",保定新闻综合
-http://106.116.243.51:9999/rtp/239.254.200.144:6000
+http://27.184.28.92:4022/rtp/239.254.200.144:6000
 #EXTINF:-1 tvg-id="保定公共频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%9D%E5%AE%9A%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93.png" group-title="河北电信",保定公共频道
-http://106.116.243.51:9999/rtp/239.254.200.145:6000
+http://27.184.28.92:4022/rtp/239.254.200.145:6000
 #EXTINF:-1 tvg-id="保定生活健康" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BF%9D%E5%AE%9A%E7%94%9F%E6%B4%BB%E5%81%A5%E5%BA%B7.png" group-title="河北电信",保定生活健康
-http://106.116.243.51:9999/rtp/239.254.200.146:6000
+http://27.184.28.92:4022/rtp/239.254.200.146:6000
 #EXTINF:-1 tvg-id="衡水新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%A1%A1%E6%B0%B4%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png" group-title="河北电信",衡水新闻综合
-http://106.116.243.51:9999/rtp/239.254.200.147:6000
+http://27.184.28.92:4022/rtp/239.254.200.147:6000
 #EXTINF:-1 tvg-id="衡水公共" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%A1%A1%E6%B0%B4%E5%85%AC%E5%85%B1.png" group-title="河北电信",衡水公共
-http://106.116.243.51:9999/rtp/239.254.200.149:6000
+http://27.184.28.92:4022/rtp/239.254.200.149:6000
 #EXTINF:-1 tvg-id="邢台综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%82%A2%E5%8F%B0%E7%BB%BC%E5%90%88.png" group-title="河北电信",邢台综合
-http://106.116.243.51:9999/rtp/239.254.200.150:6000
+http://27.184.28.92:4022/rtp/239.254.200.150:6000
 #EXTINF:-1 tvg-id="邢台城市生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%82%A2%E5%8F%B0%E5%9F%8E%E5%B8%82%E7%94%9F%E6%B4%BB.png" group-title="河北电信",邢台城市生活
-http://106.116.243.51:9999/rtp/239.254.200.152:6000
+http://27.184.28.92:4022/rtp/239.254.200.152:6000
 #EXTINF:-1 tvg-id="邯郸新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%82%AF%E9%83%B8%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png" group-title="河北电信",邯郸新闻综合
-http://106.116.243.51:9999/rtp/239.254.200.153:6000
+http://27.184.28.92:4022/rtp/239.254.200.153:6000
 #EXTINF:-1 tvg-id="邯郸公共" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%82%AF%E9%83%B8%E5%85%AC%E5%85%B1.png" group-title="河北电信",邯郸公共
-http://106.116.243.51:9999/rtp/239.254.200.154:6000
+http://27.184.28.92:4022/rtp/239.254.200.154:6000
 #EXTINF:-1 tvg-id="邯郸科技教育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%82%AF%E9%83%B8%E7%A7%91%E6%8A%80%E6%95%99%E8%82%B2.png" group-title="河北电信",邯郸科技教育
-http://106.116.243.51:9999/rtp/239.254.200.155:6000
+http://27.184.28.92:4022/rtp/239.254.200.155:6000
 #EXTINF:-1 tvg-id="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="河北电信",湖南卫视
-http://106.116.243.51:9999/rtp/239.254.200.48:8012
+http://27.184.28.92:4022/rtp/239.254.200.48:8012
 #EXTINF:-1 tvg-id="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="河北电信",浙江卫视
-http://106.116.243.51:9999/rtp/239.254.200.53:8036
+http://27.184.28.92:4022/rtp/239.254.200.53:8036
 #EXTINF:-1 tvg-id="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="河北电信",江苏卫视
-http://106.116.243.51:9999/rtp/239.254.200.51:8028
+http://27.184.28.92:4022/rtp/239.254.200.51:8028
 #EXTINF:-1 tvg-id="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="河北电信",安徽卫视
-http://106.116.243.51:9999/rtp/239.254.200.163:6000
+http://27.184.28.92:4022/rtp/239.254.200.163:6000
 #EXTINF:-1 tvg-id="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="河北电信",东南卫视
-http://106.116.243.51:9999/rtp/239.254.201.13:6291
+http://27.184.28.92:4022/rtp/239.254.201.13:6291
 #EXTINF:-1 tvg-id="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png" group-title="河北电信",北京卫视
-http://106.116.243.51:9999/rtp/239.254.200.47:8024
+http://27.184.28.92:4022/rtp/239.254.200.47:8024
 #EXTINF:-1 tvg-id="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png" group-title="河北电信",天津卫视
-http://106.116.243.51:9999/rtp/239.254.200.54:1234
+http://27.184.28.92:4022/rtp/239.254.200.54:1234
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png" group-title="河北电信",辽宁卫视
-http://106.116.243.51:9999/rtp/239.254.200.57:8056
+http://27.184.28.92:4022/rtp/239.254.200.57:8056
 #EXTINF:-1 tvg-id="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="河北电信",山东卫视
-http://106.116.243.51:9999/rtp/239.254.200.55:8052
+http://27.184.28.92:4022/rtp/239.254.200.55:8052
 #EXTINF:-1 tvg-id="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="河北电信",云南卫视
-http://106.116.243.51:9999/rtp/239.254.200.68:8108
+http://27.184.28.92:4022/rtp/239.254.200.68:8108
 #EXTINF:-1 tvg-id="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="河北电信",河南卫视
-http://106.116.243.51:9999/rtp/239.254.201.16:7174
+http://27.184.28.92:4022/rtp/239.254.201.16:7174
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="河北电信",黑龙江卫视
-http://106.116.243.51:9999/rtp/239.254.200.49:8016
+http://27.184.28.92:4022/rtp/239.254.200.49:8016
 #EXTINF:-1 tvg-id="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png" group-title="河北电信",四川卫视
-http://106.116.243.51:9999/rtp/239.254.200.202:6325
+http://27.184.28.92:4022/rtp/239.254.200.202:6325
 #EXTINF:-1 tvg-id="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="河北电信",江西卫视
-http://106.116.243.51:9999/rtp/239.254.201.12:6290
+http://27.184.28.92:4022/rtp/239.254.201.12:6290
 #EXTINF:-1 tvg-id="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png" group-title="河北电信",贵州卫视
-http://106.116.243.51:9999/rtp/239.254.201.20:6315
+http://27.184.28.92:4022/rtp/239.254.201.20:6315
 #EXTINF:-1 tvg-id="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png" group-title="河北电信",深圳卫视
-http://106.116.243.51:9999/rtp/239.254.200.50:8020
+http://27.184.28.92:4022/rtp/239.254.200.50:8020
 #EXTINF:-1 tvg-id="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="河北电信",湖北卫视
-http://106.116.243.51:9999/rtp/239.254.200.164:6000
+http://27.184.28.92:4022/rtp/239.254.200.164:6000
 #EXTINF:-1 tvg-id="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="河北电信",东方卫视
-http://106.116.243.51:9999/rtp/239.254.200.52:8032
+http://27.184.28.92:4022/rtp/239.254.200.52:8032
 #EXTINF:-1 tvg-id="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86.png" group-title="河北电信",重庆卫视
-http://106.116.243.51:9999/rtp/239.254.200.203:6323
+http://27.184.28.92:4022/rtp/239.254.200.203:6323
 #EXTINF:-1 tvg-id="山西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="河北电信",山西卫视
-http://106.116.243.51:9999/rtp/239.254.200.83:8172
+http://27.184.28.92:4022/rtp/239.254.200.83:8172
 #EXTINF:-1 tvg-id="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="河北电信",广东卫视
-http://106.116.243.51:9999/rtp/239.254.200.56:8048
+http://27.184.28.92:4022/rtp/239.254.200.56:8048
 #EXTINF:-1 tvg-id="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="河北电信",广西卫视
-http://106.116.243.51:9999/rtp/239.254.200.80:8300
+http://27.184.28.92:4022/rtp/239.254.200.80:8300
 #EXTINF:-1 tvg-id="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86.png" group-title="河北电信",吉林卫视
-http://106.116.243.51:9999/rtp/239.254.201.15:6339
+http://27.184.28.92:4022/rtp/239.254.201.15:6339
 #EXTINF:-1 tvg-id="陕西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="河北电信",陕西卫视
-http://106.116.243.51:9999/rtp/239.254.200.82:8140
+http://27.184.28.92:4022/rtp/239.254.200.82:8140
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86.png" group-title="河北电信",内蒙古卫视
-http://106.116.243.51:9999/rtp/239.254.200.84:8176
+http://27.184.28.92:4022/rtp/239.254.200.84:8176
 #EXTINF:-1 tvg-id="青海卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png" group-title="河北电信",青海卫视
-http://106.116.243.51:9999/rtp/239.254.200.85:8184
+http://27.184.28.92:4022/rtp/239.254.200.85:8184
 #EXTINF:-1 tvg-id="海南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="河北电信",海南卫视
-http://106.116.243.51:9999/rtp/239.254.201.125:6288
+http://27.184.28.92:4022/rtp/239.254.201.125:6288
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png" group-title="河北电信",宁夏卫视
-http://106.116.243.51:9999/rtp/239.254.200.87:8124
+http://27.184.28.92:4022/rtp/239.254.200.87:8124
 #EXTINF:-1 tvg-id="西藏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png" group-title="河北电信",西藏卫视
-http://106.116.243.51:9999/rtp/239.254.200.88:8164
+http://27.184.28.92:4022/rtp/239.254.200.88:8164
 #EXTINF:-1 tvg-id="新疆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png" group-title="河北电信",新疆卫视
-http://106.116.243.51:9999/rtp/239.254.200.89:8160
+http://27.184.28.92:4022/rtp/239.254.200.89:8160
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png" group-title="河北电信",甘肃卫视
-http://106.116.243.51:9999/rtp/239.254.200.90:8188
+http://27.184.28.92:4022/rtp/239.254.200.90:8188
 #EXTINF:-1 tvg-id="kaku少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/kaku%E5%B0%91%E5%84%BF.png" group-title="河北电信",kaku少儿
-http://106.116.243.51:9999/rtp/239.254.200.91:9248
+http://27.184.28.92:4022/rtp/239.254.200.91:9248
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A.png" group-title="河北电信",金鹰卡通
-http://106.116.243.51:9999/rtp/239.254.200.92:9252
+http://27.184.28.92:4022/rtp/239.254.200.92:9252
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A.png" group-title="河北电信",嘉佳卡通
-http://106.116.243.51:9999/rtp/239.254.201.201:7269
+http://27.184.28.92:4022/rtp/239.254.201.201:7269
 #EXTINF:-1 tvg-id="优漫卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A.png" group-title="河北电信",优漫卡通
-http://106.116.243.51:9999/rtp/239.254.201.203:7178
+http://27.184.28.92:4022/rtp/239.254.201.203:7178
 #EXTINF:-1 tvg-id="山东教育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2.png" group-title="河北电信",山东教育
-http://106.116.243.51:9999/rtp/239.254.200.247:4120
+http://27.184.28.92:4022/rtp/239.254.200.247:4120
 #EXTINF:-1 tvg-id="纪实人文高清" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%BA%AA%E5%AE%9E%E4%BA%BA%E6%96%87%E9%AB%98%E6%B8%85.png" group-title="河北电信",纪实人文高清
-http://106.116.243.51:9999/rtp/239.254.200.58:8060
+http://27.184.28.92:4022/rtp/239.254.200.58:8060
 #EXTINF:-1 tvg-id="CETV-1高清" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV-1%E9%AB%98%E6%B8%85.png" group-title="河北电信",CETV-1高清
-http://106.116.243.51:9999/rtp/239.254.200.225:6259
+http://27.184.28.92:4022/rtp/239.254.200.225:6259
 #EXTINF:-1 tvg-id="BTV冬奥纪实" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BTV%E5%86%AC%E5%A5%A5%E7%BA%AA%E5%AE%9E.png" group-title="河北电信",BTV冬奥纪实
-http://106.116.243.51:9999/rtp/239.254.200.188:6311
+http://27.184.28.92:4022/rtp/239.254.200.188:6311
 #EXTINF:-1 tvg-id="金鹰纪实高清" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%91%E9%B9%B0%E7%BA%AA%E5%AE%9E%E9%AB%98%E6%B8%85.png" group-title="河北电信",金鹰纪实高清
-http://106.116.243.51:9999/rtp/239.254.200.189:6293
+http://27.184.28.92:4022/rtp/239.254.200.189:6293
 #EXTINF:-1 tvg-id="电视指南" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%B5%E8%A7%86%E6%8C%87%E5%8D%97.png" group-title="河北电信",电视指南
-http://106.116.243.51:9999/rtp/239.254.200.142:6256
+http://27.184.28.92:4022/rtp/239.254.200.142:6256
 #EXTINF:-1 tvg-id="第一剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%AC%AC%E4%B8%80%E5%89%A7%E5%9C%BA.png" group-title="河北电信",第一剧场
-http://106.116.243.51:9999/rtp/239.254.200.93:6227
+http://27.184.28.92:4022/rtp/239.254.200.93:6227
 #EXTINF:-1 tvg-id="风云剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA.png" group-title="河北电信",风云剧场
-http://106.116.243.51:9999/rtp/239.254.200.94:6228
+http://27.184.28.92:4022/rtp/239.254.200.94:6228
 #EXTINF:-1 tvg-id="怀旧剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA.png" group-title="河北电信",怀旧剧场
-http://106.116.243.51:9999/rtp/239.254.200.95:6229
+http://27.184.28.92:4022/rtp/239.254.200.95:6229
 #EXTINF:-1 tvg-id="风云音乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%A3%8E%E4%BA%91%E9%9F%B3%E4%B9%90.png" group-title="河北电信",风云音乐
-http://106.116.243.51:9999/rtp/239.254.200.96:6230
+http://27.184.28.92:4022/rtp/239.254.200.96:6230
 #EXTINF:-1 tvg-id="风云足球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83.png" group-title="河北电信",风云足球
-http://106.116.243.51:9999/rtp/239.254.200.97:6231
+http://27.184.28.92:4022/rtp/239.254.200.97:6231
 #EXTINF:-1 tvg-id="高尔夫网球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%AB%98%E5%B0%94%E5%A4%AB%E7%BD%91%E7%90%83.png" group-title="河北电信",高尔夫网球
-http://106.116.243.51:9999/rtp/239.254.200.98:6232
+http://27.184.28.92:4022/rtp/239.254.200.98:6232
 #EXTINF:-1 tvg-id="天元围棋" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E5%85%83%E5%9B%B4%E6%A3%8B.png" group-title="河北电信",天元围棋
-http://106.116.243.51:9999/rtp/239.254.201.156:6270
+http://27.184.28.92:4022/rtp/239.254.201.156:6270
 #EXTINF:-1 tvg-id="武术世界" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%AD%A6%E6%9C%AF%E4%B8%96%E7%95%8C.png" group-title="河北电信",武术世界
-http://106.116.243.51:9999/rtp/239.254.200.100:6234
+http://27.184.28.92:4022/rtp/239.254.200.100:6234
 #EXTINF:-1 tvg-id="兵器科技" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%85%B5%E5%99%A8%E7%A7%91%E6%8A%80.png" group-title="河北电信",兵器科技
-http://106.116.243.51:9999/rtp/239.254.200.101:6235
+http://27.184.28.92:4022/rtp/239.254.200.101:6235
 #EXTINF:-1 tvg-id="世界地理" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86.png" group-title="河北电信",世界地理
-http://106.116.243.51:9999/rtp/239.254.200.102:6236
+http://27.184.28.92:4022/rtp/239.254.200.102:6236
 #EXTINF:-1 tvg-id="老故事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%80%81%E6%95%85%E4%BA%8B.png" group-title="河北电信",老故事
-http://106.116.243.51:9999/rtp/239.254.200.104:6237
+http://27.184.28.92:4022/rtp/239.254.200.104:6237
 #EXTINF:-1 tvg-id="环球奇观" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%8E%AF%E7%90%83%E5%A5%87%E8%A7%82.png" group-title="河北电信",环球奇观
-http://106.116.243.51:9999/rtp/239.254.200.105:6238
+http://27.184.28.92:4022/rtp/239.254.200.105:6238
 #EXTINF:-1 tvg-id="文物宝库" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%96%87%E7%89%A9%E5%AE%9D%E5%BA%93.png" group-title="河北电信",文物宝库
-http://106.116.243.51:9999/rtp/239.254.200.106:6239
+http://27.184.28.92:4022/rtp/239.254.200.106:6239
 #EXTINF:-1 tvg-id="国学" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%BD%E5%AD%A6.png" group-title="河北电信",国学
-http://106.116.243.51:9999/rtp/239.254.200.107:6255
+http://27.184.28.92:4022/rtp/239.254.200.107:6255
 #EXTINF:-1 tvg-id="茶频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%8C%B6%E9%A2%91%E9%81%93.png" group-title="河北电信",茶频道
-http://106.116.243.51:9999/rtp/239.254.200.228:6258
+http://27.184.28.92:4022/rtp/239.254.200.228:6258
 #EXTINF:-1 tvg-id="女性时尚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A5%B3%E6%80%A7%E6%97%B6%E5%B0%9A.png" group-title="河北电信",女性时尚
-http://106.116.243.51:9999/rtp/239.254.200.110:6241
+http://27.184.28.92:4022/rtp/239.254.200.110:6241
 #EXTINF:-1 tvg-id="文化精品" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%96%87%E5%8C%96%E7%B2%BE%E5%93%81.png" group-title="河北电信",文化精品
-http://106.116.243.51:9999/rtp/239.254.200.111:6251
+http://27.184.28.92:4022/rtp/239.254.200.111:6251
 #EXTINF:-1 tvg-id="早期教育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%97%A9%E6%9C%9F%E6%95%99%E8%82%B2.png" group-title="河北电信",早期教育
-http://106.116.243.51:9999/rtp/239.254.200.114:6244
+http://27.184.28.92:4022/rtp/239.254.200.114:6244
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93.png" group-title="河北电信",快乐垂钓
-http://106.116.243.51:9999/rtp/239.254.200.229:6257
+http://27.184.28.92:4022/rtp/239.254.200.229:6257
 #EXTINF:-1 tvg-id="书画" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B9%A6%E7%94%BB.png" group-title="河北电信",书画
-http://106.116.243.51:9999/rtp/239.254.200.217:6267
+http://27.184.28.92:4022/rtp/239.254.200.217:6267
 #EXTINF:-1 tvg-id="摄影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%91%84%E5%BD%B1.png" group-title="河北电信",摄影
-http://106.116.243.51:9999/rtp/239.254.200.119:6246
+http://27.184.28.92:4022/rtp/239.254.200.119:6246
 #EXTINF:-1 tvg-id="梨园" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%A2%A8%E5%9B%AD.png" group-title="河北电信",梨园
-http://106.116.243.51:9999/rtp/239.254.200.120:6247
+http://27.184.28.92:4022/rtp/239.254.200.120:6247
 #EXTINF:-1 tvg-id="靓妆" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%9D%93%E5%A6%86.png" group-title="河北电信",靓妆
-http://106.116.243.51:9999/rtp/239.254.200.122:6249
+http://27.184.28.92:4022/rtp/239.254.200.122:6249
 #EXTINF:-1 tvg-id="汽摩" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%BD%E6%91%A9.png" group-title="河北电信",汽摩
-http://106.116.243.51:9999/rtp/239.254.200.103:6252
+http://27.184.28.92:4022/rtp/239.254.200.103:6252
 #EXTINF:-1 tvg-id="CETV-2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV-2.png" group-title="河北电信",CETV-2
-http://106.116.243.51:9999/rtp/239.254.200.226:6260
+http://27.184.28.92:4022/rtp/239.254.200.226:6260
 #EXTINF:-1 tvg-id="CETV-4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV-4.png" group-title="河北电信",CETV-4
-http://106.116.243.51:9999/rtp/239.254.200.227:6261
+http://27.184.28.92:4022/rtp/239.254.200.227:6261
 #EXTINF:-1 tvg-id="游戏竞技" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B8%B8%E6%88%8F%E7%AB%9E%E6%8A%80.png" group-title="河北电信",游戏竞技
-http://106.116.243.51:9999/rtp/239.254.201.157:6269
+http://27.184.28.92:4022/rtp/239.254.201.157:6269
 #EXTINF:-1 tvg-id="中学生" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%AD%E5%AD%A6%E7%94%9F.png" group-title="河北电信",中学生
-http://106.116.243.51:9999/rtp/239.254.200.113:6243
+http://27.184.28.92:4022/rtp/239.254.200.113:6243
 #EXTINF:-1 tvg-id="新动漫" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%96%B0%E5%8A%A8%E6%BC%AB.png" group-title="河北电信",新动漫
-http://106.116.243.51:9999/rtp/239.254.201.158:7170
+http://27.184.28.92:4022/rtp/239.254.201.158:7170
 #EXTINF:-1 tvg-id="网络棋牌" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%BD%91%E7%BB%9C%E6%A3%8B%E7%89%8C.png" group-title="河北电信",网络棋牌
-http://106.116.243.51:9999/rtp/239.254.201.159:7169
+http://27.184.28.92:4022/rtp/239.254.201.159:7169
 #EXTINF:-1 tvg-id="先锋乒羽" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%85%88%E9%94%8B%E4%B9%92%E7%BE%BD.png" group-title="河北电信",先锋乒羽
-http://106.116.243.51:9999/rtp/239.254.201.160:7172
+http://27.184.28.92:4022/rtp/239.254.201.160:7172
 #EXTINF:-1 tvg-id="环球旅游" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%8E%AF%E7%90%83%E6%97%85%E6%B8%B8.png" group-title="河北电信",环球旅游
-http://106.116.243.51:9999/rtp/239.254.201.161:6264
+http://27.184.28.92:4022/rtp/239.254.201.161:6264
 #EXTINF:-1 tvg-id="车迷" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BD%A6%E8%BF%B7.png" group-title="河北电信",车迷
-http://106.116.243.51:9999/rtp/239.254.201.162:6266
+http://27.184.28.92:4022/rtp/239.254.201.162:6266
 #EXTINF:-1 tvg-id="游戏风云" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B8%B8%E6%88%8F%E9%A3%8E%E4%BA%91.png" group-title="河北电信",游戏风云
-http://106.116.243.51:9999/rtp/239.254.201.163:6354
+http://27.184.28.92:4022/rtp/239.254.201.163:6354
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA.png" group-title="河北电信",欢笑剧场
-http://106.116.243.51:9999/rtp/239.254.201.164:6355
+http://27.184.28.92:4022/rtp/239.254.201.164:6355
 #EXTINF:-1 tvg-id="全纪实" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%85%A8%E7%BA%AA%E5%AE%9E.png" group-title="河北电信",全纪实
-http://106.116.243.51:9999/rtp/239.254.201.200:6356
+http://27.184.28.92:4022/rtp/239.254.201.200:6356
 #EXTINF:-1 tvg-id="动漫秀场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BA.png" group-title="河北电信",动漫秀场
-http://106.116.243.51:9999/rtp/239.254.201.165:6358
+http://27.184.28.92:4022/rtp/239.254.201.165:6358
 #EXTINF:-1 tvg-id="生活时尚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9A.png" group-title="河北电信",生活时尚
-http://106.116.243.51:9999/rtp/239.254.201.166:6359
+http://27.184.28.92:4022/rtp/239.254.201.166:6359
 #EXTINF:-1 tvg-id="都市剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%83%BD%E5%B8%82%E5%89%A7%E5%9C%BA.png" group-title="河北电信",都市剧场
-http://106.116.243.51:9999/rtp/239.254.201.167:6360
+http://27.184.28.92:4022/rtp/239.254.201.167:6360
 #EXTINF:-1 tvg-id="极速汽车" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%9E%81%E9%80%9F%E6%B1%BD%E8%BD%A6.png" group-title="河北电信",极速汽车
-http://106.116.243.51:9999/rtp/239.254.201.168:6362
+http://27.184.28.92:4022/rtp/239.254.201.168:6362
 #EXTINF:-1 tvg-id="足球频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B6%B3%E7%90%83%E9%A2%91%E9%81%93.png" group-title="河北电信",足球频道
-http://106.116.243.51:9999/rtp/239.254.201.169:6341
+http://27.184.28.92:4022/rtp/239.254.201.169:6341
 #EXTINF:-1 tvg-id="体育赛事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B.png" group-title="河北电信",体育赛事
-http://106.116.243.51:9999/rtp/239.254.201.170:8176
+http://27.184.28.92:4022/rtp/239.254.201.170:8176
 #EXTINF:-1 tvg-id="央视台球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83.png" group-title="河北电信",央视台球
-http://106.116.243.51:9999/rtp/239.254.201.171:7176
+http://27.184.28.92:4022/rtp/239.254.201.171:7176
 #EXTINF:-1 tvg-id="冰雪体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%B0%E9%9B%AA%E4%BD%93%E8%82%B2.png" group-title="河北电信",冰雪体育
-http://106.116.243.51:9999/rtp/239.254.201.172:7244
+http://27.184.28.92:4022/rtp/239.254.201.172:7244
 #EXTINF:-1 tvg-id="马拉松" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%A9%AC%E6%8B%89%E6%9D%BE.png" group-title="河北电信",马拉松
-http://106.116.243.51:9999/rtp/239.254.201.173:7246
+http://27.184.28.92:4022/rtp/239.254.201.173:7246
 #EXTINF:-1 tvg-id="每日健身" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%AF%8F%E6%97%A5%E5%81%A5%E8%BA%AB.png" group-title="河北电信",每日健身
-http://106.116.243.51:9999/rtp/239.254.201.174:7245
+http://27.184.28.92:4022/rtp/239.254.201.174:7245
 #EXTINF:-1 tvg-id="音像世界（DOXTV）" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%9F%B3%E5%83%8F%E4%B8%96%E7%95%8C%EF%BC%88DOXTV%EF%BC%89.png" group-title="河北电信",音像世界（DOXTV）
-http://106.116.243.51:9999/rtp/239.254.201.175:7243
+http://27.184.28.92:4022/rtp/239.254.201.175:7243
 #EXTINF:-1 tvg-id="求索纪录" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%82%E7%B4%A2%E7%BA%AA%E5%BD%95.png" group-title="河北电信",求索纪录
-http://106.116.243.51:9999/rtp/239.254.201.176:7221
+http://27.184.28.92:4022/rtp/239.254.201.176:7221
 #EXTINF:-1 tvg-id="陶瓷" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%99%B6%E7%93%B7.png" group-title="河北电信",陶瓷
-http://106.116.243.51:9999/rtp/239.254.201.21:7175
+http://27.184.28.92:4022/rtp/239.254.201.21:7175
 #EXTINF:-1 tvg-id="七彩戏剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%83%E5%BD%A9%E6%88%8F%E5%89%A7.png" group-title="河北电信",七彩戏剧
-http://106.116.243.51:9999/rtp/239.254.201.180:7213
+http://27.184.28.92:4022/rtp/239.254.201.180:7213
 #EXTINF:-1 tvg-id="东方财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E6%96%B9%E8%B4%A2%E7%BB%8F.png" group-title="河北电信",东方财经
-http://106.116.243.51:9999/rtp/239.254.201.181:7214
+http://27.184.28.92:4022/rtp/239.254.201.181:7214
 #EXTINF:-1 tvg-id="金色学堂" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%91%E8%89%B2%E5%AD%A6%E5%A0%82.png" group-title="河北电信",金色学堂
-http://106.116.243.51:9999/rtp/239.254.201.182:7227
+http://27.184.28.92:4022/rtp/239.254.201.182:7227
 #EXTINF:-1 tvg-id="法治天地" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B3%95%E6%B2%BB%E5%A4%A9%E5%9C%B0.png" group-title="河北电信",法治天地
-http://106.116.243.51:9999/rtp/239.254.201.183:7226
+http://27.184.28.92:4022/rtp/239.254.201.183:7226
 #EXTINF:-1 tvg-id="中华特产" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%AD%E5%8D%8E%E7%89%B9%E4%BA%A7.png" group-title="河北电信",中华特产
-http://106.116.243.51:9999/rtp/239.254.201.184:6263
+http://27.184.28.92:4022/rtp/239.254.201.184:6263
 #EXTINF:-1 tvg-id="四海钓鱼" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC.png" group-title="河北电信",四海钓鱼
-http://106.116.243.51:9999/rtp/239.254.201.185:6363
+http://27.184.28.92:4022/rtp/239.254.201.185:6363
 #EXTINF:-1 tvg-id="优优宝贝" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BC%98%E4%BC%98%E5%AE%9D%E8%B4%9D.png" group-title="河北电信",优优宝贝
-http://106.116.243.51:9999/rtp/239.254.201.186:6272
+http://27.184.28.92:4022/rtp/239.254.201.186:6272
 #EXTINF:-1 tvg-id="生态环境" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%9F%E6%80%81%E7%8E%AF%E5%A2%83.png" group-title="河北电信",生态环境
-http://106.116.243.51:9999/rtp/239.254.201.187:6226
+http://27.184.28.92:4022/rtp/239.254.201.187:6226
 #EXTINF:-1 tvg-id="家庭理财" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%B6%E5%BA%AD%E7%90%86%E8%B4%A2.png" group-title="河北电信",家庭理财
-http://106.116.243.51:9999/rtp/239.254.201.188:6366
+http://27.184.28.92:4022/rtp/239.254.201.188:6366
 #EXTINF:-1 tvg-id="财富天下" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B.png" group-title="河北电信",财富天下
-http://106.116.243.51:9999/rtp/239.254.200.124:6370
+http://27.184.28.92:4022/rtp/239.254.200.124:6370
 #EXTINF:-1 tvg-id="中华美食" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%AD%E5%8D%8E%E7%BE%8E%E9%A3%9F.png" group-title="河北电信",中华美食
-http://106.116.243.51:9999/rtp/239.254.201.189:7171
+http://27.184.28.92:4022/rtp/239.254.201.189:7171
 #EXTINF:-1 tvg-id="电视指南高清" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%B5%E8%A7%86%E6%8C%87%E5%8D%97%E9%AB%98%E6%B8%85.png" group-title="河北电信",电视指南高清
-http://106.116.243.51:9999/rtp/239.254.201.217:7250
+http://27.184.28.92:4022/rtp/239.254.201.217:7250
 #EXTINF:-1 tvg-id="第一剧场高清" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%AC%AC%E4%B8%80%E5%89%A7%E5%9C%BA%E9%AB%98%E6%B8%85.png" group-title="河北电信",第一剧场高清
-http://106.116.243.51:9999/rtp/239.254.201.218:7258
+http://27.184.28.92:4022/rtp/239.254.201.218:7258
 #EXTINF:-1 tvg-id="风云剧场高清" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA%E9%AB%98%E6%B8%85.png" group-title="河北电信",风云剧场高清
-http://106.116.243.51:9999/rtp/239.254.201.219:7257
+http://27.184.28.92:4022/rtp/239.254.201.219:7257
 #EXTINF:-1 tvg-id="怀旧剧场高清" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA%E9%AB%98%E6%B8%85.png" group-title="河北电信",怀旧剧场高清
-http://106.116.243.51:9999/rtp/239.254.201.220:7256
+http://27.184.28.92:4022/rtp/239.254.201.220:7256
 #EXTINF:-1 tvg-id="风云音乐高清" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%A3%8E%E4%BA%91%E9%9F%B3%E4%B9%90%E9%AB%98%E6%B8%85.png" group-title="河北电信",风云音乐高清
-http://106.116.243.51:9999/rtp/239.254.201.221:7259
+http://27.184.28.92:4022/rtp/239.254.201.221:7259
 #EXTINF:-1 tvg-id="风云足球高清" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83%E9%AB%98%E6%B8%85.png" group-title="河北电信",风云足球高清
-http://106.116.243.51:9999/rtp/239.254.201.222:7251
+http://27.184.28.92:4022/rtp/239.254.201.222:7251
 #EXTINF:-1 tvg-id="高尔夫网球高清" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%AB%98%E5%B0%94%E5%A4%AB%E7%BD%91%E7%90%83%E9%AB%98%E6%B8%85.png" group-title="河北电信",高尔夫网球高清
-http://106.116.243.51:9999/rtp/239.254.201.223:7252
+http://27.184.28.92:4022/rtp/239.254.201.223:7252
 #EXTINF:-1 tvg-id="武术世界高清" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%AD%A6%E6%9C%AF%E4%B8%96%E7%95%8C%E9%AB%98%E6%B8%85.png" group-title="河北电信",武术世界高清
-http://106.116.243.51:9999/rtp/239.254.201.224:7229
+http://27.184.28.92:4022/rtp/239.254.201.224:7229
 #EXTINF:-1 tvg-id="兵器科技高清" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%85%B5%E5%99%A8%E7%A7%91%E6%8A%80%E9%AB%98%E6%B8%85.png" group-title="河北电信",兵器科技高清
-http://106.116.243.51:9999/rtp/239.254.201.225:7249
+http://27.184.28.92:4022/rtp/239.254.201.225:7249
 #EXTINF:-1 tvg-id="世界地理高清" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86%E9%AB%98%E6%B8%85.png" group-title="河北电信",世界地理高清
-http://106.116.243.51:9999/rtp/239.254.201.226:7254
+http://27.184.28.92:4022/rtp/239.254.201.226:7254
 #EXTINF:-1 tvg-id="文物宝库高清" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%96%87%E7%89%A9%E5%AE%9D%E5%BA%93%E9%AB%98%E6%B8%85.png" group-title="河北电信",文物宝库高清
-http://106.116.243.51:9999/rtp/239.254.201.227:7230
+http://27.184.28.92:4022/rtp/239.254.201.227:7230
 #EXTINF:-1 tvg-id="女性时尚高清" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A5%B3%E6%80%A7%E6%97%B6%E5%B0%9A%E9%AB%98%E6%B8%85.png" group-title="河北电信",女性时尚高清
-http://106.116.243.51:9999/rtp/239.254.201.228:7255
+http://27.184.28.92:4022/rtp/239.254.201.228:7255
 #EXTINF:-1 tvg-id="文化精品高清" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%96%87%E5%8C%96%E7%B2%BE%E5%93%81%E9%AB%98%E6%B8%85.png" group-title="河北电信",文化精品高清
-http://106.116.243.51:9999/rtp/239.254.201.229:7260
+http://27.184.28.92:4022/rtp/239.254.201.229:7260
 #EXTINF:-1 tvg-id="早期教育高清" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%97%A9%E6%9C%9F%E6%95%99%E8%82%B2%E9%AB%98%E6%B8%85.png" group-title="河北电信",早期教育高清
-http://106.116.243.51:9999/rtp/239.254.201.230:7253
+http://27.184.28.92:4022/rtp/239.254.201.230:7253
 #EXTINF:-1 tvg-id="梨园高清" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%A2%A8%E5%9B%AD%E9%AB%98%E6%B8%85.png" group-title="河北电信",梨园高清
-http://106.116.243.51:9999/rtp/239.254.201.231:7228
+http://27.184.28.92:4022/rtp/239.254.201.231:7228
 #EXTINF:-1 tvg-id="CCTV4中文国际欧洲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85%E6%AC%A7%E6%B4%B2.png" group-title="河北电信",CCTV4中文国际欧洲
-http://106.116.243.51:9999/rtp/239.254.201.205:4220
+http://27.184.28.92:4022/rtp/239.254.201.205:4220
 #EXTINF:-1 tvg-id="CCTV4中文国际美洲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85%E7%BE%8E%E6%B4%B2.png" group-title="河北电信",CCTV4中文国际美洲
-http://106.116.243.51:9999/rtp/239.254.201.206:4220
+http://27.184.28.92:4022/rtp/239.254.201.206:4220
 #EXTINF:-1 tvg-id="CGTN 英文记录" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN%20%E8%8B%B1%E6%96%87%E8%AE%B0%E5%BD%95.png" group-title="河北电信",CGTN 英文记录
-http://106.116.243.51:9999/rtp/239.254.201.208:4220
+http://27.184.28.92:4022/rtp/239.254.201.208:4220
 #EXTINF:-1 tvg-id="CGTN 西班牙语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN%20%E8%A5%BF%E7%8F%AD%E7%89%99%E8%AF%AD.png" group-title="河北电信",CGTN 西班牙语
-http://106.116.243.51:9999/rtp/239.254.201.209:4220
+http://27.184.28.92:4022/rtp/239.254.201.209:4220
 #EXTINF:-1 tvg-id="CGTN 法语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN%20%E6%B3%95%E8%AF%AD.png" group-title="河北电信",CGTN 法语
-http://106.116.243.51:9999/rtp/239.254.201.210:4220
+http://27.184.28.92:4022/rtp/239.254.201.210:4220
 #EXTINF:-1 tvg-id="CGTN 阿拉伯语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN%20%E9%98%BF%E6%8B%89%E4%BC%AF%E8%AF%AD.png" group-title="河北电信",CGTN 阿拉伯语
-http://106.116.243.51:9999/rtp/239.254.201.211:4220
+http://27.184.28.92:4022/rtp/239.254.201.211:4220
 #EXTINF:-1 tvg-id="CGTN 俄语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN%20%E4%BF%84%E8%AF%AD.png" group-title="河北电信",CGTN 俄语
-http://106.116.243.51:9999/rtp/239.254.201.212:4220
+http://27.184.28.92:4022/rtp/239.254.201.212:4220
 #EXTINF:-1 tvg-id="凤凰卫视电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E7%94%B5%E5%BD%B1%E5%8F%B0.png" group-title="河北电信",凤凰卫视电影台
-http://106.116.243.51:9999/rtp/239.254.201.1:5214
+http://27.184.28.92:4022/rtp/239.254.201.1:5214
 #EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E4%B8%AD%E6%96%87%E5%8F%B0.png" group-title="河北电信",凤凰卫视中文台
-http://106.116.243.51:9999/rtp/239.254.201.2:5226
+http://27.184.28.92:4022/rtp/239.254.201.2:5226
 #EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E8%B5%84%E8%AE%AF%E5%8F%B0.png" group-title="河北电信",凤凰卫视资讯台
-http://106.116.243.51:9999/rtp/239.254.201.3:5227
+http://27.184.28.92:4022/rtp/239.254.201.3:5227
 #EXTINF:-1 tvg-id="中国交通频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%AD%E5%9B%BD%E4%BA%A4%E9%80%9A%E9%A2%91%E9%81%93.png" group-title="河北电信",中国交通频道
-http://106.116.243.51:9999/rtp/239.254.201.110:5181
+http://27.184.28.92:4022/rtp/239.254.201.110:5181
 #EXTINF:-1 tvg-id="元氏电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%85%83%E6%B0%8F%E7%94%B5%E8%A7%86.png" group-title="河北电信",元氏电视
-http://106.116.243.51:9999/rtp/239.254.200.191:5169
+http://27.184.28.92:4022/rtp/239.254.200.191:5169
 #EXTINF:-1 tvg-id="无极电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%97%A0%E6%9E%81%E7%94%B5%E8%A7%86.png" group-title="河北电信",无极电视
-http://106.116.243.51:9999/rtp/239.254.200.220:5167
+http://27.184.28.92:4022/rtp/239.254.200.220:5167
 #EXTINF:-1 tvg-id="高邑电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%AB%98%E9%82%91%E7%94%B5%E8%A7%86.png" group-title="河北电信",高邑电视
-http://106.116.243.51:9999/rtp/239.254.201.24:5170
+http://27.184.28.92:4022/rtp/239.254.201.24:5170
 #EXTINF:-1 tvg-id="栾城电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%A0%BE%E5%9F%8E%E7%94%B5%E8%A7%86.png" group-title="河北电信",栾城电视
-http://106.116.243.51:9999/rtp/239.254.200.215:5173
+http://27.184.28.92:4022/rtp/239.254.200.215:5173
 #EXTINF:-1 tvg-id="井陉矿区电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BA%95%E9%99%89%E7%9F%BF%E5%8C%BA%E7%94%B5%E8%A7%86.png" group-title="河北电信",井陉矿区电视
-http://106.116.243.51:9999/rtp/239.254.201.14:5175
+http://27.184.28.92:4022/rtp/239.254.201.14:5175
 #EXTINF:-1 tvg-id="赞皇电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B5%9E%E7%9A%87%E7%94%B5%E8%A7%86.png" group-title="河北电信",赞皇电视
-http://106.116.243.51:9999/rtp/239.254.200.244:5177
+http://27.184.28.92:4022/rtp/239.254.200.244:5177
 #EXTINF:-1 tvg-id="深泽电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B7%B1%E6%B3%BD%E7%94%B5%E8%A7%86.png" group-title="河北电信",深泽电视
-http://106.116.243.51:9999/rtp/239.254.201.108:5180
+http://27.184.28.92:4022/rtp/239.254.201.108:5180
 #EXTINF:-1 tvg-id="赵县电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B5%B5%E5%8E%BF%E7%94%B5%E8%A7%86.png" group-title="河北电信",赵县电视
-http://106.116.243.51:9999/rtp/239.254.201.111:5183
+http://27.184.28.92:4022/rtp/239.254.201.111:5183
 #EXTINF:-1 tvg-id="晋州电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%99%8B%E5%B7%9E%E7%94%B5%E8%A7%86.png" group-title="河北电信",晋州电视
-http://106.116.243.51:9999/rtp/239.254.201.127:5184
+http://27.184.28.92:4022/rtp/239.254.201.127:5184
 #EXTINF:-1 tvg-id="井陉电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BA%95%E9%99%89%E7%94%B5%E8%A7%86.png" group-title="河北电信",井陉电视
-http://106.116.243.51:9999/rtp/239.254.201.215:6167
+http://27.184.28.92:4022/rtp/239.254.201.215:6167
 #EXTINF:-1 tvg-id="平泉电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%B3%E6%B3%89%E7%94%B5%E8%A7%86.png" group-title="河北电信",平泉电视
-http://106.116.243.51:9999/rtp/239.254.200.177:5286
+http://27.184.28.92:4022/rtp/239.254.200.177:5286
 #EXTINF:-1 tvg-id="滦平电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%BB%A6%E5%B9%B3%E7%94%B5%E8%A7%86.png" group-title="河北电信",滦平电视
-http://106.116.243.51:9999/rtp/239.254.201.4:5291
+http://27.184.28.92:4022/rtp/239.254.201.4:5291
 #EXTINF:-1 tvg-id="双滦电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8F%8C%E6%BB%A6%E7%94%B5%E8%A7%86.png" group-title="河北电信",双滦电视
-http://106.116.243.51:9999/rtp/239.254.201.63:5293
+http://27.184.28.92:4022/rtp/239.254.201.63:5293
 #EXTINF:-1 tvg-id="兴隆电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%85%B4%E9%9A%86%E7%94%B5%E8%A7%86.png" group-title="河北电信",兴隆电视
-http://106.116.243.51:9999/rtp/239.254.201.95:5295
+http://27.184.28.92:4022/rtp/239.254.201.95:5295
 #EXTINF:-1 tvg-id="隆化电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%9A%86%E5%8C%96%E7%94%B5%E8%A7%86.png" group-title="河北电信",隆化电视
-http://106.116.243.51:9999/rtp/239.254.201.142:5296
+http://27.184.28.92:4022/rtp/239.254.201.142:5296
 #EXTINF:-1 tvg-id="鹿泉电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%B9%BF%E6%B3%89%E7%94%B5%E8%A7%86.png" group-title="河北电信",鹿泉电视
-http://106.116.243.51:9999/rtp/239.254.201.204:6166
+http://27.184.28.92:4022/rtp/239.254.201.204:6166
 #EXTINF:-1 tvg-id="任县电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BB%BB%E5%8E%BF%E7%94%B5%E8%A7%86.png" group-title="河北电信",任县电视
-http://106.116.243.51:9999/rtp/239.254.201.115:5381
+http://27.184.28.92:4022/rtp/239.254.201.115:5381
 #EXTINF:-1 tvg-id="邯山电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%82%AF%E5%B1%B1%E7%94%B5%E8%A7%86.png" group-title="河北电信",邯山电视
-http://106.116.243.51:9999/rtp/239.254.201.116:5225
+http://27.184.28.92:4022/rtp/239.254.201.116:5225
 #EXTINF:-1 tvg-id="崇礼电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B4%87%E7%A4%BC%E7%94%B5%E8%A7%86.png" group-title="河北电信",崇礼电视
-http://106.116.243.51:9999/rtp/239.254.201.117:5267
+http://27.184.28.92:4022/rtp/239.254.201.117:5267
 #EXTINF:-1 tvg-id="顺平电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%A1%BA%E5%B9%B3%E7%94%B5%E8%A7%86.png" group-title="河北电信",顺平电视
-http://106.116.243.51:9999/rtp/239.254.201.118:6257
+http://27.184.28.92:4022/rtp/239.254.201.118:6257
 #EXTINF:-1 tvg-id="张北电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%BC%A0%E5%8C%97%E7%94%B5%E8%A7%86.png" group-title="河北电信",张北电视
-http://106.116.243.51:9999/rtp/239.254.201.130:5271
+http://27.184.28.92:4022/rtp/239.254.201.130:5271
 #EXTINF:-1 tvg-id="邱县电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%82%B1%E5%8E%BF%E7%94%B5%E8%A7%86.png" group-title="河北电信",邱县电视
-http://106.116.243.51:9999/rtp/239.254.201.129:6209
+http://27.184.28.92:4022/rtp/239.254.201.129:6209
 #EXTINF:-1 tvg-id="赤城电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B5%A4%E5%9F%8E%E7%94%B5%E8%A7%86.png" group-title="河北电信",赤城电视
-http://106.116.243.51:9999/rtp/239.254.201.131:5269
+http://27.184.28.92:4022/rtp/239.254.201.131:5269
 #EXTINF:-1 tvg-id="康保电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%BA%B7%E4%BF%9D%E7%94%B5%E8%A7%86.png" group-title="河北电信",康保电视
-http://106.116.243.51:9999/rtp/239.254.201.135:5270
+http://27.184.28.92:4022/rtp/239.254.201.135:5270
 #EXTINF:-1 tvg-id="遵化电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%81%B5%E5%8C%96%E7%94%B5%E8%A7%86.png" group-title="河北电信",遵化电视
-http://106.116.243.51:9999/rtp/239.254.201.146:5202
+http://27.184.28.92:4022/rtp/239.254.201.146:5202
 #EXTINF:-1 tvg-id="昌黎电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%98%8C%E9%BB%8E%E7%94%B5%E8%A7%86.png" group-title="河北电信",昌黎电视
-http://106.116.243.51:9999/rtp/239.254.201.61:5230
+http://27.184.28.92:4022/rtp/239.254.201.61:5230
 #EXTINF:-1 tvg-id="抚宁电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%8A%9A%E5%AE%81%E7%94%B5%E8%A7%86.png" group-title="河北电信",抚宁电视
-http://106.116.243.51:9999/rtp/239.254.201.213:5232
+http://27.184.28.92:4022/rtp/239.254.201.213:5232
 #EXTINF:-1 tvg-id="卢龙电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8D%A2%E9%BE%99%E7%94%B5%E8%A7%86.png" group-title="河北电信",卢龙电视
-http://106.116.243.51:9999/rtp/239.254.201.216:5233
+http://27.184.28.92:4022/rtp/239.254.201.216:5233
 #EXTINF:-1 tvg-id="丰南电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%B0%E5%8D%97%E7%94%B5%E8%A7%86.png" group-title="河北电信",丰南电视
-http://106.116.243.51:9999/rtp/239.254.200.218:5186
+http://27.184.28.92:4022/rtp/239.254.200.218:5186
 #EXTINF:-1 tvg-id="迁西电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BF%81%E8%A5%BF%E7%94%B5%E8%A7%86.png" group-title="河北电信",迁西电视
-http://106.116.243.51:9999/rtp/239.254.201.26:5188
+http://27.184.28.92:4022/rtp/239.254.201.26:5188
 #EXTINF:-1 tvg-id="滦南电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%BB%A6%E5%8D%97%E7%94%B5%E8%A7%86.png" group-title="河北电信",滦南电视
-http://106.116.243.51:9999/rtp/239.254.201.22:5191
+http://27.184.28.92:4022/rtp/239.254.201.22:5191
 #EXTINF:-1 tvg-id="玉田电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%8E%89%E7%94%B0%E7%94%B5%E8%A7%86.png" group-title="河北电信",玉田电视
-http://106.116.243.51:9999/rtp/239.254.201.28:5194
+http://27.184.28.92:4022/rtp/239.254.201.28:5194
 #EXTINF:-1 tvg-id="滦州电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%BB%A6%E5%B7%9E%E7%94%B5%E8%A7%86.png" group-title="河北电信",滦州电视
-http://106.116.243.51:9999/rtp/239.254.201.30:5196
+http://27.184.28.92:4022/rtp/239.254.201.30:5196
 #EXTINF:-1 tvg-id="香河电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%A6%99%E6%B2%B3%E7%94%B5%E8%A7%86.png" group-title="河北电信",香河电视
-http://106.116.243.51:9999/rtp/239.254.201.32:5306
+http://27.184.28.92:4022/rtp/239.254.201.32:5306
 #EXTINF:-1 tvg-id="大城电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A7%E5%9F%8E%E7%94%B5%E8%A7%86.png" group-title="河北电信",大城电视
-http://106.116.243.51:9999/rtp/239.254.201.34:5308
+http://27.184.28.92:4022/rtp/239.254.201.34:5308
 #EXTINF:-1 tvg-id="大厂电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A7%E5%8E%82%E7%94%B5%E8%A7%86.png" group-title="河北电信",大厂电视
-http://106.116.243.51:9999/rtp/239.254.201.71:5310
+http://27.184.28.92:4022/rtp/239.254.201.71:5310
 #EXTINF:-1 tvg-id="固安电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%BA%E5%AE%89%E7%94%B5%E8%A7%86.png" group-title="河北电信",固安电视
-http://106.116.243.51:9999/rtp/239.254.201.101:5312
+http://27.184.28.92:4022/rtp/239.254.201.101:5312
 #EXTINF:-1 tvg-id="文安电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%96%87%E5%AE%89%E7%94%B5%E8%A7%86.png" group-title="河北电信",文安电视
-http://106.116.243.51:9999/rtp/239.254.201.103:5314
+http://27.184.28.92:4022/rtp/239.254.201.103:5314
 #EXTINF:-1 tvg-id="三河电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%89%E6%B2%B3%E7%94%B5%E8%A7%86.png" group-title="河北电信",三河电视
-http://106.116.243.51:9999/rtp/239.254.201.113:5315
+http://27.184.28.92:4022/rtp/239.254.201.113:5315
 #EXTINF:-1 tvg-id="永清电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B0%B8%E6%B8%85%E7%94%B5%E8%A7%86.png" group-title="河北电信",永清电视
-http://106.116.243.51:9999/rtp/239.254.201.141:5316
+http://27.184.28.92:4022/rtp/239.254.201.141:5316
 #EXTINF:-1 tvg-id="成安电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%88%90%E5%AE%89%E7%94%B5%E8%A7%86.png" group-title="河北电信",成安电视
-http://106.116.243.51:9999/rtp/239.254.201.143:6210
+http://27.184.28.92:4022/rtp/239.254.201.143:6210
 #EXTINF:-1 tvg-id="魏县电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%AD%8F%E5%8E%BF%E7%94%B5%E8%A7%86.png" group-title="河北电信",魏县电视
-http://106.116.243.51:9999/rtp/239.254.201.148:6211
+http://27.184.28.92:4022/rtp/239.254.201.148:6211
 #EXTINF:-1 tvg-id="霸州电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%9C%B8%E5%B7%9E%E7%94%B5%E8%A7%86.png" group-title="河北电信",霸州电视
-http://106.116.243.51:9999/rtp/239.254.200.4:5313
+http://27.184.28.92:4022/rtp/239.254.200.4:5313
 #EXTINF:-1 tvg-id="渤海电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B8%A4%E6%B5%B7%E7%94%B5%E8%A7%86.png" group-title="河北电信",渤海电视
-http://106.116.243.51:9999/rtp/239.254.201.35:5327
+http://27.184.28.92:4022/rtp/239.254.201.35:5327
 #EXTINF:-1 tvg-id="黄骅电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%BB%84%E9%AA%85%E7%94%B5%E8%A7%86.png" group-title="河北电信",黄骅电视
-http://106.116.243.51:9999/rtp/239.254.201.36:5325
+http://27.184.28.92:4022/rtp/239.254.201.36:5325
 #EXTINF:-1 tvg-id="孟村电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AD%9F%E6%9D%91%E7%94%B5%E8%A7%86.png" group-title="河北电信",孟村电视
-http://106.116.243.51:9999/rtp/239.254.201.38:5329
+http://27.184.28.92:4022/rtp/239.254.201.38:5329
 #EXTINF:-1 tvg-id="东光电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E5%85%89%E7%94%B5%E8%A7%86.png" group-title="河北电信",东光电视
-http://106.116.243.51:9999/rtp/239.254.201.76:5331
+http://27.184.28.92:4022/rtp/239.254.201.76:5331
 #EXTINF:-1 tvg-id="青县电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%9D%92%E5%8E%BF%E7%94%B5%E8%A7%86.png" group-title="河北电信",青县电视
-http://106.116.243.51:9999/rtp/239.254.201.112:5333
+http://27.184.28.92:4022/rtp/239.254.201.112:5333
 #EXTINF:-1 tvg-id="盐山电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%9B%90%E5%B1%B1%E7%94%B5%E8%A7%86.png" group-title="河北电信",盐山电视
-http://106.116.243.51:9999/rtp/239.254.201.114:5334
+http://27.184.28.92:4022/rtp/239.254.201.114:5334
 #EXTINF:-1 tvg-id="南皮电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8D%97%E7%9A%AE%E7%94%B5%E8%A7%86.png" group-title="河北电信",南皮电视
-http://106.116.243.51:9999/rtp/239.254.201.119:5335
+http://27.184.28.92:4022/rtp/239.254.201.119:5335
 #EXTINF:-1 tvg-id="肃宁电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%82%83%E5%AE%81%E7%94%B5%E8%A7%86.png" group-title="河北电信",肃宁电视
-http://106.116.243.51:9999/rtp/239.254.201.122:5336
+http://27.184.28.92:4022/rtp/239.254.201.122:5336
 #EXTINF:-1 tvg-id="吴桥电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%90%B4%E6%A1%A5%E7%94%B5%E8%A7%86.png" group-title="河北电信",吴桥电视
-http://106.116.243.51:9999/rtp/239.254.201.138:5337
+http://27.184.28.92:4022/rtp/239.254.201.138:5337
 #EXTINF:-1 tvg-id="丰宁电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%B0%E5%AE%81%E7%94%B5%E8%A7%86.png" group-title="河北电信",丰宁电视
-http://106.116.243.51:9999/rtp/239.254.200.5:5290
+http://27.184.28.92:4022/rtp/239.254.200.5:5290
 #EXTINF:-1 tvg-id="定兴电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%9A%E5%85%B4%E7%94%B5%E8%A7%86.png" group-title="河北电信",定兴电视
-http://106.116.243.51:9999/rtp/239.254.200.172:5246
+http://27.184.28.92:4022/rtp/239.254.200.172:5246
 #EXTINF:-1 tvg-id="阜平电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%98%9C%E5%B9%B3%E7%94%B5%E8%A7%86.png" group-title="河北电信",阜平电视
-http://106.116.243.51:9999/rtp/239.254.201.40:5248
+http://27.184.28.92:4022/rtp/239.254.201.40:5248
 #EXTINF:-1 tvg-id="涞水电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B6%9E%E6%B0%B4%E7%94%B5%E8%A7%86.png" group-title="河北电信",涞水电视
-http://106.116.243.51:9999/rtp/239.254.201.10:5250
+http://27.184.28.92:4022/rtp/239.254.201.10:5250
 #EXTINF:-1 tvg-id="满城电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%BB%A1%E5%9F%8E%E7%94%B5%E8%A7%86.png" group-title="河北电信",满城电视
-http://106.116.243.51:9999/rtp/239.254.200.222:5252
+http://27.184.28.92:4022/rtp/239.254.200.222:5252
 #EXTINF:-1 tvg-id="涞源电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B6%9E%E6%BA%90%E7%94%B5%E8%A7%86.png" group-title="河北电信",涞源电视
-http://106.116.243.51:9999/rtp/239.254.200.213:5260
+http://27.184.28.92:4022/rtp/239.254.200.213:5260
 #EXTINF:-1 tvg-id="高碑店电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%AB%98%E7%A2%91%E5%BA%97%E7%94%B5%E8%A7%86.png" group-title="河北电信",高碑店电视
-http://106.116.243.51:9999/rtp/239.254.200.210:5254
+http://27.184.28.92:4022/rtp/239.254.200.210:5254
 #EXTINF:-1 tvg-id="涿州电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B6%BF%E5%B7%9E%E7%94%B5%E8%A7%86.png" group-title="河北电信",涿州电视
-http://106.116.243.51:9999/rtp/239.254.201.17:5261
+http://27.184.28.92:4022/rtp/239.254.201.17:5261
 #EXTINF:-1 tvg-id="唐县电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%94%90%E5%8E%BF%E7%94%B5%E8%A7%86.png" group-title="河北电信",唐县电视
-http://106.116.243.51:9999/rtp/239.254.201.41:5264
+http://27.184.28.92:4022/rtp/239.254.201.41:5264
 #EXTINF:-1 tvg-id="曲阳电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%9B%B2%E9%98%B3%E7%94%B5%E8%A7%86.png" group-title="河北电信",曲阳电视
-http://106.116.243.51:9999/rtp/239.254.200.242:5265
+http://27.184.28.92:4022/rtp/239.254.200.242:5265
 #EXTINF:-1 tvg-id="望都电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%9C%9B%E9%83%BD%E7%94%B5%E8%A7%86.png" group-title="河北电信",望都电视
-http://106.116.243.51:9999/rtp/239.254.201.56:6246
+http://27.184.28.92:4022/rtp/239.254.201.56:6246
 #EXTINF:-1 tvg-id="定州电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%9A%E5%B7%9E%E7%94%B5%E8%A7%86.png" group-title="河北电信",定州电视
-http://106.116.243.51:9999/rtp/239.254.201.74:6251
+http://27.184.28.92:4022/rtp/239.254.201.74:6251
 #EXTINF:-1 tvg-id="雄县电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%9B%84%E5%8E%BF%E7%94%B5%E8%A7%86.png" group-title="河北电信",雄县电视
-http://106.116.243.51:9999/rtp/239.254.201.94:6254
+http://27.184.28.92:4022/rtp/239.254.201.94:6254
 #EXTINF:-1 tvg-id="高阳电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%AB%98%E9%98%B3%E7%94%B5%E8%A7%86.png" group-title="河北电信",高阳电视
-http://106.116.243.51:9999/rtp/239.254.201.96:6253
+http://27.184.28.92:4022/rtp/239.254.201.96:6253
 #EXTINF:-1 tvg-id="安新电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%89%E6%96%B0%E7%94%B5%E8%A7%86.png" group-title="河北电信",安新电视
-http://106.116.243.51:9999/rtp/239.254.201.99:6255
+http://27.184.28.92:4022/rtp/239.254.201.99:6255
 #EXTINF:-1 tvg-id="容城电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%B9%E5%9F%8E%E7%94%B5%E8%A7%86.png" group-title="河北电信",容城电视
-http://106.116.243.51:9999/rtp/239.254.201.102:6256
+http://27.184.28.92:4022/rtp/239.254.201.102:6256
 #EXTINF:-1 tvg-id="柏乡电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%9F%8F%E4%B9%A1%E7%94%B5%E8%A7%86.png" group-title="河北电信",柏乡电视
-http://106.116.243.51:9999/rtp/239.254.201.140:5383
+http://27.184.28.92:4022/rtp/239.254.201.140:5383
 #EXTINF:-1 tvg-id="涿鹿电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B6%BF%E9%B9%BF%E7%94%B5%E8%A7%86.png" group-title="河北电信",涿鹿电视
-http://106.116.243.51:9999/rtp/239.254.201.145:5272
+http://27.184.28.92:4022/rtp/239.254.201.145:5272
 #EXTINF:-1 tvg-id="徐水电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%BE%90%E6%B0%B4%E7%94%B5%E8%A7%86.png" group-title="河北电信",徐水电视
-http://106.116.243.51:9999/rtp/239.254.201.147:6260
+http://27.184.28.92:4022/rtp/239.254.201.147:6260
 #EXTINF:-1 tvg-id="大名电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A7%E5%90%8D%E7%94%B5%E8%A7%86.png" group-title="河北电信",大名电视
-http://106.116.243.51:9999/rtp/239.254.201.149:6212
+http://27.184.28.92:4022/rtp/239.254.201.149:6212
 #EXTINF:-1 tvg-id="冀州电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%80%E5%B7%9E%E7%94%B5%E8%A7%86.png" group-title="河北电信",冀州电视
-http://106.116.243.51:9999/rtp/239.254.200.179:5346
+http://27.184.28.92:4022/rtp/239.254.200.179:5346
 #EXTINF:-1 tvg-id="安平电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%89%E5%B9%B3%E7%94%B5%E8%A7%86.png" group-title="河北电信",安平电视
-http://106.116.243.51:9999/rtp/239.254.201.42:5348
+http://27.184.28.92:4022/rtp/239.254.201.42:5348
 #EXTINF:-1 tvg-id="景县电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%99%AF%E5%8E%BF%E7%94%B5%E8%A7%86.png" group-title="河北电信",景县电视
-http://106.116.243.51:9999/rtp/239.254.200.240:5350
+http://27.184.28.92:4022/rtp/239.254.200.240:5350
 #EXTINF:-1 tvg-id="饶阳电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%A5%B6%E9%98%B3%E7%94%B5%E8%A7%86.png" group-title="河北电信",饶阳电视
-http://106.116.243.51:9999/rtp/239.254.201.44:5353
+http://27.184.28.92:4022/rtp/239.254.201.44:5353
 #EXTINF:-1 tvg-id="深州电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B7%B1%E5%B7%9E%E7%94%B5%E8%A7%86.png" group-title="河北电信",深州电视
-http://106.116.243.51:9999/rtp/239.254.201.46:5357
+http://27.184.28.92:4022/rtp/239.254.201.46:5357
 #EXTINF:-1 tvg-id="武邑电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%AD%A6%E9%82%91%E7%94%B5%E8%A7%86.png" group-title="河北电信",武邑电视
-http://106.116.243.51:9999/rtp/239.254.201.8:5355
+http://27.184.28.92:4022/rtp/239.254.201.8:5355
 #EXTINF:-1 tvg-id="阜城电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%98%9C%E5%9F%8E%E7%94%B5%E8%A7%86.png" group-title="河北电信",阜城电视
-http://106.116.243.51:9999/rtp/239.254.201.98:5361
+http://27.184.28.92:4022/rtp/239.254.201.98:5361
 #EXTINF:-1 tvg-id="故城电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%95%85%E5%9F%8E%E7%94%B5%E8%A7%86.png" group-title="河北电信",故城电视
-http://106.116.243.51:9999/rtp/239.254.201.126:5362
+http://27.184.28.92:4022/rtp/239.254.201.126:5362
 #EXTINF:-1 tvg-id="枣强电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%9E%A3%E5%BC%BA%E7%94%B5%E8%A7%86.png" group-title="河北电信",枣强电视
-http://106.116.243.51:9999/rtp/239.254.201.136:5363
+http://27.184.28.92:4022/rtp/239.254.201.136:5363
 #EXTINF:-1 tvg-id="清河电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B8%85%E6%B2%B3%E7%94%B5%E8%A7%86.png" group-title="河北电信",清河电视
-http://106.116.243.51:9999/rtp/239.254.200.170:5366
+http://27.184.28.92:4022/rtp/239.254.200.170:5366
 #EXTINF:-1 tvg-id="广宗电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E5%AE%97%E7%94%B5%E8%A7%86.png" group-title="河北电信",广宗电视
-http://106.116.243.51:9999/rtp/239.254.201.50:5373
+http://27.184.28.92:4022/rtp/239.254.201.50:5373
 #EXTINF:-1 tvg-id="武安电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%AD%A6%E5%AE%89%E7%94%B5%E8%A7%86.png" group-title="河北电信",武安电视
-http://106.116.243.51:9999/rtp/239.254.201.6:5216
+http://27.184.28.92:4022/rtp/239.254.201.6:5216
 #EXTINF:-1 tvg-id="宁晋电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%81%E6%99%8B%E7%94%B5%E8%A7%86.png" group-title="河北电信",宁晋电视
-http://106.116.243.51:9999/rtp/239.254.201.51:5375
+http://27.184.28.92:4022/rtp/239.254.201.51:5375
 #EXTINF:-1 tvg-id="平乡电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%B3%E4%B9%A1%E7%94%B5%E8%A7%86.png" group-title="河北电信",平乡电视
-http://106.116.243.51:9999/rtp/239.254.201.53:5378
+http://27.184.28.92:4022/rtp/239.254.201.53:5378
 #EXTINF:-1 tvg-id="鸡泽电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%B8%A1%E6%B3%BD%E7%94%B5%E8%A7%86.png" group-title="河北电信",鸡泽电视
-http://106.116.243.51:9999/rtp/239.254.201.60:5218
+http://27.184.28.92:4022/rtp/239.254.201.60:5218
 #EXTINF:-1 tvg-id="隆尧电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%9A%86%E5%B0%A7%E7%94%B5%E8%A7%86.png" group-title="河北电信",隆尧电视
-http://106.116.243.51:9999/rtp/239.254.201.69:5379
+http://27.184.28.92:4022/rtp/239.254.201.69:5379
 #EXTINF:-1 tvg-id="广平电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E5%B9%B3%E7%94%B5%E8%A7%86.png" group-title="河北电信",广平电视
-http://106.116.243.51:9999/rtp/239.254.201.70:5220
+http://27.184.28.92:4022/rtp/239.254.201.70:5220
 #EXTINF:-1 tvg-id="南和电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8D%97%E5%92%8C%E7%94%B5%E8%A7%86.png" group-title="河北电信",南和电视
-http://106.116.243.51:9999/rtp/239.254.201.72:6000
+http://27.184.28.92:4022/rtp/239.254.201.72:6000
 #EXTINF:-1 tvg-id="临漳电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%B4%E6%BC%B3%E7%94%B5%E8%A7%86.png" group-title="河北电信",临漳电视
-http://106.116.243.51:9999/rtp/239.254.201.73:5221
+http://27.184.28.92:4022/rtp/239.254.201.73:5221
 #EXTINF:-1 tvg-id="内丘电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%85%E4%B8%98%E7%94%B5%E8%A7%86.png" group-title="河北电信",内丘电视
-http://106.116.243.51:9999/rtp/239.254.201.77:5380
+http://27.184.28.92:4022/rtp/239.254.201.77:5380
 #EXTINF:-1 tvg-id="涉县电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B6%89%E5%8E%BF%E7%94%B5%E8%A7%86.png" group-title="河北电信",涉县电视
-http://106.116.243.51:9999/rtp/239.254.201.97:5222
+http://27.184.28.92:4022/rtp/239.254.201.97:5222
 #EXTINF:-1 tvg-id="迁安电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BF%81%E5%AE%89%E7%94%B5%E8%A7%86.png" group-title="河北电信",迁安电视
-http://106.116.243.51:9999/rtp/239.254.201.109:5199
+http://27.184.28.92:4022/rtp/239.254.201.109:5199
 #EXTINF:-1 tvg-id="肥乡电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%82%A5%E4%B9%A1%E7%94%B5%E8%A7%86.png" group-title="河北电信",肥乡电视
-http://106.116.243.51:9999/rtp/239.254.201.105:5223
+http://27.184.28.92:4022/rtp/239.254.201.105:5223
 #EXTINF:-1 tvg-id="馆陶电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%A6%86%E9%99%B6%E7%94%B5%E8%A7%86.png" group-title="河北电信",馆陶电视
-http://106.116.243.51:9999/rtp/239.254.201.106:5224
+http://27.184.28.92:4022/rtp/239.254.201.106:5224
 #EXTINF:-1 tvg-id="乐亭电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B9%90%E4%BA%AD%E7%94%B5%E8%A7%86.png" group-title="河北电信",乐亭电视
-http://106.116.243.51:9999/rtp/239.254.201.107:5200
+http://27.184.28.92:4022/rtp/239.254.201.107:5200
 #EXTINF:-1 tvg-id="沙河电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%99%E6%B2%B3%E7%94%B5%E8%A7%86.png" group-title="河北电信",沙河电视
-http://106.116.243.51:9999/rtp/239.254.200.181:5369
+http://27.184.28.92:4022/rtp/239.254.200.181:5369
 #EXTINF:-1 tvg-id="曲周电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%9B%B2%E5%91%A8%E7%94%B5%E8%A7%86.png" group-title="河北电信",曲周电视
-http://106.116.243.51:9999/rtp/239.254.200.236:5210
+http://27.184.28.92:4022/rtp/239.254.200.236:5210
 #EXTINF:-1 tvg-id="南宫电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8D%97%E5%AE%AB%E7%94%B5%E8%A7%86.png" group-title="河北电信",南宫电视
-http://106.116.243.51:9999/rtp/239.254.201.48:5371
+http://27.184.28.92:4022/rtp/239.254.201.48:5371
 #EXTINF:-1 tvg-id="丰润电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%B0%E6%B6%A6%E7%94%B5%E8%A7%86.png" group-title="河北电信",丰润电视
-http://106.116.243.51:9999/rtp/239.254.201.58:5197
+http://27.184.28.92:4022/rtp/239.254.201.58:5197
 #EXTINF:-1 tvg-id="羽毛球专区" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%BE%BD%E6%AF%9B%E7%90%83%E4%B8%93%E5%8C%BA.png" group-title="河北电信",羽毛球专区
-http://106.116.243.51:9999/rtp/239.254.201.214:7264
+http://27.184.28.92:4022/rtp/239.254.201.214:7264
 #EXTINF:-1 tvg-id="辅视角2-标清" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BE%85%E8%A7%86%E8%A7%922-%E6%A0%87%E6%B8%85.png" group-title="河北电信",辅视角2-标清
-http://106.116.243.51:9999/rtp/239.254.201.87:6000
+http://27.184.28.92:4022/rtp/239.254.201.87:6000
 #EXTINF:-1 tvg-id="辅视角3-标清" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BE%85%E8%A7%86%E8%A7%923-%E6%A0%87%E6%B8%85.png" group-title="河北电信",辅视角3-标清
-http://106.116.243.51:9999/rtp/239.254.201.88:6000
+http://27.184.28.92:4022/rtp/239.254.201.88:6000
 #EXTINF:-1 tvg-id="4k直播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/4k%E7%9B%B4%E6%92%AD.png" group-title="河北电信",4k直播
-http://106.116.243.51:9999/rtp/239.254.200.243:6000
+http://27.184.28.92:4022/rtp/239.254.200.243:6000
 #EXTINF:-1 tvg-id="临时直播频道2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%B4%E6%97%B6%E7%9B%B4%E6%92%AD%E9%A2%91%E9%81%932.png" group-title="河北电信",临时直播频道2
-http://106.116.243.51:9999/rtp/239.254.201.65:6000
+http://27.184.28.92:4022/rtp/239.254.201.65:6000
 #EXTINF:-1 tvg-id="临时直播频道3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%B4%E6%97%B6%E7%9B%B4%E6%92%AD%E9%A2%91%E9%81%933.png" group-title="河北电信",临时直播频道3
-http://106.116.243.51:9999/rtp/239.254.201.66:6000
+http://27.184.28.92:4022/rtp/239.254.201.66:6000
 #EXTINF:-1 tvg-id="临时直播频道4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%B4%E6%97%B6%E7%9B%B4%E6%92%AD%E9%A2%91%E9%81%934.png" group-title="河北电信",临时直播频道4
-http://106.116.243.51:9999/rtp/239.254.201.67:6000
+http://27.184.28.92:4022/rtp/239.254.201.67:6000
 #EXTINF:-1 tvg-id="临时直播频道5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%B4%E6%97%B6%E7%9B%B4%E6%92%AD%E9%A2%91%E9%81%935.png" group-title="河北电信",临时直播频道5
-http://106.116.243.51:9999/rtp/239.254.201.68:6000
+http://27.184.28.92:4022/rtp/239.254.201.68:6000
 #EXTINF:-1 tvg-id="SLTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SLTV.png" group-title="河北电信",SLTV
-http://106.116.243.51:9999/rtp/239.254.201.100:5179
+http://27.184.28.92:4022/rtp/239.254.201.100:5179
 #EXTINF:-1 tvg-id="九屏直播频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B9%9D%E5%B1%8F%E7%9B%B4%E6%92%AD%E9%A2%91%E9%81%93.png" group-title="河北电信",九屏直播频道
-http://106.116.243.51:9999/rtp/239.254.200.248:6000
+http://27.184.28.92:4022/rtp/239.254.200.248:6000
 #EXTINF:-1 tvg-id="中式八球国际公开赛" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%AD%E5%BC%8F%E5%85%AB%E7%90%83%E5%9B%BD%E9%99%85%E5%85%AC%E5%BC%80%E8%B5%9B.png" group-title="河北电信",中式八球国际公开赛
-http://106.116.243.51:9999/rtp/239.254.200.187:6000
+http://27.184.28.92:4022/rtp/239.254.200.187:6000
