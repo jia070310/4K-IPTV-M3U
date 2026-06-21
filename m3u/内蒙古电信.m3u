@@ -1,0 +1,495 @@
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
+#EXTINF:-1 tvg-id="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="内蒙古电信",CCTV4K
+http://1.181.137.185:8888/rtp/239.29.1.164:5000
+#EXTINF:-1 tvg-id="CCTV16 4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16%204K.png" group-title="内蒙古电信",CCTV16 4K
+http://1.181.137.185:8888/rtp/239.29.1.149:5000
+#EXTINF:-1 tvg-id="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%864K.png" group-title="内蒙古电信",北京卫视4K
+http://1.181.137.185:8888/rtp/239.29.1.182:5000
+#EXTINF:-1 tvg-id="广东卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%864K.png" group-title="内蒙古电信",广东卫视4K
+http://1.181.137.185:8888/rtp/239.29.1.184:5000
+#EXTINF:-1 tvg-id="深圳卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%864K.png" group-title="内蒙古电信",深圳卫视4K
+http://1.181.137.185:8888/rtp/239.29.1.185:5000
+#EXTINF:-1 tvg-id="山东卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%864K.png" group-title="内蒙古电信",山东卫视4K
+http://1.181.137.185:8888/rtp/239.29.1.198:5000
+#EXTINF:-1 tvg-id="山东卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%864K.png" group-title="内蒙古电信",山东卫视4K
+http://1.181.137.185:8888/rtp/239.29.1.196:5000
+#EXTINF:-1 tvg-id="四川卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%864K.png" group-title="内蒙古电信",四川卫视4K
+http://1.181.137.185:8888/rtp/239.29.1.197:5000
+#EXTINF:-1 tvg-id="浙江卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K.png" group-title="内蒙古电信",浙江卫视4K
+http://1.181.137.185:8888/rtp/239.29.1.195:5000
+#EXTINF:-1 tvg-id="江苏卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%864K.png" group-title="内蒙古电信",江苏卫视4K
+http://1.181.137.185:8888/rtp/239.29.1.194:5000
+#EXTINF:-1 tvg-id="湖南卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K.png" group-title="内蒙古电信",湖南卫视4K
+http://1.181.137.185:8888/rtp/239.29.1.193:5000
+#EXTINF:-1 tvg-id="CCTV1HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1HD.png" group-title="内蒙古电信",CCTV1HD
+http://1.181.137.185:8888/rtp/239.29.0.133:5000
+#EXTINF:-1 tvg-id="CCTV1HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1HD.png" group-title="内蒙古电信",CCTV1HD
+http://1.181.137.185:8888/rtp/239.29.0.113:5000
+#EXTINF:-1 tvg-id="CCTV2HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2HD.png" group-title="内蒙古电信",CCTV2HD
+http://1.181.137.185:8888/rtp/239.29.0.116:5000
+#EXTINF:-1 tvg-id="CCTV3HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3HD.png" group-title="内蒙古电信",CCTV3HD
+http://1.181.137.185:8888/rtp/239.29.1.133:5000
+#EXTINF:-1 tvg-id="CCTV4HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4HD.png" group-title="内蒙古电信",CCTV4HD
+http://1.181.137.185:8888/rtp/239.29.0.87:5000
+#EXTINF:-1 tvg-id="CCTV4欧洲HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4%E6%AC%A7%E6%B4%B2HD.png" group-title="内蒙古电信",CCTV4欧洲HD
+http://1.181.137.185:8888/rtp/239.29.1.144:5000
+#EXTINF:-1 tvg-id="CCTV4美洲HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4%E7%BE%8E%E6%B4%B2HD.png" group-title="内蒙古电信",CCTV4美洲HD
+http://1.181.137.185:8888/rtp/239.29.1.142:5000
+#EXTINF:-1 tvg-id="CCTV5HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5HD.png" group-title="内蒙古电信",CCTV5HD
+http://1.181.137.185:8888/rtp/239.29.1.134:5000
+#EXTINF:-1 tvg-id="CCTV5+HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5%2BHD.png" group-title="内蒙古电信",CCTV5+HD
+http://1.181.137.185:8888/rtp/239.29.1.10:5001
+#EXTINF:-1 tvg-id="CCTV6HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6HD.png" group-title="内蒙古电信",CCTV6HD
+http://1.181.137.185:8888/rtp/239.29.1.135:5000
+#EXTINF:-1 tvg-id="CCTV7HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7HD.png" group-title="内蒙古电信",CCTV7HD
+http://1.181.137.185:8888/rtp/239.29.0.117:5000
+#EXTINF:-1 tvg-id="CCTV8HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8HD.png" group-title="内蒙古电信",CCTV8HD
+http://1.181.137.185:8888/rtp/239.29.1.136:5000
+#EXTINF:-1 tvg-id="CCTV9HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9HD.png" group-title="内蒙古电信",CCTV9HD
+http://1.181.137.185:8888/rtp/239.29.0.118:5000
+#EXTINF:-1 tvg-id="CCTV10HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10HD.png" group-title="内蒙古电信",CCTV10HD
+http://1.181.137.185:8888/rtp/239.29.0.119:5000
+#EXTINF:-1 tvg-id="CCTV11HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11HD.png" group-title="内蒙古电信",CCTV11HD
+http://1.181.137.185:8888/rtp/239.29.0.205:5000
+#EXTINF:-1 tvg-id="CCTV12HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12HD.png" group-title="内蒙古电信",CCTV12HD
+http://1.181.137.185:8888/rtp/239.29.0.120:5000
+#EXTINF:-1 tvg-id="CCTV13HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13HD.png" group-title="内蒙古电信",CCTV13HD
+http://1.181.137.185:8888/rtp/239.29.1.123:5000
+#EXTINF:-1 tvg-id="CCTV14HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14HD.png" group-title="内蒙古电信",CCTV14HD
+http://1.181.137.185:8888/rtp/239.29.0.121:5000
+#EXTINF:-1 tvg-id="CCTV15HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15HD.png" group-title="内蒙古电信",CCTV15HD
+http://1.181.137.185:8888/rtp/239.29.0.206:5000
+#EXTINF:-1 tvg-id="CCTV16HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16HD.png" group-title="内蒙古电信",CCTV16HD
+http://1.181.137.185:8888/rtp/239.29.1.146:5000
+#EXTINF:-1 tvg-id="CCTV17HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17HD.png" group-title="内蒙古电信",CCTV17HD
+http://1.181.137.185:8888/rtp/239.29.1.145:5000
+#EXTINF:-1 tvg-id="CETV1HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV1HD.png" group-title="内蒙古电信",CETV1HD
+http://1.181.137.185:8888/rtp/239.29.1.161:5000
+#EXTINF:-1 tvg-id="CETV1HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV1HD.png" group-title="内蒙古电信",CETV1HD
+http://1.181.137.185:8888/rtp/239.29.0.95:5000
+#EXTINF:-1 tvg-id="CETV4HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV4HD.png" group-title="内蒙古电信",CETV4HD
+http://1.181.137.185:8888/rtp/239.29.0.220:5000
+#EXTINF:-1 tvg-id="CGTNHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTNHD.png" group-title="内蒙古电信",CGTNHD
+http://1.181.137.185:8888/rtp/239.29.1.143:5000
+#EXTINF:-1 tvg-id="CGTN纪录HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN%E7%BA%AA%E5%BD%95HD.png" group-title="内蒙古电信",CGTN纪录HD
+http://1.181.137.185:8888/rtp/239.29.1.140:5000
+#EXTINF:-1 tvg-id="CGTN阿语HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN%E9%98%BF%E8%AF%ADHD.png" group-title="内蒙古电信",CGTN阿语HD
+http://1.181.137.185:8888/rtp/239.29.1.138:5000
+#EXTINF:-1 tvg-id="CGTN俄语HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN%E4%BF%84%E8%AF%ADHD.png" group-title="内蒙古电信",CGTN俄语HD
+http://1.181.137.185:8888/rtp/239.29.1.137:5000
+#EXTINF:-1 tvg-id="CGTN西语HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN%E8%A5%BF%E8%AF%ADHD.png" group-title="内蒙古电信",CGTN西语HD
+http://1.181.137.185:8888/rtp/239.29.1.141:5000
+#EXTINF:-1 tvg-id="CGTN法语HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN%E6%B3%95%E8%AF%ADHD.png" group-title="内蒙古电信",CGTN法语HD
+http://1.181.137.185:8888/rtp/239.29.1.139:5000
+#EXTINF:-1 tvg-id="CHC影迷电影HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1HD.png" group-title="内蒙古电信",CHC影迷电影HD
+http://1.181.137.185:8888/rtp/239.29.1.178:5000
+#EXTINF:-1 tvg-id="CHC家庭影院HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2HD.png" group-title="内蒙古电信",CHC家庭影院HD
+http://1.181.137.185:8888/rtp/239.29.1.176:5000
+#EXTINF:-1 tvg-id="CHC动作电影HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1HD.png" group-title="内蒙古电信",CHC动作电影HD
+http://1.181.137.185:8888/rtp/239.29.1.177:5000
+#EXTINF:-1 tvg-id="金鹰纪实HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%91%E9%B9%B0%E7%BA%AA%E5%AE%9EHD.png" group-title="内蒙古电信",金鹰纪实HD
+http://1.181.137.185:8888/rtp/239.29.0.92:5000
+#EXTINF:-1 tvg-id="重庆卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86HD.png" group-title="内蒙古电信",重庆卫视HD
+http://1.181.137.185:8888/rtp/239.29.1.157:5000
+#EXTINF:-1 tvg-id="重庆卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86HD.png" group-title="内蒙古电信",重庆卫视HD
+http://1.181.137.185:8888/rtp/239.29.0.99:5000
+#EXTINF:-1 tvg-id="江苏卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86HD.png" group-title="内蒙古电信",江苏卫视HD
+http://1.181.137.185:8888/rtp/239.29.0.102:5000
+#EXTINF:-1 tvg-id="浙江卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86HD.png" group-title="内蒙古电信",浙江卫视HD
+http://1.181.137.185:8888/rtp/239.29.0.96:5000
+#EXTINF:-1 tvg-id="东方卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86HD.png" group-title="内蒙古电信",东方卫视HD
+http://1.181.137.185:8888/rtp/239.29.0.97:5000
+#EXTINF:-1 tvg-id="深圳卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86HD.png" group-title="内蒙古电信",深圳卫视HD
+http://1.181.137.185:8888/rtp/239.29.0.105:5000
+#EXTINF:-1 tvg-id="北京卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86HD.png" group-title="内蒙古电信",北京卫视HD
+http://1.181.137.185:8888/rtp/239.29.0.108:5000
+#EXTINF:-1 tvg-id="山东卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86HD.png" group-title="内蒙古电信",山东卫视HD
+http://1.181.137.185:8888/rtp/239.29.0.106:5000
+#EXTINF:-1 tvg-id="天津卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86HD.png" group-title="内蒙古电信",天津卫视HD
+http://1.181.137.185:8888/rtp/239.29.0.98:5000
+#EXTINF:-1 tvg-id="贵州卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86HD.png" group-title="内蒙古电信",贵州卫视HD
+http://1.181.137.185:8888/rtp/239.29.0.104:5000
+#EXTINF:-1 tvg-id="四川卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86HD.png" group-title="内蒙古电信",四川卫视HD
+http://1.181.137.185:8888/rtp/239.29.0.100:5000
+#EXTINF:-1 tvg-id="云南卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86HD.png" group-title="内蒙古电信",云南卫视HD
+http://1.181.137.185:8888/rtp/239.29.1.192:5000
+#EXTINF:-1 tvg-id="广西卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86HD.png" group-title="内蒙古电信",广西卫视HD
+http://1.181.137.185:8888/rtp/239.29.1.186:5000
+#EXTINF:-1 tvg-id="黑龙江卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86HD.png" group-title="内蒙古电信",黑龙江卫视HD
+http://1.181.137.185:8888/rtp/239.29.0.91:5000
+#EXTINF:-1 tvg-id="安徽卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86HD.png" group-title="内蒙古电信",安徽卫视HD
+http://1.181.137.185:8888/rtp/239.29.0.81:5000
+#EXTINF:-1 tvg-id="山西卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86HD.png" group-title="内蒙古电信",山西卫视HD
+http://1.181.137.185:8888/rtp/239.29.1.187:5000
+#EXTINF:-1 tvg-id="江西卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86HD.png" group-title="内蒙古电信",江西卫视HD
+http://1.181.137.185:8888/rtp/239.29.1.158:5000
+#EXTINF:-1 tvg-id="湖北卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86HD.png" group-title="内蒙古电信",湖北卫视HD
+http://1.181.137.185:8888/rtp/239.29.0.107:5000
+#EXTINF:-1 tvg-id="旅游卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%97%85%E6%B8%B8%E5%8D%AB%E8%A7%86HD.png" group-title="内蒙古电信",旅游卫视HD
+http://1.181.137.185:8888/rtp/239.29.1.126:5000
+#EXTINF:-1 tvg-id="东南卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86HD.png" group-title="内蒙古电信",东南卫视HD
+http://1.181.137.185:8888/rtp/239.29.0.103:5000
+#EXTINF:-1 tvg-id="吉林卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86HD.png" group-title="内蒙古电信",吉林卫视HD
+http://1.181.137.185:8888/rtp/239.29.1.183:5000
+#EXTINF:-1 tvg-id="吉林卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86HD.png" group-title="内蒙古电信",吉林卫视HD
+http://1.181.137.185:8888/rtp/239.29.1.125:5000
+#EXTINF:-1 tvg-id="吉林卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86HD.png" group-title="内蒙古电信",吉林卫视HD
+http://1.181.137.185:8888/rtp/239.29.1.159:5000
+#EXTINF:-1 tvg-id="辽宁卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86HD.png" group-title="内蒙古电信",辽宁卫视HD
+http://1.181.137.185:8888/rtp/239.29.0.109:5000
+#EXTINF:-1 tvg-id="内蒙古卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86HD.png" group-title="内蒙古电信",内蒙古卫视HD
+http://1.181.137.185:8888/rtp/239.29.0.143:5000
+#EXTINF:-1 tvg-id="内蒙古卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86HD.png" group-title="内蒙古电信",内蒙古卫视HD
+http://1.181.137.185:8888/rtp/239.29.1.102:5000
+#EXTINF:-1 tvg-id="内蒙古卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86HD.png" group-title="内蒙古电信",内蒙古卫视HD
+http://1.181.137.185:8888/rtp/239.29.0.2:5000
+#EXTINF:-1 tvg-id="湖南卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86HD.png" group-title="内蒙古电信",湖南卫视HD
+http://1.181.137.185:8888/rtp/239.29.0.90:5000
+#EXTINF:-1 tvg-id="广东卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86HD.png" group-title="内蒙古电信",广东卫视HD
+http://1.181.137.185:8888/rtp/239.29.0.123:5000
+#EXTINF:-1 tvg-id="河南卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86HD.png" group-title="内蒙古电信",河南卫视HD
+http://1.181.137.185:8888/rtp/239.29.1.165:5000
+#EXTINF:-1 tvg-id="河北卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86HD.png" group-title="内蒙古电信",河北卫视HD
+http://1.181.137.185:8888/rtp/239.29.0.124:5000
+#EXTINF:-1 tvg-id="宁夏卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86HD.png" group-title="内蒙古电信",宁夏卫视HD
+http://1.181.137.185:8888/rtp/239.29.1.191:5000
+#EXTINF:-1 tvg-id="甘肃卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86HD.png" group-title="内蒙古电信",甘肃卫视HD
+http://1.181.137.185:8888/rtp/239.29.1.160:5000
+#EXTINF:-1 tvg-id="甘肃卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86HD.png" group-title="内蒙古电信",甘肃卫视HD
+http://1.181.137.185:8888/rtp/239.29.1.124:5000
+#EXTINF:-1 tvg-id="新疆卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86HD.png" group-title="内蒙古电信",新疆卫视HD
+http://1.181.137.185:8888/rtp/239.29.1.189:5000
+#EXTINF:-1 tvg-id="西藏卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86HD.png" group-title="内蒙古电信",西藏卫视HD
+http://1.181.137.185:8888/rtp/239.29.1.188:5000
+#EXTINF:-1 tvg-id="兵团卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86HD.png" group-title="内蒙古电信",兵团卫视HD
+http://1.181.137.185:8888/rtp/239.29.1.190:5000
+#EXTINF:-1 tvg-id="卡酷少儿HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BFHD.png" group-title="内蒙古电信",卡酷少儿HD
+http://1.181.137.185:8888/rtp/239.29.1.41:5001
+#EXTINF:-1 tvg-id="山东教育卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86HD.png" group-title="内蒙古电信",山东教育卫视HD
+http://1.181.137.185:8888/rtp/239.29.1.96:5001
+#EXTINF:-1 tvg-id="北京纪实科教HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99HD.png" group-title="内蒙古电信",北京纪实科教HD
+http://1.181.137.185:8888/rtp/239.29.0.110:5000
+#EXTINF:-1 tvg-id="IPTV5HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV5HD.png" group-title="内蒙古电信",IPTV5HD
+http://1.181.137.185:8888/rtp/239.29.1.10:5001
+#EXTINF:-1 tvg-id="乌拉特中旗HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B9%8C%E6%8B%89%E7%89%B9%E4%B8%AD%E6%97%97HD.png" group-title="内蒙古电信",乌拉特中旗HD
+http://1.181.137.185:8888/rtp/239.29.0.152:5000
+#EXTINF:-1 tvg-id="乌拉特前旗HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B9%8C%E6%8B%89%E7%89%B9%E5%89%8D%E6%97%97HD.png" group-title="内蒙古电信",乌拉特前旗HD
+http://1.181.137.185:8888/rtp/239.29.0.150:5000
+#EXTINF:-1 tvg-id="乌海新闻HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B9%8C%E6%B5%B7%E6%96%B0%E9%97%BBHD.png" group-title="内蒙古电信",乌海新闻HD
+http://1.181.137.185:8888/rtp/239.29.0.11:5000
+#EXTINF:-1 tvg-id="乌海都市HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B9%8C%E6%B5%B7%E9%83%BD%E5%B8%82HD.png" group-title="内蒙古电信",乌海都市HD
+http://1.181.137.185:8888/rtp/239.29.0.12:5000
+#EXTINF:-1 tvg-id="五原HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BA%94%E5%8E%9FHD.png" group-title="内蒙古电信",五原HD
+http://1.181.137.185:8888/rtp/239.29.1.103:5000
+#EXTINF:-1 tvg-id="伊金霍洛旗HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BC%8A%E9%87%91%E9%9C%8D%E6%B4%9B%E6%97%97HD.png" group-title="内蒙古电信",伊金霍洛旗HD
+http://1.181.137.185:8888/rtp/239.29.1.105:5000
+#EXTINF:-1 tvg-id="全部频道收视排行HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%85%A8%E9%83%A8%E9%A2%91%E9%81%93%E6%94%B6%E8%A7%86%E6%8E%92%E8%A1%8CHD.png" group-title="内蒙古电信",全部频道收视排行HD
+http://1.181.137.185:8888/rtp/239.29.1.116:5000
+#EXTINF:-1 tvg-id="内蒙农牧HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%85%E8%92%99%E5%86%9C%E7%89%A7HD.png" group-title="内蒙古电信",内蒙农牧HD
+http://1.181.137.185:8888/rtp/239.29.0.209:5000
+#EXTINF:-1 tvg-id="内蒙古蒙语HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%85%E8%92%99%E5%8F%A4%E8%92%99%E8%AF%ADHD.png" group-title="内蒙古电信",内蒙古蒙语HD
+http://1.181.137.185:8888/rtp/239.29.0.9:5000
+#EXTINF:-1 tvg-id="内蒙少儿HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%85%E8%92%99%E5%B0%91%E5%84%BFHD.png" group-title="内蒙古电信",内蒙少儿HD
+http://1.181.137.185:8888/rtp/239.29.0.207:5000
+#EXTINF:-1 tvg-id="内蒙文体娱乐HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%85%E8%92%99%E6%96%87%E4%BD%93%E5%A8%B1%E4%B9%90HD.png" group-title="内蒙古电信",内蒙文体娱乐HD
+http://1.181.137.185:8888/rtp/239.29.0.211:5000
+#EXTINF:-1 tvg-id="内蒙新闻综合HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%85%E8%92%99%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88HD.png" group-title="内蒙古电信",内蒙新闻综合HD
+http://1.181.137.185:8888/rtp/239.29.0.208:5000
+#EXTINF:-1 tvg-id="内蒙本地频道展示HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%85%E8%92%99%E6%9C%AC%E5%9C%B0%E9%A2%91%E9%81%93%E5%B1%95%E7%A4%BAHD.png" group-title="内蒙古电信",内蒙本地频道展示HD
+http://1.181.137.185:8888/rtp/239.29.1.118:5000
+#EXTINF:-1 tvg-id="内蒙经济生活HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%85%E8%92%99%E7%BB%8F%E6%B5%8E%E7%94%9F%E6%B4%BBHD.png" group-title="内蒙古电信",内蒙经济生活HD
+http://1.181.137.185:8888/rtp/239.29.0.212:5000
+#EXTINF:-1 tvg-id="内蒙蒙语HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%85%E8%92%99%E8%92%99%E8%AF%ADHD.png" group-title="内蒙古电信",内蒙蒙语HD
+http://1.181.137.185:8888/rtp/239.29.0.210:5000
+#EXTINF:-1 tvg-id="准格尔旗HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%87%86%E6%A0%BC%E5%B0%94%E6%97%97HD.png" group-title="内蒙古电信",准格尔旗HD
+http://1.181.137.185:8888/rtp/239.29.0.192:5000
+#EXTINF:-1 tvg-id="包头新闻HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%85%E5%A4%B4%E6%96%B0%E9%97%BBHD.png" group-title="内蒙古电信",包头新闻HD
+http://1.181.137.185:8888/rtp/239.29.0.111:5000
+#EXTINF:-1 tvg-id="包头生活HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%85%E5%A4%B4%E7%94%9F%E6%B4%BBHD.png" group-title="内蒙古电信",包头生活HD
+http://1.181.137.185:8888/rtp/239.29.0.112:5000
+#EXTINF:-1 tvg-id="包头经济HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%85%E5%A4%B4%E7%BB%8F%E6%B5%8EHD.png" group-title="内蒙古电信",包头经济HD
+http://1.181.137.185:8888/rtp/239.29.0.204:5000
+#EXTINF:-1 tvg-id="卫视频道排行HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93%E6%8E%92%E8%A1%8CHD.png" group-title="内蒙古电信",卫视频道排行HD
+http://1.181.137.185:8888/rtp/239.29.1.119:5000
+#EXTINF:-1 tvg-id="卫视频道收视排行榜HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93%E6%94%B6%E8%A7%86%E6%8E%92%E8%A1%8C%E6%A6%9CHD.png" group-title="内蒙古电信",卫视频道收视排行榜HD
+http://1.181.137.185:8888/rtp/239.29.1.117:5000
+#EXTINF:-1 tvg-id="呼伦贝尔HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%91%BC%E4%BC%A6%E8%B4%9D%E5%B0%94HD.png" group-title="内蒙古电信",呼伦贝尔HD
+http://1.181.137.185:8888/rtp/239.29.1.163:5000
+#EXTINF:-1 tvg-id="呼伦贝尔文游HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%91%BC%E4%BC%A6%E8%B4%9D%E5%B0%94%E6%96%87%E6%B8%B8HD.png" group-title="内蒙古电信",呼伦贝尔文游HD
+http://1.181.137.185:8888/rtp/239.29.0.20:5000
+#EXTINF:-1 tvg-id="呼伦贝尔新闻HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%91%BC%E4%BC%A6%E8%B4%9D%E5%B0%94%E6%96%B0%E9%97%BBHD.png" group-title="内蒙古电信",呼伦贝尔新闻HD
+http://1.181.137.185:8888/rtp/239.29.0.19:5000
+#EXTINF:-1 tvg-id="呼伦贝尔资讯HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%91%BC%E4%BC%A6%E8%B4%9D%E5%B0%94%E8%B5%84%E8%AE%AFHD.png" group-title="内蒙古电信",呼伦贝尔资讯HD
+http://1.181.137.185:8888/rtp/239.29.0.21:5000
+#EXTINF:-1 tvg-id="呼市影视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%91%BC%E5%B8%82%E5%BD%B1%E8%A7%86HD.png" group-title="内蒙古电信",呼市影视HD
+http://1.181.137.185:8888/rtp/239.29.0.37:5000
+#EXTINF:-1 tvg-id="呼市新闻HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%91%BC%E5%B8%82%E6%96%B0%E9%97%BBHD.png" group-title="内蒙古电信",呼市新闻HD
+http://1.181.137.185:8888/rtp/239.29.0.35:5000
+#EXTINF:-1 tvg-id="喀喇沁县HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%96%80%E5%96%87%E6%B2%81%E5%8E%BFHD.png" group-title="内蒙古电信",喀喇沁县HD
+http://1.181.137.185:8888/rtp/239.29.1.150:5000
+#EXTINF:-1 tvg-id="土左旗HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9C%9F%E5%B7%A6%E6%97%97HD.png" group-title="内蒙古电信",土左旗HD
+http://1.181.137.185:8888/rtp/239.29.0.181:5000
+#EXTINF:-1 tvg-id="察右中旗HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AF%9F%E5%8F%B3%E4%B8%AD%E6%97%97HD.png" group-title="内蒙古电信",察右中旗HD
+http://1.181.137.185:8888/rtp/239.29.1.106:5000
+#EXTINF:-1 tvg-id="察右后旗HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AF%9F%E5%8F%B3%E5%90%8E%E6%97%97HD.png" group-title="内蒙古电信",察右后旗HD
+http://1.181.137.185:8888/rtp/239.29.1.148:5000
+#EXTINF:-1 tvg-id="巴彦淖尔影视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B7%B4%E5%BD%A6%E6%B7%96%E5%B0%94%E5%BD%B1%E8%A7%86HD.png" group-title="内蒙古电信",巴彦淖尔影视HD
+http://1.181.137.185:8888/rtp/239.29.0.27:5000
+#EXTINF:-1 tvg-id="巴彦淖尔新闻HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B7%B4%E5%BD%A6%E6%B7%96%E5%B0%94%E6%96%B0%E9%97%BBHD.png" group-title="内蒙古电信",巴彦淖尔新闻HD
+http://1.181.137.185:8888/rtp/239.29.0.25:5000
+#EXTINF:-1 tvg-id="巴彦淖尔经济HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B7%B4%E5%BD%A6%E6%B7%96%E5%B0%94%E7%BB%8F%E6%B5%8EHD.png" group-title="内蒙古电信",巴彦淖尔经济HD
+http://1.181.137.185:8888/rtp/239.29.0.26:5000
+#EXTINF:-1 tvg-id="扎赉特旗HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%89%8E%E8%B5%89%E7%89%B9%E6%97%97HD.png" group-title="内蒙古电信",扎赉特旗HD
+http://1.181.137.185:8888/rtp/239.29.0.185:5000
+#EXTINF:-1 tvg-id="未知节目HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%9C%AA%E7%9F%A5%E8%8A%82%E7%9B%AEHD.png" group-title="内蒙古电信",未知节目HD
+http://1.181.137.185:8888/rtp/239.29.1.156:5000
+#EXTINF:-1 tvg-id="未知节目HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%9C%AA%E7%9F%A5%E8%8A%82%E7%9B%AEHD.png" group-title="内蒙古电信",未知节目HD
+http://1.181.137.185:8888/rtp/239.29.1.162:5000
+#EXTINF:-1 tvg-id="杭后HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%9D%AD%E5%90%8EHD.png" group-title="内蒙古电信",杭后HD
+http://1.181.137.185:8888/rtp/239.29.0.149:5000
+#EXTINF:-1 tvg-id="杭锦旗综合HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%9D%AD%E9%94%A6%E6%97%97%E7%BB%BC%E5%90%88HD.png" group-title="内蒙古电信",杭锦旗综合HD
+http://1.181.137.185:8888/rtp/239.29.1.147:5000
+#EXTINF:-1 tvg-id="科右中旗HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%A7%91%E5%8F%B3%E4%B8%AD%E6%97%97HD.png" group-title="内蒙古电信",科右中旗HD
+http://1.181.137.185:8888/rtp/239.29.0.178:5000
+#EXTINF:-1 tvg-id="突泉HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%AA%81%E6%B3%89HD.png" group-title="内蒙古电信",突泉HD
+http://1.181.137.185:8888/rtp/239.29.0.174:5000
+#EXTINF:-1 tvg-id="翁牛特HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%BF%81%E7%89%9B%E7%89%B9HD.png" group-title="内蒙古电信",翁牛特HD
+http://1.181.137.185:8888/rtp/239.29.0.186:5000
+#EXTINF:-1 tvg-id="苏尼特右旗HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%8B%8F%E5%B0%BC%E7%89%B9%E5%8F%B3%E6%97%97HD.png" group-title="内蒙古电信",苏尼特右旗HD
+http://1.181.137.185:8888/rtp/239.29.0.191:5000
+#EXTINF:-1 tvg-id="苏左电视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%8B%8F%E5%B7%A6%E7%94%B5%E8%A7%86HD.png" group-title="内蒙古电信",苏左电视HD
+http://1.181.137.185:8888/rtp/239.29.0.190:5000
+#EXTINF:-1 tvg-id="赤峰影视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B5%A4%E5%B3%B0%E5%BD%B1%E8%A7%86HD.png" group-title="内蒙古电信",赤峰影视HD
+http://1.181.137.185:8888/rtp/239.29.0.15:5000
+#EXTINF:-1 tvg-id="赤峰新闻HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B5%A4%E5%B3%B0%E6%96%B0%E9%97%BBHD.png" group-title="内蒙古电信",赤峰新闻HD
+http://1.181.137.185:8888/rtp/239.29.0.13:5000
+#EXTINF:-1 tvg-id="赤峰经济HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B5%A4%E5%B3%B0%E7%BB%8F%E6%B5%8EHD.png" group-title="内蒙古电信",赤峰经济HD
+http://1.181.137.185:8888/rtp/239.29.0.14:5000
+#EXTINF:-1 tvg-id="达茂HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BE%BE%E8%8C%82HD.png" group-title="内蒙古电信",达茂HD
+http://1.181.137.185:8888/rtp/239.29.1.101:5000
+#EXTINF:-1 tvg-id="通辽城市HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%80%9A%E8%BE%BD%E5%9F%8E%E5%B8%82HD.png" group-title="内蒙古电信",通辽城市HD
+http://1.181.137.185:8888/rtp/239.29.0.42:5000
+#EXTINF:-1 tvg-id="通辽新闻HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%80%9A%E8%BE%BD%E6%96%B0%E9%97%BBHD.png" group-title="内蒙古电信",通辽新闻HD
+http://1.181.137.185:8888/rtp/239.29.0.41:5000
+#EXTINF:-1 tvg-id="通辽蒙语HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%80%9A%E8%BE%BD%E8%92%99%E8%AF%ADHD.png" group-title="内蒙古电信",通辽蒙语HD
+http://1.181.137.185:8888/rtp/239.29.0.40:5000
+#EXTINF:-1 tvg-id="鄂尔多斯新闻HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%84%82%E5%B0%94%E5%A4%9A%E6%96%AF%E6%96%B0%E9%97%BBHD.png" group-title="内蒙古电信",鄂尔多斯新闻HD
+http://1.181.137.185:8888/rtp/239.29.0.30:5000
+#EXTINF:-1 tvg-id="鄂尔多斯经济HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%84%82%E5%B0%94%E5%A4%9A%E6%96%AF%E7%BB%8F%E6%B5%8EHD.png" group-title="内蒙古电信",鄂尔多斯经济HD
+http://1.181.137.185:8888/rtp/239.29.0.31:5000
+#EXTINF:-1 tvg-id="鄂尔多斯蒙语HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%84%82%E5%B0%94%E5%A4%9A%E6%96%AF%E8%92%99%E8%AF%ADHD.png" group-title="内蒙古电信",鄂尔多斯蒙语HD
+http://1.181.137.185:8888/rtp/239.29.0.33:5000
+#EXTINF:-1 tvg-id="锡林郭勒1HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%94%A1%E6%9E%97%E9%83%AD%E5%8B%921HD.png" group-title="内蒙古电信",锡林郭勒1HD
+http://1.181.137.185:8888/rtp/239.29.0.38:5000
+#EXTINF:-1 tvg-id="锡林郭勒2HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%94%A1%E6%9E%97%E9%83%AD%E5%8B%922HD.png" group-title="内蒙古电信",锡林郭勒2HD
+http://1.181.137.185:8888/rtp/239.29.0.39:5000
+#EXTINF:-1 tvg-id="阿尔山HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%98%BF%E5%B0%94%E5%B1%B1HD.png" group-title="内蒙古电信",阿尔山HD
+http://1.181.137.185:8888/rtp/239.29.1.112:5000
+#EXTINF:-1 tvg-id="额齐纳HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%A2%9D%E9%BD%90%E7%BA%B3HD.png" group-title="内蒙古电信",额齐纳HD
+http://1.181.137.185:8888/rtp/239.29.0.177:5000
+#EXTINF:-1 tvg-id="CCTV1SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1SD.png" group-title="内蒙古电信",CCTV1SD
+http://1.181.137.185:8888/rtp/239.29.1.151:5000
+#EXTINF:-1 tvg-id="CCTV1SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1SD.png" group-title="内蒙古电信",CCTV1SD
+http://1.181.137.185:8888/rtp/239.29.0.151:5000
+#EXTINF:-1 tvg-id="CCTV1SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1SD.png" group-title="内蒙古电信",CCTV1SD
+http://1.181.137.185:8888/rtp/239.29.1.1:5001
+#EXTINF:-1 tvg-id="CCTV2SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2SD.png" group-title="内蒙古电信",CCTV2SD
+http://1.181.137.185:8888/rtp/239.29.1.8:5001
+#EXTINF:-1 tvg-id="CCTV3SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3SD.png" group-title="内蒙古电信",CCTV3SD
+http://1.181.137.185:8888/rtp/239.29.0.45:5000
+#EXTINF:-1 tvg-id="CCTV4SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4SD.png" group-title="内蒙古电信",CCTV4SD
+http://1.181.137.185:8888/rtp/239.29.1.9:5001
+#EXTINF:-1 tvg-id="CCTV5SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5SD.png" group-title="内蒙古电信",CCTV5SD
+http://1.181.137.185:8888/rtp/239.29.0.43:5000
+#EXTINF:-1 tvg-id="CCTV6SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6SD.png" group-title="内蒙古电信",CCTV6SD
+http://1.181.137.185:8888/rtp/239.29.0.44:5000
+#EXTINF:-1 tvg-id="CCTV7SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7SD.png" group-title="内蒙古电信",CCTV7SD
+http://1.181.137.185:8888/rtp/239.29.1.11:5001
+#EXTINF:-1 tvg-id="CCTV8SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8SD.png" group-title="内蒙古电信",CCTV8SD
+http://1.181.137.185:8888/rtp/239.29.0.46:5000
+#EXTINF:-1 tvg-id="CCTV9SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9SD.png" group-title="内蒙古电信",CCTV9SD
+http://1.181.137.185:8888/rtp/239.29.1.12:5001
+#EXTINF:-1 tvg-id="CCTV10SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10SD.png" group-title="内蒙古电信",CCTV10SD
+http://1.181.137.185:8888/rtp/239.29.1.2:5001
+#EXTINF:-1 tvg-id="CCTV11SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11SD.png" group-title="内蒙古电信",CCTV11SD
+http://1.181.137.185:8888/rtp/239.29.1.3:5001
+#EXTINF:-1 tvg-id="CCTV12SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12SD.png" group-title="内蒙古电信",CCTV12SD
+http://1.181.137.185:8888/rtp/239.29.1.4:5001
+#EXTINF:-1 tvg-id="CCTV13SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13SD.png" group-title="内蒙古电信",CCTV13SD
+http://1.181.137.185:8888/rtp/239.29.1.5:5001
+#EXTINF:-1 tvg-id="CCTV14SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14SD.png" group-title="内蒙古电信",CCTV14SD
+http://1.181.137.185:8888/rtp/239.29.1.6:5001
+#EXTINF:-1 tvg-id="CCTV15SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15SD.png" group-title="内蒙古电信",CCTV15SD
+http://1.181.137.185:8888/rtp/239.29.1.7:5001
+#EXTINF:-1 tvg-id="CCTV17SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17SD.png" group-title="内蒙古电信",CCTV17SD
+http://1.181.137.185:8888/rtp/239.29.0.194:5000
+#EXTINF:-1 tvg-id="CETV1SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV1SD.png" group-title="内蒙古电信",CETV1SD
+http://1.181.137.185:8888/rtp/239.29.1.30:5001
+#EXTINF:-1 tvg-id="CETV2SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV2SD.png" group-title="内蒙古电信",CETV2SD
+http://1.181.137.185:8888/rtp/239.29.0.139:5000
+#EXTINF:-1 tvg-id="CGTNSD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTNSD.png" group-title="内蒙古电信",CGTNSD
+http://1.181.137.185:8888/rtp/239.29.1.13:5001
+#EXTINF:-1 tvg-id="新动漫SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%96%B0%E5%8A%A8%E6%BC%ABSD.png" group-title="内蒙古电信",新动漫SD
+http://1.181.137.185:8888/rtp/239.29.1.180:5000
+#EXTINF:-1 tvg-id="先锋乒羽SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%85%88%E9%94%8B%E4%B9%92%E7%BE%BDSD.png" group-title="内蒙古电信",先锋乒羽SD
+http://1.181.137.185:8888/rtp/239.29.1.179:5000
+#EXTINF:-1 tvg-id="重庆卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86SD.png" group-title="内蒙古电信",重庆卫视SD
+http://1.181.137.185:8888/rtp/239.29.1.83:5001
+#EXTINF:-1 tvg-id="江苏卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86SD.png" group-title="内蒙古电信",江苏卫视SD
+http://1.181.137.185:8888/rtp/239.29.1.66:5001
+#EXTINF:-1 tvg-id="浙江卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86SD.png" group-title="内蒙古电信",浙江卫视SD
+http://1.181.137.185:8888/rtp/239.29.1.70:5001
+#EXTINF:-1 tvg-id="东方卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86SD.png" group-title="内蒙古电信",东方卫视SD
+http://1.181.137.185:8888/rtp/239.29.1.28:5001
+#EXTINF:-1 tvg-id="深圳卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86SD.png" group-title="内蒙古电信",深圳卫视SD
+http://1.181.137.185:8888/rtp/239.29.1.71:5001
+#EXTINF:-1 tvg-id="北京卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86SD.png" group-title="内蒙古电信",北京卫视SD
+http://1.181.137.185:8888/rtp/239.29.1.40:5001
+#EXTINF:-1 tvg-id="山东卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86SD.png" group-title="内蒙古电信",山东卫视SD
+http://1.181.137.185:8888/rtp/239.29.1.54:5001
+#EXTINF:-1 tvg-id="天津卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86SD.png" group-title="内蒙古电信",天津卫视SD
+http://1.181.137.185:8888/rtp/239.29.1.48:5001
+#EXTINF:-1 tvg-id="贵州卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86SD.png" group-title="内蒙古电信",贵州卫视SD
+http://1.181.137.185:8888/rtp/239.29.1.80:5001
+#EXTINF:-1 tvg-id="四川卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86SD.png" group-title="内蒙古电信",四川卫视SD
+http://1.181.137.185:8888/rtp/239.29.1.45:5001
+#EXTINF:-1 tvg-id="云南卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86SD.png" group-title="内蒙古电信",云南卫视SD
+http://1.181.137.185:8888/rtp/239.29.1.31:5001
+#EXTINF:-1 tvg-id="广西卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86SD.png" group-title="内蒙古电信",广西卫视SD
+http://1.181.137.185:8888/rtp/239.29.1.57:5001
+#EXTINF:-1 tvg-id="黑龙江卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86SD.png" group-title="内蒙古电信",黑龙江卫视SD
+http://1.181.137.185:8888/rtp/239.29.1.91:5001
+#EXTINF:-1 tvg-id="安徽卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86SD.png" group-title="内蒙古电信",安徽卫视SD
+http://1.181.137.185:8888/rtp/239.29.1.51:5001
+#EXTINF:-1 tvg-id="山西卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86SD.png" group-title="内蒙古电信",山西卫视SD
+http://1.181.137.185:8888/rtp/239.29.1.55:5001
+#EXTINF:-1 tvg-id="江西卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86SD.png" group-title="内蒙古电信",江西卫视SD
+http://1.181.137.185:8888/rtp/239.29.1.67:5001
+#EXTINF:-1 tvg-id="湖北卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86SD.png" group-title="内蒙古电信",湖北卫视SD
+http://1.181.137.185:8888/rtp/239.29.1.73:5001
+#EXTINF:-1 tvg-id="旅游卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%97%85%E6%B8%B8%E5%8D%AB%E8%A7%86SD.png" group-title="内蒙古电信",旅游卫视SD
+http://1.181.137.185:8888/rtp/239.29.1.60:5001
+#EXTINF:-1 tvg-id="陕西卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86SD.png" group-title="内蒙古电信",陕西卫视SD
+http://1.181.137.185:8888/rtp/239.29.1.86:5001
+#EXTINF:-1 tvg-id="东南卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86SD.png" group-title="内蒙古电信",东南卫视SD
+http://1.181.137.185:8888/rtp/239.29.1.27:5001
+#EXTINF:-1 tvg-id="吉林卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86SD.png" group-title="内蒙古电信",吉林卫视SD
+http://1.181.137.185:8888/rtp/239.29.1.43:5001
+#EXTINF:-1 tvg-id="辽宁卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86SD.png" group-title="内蒙古电信",辽宁卫视SD
+http://1.181.137.185:8888/rtp/239.29.1.81:5001
+#EXTINF:-1 tvg-id="内蒙古卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86SD.png" group-title="内蒙古电信",内蒙古卫视SD
+http://1.181.137.185:8888/rtp/239.29.0.176:5000
+#EXTINF:-1 tvg-id="内蒙古卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86SD.png" group-title="内蒙古电信",内蒙古卫视SD
+http://1.181.137.185:8888/rtp/239.29.1.104:5000
+#EXTINF:-1 tvg-id="内蒙古卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86SD.png" group-title="内蒙古电信",内蒙古卫视SD
+http://1.181.137.185:8888/rtp/239.29.0.1:5000
+#EXTINF:-1 tvg-id="湖南卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86SD.png" group-title="内蒙古电信",湖南卫视SD
+http://1.181.137.185:8888/rtp/239.29.1.74:5001
+#EXTINF:-1 tvg-id="广东卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86SD.png" group-title="内蒙古电信",广东卫视SD
+http://1.181.137.185:8888/rtp/239.29.1.56:5001
+#EXTINF:-1 tvg-id="河南卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86SD.png" group-title="内蒙古电信",河南卫视SD
+http://1.181.137.185:8888/rtp/239.29.1.69:5001
+#EXTINF:-1 tvg-id="河北卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86SD.png" group-title="内蒙古电信",河北卫视SD
+http://1.181.137.185:8888/rtp/239.29.1.68:5001
+#EXTINF:-1 tvg-id="宁夏卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86SD.png" group-title="内蒙古电信",宁夏卫视SD
+http://1.181.137.185:8888/rtp/239.29.1.50:5001
+#EXTINF:-1 tvg-id="甘肃卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86SD.png" group-title="内蒙古电信",甘肃卫视SD
+http://1.181.137.185:8888/rtp/239.29.1.95:5001
+#EXTINF:-1 tvg-id="青海卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86SD.png" group-title="内蒙古电信",青海卫视SD
+http://1.181.137.185:8888/rtp/239.29.1.87:5001
+#EXTINF:-1 tvg-id="新疆卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86SD.png" group-title="内蒙古电信",新疆卫视SD
+http://1.181.137.185:8888/rtp/239.29.1.59:5001
+#EXTINF:-1 tvg-id="西藏卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86SD.png" group-title="内蒙古电信",西藏卫视SD
+http://1.181.137.185:8888/rtp/239.29.1.79:5001
+#EXTINF:-1 tvg-id="兵团卫视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86SD.png" group-title="内蒙古电信",兵团卫视SD
+http://1.181.137.185:8888/rtp/239.29.1.34:5001
+#EXTINF:-1 tvg-id="金鹰卡通SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9ASD.png" group-title="内蒙古电信",金鹰卡通SD
+http://1.181.137.185:8888/rtp/239.29.1.85:5001
+#EXTINF:-1 tvg-id="嘉佳卡通SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9ASD.png" group-title="内蒙古电信",嘉佳卡通SD
+http://1.181.137.185:8888/rtp/239.29.0.126:5000
+#EXTINF:-1 tvg-id="央广购物SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%AE%E5%B9%BF%E8%B4%AD%E7%89%A9SD.png" group-title="内蒙古电信",央广购物SD
+http://1.181.137.185:8888/rtp/239.29.1.155:5000
+#EXTINF:-1 tvg-id="央广购物SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%AE%E5%B9%BF%E8%B4%AD%E7%89%A9SD.png" group-title="内蒙古电信",央广购物SD
+http://1.181.137.185:8888/rtp/239.29.1.107:5000
+#EXTINF:-1 tvg-id="央广购物SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%AE%E5%B9%BF%E8%B4%AD%E7%89%A9SD.png" group-title="内蒙古电信",央广购物SD
+http://1.181.137.185:8888/rtp/239.29.0.224:5000
+#EXTINF:-1 tvg-id="优购物SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BC%98%E8%B4%AD%E7%89%A9SD.png" group-title="内蒙古电信",优购物SD
+http://1.181.137.185:8888/rtp/239.29.0.172:5000
+#EXTINF:-1 tvg-id="优购物SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BC%98%E8%B4%AD%E7%89%A9SD.png" group-title="内蒙古电信",优购物SD
+http://1.181.137.185:8888/rtp/239.29.1.171:5000
+#EXTINF:-1 tvg-id="聚鲨环球精选SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%81%9A%E9%B2%A8%E7%8E%AF%E7%90%83%E7%B2%BE%E9%80%89SD.png" group-title="内蒙古电信",聚鲨环球精选SD
+http://1.181.137.185:8888/rtp/239.29.0.170:5000
+#EXTINF:-1 tvg-id="聚鲨环球精选SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E8%81%9A%E9%B2%A8%E7%8E%AF%E7%90%83%E7%B2%BE%E9%80%89SD.png" group-title="内蒙古电信",聚鲨环球精选SD
+http://1.181.137.185:8888/rtp/239.29.1.175:5000
+#EXTINF:-1 tvg-id="家有购物SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%B6%E6%9C%89%E8%B4%AD%E7%89%A9SD.png" group-title="内蒙古电信",家有购物SD
+http://1.181.137.185:8888/rtp/239.29.1.174:5000
+#EXTINF:-1 tvg-id="家有购物SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%AE%B6%E6%9C%89%E8%B4%AD%E7%89%A9SD.png" group-title="内蒙古电信",家有购物SD
+http://1.181.137.185:8888/rtp/239.29.0.171:5000
+#EXTINF:-1 tvg-id="ELTVSD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ELTVSD.png" group-title="内蒙古电信",ELTVSD
+http://1.181.137.185:8888/rtp/239.29.1.113:5000
+#EXTINF:-1 tvg-id="XHTVSD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/XHTVSD.png" group-title="内蒙古电信",XHTVSD
+http://1.181.137.185:8888/rtp/239.29.0.187:5000
+#EXTINF:-1 tvg-id="乌盟新闻SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%B9%8C%E7%9B%9F%E6%96%B0%E9%97%BBSD.png" group-title="内蒙古电信",乌盟新闻SD
+http://1.181.137.185:8888/rtp/239.29.0.22:5000
+#EXTINF:-1 tvg-id="五原SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E4%BA%94%E5%8E%9FSD.png" group-title="内蒙古电信",五原SD
+http://1.181.137.185:8888/rtp/239.29.0.148:5000
+#EXTINF:-1 tvg-id="兴安影视SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%85%B4%E5%AE%89%E5%BD%B1%E8%A7%86SD.png" group-title="内蒙古电信",兴安影视SD
+http://1.181.137.185:8888/rtp/239.29.0.18:5000
+#EXTINF:-1 tvg-id="兴安文化SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%85%B4%E5%AE%89%E6%96%87%E5%8C%96SD.png" group-title="内蒙古电信",兴安文化SD
+http://1.181.137.185:8888/rtp/239.29.0.17:5000
+#EXTINF:-1 tvg-id="兴安新闻SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%85%B4%E5%AE%89%E6%96%B0%E9%97%BBSD.png" group-title="内蒙古电信",兴安新闻SD
+http://1.181.137.185:8888/rtp/239.29.0.16:5000
+#EXTINF:-1 tvg-id="内蒙农牧SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%85%E8%92%99%E5%86%9C%E7%89%A7SD.png" group-title="内蒙古电信",内蒙农牧SD
+http://1.181.137.185:8888/rtp/239.29.0.4:5000
+#EXTINF:-1 tvg-id="内蒙古2SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%85%E8%92%99%E5%8F%A42SD.png" group-title="内蒙古电信",内蒙古2SD
+http://1.181.137.185:8888/rtp/239.29.0.10:5000
+#EXTINF:-1 tvg-id="内蒙古蒙语SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%85%E8%92%99%E5%8F%A4%E8%92%99%E8%AF%ADSD.png" group-title="内蒙古电信",内蒙古蒙语SD
+http://1.181.137.185:8888/rtp/239.29.0.8:5000
+#EXTINF:-1 tvg-id="内蒙娱乐SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%85%E8%92%99%E5%A8%B1%E4%B9%90SD.png" group-title="内蒙古电信",内蒙娱乐SD
+http://1.181.137.185:8888/rtp/239.29.0.5:5000
+#EXTINF:-1 tvg-id="内蒙少儿SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%85%E8%92%99%E5%B0%91%E5%84%BFSD.png" group-title="内蒙古电信",内蒙少儿SD
+http://1.181.137.185:8888/rtp/239.29.0.3:5000
+#EXTINF:-1 tvg-id="内蒙新闻综合SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%85%E8%92%99%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88SD.png" group-title="内蒙古电信",内蒙新闻综合SD
+http://1.181.137.185:8888/rtp/239.29.0.6:5000
+#EXTINF:-1 tvg-id="内蒙经济SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%86%85%E8%92%99%E7%BB%8F%E6%B5%8ESD.png" group-title="内蒙古电信",内蒙经济SD
+http://1.181.137.185:8888/rtp/239.29.0.7:5000
+#EXTINF:-1 tvg-id="准格尔旗SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%87%86%E6%A0%BC%E5%B0%94%E6%97%97SD.png" group-title="内蒙古电信",准格尔旗SD
+http://1.181.137.185:8888/rtp/239.29.0.153:5000
+#EXTINF:-1 tvg-id="和林格尔SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%92%8C%E6%9E%97%E6%A0%BC%E5%B0%94SD.png" group-title="内蒙古电信",和林格尔SD
+http://1.181.137.185:8888/rtp/239.29.0.183:5000
+#EXTINF:-1 tvg-id="土左旗SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%9C%9F%E5%B7%A6%E6%97%97SD.png" group-title="内蒙古电信",土左旗SD
+http://1.181.137.185:8888/rtp/239.29.0.188:5000
+#EXTINF:-1 tvg-id="多伦SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%9A%E4%BC%A6SD.png" group-title="内蒙古电信",多伦SD
+http://1.181.137.185:8888/rtp/239.29.0.155:5000
+#EXTINF:-1 tvg-id="太仆寺旗SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A4%AA%E4%BB%86%E5%AF%BA%E6%97%97SD.png" group-title="内蒙古电信",太仆寺旗SD
+http://1.181.137.185:8888/rtp/239.29.0.154:5000
+#EXTINF:-1 tvg-id="好享购物SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E5%A5%BD%E4%BA%AB%E8%B4%AD%E7%89%A9SD.png" group-title="内蒙古电信",好享购物SD
+http://1.181.137.185:8888/rtp/239.29.1.173:5000
+#EXTINF:-1 tvg-id="扎兰屯SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%89%8E%E5%85%B0%E5%B1%AFSD.png" group-title="内蒙古电信",扎兰屯SD
+http://1.181.137.185:8888/rtp/239.29.1.109:5000
+#EXTINF:-1 tvg-id="扎鲁特SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%89%8E%E9%B2%81%E7%89%B9SD.png" group-title="内蒙古电信",扎鲁特SD
+http://1.181.137.185:8888/rtp/239.29.1.181:5000
+#EXTINF:-1 tvg-id="正蓝旗SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%AD%A3%E8%93%9D%E6%97%97SD.png" group-title="内蒙古电信",正蓝旗SD
+http://1.181.137.185:8888/rtp/239.29.0.147:5000
+#EXTINF:-1 tvg-id="武川SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%AD%A6%E5%B7%9DSD.png" group-title="内蒙古电信",武川SD
+http://1.181.137.185:8888/rtp/239.29.0.182:5000
+#EXTINF:-1 tvg-id="武川SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%AD%A6%E5%B7%9DSD.png" group-title="内蒙古电信",武川SD
+http://1.181.137.185:8888/rtp/239.29.1.111:5000
+#EXTINF:-1 tvg-id="满洲里SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E6%BB%A1%E6%B4%B2%E9%87%8CSD.png" group-title="内蒙古电信",满洲里SD
+http://1.181.137.185:8888/rtp/239.29.0.34:5000
+#EXTINF:-1 tvg-id="突泉SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%AA%81%E6%B3%89SD.png" group-title="内蒙古电信",突泉SD
+http://1.181.137.185:8888/rtp/239.29.0.156:5000
+#EXTINF:-1 tvg-id="米好享购物SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E7%B1%B3%E5%A5%BD%E4%BA%AB%E8%B4%AD%E7%89%A9SD.png" group-title="内蒙古电信",米好享购物SD
+http://1.181.137.185:8888/rtp/239.29.0.193:5000
+#EXTINF:-1 tvg-id="重庆时尚购物SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E6%97%B6%E5%B0%9A%E8%B4%AD%E7%89%A9SD.png" group-title="内蒙古电信",重庆时尚购物SD
+http://1.181.137.185:8888/rtp/239.29.0.173:5000
+#EXTINF:-1 tvg-id="重庆时尚购物SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%87%8D%E5%BA%86%E6%97%B6%E5%B0%9A%E8%B4%AD%E7%89%A9SD.png" group-title="内蒙古电信",重庆时尚购物SD
+http://1.181.137.185:8888/rtp/239.29.1.172:5000
+#EXTINF:-1 tvg-id="阿右旗SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%98%BF%E5%8F%B3%E6%97%97SD.png" group-title="内蒙古电信",阿右旗SD
+http://1.181.137.185:8888/rtp/239.29.0.175:5000
+#EXTINF:-1 tvg-id="阿巴嘎SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%98%BF%E5%B7%B4%E5%98%8ESD.png" group-title="内蒙古电信",阿巴嘎SD
+http://1.181.137.185:8888/rtp/239.29.0.184:5000
+#EXTINF:-1 tvg-id="阿拉善新闻SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%98%BF%E6%8B%89%E5%96%84%E6%96%B0%E9%97%BBSD.png" group-title="内蒙古电信",阿拉善新闻SD
+http://1.181.137.185:8888/rtp/239.29.0.28:5000
+#EXTINF:-1 tvg-id="额尔古纳SD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/%E9%A2%9D%E5%B0%94%E5%8F%A4%E7%BA%B3SD.png" group-title="内蒙古电信",额尔古纳SD
+http://1.181.137.185:8888/rtp/239.29.1.132:5000
