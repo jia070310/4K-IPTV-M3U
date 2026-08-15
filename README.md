@@ -7,6 +7,7 @@
 - 纯直播 APP: [lemonTV](https://github.com/jia070310/lemonTV)
 - 影视+直播集合版: [lomenTV-VDS](https://github.com/jia070310/lomenTV-VDS)
 - Windows 直播播放器: [lemonIPTV-windows](https://github.com/jia070310/lemonIPTV-windows)
+- 影视客户端:[MacCMS影视服务前端播放器](https://github.com/jia070310/lemonTV-Film)
 
 ![预览图](https://github.com/jia070310/4K-IPTV-M3U/blob/main/tv.png)
 
