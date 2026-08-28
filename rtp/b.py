@@ -4,21 +4,28 @@ import re
 import time
 import subprocess
 import argparse
-import json
-import base64
-from datetime import datetime
+import hmac
+import hashlib
+import random
+import string
+from datetime import datetime, timedelta, timezone
 from html import unescape
-from urllib.parse import quote
-from Crypto.Cipher import AES
-from Crypto.Util.Padding import pad
+from urllib.parse import quote, urlencode
 try:
     from zoneinfo import ZoneInfo  # py3.9+
 except Exception:  # pragma: no cover
     ZoneInfo = None
 
 # ================= 配置区域 =================
-# 1. 组播源网站配置
-MULTICAST_SOURCE_URL = "https://blog.cqshushu.com/multicast-iptv"
+# 1. 组播源网站配置（IPTV神器Pro）
+IPTV_BASE_URL = "https://iptv.cqshushu.com/"
+IPTV_INDEX = "index.php"
+PAER_HMAC_KEY = "tdSQ4QZEaQPPff7e4wMReKjhnwXecJUxJTdAVDGIql9xR3fIAf"
+USER_AGENT = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) "
+    "Chrome/124.0.0.0 Safari/537.36"
+)
 
 # 2. GitHub 推送配置
 # 提交说明前缀；为空时使用默认文案
@@ -35,6 +42,17 @@ PROVINCES = ["北京", "天津", "河北", "山西", "内蒙古", "辽宁", "吉
              "江苏", "浙江", "安徽", "福建", "江西", "山东", "河南", "湖北", "湖南",
              "广东", "广西", "海南", "重庆", "四川", "贵州", "云南", "西藏", "陕西",
              "甘肃", "青海", "宁夏", "新疆"]
+
+# 新站点省份筛选 code（与 iptv.cqshushu.com 下拉框一致）
+PROVINCE_CODES = {
+    "北京": "bj", "天津": "tj", "河北": "he", "山西": "sx", "内蒙古": "nm",
+    "辽宁": "ln", "吉林": "jl", "黑龙江": "hl", "上海": "sh",
+    "江苏": "js", "浙江": "zj", "安徽": "ah", "福建": "fj", "江西": "jx",
+    "山东": "sd", "河南": "ha", "湖北": "hb", "湖南": "hn", "广东": "gd",
+    "广西": "gx", "海南": "hi", "重庆": "cq", "四川": "sc", "贵州": "gz",
+    "云南": "yn", "陕西": "sn", "甘肃": "gs", "青海": "qh", "宁夏": "nx",
+    "新疆": "xj",
+}
 
 
 def get_root_domain(domain):
@@ -86,43 +104,68 @@ def _parse_site_datetime(value: str) -> datetime | None:
     return None
 
 
-def _encrypt_token(raw_token):
-    key = b"cQshuShu88888888"
-    cipher = AES.new(key, AES.MODE_ECB)
-    encrypted = cipher.encrypt(pad(raw_token.encode("utf-8"), AES.block_size))
-    return base64.b64encode(encrypted).decode("utf-8")
+def generate_paer_token() -> str:
+    """生成 iptv.cqshushu.com 请求签名（X-CSRF-TOKEN）。"""
+    ts = str(int(time.time()))
+    rand = "".join(random.choices(string.ascii_lowercase + string.digits, k=20))
+    msg = f"{ts}|{rand}"
+    sig = hmac.new(PAER_HMAC_KEY.encode("utf-8"), msg.encode("utf-8"), hashlib.sha256).hexdigest()
+    return f"{ts}|{rand}|{sig}"
 
 
-def _extract_ajax_config(html):
-    m = re.search(r"var\s+multicastIptvAjax\s*=\s*(\{.*?\});", html, flags=re.IGNORECASE | re.DOTALL)
-    if not m:
-        return None
-    try:
-        return json.loads(m.group(1))
-    except Exception:
-        return None
+REQUEST_DELAY_SEC = 0.8
+REQUEST_MAX_RETRIES = 5
 
 
-def _extract_region_code_map(html):
-    code_map = {}
-    m = re.search(r'<select\s+name="region"[^>]*>(.*?)</select>', html, flags=re.IGNORECASE | re.DOTALL)
-    if not m:
-        return code_map
-    options_html = m.group(1)
-    for code, name in re.findall(r'<option\s+value="([^"]*)"\s*[^>]*>(.*?)</option>', options_html, flags=re.IGNORECASE | re.DOTALL):
-        code = code.strip()
-        if not code:
-            continue
-        code_map[_strip_html(name)] = code
-    return code_map
+def signed_get(path_query: str, session: requests.Session | None = None) -> dict:
+    """带签名的 GET 请求，返回 JSON（含 html 字段）。"""
+    url = IPTV_BASE_URL + path_query.lstrip("/")
+    sess = session or requests.Session()
+    last_error = None
+
+    for attempt in range(REQUEST_MAX_RETRIES):
+        headers = {
+            "User-Agent": USER_AGENT,
+            "X-Requested-With": "XMLHttpRequest",
+            "X-CSRF-TOKEN": generate_paer_token(),
+        }
+        try:
+            resp = sess.get(url, headers=headers, timeout=30)
+            if resp.status_code == 429:
+                wait = min(30, REQUEST_DELAY_SEC * (2 ** attempt) * 3)
+                print(f"[!] 请求过于频繁，{wait:.1f}s 后重试 ({attempt + 1}/{REQUEST_MAX_RETRIES})...")
+                time.sleep(wait)
+                continue
+            resp.raise_for_status()
+            time.sleep(REQUEST_DELAY_SEC)
+            return resp.json()
+        except requests.HTTPError as e:
+            last_error = e
+            if e.response is not None and e.response.status_code in (429, 503):
+                wait = min(30, REQUEST_DELAY_SEC * (2 ** attempt) * 3)
+                print(f"[!] HTTP {e.response.status_code}，{wait:.1f}s 后重试 ({attempt + 1}/{REQUEST_MAX_RETRIES})...")
+                time.sleep(wait)
+                continue
+            raise
+        except requests.RequestException as e:
+            last_error = e
+            if attempt + 1 >= REQUEST_MAX_RETRIES:
+                raise
+            wait = REQUEST_DELAY_SEC * (2 ** attempt)
+            print(f"[!] 网络异常，{wait:.1f}s 后重试 ({attempt + 1}/{REQUEST_MAX_RETRIES}): {e}")
+            time.sleep(wait)
+
+    if last_error:
+        raise last_error
+    raise RuntimeError(f"请求失败: {url}")
 
 
-def _parse_rows_from_html_fragment(fragment_html):
-    rows = re.findall(r"<tr[^>]*>(.*?)</tr>", fragment_html, flags=re.IGNORECASE | re.DOTALL)
-    result = []
-    for row_html in rows:
+def _parse_list_rows(html: str) -> list[dict]:
+    """从 IP 列表页 HTML 解析组播行。"""
+    rows = []
+    for row_html in re.findall(r"<tr[^>]*>(.*?)</tr>", html, flags=re.IGNORECASE | re.DOTALL):
         ip_match = re.search(
-            r'<a[^>]*class="[^"]*ip-link[^"]*"[^>]*data-p="([^"]+)"[^>]*>\s*([0-9]+\.[0-9]+\.[0-9]+\.[0-9]+:[0-9]+)\s*</a>',
+            r"gotoIP\('([^']+)',\s*'multicast'\)",
             row_html,
             flags=re.IGNORECASE | re.DOTALL,
         )
@@ -131,74 +174,48 @@ def _parse_rows_from_html_fragment(fragment_html):
         tds = re.findall(r"<td[^>]*>(.*?)</td>", row_html, flags=re.IGNORECASE | re.DOTALL)
         if len(tds) < 6:
             continue
-        result.append({
+        rows.append({
             "p_token": ip_match.group(1).strip(),
-            "host": ip_match.group(2).strip(),
+            "host": _strip_html(tds[0]),
             "type": _strip_html(tds[2]),
             "online_time": _strip_html(tds[3]),
             "update_time": _strip_html(tds[4]),
             "status": _strip_html(tds[5]),
         })
-    return result
+    return rows
 
 
-def fetch_region_rows_by_ajax(province, limit=20, max_pages=30):
-    print(f"[*] 正在抓取组播源页面: {MULTICAST_SOURCE_URL}")
-    session = requests.Session()
-    session.headers.update({
-        "User-Agent": (
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-            "AppleWebKit/537.36 (KHTML, like Gecko) "
-            "Chrome/124.0.0.0 Safari/537.36"
-        )
-    })
-    try:
-        home_resp = session.get(MULTICAST_SOURCE_URL, timeout=15)
-        home_resp.raise_for_status()
-    except Exception as e:
-        print(f"[-] 访问组播源页面失败: {e}")
-        return []
-
-    home_html = home_resp.text
-    ajax_cfg = _extract_ajax_config(home_html)
-    code_map = _extract_region_code_map(home_html)
-    region_code = code_map.get(province)
-    if not ajax_cfg:
-        print("[-] 页面中未找到 Ajax 配置。")
-        return []
+def fetch_region_rows_by_ajax(province, limit=20, max_pages=30, session=None):
+    """按省份+组播类型分页抓取 IP 列表。"""
+    region_code = PROVINCE_CODES.get(province)
     if not region_code:
-        print(f"[-] 页面中未找到省份 [{province}] 的 region code。")
+        print(f"[-] 未找到省份 [{province}] 的 region code，跳过。")
         return []
 
+    print(f"[*] 正在抓取组播源: {IPTV_BASE_URL}{IPTV_INDEX}?t=multicast&province={region_code}")
     all_rows = []
     seen_tokens = set()
     empty_page_hits = 0
 
     for page_num in range(1, max_pages + 1):
-        payload = {
-            "action": "multicast_iptv_ajax",
-            "action_type": "list",
-            "page_num": page_num,
+        query = urlencode({
+            "t": "multicast",
+            "province": region_code,
             "limit": limit,
-            "region": region_code,
-            "search": "",
-            "nonce": ajax_cfg.get("nonce", ""),
-            "token": _encrypt_token(ajax_cfg.get("token", "")),
-        }
+            "page": page_num,
+        })
+        path = f"{IPTV_INDEX}?{query}"
         try:
-            resp = session.post(ajax_cfg.get("ajaxUrl", ""), data=payload, timeout=15)
-            resp.raise_for_status()
-            data = resp.json()
+            data = signed_get(path, session=session)
         except Exception as e:
-            print(f"[-] Ajax 请求省份 [{province}] 第{page_num}页失败: {e}")
+            print(f"[-] 请求省份 [{province}] 第{page_num}页失败: {e}")
             break
-        if not data.get("success"):
-            msg = data.get("data", {}).get("message", "unknown error")
-            print(f"[-] Ajax 第{page_num}页返回失败: {msg}")
+        if data.get("status") != "success":
+            msg = data.get("message", "unknown error")
+            print(f"[-] 第{page_num}页返回失败: {msg}")
             break
 
-        fragment = data.get("data", {}).get("html", "")
-        rows = _parse_rows_from_html_fragment(fragment)
+        rows = _parse_list_rows(data.get("html", ""))
         if not rows:
             empty_page_hits += 1
             if empty_page_hits >= 2:
@@ -237,6 +254,14 @@ def get_region_assets(province, rows=None):
     return region_all, preferred
 
 def parse_s_token(detail_html: str) -> str | None:
+    """从 IP 详情页提取频道列表 s token。"""
+    m = re.search(
+        r"href=['\"]\?s=([^&'\"]+)&t=multicast['\"]",
+        detail_html,
+        flags=re.IGNORECASE | re.DOTALL,
+    )
+    if m:
+        return m.group(1)
     m = re.search(r'data-s="([^"]+)"', detail_html, flags=re.IGNORECASE | re.DOTALL)
     if m:
         return m.group(1)
@@ -244,6 +269,47 @@ def parse_s_token(detail_html: str) -> str | None:
     if m:
         return m.group(1)
     return None
+
+
+def fetch_detail_html(p_token: str, session: requests.Session | None = None) -> str:
+    query = urlencode({"p": p_token, "t": "multicast"})
+    path = f"{IPTV_INDEX}?{query}"
+    data = signed_get(path, session=session)
+    return data.get("html", "") or ""
+
+
+def fetch_channel_lines_by_s(s_token: str, session: requests.Session | None = None, max_pages: int = 50) -> list[str]:
+    """分页抓取完整频道列表。"""
+    all_lines: list[str] = []
+    seen: set[str] = set()
+    empty_hits = 0
+
+    for page_num in range(1, max_pages + 1):
+        query = urlencode({"s": s_token, "t": "multicast", "page": page_num})
+        path = f"{IPTV_INDEX}?{query}"
+        try:
+            data = signed_get(path, session=session)
+        except Exception as e:
+            print(f"[-] 频道列表第{page_num}页失败: {e}")
+            break
+        if data.get("status") != "success":
+            break
+        html = data.get("html", "")
+        page_lines = parse_channel_lines(html)
+        if not page_lines:
+            empty_hits += 1
+            if empty_hits >= 2:
+                break
+            continue
+        empty_hits = 0
+        for line in page_lines:
+            if line in seen:
+                continue
+            seen.add(line)
+            all_lines.append(line)
+        if "下一页" not in html and page_num > 1:
+            break
+    return all_lines
 
 def parse_channel_lines(channels_html: str) -> list[str]:
     lines = []
@@ -315,7 +381,8 @@ def fetch_channel_lines_by_province(
     max_pages: int = 30,
     max_age_hours: int = 24,
 ):
-    rows = fetch_region_rows_by_ajax(province, limit=20, max_pages=max_pages)
+    session = requests.Session()
+    rows = fetch_region_rows_by_ajax(province, limit=20, max_pages=max_pages, session=session)
     if not rows:
         return [], "list_empty", province
 
@@ -387,23 +454,6 @@ def fetch_channel_lines_by_province(
     if not selected_rows:
         return [], "no_recent_new_or_alive", province
 
-    session = requests.Session()
-    session.headers.update(
-        {
-            "User-Agent": (
-                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                "AppleWebKit/537.36 (KHTML, like Gecko) "
-                "Chrome/124.0.0.0 Safari/537.36"
-            )
-        }
-    )
-    home_resp = session.get(MULTICAST_SOURCE_URL, timeout=15)
-    home_resp.raise_for_status()
-    ajax_cfg = _extract_ajax_config(home_resp.text)
-    if not ajax_cfg:
-        return [], "ajax_cfg_missing", province
-    token_plain = ajax_cfg.get("token", "")
-
     # group_title -> list of sources, each source is list of "name,url" lines
     group_to_sources: dict[str, list[list[str]]] = {}
     selected_ops: list[str] = []
@@ -412,49 +462,23 @@ def fetch_channel_lines_by_province(
         picked_type = picked.get("type", "")
         group_title = normalize_group_title(picked_type, province)
         selected_ops.append(group_title)
-        detail_payload = {
-            "action": "multicast_iptv_ajax",
-            "action_type": "detail",
-            "p": picked.get("p_token", ""),
-            "nonce": ajax_cfg.get("nonce", ""),
-            "token": _encrypt_token(token_plain),
-        }
-        detail_resp = session.post(ajax_cfg.get("ajaxUrl", ""), data=detail_payload, timeout=15)
-        detail_resp.raise_for_status()
-        detail_json = detail_resp.json()
-        detail_html = detail_json.get("data", {}).get("html", "")
+        try:
+            detail_html = fetch_detail_html(picked.get("p_token", ""), session=session)
+        except Exception as e:
+            print(f"[-] [{province}] IP 详情获取失败: {e}")
+            continue
         if not detail_html:
             continue
-        token_plain = detail_json.get("data", {}).get("new_token", token_plain)
 
         s_token = parse_s_token(detail_html)
         if not s_token:
+            print(f"[-] [{province}] 未找到频道列表 token: {picked.get('host', '')}")
             continue
 
-        channels_payload = {
-            "action": "multicast_iptv_ajax",
-            "action_type": "channels",
-            "s": s_token,
-            "nonce": ajax_cfg.get("nonce", ""),
-            "token": _encrypt_token(token_plain),
-        }
-        channels_resp = session.post(ajax_cfg.get("ajaxUrl", ""), data=channels_payload, timeout=15)
-        channels_resp.raise_for_status()
-        channels_json = channels_resp.json()
-        channels_html = channels_json.get("data", {}).get("html", "")
-        if not channels_html:
-            continue
-        lines = parse_channel_lines(channels_html)
+        lines = fetch_channel_lines_by_s(s_token, session=session)
         if not lines:
             continue
-        source_seen: set[str] = set()
-        source_lines: list[str] = []
-        for line in lines:
-            if line in source_seen:
-                continue
-            source_seen.add(line)
-            source_lines.append(line)
-        group_to_sources.setdefault(group_title, []).append(source_lines)
+        group_to_sources.setdefault(group_title, []).append(lines)
 
     if not group_to_sources:
         return [], "channel_lines_empty", province
@@ -557,6 +581,16 @@ def _build_readme_section_table(repo_root: str, subdir: str, ext: str, updated_a
     )
 
 
+def beijing_now() -> datetime:
+    """返回北京时间；Windows 无 tzdata 时回退到 UTC+8。"""
+    if ZoneInfo is not None:
+        try:
+            return datetime.now(ZoneInfo("Asia/Shanghai"))
+        except Exception:
+            pass
+    return datetime.now(timezone(timedelta(hours=8)))
+
+
 def update_readme_file_list(repo_root: str) -> None:
     readme_path = os.path.join(repo_root, README_FILE)
     if not os.path.exists(readme_path):
@@ -566,10 +600,7 @@ def update_readme_file_list(repo_root: str) -> None:
         content = f.read()
 
     # GitHub Actions runs in UTC by default; use Beijing time for display.
-    if ZoneInfo is not None:
-        updated_at = datetime.now(ZoneInfo("Asia/Shanghai")).strftime("%Y-%m-%d %H:%M:%S")
-    else:
-        updated_at = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    updated_at = beijing_now().strftime("%Y-%m-%d %H:%M:%S")
     m3u_table = _build_readme_section_table(repo_root, "m3u", ".m3u", updated_at)
     txt_table = _build_readme_section_table(repo_root, "txt", ".txt", updated_at)
     m3u_block = f"## M3U 文件列表\n\n{m3u_table}\n"
@@ -610,7 +641,7 @@ def process_province(
     m3u_output_dir,
     max_pages=30,
     max_per_carrier=5,
-    max_age_hours=12,
+    max_age_hours=72,
 ):
     """单一省份核心流水线"""
     group_title = province
@@ -743,8 +774,8 @@ def parse_args():
     ap.add_argument(
         "--max-age-hours",
         type=int,
-        default=12,
-        help="仅提取最近更新 N 小时内的源（默认12）。",
+        default=72,
+        help="仅提取最近更新 N 小时内的源（默认72，约3天）。",
     )
     return ap.parse_args()
 

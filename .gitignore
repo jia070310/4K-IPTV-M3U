@@ -4,3 +4,5 @@ __pycache__/
 .venv/
 venv/
 .env
+node_modules/
+package-lock.json
